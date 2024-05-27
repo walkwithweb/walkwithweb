@@ -1,0 +1,47 @@
+{% assign filename = page.name | split: '.' | first -%} {% assign t =
+site.data.locales[page.lang][filename] -%}
+
+<!DOCTYPE html>
+<html lang="{{ page.lang }}">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Slick CSS -->
+    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="{{ 'assets/css/style.css' | relative_url }}" />
+
+    <title>{{ t.title }}</title>
+  </head>
+  <body>
+    {% include nav.html %}
+    <div id="container">
+       {% include {{ page.name }} %}
+    </div>
+    {% include footer.html %}
+    <!-- JQUERY -->
+    <script
+      type="text/javascript"
+      src="https://cdn.jsdelivr.net/jquery/latest/jquery.min.js"
+    ></script>
+    <!-- SLICk SLIDER -->
+    <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+    <!-- CUSTOM JS -->
+    <script src="/assets/js/slider.js"></script>
+    <script src="/assets/js/accordions.js"></script>
+    <script src="/assets/js/search.js"></script>
+    <script src="/assets/js/script.js"></script>
+
+  </body>
+</html>

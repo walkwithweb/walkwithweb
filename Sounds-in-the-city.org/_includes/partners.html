@@ -1,0 +1,44 @@
+<div id="partners">
+    <div class="container">
+    <h1 class="heading title">{{t.title}}</h1>
+    <div class="content">
+        {% assign city = t.city%}
+        <h3>{{city.title}}</h3>
+        {% for link in city.links %}
+        <p>
+            {% if link.url %}
+                <a href="{{ link.url }}" >{{ link.name }}</a><span>{{link.language}}</span>
+            {% else %}
+                {{ link.name }}<span>{{link.language}}</span>
+            {% endif %}
+        </p>
+        {%endfor%}
+    </div>
+    <div class="content">
+        {% assign organization = t.organization%}
+        <h3>{{organization.title}}</h3>
+        {% for link in organization.links %}
+        <p>
+            {% if link.url %}
+                <a href="{{ link.url }}" >{{ link.name }}</a><span>{{link.language}}</span>
+            {% else %}
+                {{ link.name }}<span>{{link.language}}</span>
+            {% endif %}
+        </p>
+        {%endfor%}
+    </div>
+    <div class="content">
+        {% assign funding = t.funding%}
+        <h3>{{funding.title}}</h3>
+        {% for link in funding.links %}
+        <p>
+            {% if link.url %}
+                <a href="{{ link.url }}" >{{ link.name }}</a><span>{{link.language}}</span>
+            {% else %}
+                {{ link.name }}<span>{{link.language}}</span>
+            {% endif %}
+        </p>
+        {%endfor%}
+    </div>
+  </div>
+</div>

@@ -1,0 +1,156 @@
+<div id="why-sound-matters">
+  <div class="container">
+    <div class="sound-header">
+      <h2 class="title heading">{{ t.title }}</h2>
+      <p>{{t.description | safe}}</p>
+    </div>
+  </div>
+  <div class="player-list">
+    {% assign lang = page.lang %} {% assign p1 =
+    site.data.locales[lang]['soundscape'].p1 %} {% for play in p1 %}
+
+    <div class="player" data-target="{{play.id}}">
+      <div class="player-icon">
+        <img
+          src="/assets/images/icons/play-icon.png"
+          alt="play-icon"
+          class="play-btn"
+        />
+        <img
+          src="/assets/images/icons/pause-icon.png"
+          alt="play-icon"
+          class="pause-btn hide"
+        />
+        <audio id="{{play.id}}" src="{{play.url}}"></audio>
+      </div>
+      <div class="content">
+        <div class="info">
+          <h3 class="play-name">{{play.name}}</h3>
+          <p class="play-credits">
+            {{play.album}}
+            <i class="play-credits">Credits: {{play.credits}}</i>
+          </p>
+        </div>
+        <div class="timing">
+          <img src="/assets/images/icons/clock.svg" alt="clock" />
+          <span class="duration">00:00</span>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+  <div class="cards">
+    <div class="card">
+      <div class="media">
+        <img src="{{t['banner-1'].banner_url}}" alt="" />
+        <div class="media-footer">
+          <h3>{{t['banner-1'].subheading | safe}}</h3>
+          {% if t['banner-1'].info %}
+          <p>{{t['banner-1'].info}}</p>
+          {% endif %}
+        </div>
+      </div>
+      <div class="media-content">
+        <h3>{{t['banner-1'].title}}</h3>
+        <p>{{t['banner-1'].heading}}</p>
+      </div>
+    </div>
+    <div class="container">
+      <p class="card-info-text first">{{t['banner-1'].description | safe}}</p>
+    </div>
+    <div class="card reverse">
+      <div class="media">
+        <img src="{{t['banner-2'].banner_url}}" alt="" />
+        <div class="media-footer">
+          <h3>{{t['banner-2'].subheading | safe}}</h3>
+          {% if t['banner-2'].info %}
+          <p>{{t['banner-2'].info}}</p>
+          {% endif %}
+        </div>
+      </div>
+      <div class="media-content">
+        <h3>{{t['banner-2'].title}}</h3>
+        <p>{{t['banner-2'].heading}}</p>
+      </div>
+    </div>
+  </div>
+  <div class="player-list mobile-mt-0">
+    {% assign lang = page.lang %} {% assign p2 =
+    site.data.locales[lang]['soundscape'].p2 %} {% for play in p2 %}
+
+    <div class="player" data-target="{{play.id}}">
+      <div class="player-icon">
+        <img
+          src="/assets/images/icons/play-icon.png"
+          alt="play-icon"
+          class="play-btn"
+        />
+        <img
+          src="/assets/images/icons/pause-icon.png"
+          alt="play-icon"
+          class="pause-btn hide"
+        />
+        <audio id="{{play.id}}" src="{{play.url}}"></audio>
+      </div>
+      <div class="content">
+        <div class="info">
+          <h3 class="play-name">{{play.name}}</h3>
+          <p class="play-credits">
+            {{play.album}}
+            <i class="play-credits">Credits: {{play.credits}}</i>
+          </p>
+        </div>
+        <div class="timing">
+          <img src="/assets/images/icons/clock.svg" alt="clock" />
+          <span class="duration">00:00</span>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+  <div class="container">
+    <p class="card-info-text second">
+      {{t['banner-2'].description | safe}}
+    </p>
+    <p class="card-info-text third">
+      {{t.footer_descscription | safe}}
+    </p>
+  </div>
+  <div class="steps">
+    <div class="scroll-to-top" id="scroll-top" >
+      <img src="/assets/images/icons/arrow-up.svg" alt="arrow-up" />
+    </div>
+    <div class="container">
+      <div class="steps-wrapper">
+        <div class="step">
+          <h3 class="title">1</h3>
+          <p class="info">
+            Second worst environmental risk factor (after air pollution)
+            according to the World Health Organization.
+          </p>
+        </div>
+        <div class="step">
+          <h3 class="title">2</h3>
+          <p class="info">
+            Second worst environmental risk factor (after air pollution)
+            according to the World Health Organization.
+          </p>
+        </div>
+        <div class="step">
+          <h3 class="title">3</h3>
+          <p class="info">
+            Second worst environmental risk factor (after air pollution)
+            according to the World Health Organization.
+          </p>
+        </div>
+        <div class="step">
+          <h3 class="title">4</h3>
+          <p class="info">
+            Second worst environmental risk factor (after air pollution)
+            according to the World Health Organization.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

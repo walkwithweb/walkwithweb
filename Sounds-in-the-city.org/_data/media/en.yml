@@ -1,0 +1,58 @@
+video:
+  title: "VIDEOS"
+  data:
+    - url: "https://www.youtube.com/embed/xMVwfa107xQ"
+      title: "Presentation of the Sounds in the City research partnership"
+      description: "Video interview with C. Guastavino at the 7e édition of SÉRI « Synergie Émergente Recherche Industrie »"
+      date: "2019, May 14"
+    - url: "https://www.youtube.com/embed/xMVwfa107xQ"
+      title: "Schalk, M. – Musikiosk: des enceintes en libre-service"
+      description: "À titre d’information"
+      date: "2015, August 14"
+
+article:
+  title: "ARTICLES"
+  read: "READ"
+  author: "AUTHOR"
+  data:
+    - title: Etudier les nuisances sonores pour améliorer la qualité de vie
+      location: Journal Métro
+      date: 2020, December 10
+      author: 'Machillot. C'
+    - title: Etudier les nuisances sonores pour améliorer la qualité de vie
+      location: Journal Métro
+      date: 2020, December 10
+      author: 'Machillot. C'
+    - title: Etudier les nuisances sonores pour améliorer la qualité de vie
+      location: Journal Métro
+      date: 2020, December 10
+      author: 'Machillot. C'
+    - title: Etudier les nuisances sonores pour améliorer la qualité de vie
+      location: Journal Métro
+      date: 2020, December 10
+      author: 'Machillot. C'
+    - title: Etudier les nuisances sonores pour améliorer la qualité de vie
+      location: Journal Métro
+      date: 2020, December 10
+      author: 'Machillot. C'
+    - title: Etudier les nuisances sonores pour améliorer la qualité de vie
+      location: Journal Métro
+      date: 2020, December 10
+      author: 'Machillot. C'
+    - title: Etudier les nuisances sonores pour améliorer la qualité de vie
+      location: Journal Métro
+      date: 2020, December 10
+      author: 'Machillot. C'
+audio:
+  title: "AUDIO"
+  data:
+    - url: "/assets/audios/1.mp3"
+      id: "audio-1"
+      name: "Sounds of A busy road"
+      credits: "V. Fraisse, 2023."
+      album: "Le Plateau, Mont Royal, Montréal."
+    - url: "/assets/audios/1.mp3"
+      id: "audio-1"
+      name: "Sounds of A busy road"
+      credits: "V. Fraisse, 2023."
+      album: "Le Plateau, Mont Royal, Montréal."

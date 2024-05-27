@@ -1,0 +1,43 @@
+<div id="media">
+    {% assign content = site.data.locales[lang].papers %}
+  <div class="container">
+    <h1 class="heading title">{{content.title}}</h1>
+  </div>
+  <div class="accordions">
+    {% assign lang = page.lang %} {% assign accordions = site.data.papers[lang]
+    %} {% for accordion in accordions %}
+    <div class="accordion">
+      <button class="acc-header" data-target="{{ accordion.id }}">
+        <span class="label container">{{ accordion.title }}</span>
+        <span class="icon"></span>
+      </button>
+      <div id="{{ accordion.id }}" class="acc-content">
+        <div class="container">
+          <div class="articles">
+            {% assign articles = accordion.data %} {% for article in articles %}
+            <div class="article-card">
+              <div class="content">
+                <h3>{{ article.title }}</h3>
+                <p>{{ article.description | safe }}</p>
+                {% if article.link.name %}
+                <p>{{content.dio}}: <a href="#">{{ article.link.name }}</a></p>
+                {% endif %}
+              </div>
+              <div class="info">
+                <div>
+                  <h4>{{content.author}}</h4>
+                  {% for author in article.authors %}
+                  <p>{{ author.name }}</p>
+                  {% endfor %}
+                </div>
+                <a href="#" class="readmore">{{content.read}}</a>
+              </div>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>

@@ -1,0 +1,67 @@
+<div id="projects">
+  <div class="container">
+    <div class="projects-header">
+      <h2 class="title heading">{{ t.title }}</h2>
+      <p class="text-link" >{{t.description}}</p>
+    </div>
+    <form class="searchbar" id="searchForm">
+      <input type="text" id="searchInput" />
+      <div class="icon" id="searchIcon" >
+        <svg
+          width="54"
+          height="62"
+          viewBox="0 0 54 62"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <circle
+            cx="31"
+            cy="23"
+            r="22"
+            fill="translate"
+            stroke="currentColor"
+            stroke-width="2"
+          />
+          <line
+            x1="17.7619"
+            y1="40.6476"
+            x2="0.76194"
+            y2="60.6476"
+            stroke="currentColor"
+            stroke-width="2"
+          />
+        </svg>
+      </div>
+    </form>
+    <div id="searchTags" class="tags"></div>
+  </div>
+  <div class="list">
+    <div id="noResultsMessage"></div>
+
+    {% assign lang = page.lang %} {% assign blogs =
+    site.data.blogs[lang] %} {% for blog in blogs %}
+    {% assign tag_names = blog.tags | map: 'name' %}
+    <a class="list-item" data-tags="{{ tag_names | join: ',' | downcase }}" data-title="{{blog.title}}"  href="/{{ lang | append:'/blogs/' | append: blog.url}}" >
+      <div class="container">
+        <div class="card">
+          <div class="media">
+            <div class="overlay">
+              <img src="/assets/images/icons/eye.svg" alt="" class="icon" />
+              <p>{{t.discover_blog}}</p>
+            </div>
+            <img src="{{blog.image}}" alt="slide" />
+          </div>
+          <div class="content">
+            <h3>{{blog.title}}</h3>
+            <p>{{blog.description}}</p>
+          </div>
+          <div class="info">
+            <p><span>{{t.author}}</span><br />{{blog.author}}</p>
+            <p><span>{{t.posted}}</span><br />{{blog.posted}}</p>
+          </div>
+        </div>
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+</div>

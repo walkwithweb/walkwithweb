@@ -1,0 +1,89 @@
+<div id="services">
+  <div class="container">
+    <h1 class="heading title">{{t.title}}</h1>
+    <p class="description">{{t.description}}</p>
+  </div>
+  <div class="service-wrapper">
+    <div class="container">
+      <div class="services">
+        {% for service in t.list %}
+        <div class="service">
+          <img src="{{service.image}}" alt="{{service.alt}}" />
+          <p>{{service.info}}</p>
+        </div>
+        {%endfor%}
+      </div>
+    </div>
+  </div>
+  <div id="banner">
+    <div class="logo-text black">
+      <h4>{{t.difference}}</h4>
+      <p class="heading">{{t.sound}}</p>
+    </div>
+    <div class="slider bordered">
+      <div class="slider1" id="slider1">
+        {% for slide in t.slides %}
+          <div class="slide">
+            <img src="{{slide.image}}" alt="{{slide.title}}" />
+            <div class="slide-content">
+              <h2>{{slide.title}}</h2>
+              <p>{{slide.description}}</p>
+            </div>
+          </div>
+        {%endfor%}
+      </div>
+      <div class="slick-prev">
+        <img
+          src="/assets/images/icons/arrow-left-black.svg"
+          alt="arrow-left"
+          class="icon-black"
+        />
+        <img
+          src="/assets/images/icons/arrow-left.svg"
+          alt="arrow-left"
+          class="icon-white"
+        />
+      </div>
+      <div class="slick-next">
+        <img
+          src="/assets/images/icons/arrow-right-black.svg"
+          alt="arrow-right"
+          class="icon-black"
+        />
+        <img
+          src="/assets/images/icons/arrow-right.svg"
+          alt="arrow-right"
+          class="icon-white"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+<div id="info">
+  <div class="container">
+    <div class="info-wrapper">
+      <p>{{t.info}}</p>
+    </div>
+  </div>
+</div>
+<div class="accordions">
+  {% assign accordions = t.accordions %} {% for item in accordions %}
+  <div class="accordion">
+    <button class="acc-header" data-target="{{ item.id }}">
+      <span class="label container">{{ item.name }}</span>
+      <span class="icon"></span>
+    </button>
+    <div id="{{ item.id }}" class="acc-content">
+      <div class="container">
+        <div class="acc-home">
+          <ul class="ul-list" >
+            {% for point in item.points %}
+            <li>{{point.name}}</li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>

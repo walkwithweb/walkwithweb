@@ -1,0 +1,85 @@
+<div id="events">
+  <div class="container">
+    <div class="common-header">
+      <h2 class="title heading">{{ t.title }}</h2>
+      <p class="text-link">{{t.description}}</p>
+    </div>
+    <form class="searchbar" id="searchForm">
+      <input type="text" id="searchInput" />
+      <div class="icon" id="searchIcon">
+        <svg
+          width="54"
+          height="62"
+          viewBox="0 0 54 62"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <circle
+            cx="31"
+            cy="23"
+            r="22"
+            fill="translate"
+            stroke="currentColor"
+            stroke-width="2"
+          />
+          <line
+            x1="17.7619"
+            y1="40.6476"
+            x2="0.76194"
+            y2="60.6476"
+            stroke="currentColor"
+            stroke-width="2"
+          />
+        </svg>
+      </div>
+    </form>
+    <div id="searchTags" class="tags"></div>
+  </div>
+  <div class="list">
+    <div id="noResultsMessage"></div>
+    <div class="accordions">
+      {% assign lang = page.lang %} {% assign events = site.data.events[lang] %}
+      {% for event in events %}
+      <div class="list-item" data-tags="" data-title="{{event.title}}">
+        <div class="accordion no-border">
+          <button class="acc-header" data-target="{{event.id}}">
+            <span class="label container"> {{event.title}} </span>
+            <span class="icon"></span>
+          </button>
+          <div id="{{event.id}}" class="acc-content">
+            <div class="container">
+              <div class="about">
+                <div class="info-wrapper">
+                  <div class="col">
+                    <div class="content">
+                      <h3>{{ t.time }}</h3>
+                      <p>{{ event.date }}</p>
+                    </div>
+                  </div>
+                  <div class="col">
+                    <div class="content">
+                      <h3>{{ t.location }}</h3>
+                      <p>{{ event.location }}</p>
+                    </div>
+                  </div>
+                  <div class="col">
+                    <div class="content">
+                      <h3>{{ t.language }}</h3>
+                      <p>{{ event.language }}</p>
+                    </div>
+                  </div>
+                  <div class="col"></div>
+                </div>
+                <p class="text">
+                  {{event.about}} <br /><br />{{t.info}}:
+                  <a href="#">{{event.link}}</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>

@@ -1,0 +1,985 @@
+// Variables
+
+$body-bg: #2ea9be;
+$body-color: #fff;
+$font-family: "Lato", sans-serif;
+$font-size: 1rem;
+$font-weight: normal;
+$line-height: 1.5;
+$primary: #FFCC48;
+$dark: #2C2929;
+$grey: #A5A5A5;
+$light_grey: #A5A5A5;
+$black: #000;
+$white: #fff;
+$mobile_screen : 992px;
+$mobile_max_screen : 991px;
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+// Layout
+
+body {
+  margin: 0;
+  font-family: $font-family;
+  font-size: $font-size;
+  font-weight: $font-weight;
+  line-height: $line-height;
+  color: $black;
+  background-color: $body-color;
+  display: flex;
+  min-height: 100vh;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+
+.heading {
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 46px;
+  text-transform: uppercase;
+}
+
+@media(min-width: $mobile_screen) {
+  .heading {
+    font-weight: 500;
+    font-size: 116px;
+    line-height: 120px;
+  }
+}
+
+.sub-heading {
+  font-weight: 700;
+  font-size: 24px;
+  letter-spacing: 4%;
+  line-height: 30px;
+}
+
+.heading-2 {
+  font-weight: regular;
+  font-size: 24px;
+  letter-spacing: 4%;
+  line-height: 36px;
+}
+
+.text {
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 4%;
+  line-height: 22px;
+}
+
+.text-btn {
+  font-weight: 700;
+  font-size: 16px;
+  letter-spacing: 16%;
+  line-height: 16px;
+}
+
+.text-link {
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 400;
+}
+
+@media(min-width: $mobile_screen) {
+  .text-link {
+    font-size: 20px;
+    line-height: 32px;
+  }
+}
+
+.language {
+  font-weight: 700;
+  font-size: 16px;
+  letter-spacing: 2px;
+  line-height: 24px;
+}
+
+#nav {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 5rem;
+  padding: 0 40px;
+  background-color: $white;
+  z-index: 111;
+  border-bottom: 2px solid $black;
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    display: inline;
+    color: #000;
+
+    a {
+      display: inline-block;
+      text-decoration: none;
+      color: #C2BEBE;
+
+
+
+      &.active {
+        color: black;
+      }
+
+      &.active:hover {
+        color: #C2BEBE;
+      }
+    }
+  }
+
+  li:last-child {
+    display: none;
+  }
+
+}
+
+.menu span {
+  display: none;
+}
+
+.menu {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  cursor: pointer;
+  padding: 0 6px;
+  height: 24px;
+  width: max-content;
+}
+
+@media(min-width: $mobile_screen) {
+  .menu span {
+    display: inline-block;
+  }
+}
+
+
+.menu.close {
+  right: 40px;
+  position: absolute;
+  top: 28px;
+}
+
+.menu:hover {
+  background-color: $black;
+  color: $white
+}
+
+.menu:hover .bars:after,
+.menu:hover .bars {
+  background-color: $white;
+}
+
+.menu .bars {
+  position: relative;
+  height: 2px;
+  width: 30px;
+  bottom: -4px;
+  background-color: $black;
+  transition: 0.3s all ease-in-out;
+}
+
+.menu .bars:after {
+  background-color: $black;
+  transition: 0.3s all ease-in-out;
+  position: absolute;
+  content: "";
+  height: 2px;
+  width: 30px;
+  left: 0;
+  top: -8px;
+}
+
+.menu.close .bars {
+  position: relative;
+  width: 12px;
+  bottom: 0px;
+  transform: rotate(45deg)
+}
+
+.menu.close .bars:after {
+  width: 12px;
+  top: 0;
+  transform: rotate(-90deg)
+}
+
+#nav-container {
+  height: 100vh;
+  position: fixed;
+  left: 0;
+  width: 100%;
+  top: -100vh;
+  background-color: $white;
+  overflow: auto;
+  overflow-x: hidden;
+  transition: 0.3s all ease;
+  z-index: 1111;
+
+  &.active {
+    top: 0;
+  }
+
+  .main-menu {
+    text-align: left;
+    padding: 40px 30px;
+
+    @media(min-width: $mobile_screen) {
+      padding: 20px;
+    }
+
+    li.menu-item {
+      display: block;
+      list-style-type: none;
+
+      @media(min-width: $mobile_screen) {
+        display: inline-block;
+      }
+
+      &.item-main {
+        display: block;
+        margin: 30px 0;
+
+        a.menu-link {
+          .icon-white {
+            display: none;
+          }
+
+          .icon-black {
+            display: block;
+          }
+
+          &:hover {
+            background-color: $black;
+            color: $white;
+
+            .icon-white {
+              display: block;
+            }
+
+            .icon-black {
+              display: none;
+            }
+          }
+        }
+      }
+
+      &:hover a.menu-link {
+        background-color: $black;
+        color: $white;
+      }
+
+      a {
+        text-decoration: none;
+        color: $black;
+      }
+    }
+
+    .sub-menu {
+      margin: 8px 0 20px;
+
+      li.menu-item {
+
+        &:hover a.menu-link-2 {
+          background-color: $black;
+          color: $white;
+
+          .icon-white {
+            display: block;
+          }
+
+          .icon-black {
+            display: none;
+          }
+        }
+
+        a.menu-link-2 {
+          display: flex;
+          align-items: center;
+
+          .icon-white {
+            display: none;
+          }
+
+          .icon-black {
+            display: block;
+          }
+
+          img {
+            height: 17px;
+          }
+        }
+      }
+    }
+  }
+
+  .menu-link {
+    display: inline-flex;
+    align-items: center;
+
+    img {
+      height: 40px;
+    }
+
+    @media(min-width: $mobile_screen) {
+      img {
+        height: 112px;
+      }
+    }
+  }
+
+  .menu-link-2 {
+    display: inline-flex;
+    align-items: center;
+
+    img {
+      height: 17px;
+    }
+  }
+
+}
+
+.container {
+  width: 100%;
+  padding: 0 40px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.player-container {
+  width: 100%;
+  padding: 0px;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+@media(min-width: $mobile_screen) {
+  .container {
+    padding: 0 20px;
+  }
+  .player-container {
+    padding: 0 20px;
+  }
+}
+
+#container {
+  margin-top: 80px;
+  overflow-y: hidden;
+  overflow-x: auto;
+}
+
+
+/* BANNER STYLES START HERE */
+#banner {
+  display: flex;
+  flex-wrap: wrap;
+
+  .logo-text {
+    height: 312px;
+    width: 100%;
+    background-color: $primary;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    &.black {
+      background-color: $black;
+      flex-direction: column;
+      h4 {
+        font-weight: 700;
+        font-size: 14px;
+        display: block;
+        text-align: center;
+        color: $white;
+        width: 154px;
+        letter-spacing: 2px;
+        margin-bottom: 12px;
+      }
+      p {
+        display: block;
+        text-align: center;
+        color: $white;
+      }
+    }
+
+    img {
+      width: 233px;
+      max-width: 100%;
+    }
+  }
+
+  .slider {
+    width: 100%;
+    &.bordered {
+      border-top: 2px solid $black;
+    }
+
+    .slide {
+      width: 100%;
+
+      img {
+        width: 100%;
+        max-width: 100%;
+      }
+    }
+
+  }
+
+  @media (min-width: $mobile_screen) {
+    flex-wrap: nowrap;
+
+    .logo-text {
+      height: 622px;
+      width: 33.33%;
+      h4 {
+        font-size: 16px;
+      }
+    }
+
+    .slider {
+      width: 66.66%;
+    }
+  }
+
+}
+
+/* BANNER STYLES ENDS HERE */
+
+
+/* ACCORDIONS STYLES STARTS HERE*/
+.accordions {
+  .accordion {
+    position: relative;
+
+    .acc-content {
+      display: none;
+      padding: 40px 0;
+      border: 1px solid #ddd;
+      border-top: none;
+
+      @media (min-width: $mobile_screen) {
+        padding: 80px 0;
+      }
+    }
+
+    .acc-content.active {
+      display: block;
+    }
+
+    &:last-child,
+    .acc-header.active {
+      border-bottom: 2px solid $black;
+    }
+
+    .acc-header {
+      background-color: $primary;
+      color: $black;
+      cursor: pointer;
+      padding: 0;
+      width: 100%;
+      border: none;
+      height: 120px;
+      text-align: left;
+      outline: none;
+      font-size: 14px;
+      font-weight: 700;
+      line-height: 18px;
+      align-items: center;
+      display: flex;
+      justify-content: space-between;
+      border-top: 2px solid $black;
+      border-bottom: 2px solid $black;
+      border-bottom: 0;
+      position: relative;
+
+      @media (min-width: $mobile_screen) {
+        font-size: 32px;
+        line-height: 40px;
+
+      }
+
+      &:hover {
+        .icon {
+          background-color: $black;
+          &::after,
+          &:before {
+            background-color: $white;
+          }
+        }
+      }
+
+      &.active {
+        border-bottom: 2px solid $black;
+
+        .icon {
+          background-color: $black;
+
+          &:after {
+            display: none;
+          }
+
+          &:after,
+          &:before {
+            background-color: $white;
+          }
+        }
+      }
+
+      .label {
+        padding: 0 30px;
+        text-transform: uppercase;
+      }
+
+      .icon {
+        position: absolute;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        background-color: $white;
+        height: 100%;
+        width: 120px;
+        top: 0;
+        right: 0;
+        border-left: 2px solid $black;
+        border-right: 2px solid $black;
+
+        &::after {
+          transform: rotate(90deg);
+          display: block;
+        }
+
+        &::after,
+        &:before {
+          content: "";
+          position: absolute;
+          height: 2px;
+          width: 38px;
+          background-color: $black;
+        }
+      }
+    }
+  }
+}
+
+/* ACCORDIONS STYLES ENDS HERE*/
+
+/* FOOTER STYLES STARTS HERE*/
+#footer {
+  min-height: 200px;
+  height: auto;
+  background-color: $dark;
+
+  .wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 40px 0;
+    justify-content: space-between;
+    gap: 30px;
+
+    .location,
+    .copy-right {
+      color: $white;
+      display: flex;
+      gap: 6px;
+      align-items: baseline;
+
+      p {
+        line-height: 24px;
+        font-size: 16px;
+      }
+    }
+
+    @media (min-width: $mobile_screen) {
+      flex-wrap: nowrap;
+
+      .location,
+      .copy-right {
+        p {
+          font-size: 20px;
+        }
+      }
+
+      .location {
+        text-align: left;
+
+        .icon {
+          width: 10px;
+          height: 10px;
+        }
+      }
+
+      .copy-right p {
+        text-align: right;
+        font-size: 16px;
+        text-transform: uppercase;
+        font-weight: 700;
+      }
+    }
+  }
+}
+
+/* FOOTER STYLES ENDS HERE*/
+
+/* PLAYER LIST  STARTS HERE*/
+.player-list {
+  margin: 30px 0 0;
+
+  .player {
+    border: 2px solid $black;
+    border-bottom: 0;
+    display: flex;
+    min-height: 120px;
+    position: relative;
+    cursor: pointer;
+
+    audio {
+      position: absolute;
+      z-index: -1;
+      opacity: 0;
+    }
+
+    .hide {
+      display: none;
+    }
+
+    &:hover .player-icon {
+      background-color: $black;
+    }
+
+    &:last-child {
+      border-bottom: 2px solid $black;
+    }
+
+    .player-icon {
+      width: 120px;
+      min-width: 120px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: $primary;
+
+    }
+
+    .content {
+      padding: 24px 10px;
+      border-left: 2px solid $black;
+      display: flex;
+      justify-content: start;
+      width: 100%;
+
+      .info {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+      }
+
+      h3 {
+        font-size: 14px;
+        line-height: 26px;
+        font-weight: 700;
+        font-family: $font-family;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        color: $black;
+      }
+
+      p,
+      i {
+        display: block;
+        font-size: 16px;
+        line-height: 26px;
+        font-weight: 400;
+        font-family: $font-family;
+        letter-spacing: 2px;
+      }
+
+      .timing {
+        display: none;
+      }
+    }
+
+  }
+
+  @media (min-width: $mobile_screen) {
+    margin: 80px 0;
+
+    .player {
+      .content {
+        padding: 16px 36px 16px 36px;
+        border-left: 2px solid $black;
+        display: flex;
+        justify-content: space-between;
+
+        h3 {
+          font-size: 16px;
+        }
+
+        p,
+        i {
+          display: inline-block;
+          font-size: 20px;
+          line-height: 32px;
+        }
+      }
+
+      .timing {
+        display: flex !important;
+        align-items: center;
+        justify-content: center;
+        gap: 16px;
+        font-size: 16px;
+        line-height: 26px;
+        font-weight: 700;
+        font-family: $font-family;
+        letter-spacing: 2px;
+        color: $grey;
+      }
+    }
+  }
+}
+
+/* PLAYER LIST ENDS HERE*/
+
+/*  SEARCH TAG STYLES STARTS HERE*/
+.search-tag {
+  background-color: $black;
+  height: 40px;
+  padding: 6px 30px;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: 2px;
+  display: inline-flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  color: $white;
+  text-transform: uppercase;
+  font-weight: 700;
+
+  .x-icon {
+    font-size: 18px;
+    cursor: pointer;
+  }
+
+  @media (min-width:$mobile_screen) {
+    height: 60px;
+    padding: 12px 30px;
+    font-size: 14px;
+
+    .x-icon {
+      font-size: 22px;
+    }
+  }
+}
+
+/*  SEARCH TAG STYLES ENDS HERE*/
+
+.common-header {
+  padding: 30px 0;
+
+  @media (min-width: $mobile_screen) {
+      padding: 80px 0;
+  }
+}
+.searchbar {
+  position: relative;
+  width: 100%;
+  max-width: 660px;
+
+  input {
+      position: relative;
+      height: 60px;
+      width: 100%;
+      max-width: 660px;
+      padding: 16px 80px 16px 20px;
+      border: 2px solid $black;
+      font-size: 16px;
+      outline: none;
+
+      &:focus,
+      &:active {
+          outline: none;
+      }
+  }
+
+  .icon {
+      position: absolute;
+      height: 60px;
+      width: 60px;
+      right: 0;
+      top: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-left: 2px solid $black;
+      color: $black;
+      cursor: pointer;
+
+      svg {
+          height: 30px;
+      }
+  }
+
+  @media (min-width: $mobile_screen) {
+      input {
+          font-size: 32px;
+          height: 120px;
+          padding: 16px 160px 16px 40px;
+      }
+
+      .icon {
+          height: 120px;
+          width: 120px;
+
+          svg {
+              height: 60px;
+          }
+      }
+  }
+
+  &:hover {
+      .icon {
+          background-color: $black;
+          color: $white;
+      }
+  }
+}
+
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  margin-bottom: 30px;
+
+  &.space-t {
+      margin-top: 20px;
+  }
+
+  @media (min-width: $mobile_screen) {
+      margin-bottom: 80px;
+  }
+}
+
+
+/* TEAM CARD STYLES START'S HERE */
+.team-cards {
+  display: flex;
+  flex-wrap: wrap;
+}
+.team-card {
+  position: relative;
+  overflow: hidden;
+  border: 2px solid $black;
+  border-bottom: none;
+  max-width: 100%;
+  min-width: 100%;
+
+  @media (min-width: $mobile_screen) {
+    max-width: 50%;
+    min-width: 50%;
+    &:nth-of-type(2n+1){
+      border-right: 0;
+    }
+  }
+  &:hover {
+    .overlay {
+      opacity: 1;
+    }
+  }
+  .media {
+    position: relative;
+    img {
+      width: 100%;
+      height: 100%;
+      max-width: 100%;
+      border-bottom: 2px solid $black;
+      object-fit: cover;
+    }
+    height: auto;
+    @media (min-width: $mobile_screen) {
+      height: 374px;
+    }
+  }
+  .content {
+    min-height: 120px;
+    padding: 36px;
+    position: relative;
+    z-index: 0;
+    background-color: $white;
+  }
+  .overlay {
+    padding: 36px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+    transition: 0.3s all ease;
+    background-color: $white;
+    height: calc(100% - 100px);
+    text-overflow: ellipsis;
+    width: 100%;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    overflow: hidden;
+    max-height: 360px;
+    @media (min-width: $mobile_screen) {
+      max-height: 390px;
+    }
+  }
+  h3 {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: 1px;
+  }
+  i {
+    font-size: 12px;
+    line-height: 18px;
+  }
+  p {
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 24px;
+  }
+  @media (min-width: $mobile_screen) {
+    h3 {
+      font-size: 32px;
+      line-height: 40px;
+    }
+    i {
+      font-size: 14px;
+      line-height: 24px;
+    }
+    p {
+      font-size: 20px;
+      line-height: 32px;
+    }
+  }
+}
+/* TEAM CARD STYLES END'S HERE */

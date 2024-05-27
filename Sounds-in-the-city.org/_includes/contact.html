@@ -1,0 +1,43 @@
+<div id="partners" class="contact">
+  <div class="container">
+    <h1 class="heading title">{{t.title}}</h1>
+    <div class="content">
+      {% assign team = t.team%}
+      <h3>{{team.title}}</h3>
+      <div class="row">
+        {% for member in team.members %}
+        <div class="col">
+          <p>
+            {{ member.name }} <br />
+            <i>{{ member.role }}</i> <br />
+            <a href="mailto:{{ member.email }}">{{ member.email }}</a>
+            <br />{{member.language}}
+            {% if member.phone %}
+                {{t.telephone}}: {{member.phone}}
+            {% endif %}
+          </p>
+        </div>
+        {%endfor%}
+      </div>
+    </div>
+    <div class="content">
+      {% assign contact = t.contact%}
+      <h3>{{contact.title}}</h3>
+      {% for link in contact.links %}
+      <p>
+        {% if link.url %}
+        <a href="{{ link.url }}">{{ link.name }}</a
+        ><span>{{link.language}}</span> {% else %} {{ link.name }}
+        {% endif %}
+      </p>
+      {%endfor%}
+    </div>
+    <div class="content">
+      {% assign address = t.address%}
+      <h3>{{address.title}}</h3>
+      {% for location in address.location %}
+      <p>{{ location.name }}</p>
+      {%endfor%}
+    </div>
+  </div>
+</div>
