@@ -1,1 +1,8 @@
-port: 4000
+locale                   : "en"
+title                    : "SITC"
+title_separator          : "-"
+name                     : "SITC"
+description              : "DWB's Jekyll Website."
+url                      : "https://walkwithweb.com"
+baseurl                  : ""
+repository               : "walkwithweb/walkwithweb.github.io"
