@@ -39,7 +39,7 @@
     - url: ''
       name: 'Bocksteal 2019-ICSV 2019 paper '
   prev_url: ""
-  next_url: 'project-2'
+  next_url: 'project2'
 
 
 - title: "English 1: English 1 NEW PUBLIC SPACE"
@@ -47,7 +47,7 @@
   location: "Plateau-Mont-Royal, Montreal, QC"
   date: "Summer and Fall 2017"
   image: "/assets/images/projects/project1.png"
-  url: "project-2"
+  url: "project2"
   fundings: "SSHRC-PDG grant"
   collaborators: "City of Montreal (Arrondissement Plateau-Mont-Royal)"
   name: "TERRASSES ROY"
@@ -80,15 +80,15 @@
   publications:
     - url: ''
       name: 'Bocksteal 2019-ICSV 2019 paper '
-  prev_url: "project-1"
-  next_url: 'project-3'
+  prev_url: "project1"
+  next_url: 'project3'
 
 - title: "TEST SEARCH"
   description: "A pedestrianization in the heart of the Plateau-Mont-Royal."
   location: "Plateau-Mont-Royal, Montreal, QC"
   date: "Summer and Fall 2017"
   image: "/assets/images/projects/project1.png"
-  url: "project-3"
+  url: "project3"
   fundings: "SSHRC-PDG grant"
   collaborators: "City of Montreal (Arrondissement Plateau-Mont-Royal)"
   name: "TERRASSES ROY"
@@ -121,8 +121,8 @@
   publications:
     - url: ''
       name: 'Bocksteal 2019-ICSV 2019 paper '
-  prev_url: "project-2"
-  next_url: 'project-4'
+  prev_url: "project2"
+  next_url: 'project4'
 
 
 - title: "English 1: English 1 NEW PUBLIC SPACE"
@@ -130,7 +130,7 @@
   location: "Plateau-Mont-Royal, Montreal, QC"
   date: "Summer and Fall 2017"
   image: "/assets/images/projects/project1.png"
-  url: "project-4"
+  url: "project4"
   fundings: "SSHRC-PDG grant"
   collaborators: "City of Montreal (Arrondissement Plateau-Mont-Royal)"
   name: "TERRASSES ROY"
@@ -163,5 +163,5 @@
   publications:
     - url: ''
       name: 'Bocksteal 2019-ICSV 2019 paper '
-  prev_url: "project-3"
+  prev_url: "project3"
   next_url: ''
