@@ -5,10 +5,10 @@
   url: "/projects/"
 
 - title: MEDIA
-  url: "/media/"
+  url: "/media"
   submenu:
     - title: Papers
-      url: "/papers/"
+      url: "/papers"
 
     - title: Blog (archives)
       url: "/blogs/"
@@ -17,13 +17,13 @@
       url: "/events/"
 
 - title: ABOUT US
-  url: "/about/"
+  url: "/about"
   submenu:
     - title: Partners & Fundings
-      url: "/partners/"
+      url: "/partners"
 
     - title: Services
-      url: "/services/"
+      url: "/services"
 
     - title: Contact
-      url: "/contact/"
+      url: "/contact"
