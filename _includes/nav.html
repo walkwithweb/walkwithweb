@@ -24,7 +24,8 @@
   </div>
   <ul class="container main-menu">
     {% assign lang = page.lang %}
-    {% assign navigation = site.data.navigation[lang] %}
+    {% assign key = 'navigation_' | append: lang %}
+    {% assign navigation = site.data[key] %}
     {% assign projects = site.data.projects[lang] %}
     {% for item in navigation %}
     <li class="menu-item item-main">
