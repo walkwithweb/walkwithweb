@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang }}">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
+    <link rel="stylesheet" href="{{ 'assets/css/style.css' | relative_url }}" />
+    <title>{{ page.title }}</title>
+</head>
+<body>
+    {% include nav.html %}
+    {% assign content = site.data.locales[page.lang].projects %}
+    <div id="container">
+        <div id="project_details">
+            <div class="container">
+                <h1 class="heading">{{ page.title }}</h1>
+                <p class="description">{{ page.description | safe }}</p>
+                <div class="info">
+                    <div class="info-wrapper">
+                        <div class="info-content">
+                            <div class="col">
+                                <div class="content">
+                                    <h3>{{ content.where }}</h3>
+                                    <p>{{ page.location }}</p>
+                                </div>
+                                <div class="content">
+                                    <h3>{{ content.year }}</h3>
+                                    <p>{{ page.date }}</p>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="content">
+                                    <h3>{{ content.fundings }}</h3>
+                                    <p>{{ page.fundings }}</p>
+                                </div>
+                                <div class="content">
+                                    <h3>{{ content.collaborators }}</h3>
+                                    <p>{{ page.collaborators }}</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="info-content">
+                            <div class="tags col">
+                                <div class="content">
+                                    <h3>{{ content.tags }}</h3>
+                                    <p>
+                                        {% for tag in page.tags %}
+                                        <span>{{ tag.name }}</span>
+                                        {% endfor %}
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="media">
+                        <img src="{{ page.before.image }}" alt="{{ page.before.alt | default: page.before.credits }}" />
+                    </div>
+                    <div class="footer">
+                        <h3>{{ page.project_name }}: {{ content.before }}</h3>
+                        <p>{{ content.credits }}: {{ page.before.credits }}</p>
+                    </div>
+                </div>
+                <div class="brief">
+                    <p>{{ page.brief | safe }}</p>
+                </div>
+                <div class="card">
+                    <div class="media">
+                        <img src="{{ page.after.image }}" alt="{{ page.after.alt | default: page.after.credits }}" />
+                    </div>
+                    <div class="footer">
+                        <h3>{{ page.project_name }}: {{ content.after }}</h3>
+                        <p>{{ content.credits }}: {{ page.after.credits }}</p>
+                    </div>
+                </div>
+                <h4 class="about-title">{{ content.about_this_project }}</h4>
+                <div class="about">
+                    <div class="col">
+                        <p class="text">{{ page.about }}</p>
+                    </div>
+                    <div class="col">
+                        <p class="text">{{ page.participation }}</p>
+                        <br />
+                        <p class="text">{{ page.contact_info }}</p>
+                    </div>
+                </div>
+                <h4 class="about-title">{{ content.links }}</h4>
+                <div class="about">
+                    <div class="col">
+                        <p class="text">
+                            {{ content.media_coverage }}:
+                            <br /><br />
+                            {% for link in page.links %}
+                            <a href="{{ link.url }}">{{ link.name }}</a>
+                            {% endfor %}
+                        </p>
+                    </div>
+                    <div class="col">
+                        <p class="text">
+                            {{ content.academic_output }}:
+                            <br />
+                            <br />
+                            {% for link in page.publications %}
+                            <a href="{{ link.url }}">{{ link.name }}</a>
+                            {% endfor %}
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="navigation-action-buttons">
+            <a href="{{page.prev_project_url}}" >
+                <svg width="75" height="83" viewBox="0 0 75 83" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M2.29726 42.2059L1.57695 41.4944L2.2973 40.783L41.2736 2.28851L41.9763 1.5945L42.679 2.28851L46.3328 5.89713L47.0531 6.60858L46.3328 7.32007L15.3235 37.9496L72.4999 37.9496L73.4999 37.9496L73.4999 38.9496L73.5 44.0504L73.5 45.0504L72.5 45.0504L15.3347 45.0504L46.344 75.6799L47.0643 76.3914L46.344 77.1029L42.6902 80.7115L41.9875 81.4055L41.2848 80.7115L2.30851 42.217L3.01107 41.5057L2.30848 42.217L2.29726 42.2059Z"
+                    fill="currentColor" stroke="currentColor" stroke-width="2" />
+                </svg>
+                {{ content.previous }}
+            </a>
+            <a href="{{page.next_project_url}}" >
+                {{ content.next }}
+                <svg width="75" height="83" viewBox="0 0 75 83" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M72.2027 40.7941L72.923 41.5056L72.2027 42.217L33.2264 80.7115L32.5237 81.4055L31.821 80.7115L28.1672 77.1029L27.4469 76.3914L28.1672 75.6799L59.1765 45.0504L2.00008 45.0504H1.0001L1.00008 44.0504L0.999996 38.9496L0.999979 37.9496H2L59.1653 37.9496L28.156 7.32007L27.4356 6.60858L28.156 5.89713L31.8098 2.28851L32.5125 1.59449L33.2152 2.2885L72.1915 40.783L71.4889 41.4943L72.1915 40.783L72.2027 40.7941Z"
+                    fill="currentColor" stroke="currentColor" stroke-width="2" />
+                </svg>
+            </a>
+        </div>
+    </div>
+    {% include footer.html %}
+    <script src="https://cdn.jsdelivr.net/jquery/latest/jquery.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+    <script src="/assets/js/slider.js"></script>
+    <script src="/assets/js/accordions.js"></script>
+    <script src="/assets/js/search.js"></script>
+    <script src="/assets/js/script.js"></script>
+</body>
+</html>

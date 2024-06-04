@@ -1,0 +1,15 @@
+---
+---
+
+<script type="text/javascript">
+  const LANG = ["en", "fr"].includes(navigator.language) ? navigator.language : "en";
+  const REDIRECTION_URL = "{{ page.url | absolute_url }}" + LANG;
+  window.location.href = REDIRECTION_URL;
+</script>
+
+<p>
+  Redirecting to
+  <script type="text/javascript">
+    document.write("<a href=\"" + REDIRECTION_URL + "\">" + REDIRECTION_URL + "</a>")
+  </script>
+</p>

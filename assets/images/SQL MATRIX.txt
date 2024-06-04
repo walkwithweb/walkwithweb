@@ -1,0 +1,267 @@
+loadStyleSheet();
+
+function loadStyleSheet() {
+    var dev = 'http://win-dev.medtronic.com/ExternalCSS/font.css';
+    var stg = 'http://ckfoundation01-stg.uat.local/ExternalCSS/font.css';
+    var prd = 'http://winshuttle.medtronic.com/ExternalCSS/font.css';
+    var url = window.location.href;
+    var src = '';
+    
+    if (url.indexOf('win-dev') !== -1) {
+        src = dev;
+        if (document.createStyleSheet){
+            document.createStyleSheet(src);
+        }
+        else {
+            jQuery("head").append(jQuery("<link rel='stylesheet' href='"+src+"' type='text/css' media='screen' />"));
+        }
+    } else if (url.indexOf('ckfoundation01-stg.uat') !== -1) {
+        src = stg;
+        if (document.createStyleSheet){
+            document.createStyleSheet(src);
+        }
+        else {
+            jQuery("head").append(jQuery("<link rel='stylesheet' href='"+src+"' type='text/css' media='screen' />"));
+        }
+    } else if (url.indexOf('winshuttle') !== -1) {
+        src = prd;
+        if (document.createStyleSheet){
+            document.createStyleSheet(src);
+        }
+        else {
+            jQuery("head").append(jQuery("<link rel='stylesheet' href='"+src+"' type='text/css' media='screen' />"));
+        }
+    }
+}
+
+//function SVFormHideController()
+//{
+    //svDeferredLog("Entering SVFormHideController");
+   // if(SVFormCurrentController !== null)
+   // {
+        //SVFormCurrentController.style.display = "none";
+    //}
+    //if(SVLabeledAssignmentColumn_ !==null)
+   // {
+       // SVLabeledAssignmentColumn_.style.display = "none";
+    //}
+    //svDeferredLog("Exiting SVFormHideController");
+//}
+
+
+
+function hideFields(fieldArray){
+    var xPathArray = [];
+    for (var i = 0; i < fieldArray.length; i++){
+        xPathArray.push(getFieldXPath(fieldArray[i]));
+    }
+    for (var j = 0; j < xPathArray.length; j++){
+        $form.hideControl(xPathArray[j],false);
+        var els = $j("[data-link='" + renderer.formModel.formatInputBinding(xPathArray[j]) + "']");
+        var cEle = $j(els).parents(".form-control:first, .form-table-control:first");
+        var pEle = $j(cEle).parents(".win-col");
+        pEle.attr('style', 'width:0');
+    }
+}
+
+function showFields(fieldArray, spanArray){
+    var xPathArray = [];
+    for (var i = 0; i < fieldArray.length; i++){
+        xPathArray.push(getFieldXPath(fieldArray[i]));
+    }
+    for (var j = 0; j < xPathArray.length; j++){
+        $form.showControl(xPathArray[j],false);
+        var els = $j("[data-link='" + renderer.formModel.formatInputBinding(xPathArray[j]) + "']");
+        var cEle = $j(els).parents(".form-control:first, .form-table-control:first");
+        var pEle = $j(cEle).parents(".win-col");
+        var calcWidth;
+        if (pEle.hasClass("span_1_of_6")){
+            calcWidth = Number(((100 / 6) * spanArray[j])).toFixed(4);
+            pEle.attr('style', 'width:' + calcWidth + '%');
+        }
+        else if (pEle.hasClass("span_1_of_4")){
+            calcWidth = Number(((100 / 4) * spanArray[j])).toFixed(4);
+            pEle.attr('style', 'width:' + calcWidth + '%');
+        }
+    }
+}
+
+
+// Returns field X-Path based on field name
+function getFieldXPath(fieldName) {
+    fieldName = fieldName.trim();
+    var xPathMatches = $form.formModel.getFormFields(true).filter(function(xPath) { 
+        return xPath.match(new RegExp('my:' + fieldName + '$')) ;
+    });
+    return xPathMatches[0];
+}
+// Function to set static or repeating field properties dynamically based on data connection
+// Note: does not support default values containing commas! (",")
+function setFieldProperties(fieldGroupXPath, scenarioUID, dataConnection, indexArray, debug) {
+    debugger;
+    if (debug) {
+        console.log('*** Setting Field Properties ***');
+        console.log('Field Group: ', fieldGroupXPath);
+        //console.log('Scenario UID: ', scenarioUID);
+        console.log('Data Connection: ', dataConnection);
+        console.log('Index Array: ', indexArray);
+        console.log('*** ----------------------------- ***');
+    }
+    
+    // Exit function if there is no scenario UID given
+    if (!scenarioUID) return;
+    
+    // Retrieve field properties from data connection
+    var flagListString = $form.getExternalValue(dataConnection, "sUID_" + scenarioUID, "@sUID_" + scenarioUID + " != ''",false);
+    var fieldListString = $form.getExternalValue(dataConnection,"Field_Name", "@sUID_" + scenarioUID + " != ''",false);
+    
+    // Parse data into arrays
+    var fieldArray = fieldListString.split(',');
+    var flagArray = flagListString.split(',');
+    
+    // Define Enhanced Show
+    var enhancedShow = {
+        'theSpan': function(xPath, spanNum) { 
+            $form.showControl(xPath,false);
+            var els = $j("[data-link='" + renderer.formModel.formatInputBinding(xPath) + "']");
+            var cEle = $j(els).parents(".form-control:first, .form-table-control:first");
+            var pEle = $j(cEle).parents(".wf-col");
+            var calcWidth;
+            var oEle;
+            //if (pEle.width() === 0) {
+                if (pEle.hasClass("span_1_of_6")){
+                    calcWidth = Number(((100 / 6) * spanNum)).toFixed(4);
+                    if (pEle.css('clear') == 'left'){
+                        oEle = pEle.prev();
+                        if (oEle.css('width') == '0px'){
+                            pEle.css({'width' : calcWidth + '%', 'clear' : ''});
+                        }else{
+                            pEle.css({'width' : calcWidth + '%', 'clear' : 'left'});
+                        }
+                    }else {
+                        pEle.css({'width' : calcWidth + '%'});
+                    }
+                }
+                else if (pEle.hasClass("span_1_of_4")){
+                    calcWidth = Number(((100 / 4) * spanNum)).toFixed(4);
+                    if (pEle.css('clear') == 'left'){
+                        oEle = pEle.prev();
+                        if (oEle.css('width') == '0px'){
+                            pEle.css({'width' : calcWidth + '%', 'clear' : ''});
+                        }else{
+                            pEle.css({'width' : calcWidth + '%', 'clear' : 'left'});
+                        }
+                    }else {
+                        pEle.css({'width' : calcWidth + '%'});
+                    }
+                }
+            //}
+        }
+    };
+    
+    
+    // Define action dispatcher
+    var dispatcher = {
+        'S': function(xPath) { $form.setValue(xPath, '\\') },                                                   // Skip-Field Indicator
+        'D': function(xPath) { $form.disableControl(xPath) },                                                   // Disable field
+        'E': function(xPath) { 
+                // Enable Field (also get rid of skip field indicator if needed)
+                $form.enableControl(xPath);
+                if ($form.getValue(xPath) === '\\') $form.setValue(xPath, '');
+            },
+        'B': function(xPath) { $form.setValue(xPath, '') },                                                     // Blank field
+        'R': function(xPath) { $form.setControlRequired(xPath, true) },                                         // Required
+        'O': function(xPath) { $form.setControlRequired(xPath, false) },                                        // Optional
+        'H': function(xPath) { $form.hideControl(xPath, true) },                                                // Hide
+        'U': function(xPath) { $form.showControl(xPath) },                                                       // Unhide (Show)
+        'X': function(xPath) {                                                                                                                                                                                                                                                                                                                                       // Hide (Enhanced to remove gaps in display)
+             $form.hideControl(xPath,false);
+             var els = $j("[data-link='" + renderer.formModel.formatInputBinding(xPath) + "']");
+             var cEle = $j(els).parents(".form-control:first, .form-table-control:first");
+             var pEle = $j(cEle).parents(".win-col");
+             pEle.attr('style', 'width:0');
+             },
+        'Z1': function(xPath) {enhancedShow['theSpan'](xPath, 1)},
+        'Z2': function(xPath) {enhancedShow['theSpan'](xPath, 2)},
+        'Z3': function(xPath) {enhancedShow['theSpan'](xPath, 3)},
+        'Z4': function(xPath) {enhancedShow['theSpan'](xPath, 4)},
+        'Z5': function(xPath) {enhancedShow['theSpan'](xPath, 5)},
+        'Z6': function(xPath) {enhancedShow['theSpan'](xPath, 6)}
+    };
+    
+    // Loop through all fields with business rules defined
+    fieldArray.forEach(function(fieldName, i) {
+        // Loop through all possible flags in dispatcher
+        for (var flag in dispatcher) {
+            // If the current flag is applicable for the current field: generate xPath and dispatch action
+            if (flagArray[i].toUpperCase().indexOf(flag) != -1) {
+                fieldName = fieldName.trim();
+                var xPath = fieldGroupXPath + 'my:' + fieldName;
+                if (indexArray) setRCIndices(indexArray, xPath);
+                if (debug) {
+                    console.log('Field XPath: ', xPath);
+                    console.log('Field flag: ', flag);
+                    console.log('*** ----------------------------- ***');
+                }
+                dispatcher[flag](xPath);
+            }
+        }
+    });
+    
+}
+
+
+// Function to set indices of nested repeating field XPaths
+// parameters: array of indices, xPath of nested repeating field
+// (supports non-nested xPaths too)
+function setRCIndices(indexArray, xPath) {
+    var index = 0;
+    return xPath.replace(/my:Repeating_Content/g, function() {
+        return  indexArray[index] !== undefined ? 'my:Repeating_Content[' + indexArray[index++] + ']' : 'my:Repeating_Content';
+    });
+}
+
+// Function to set static or repeating default values dynamically based on data connection
+// Note: does not support default values containing commas! (",")
+function setDefaultValues(fieldGroupXPath, scenarioUID, dataConnection, indexArray, debug) {
+    if (debug) {
+        console.log('*** Setting Default Values ***');
+        console.log('Field Group: ', fieldGroupXPath);
+        console.log('Scenario UID: ', scenarioUID);
+        console.log('Data Connection: ', dataConnection);
+        console.log('Index Array: ', indexArray);
+        console.log('*** ----------------------------- ***');
+    }
+    // This flag controls weather the code overwrites data already present in fields.
+    var overwriteExistingData = false;
+    
+    // Exit function if there is no scenario UID given
+    if (!scenarioUID) return;
+    
+    // Retrieve default values from data connection
+    var dvListString = $form.getExternalValue(dataConnection, "sUID_" + scenarioUID, "@sUID_" + scenarioUID + " != ''",false);
+    var fieldListString = $form.getExternalValue(dataConnection,"Field_Name", "@sUID_" + scenarioUID + " != ''",false);
+    // Parse data into arrays
+    var fieldArray = fieldListString.split(',');
+    var dvArray = dvListString.split(',');
+    
+    // Loop through all fields with default values defined
+    fieldArray.forEach(function(fieldName, i) {
+        fieldName = fieldName.trim();
+        var xPath = fieldGroupXPath + 'my:' + fieldName;
+        var defaultValue = dvArray[i].trim();
+        if (defaultValue == '\\') defaultValue = '';
+        if (indexArray) setRCIndices(indexArray, xPath);
+        // If overwrite is allowed or the field is empty: set value
+        if (overwriteExistingData || $form.getValue(xPath) === '') {
+            if (debug) {
+                console.log('Field XPath: ', xPath);
+                console.log('Field Value: ', defaultValue);
+                console.log('*** ----------------------------- ***');
+            }
+            $form.setValue(xPath, defaultValue);
+            
+        }
+    });
+    
+}

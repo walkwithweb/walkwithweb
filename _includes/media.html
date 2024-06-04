@@ -1,0 +1,115 @@
+<div id="media">
+  <div class="container">
+    <h1 class="heading title">{{site.data.locales[page.lang].media.title}}</h1>
+  </div>
+  <div class="accordions">
+    <div class="accordion">
+      <button class="acc-header" data-target="video_accordion">
+        {% assign lang = page.lang %} {% assign title =
+        site.data.media[lang].video.title %}
+        <span class="label container"> {{title}} </span>
+        <span class="icon"></span>
+      </button>
+      <div id="video_accordion" class="acc-content">
+        <div class="container">
+          <div class="videos">
+            {% assign videos = site.data.media[lang].video.data %} {% for video
+            in videos %}
+            <div class="video-card">
+              <div class="responsive-iframe-container">
+                <iframe
+                  src="https://www.youtube.com/embed/xMVwfa107xQ"
+                  title="Full Highlights | Pakistan vs New Zealand | 3rd T20I 2024 | PCB | M2E2U"
+                  frameborder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  referrerpolicy="strict-origin-when-cross-origin"
+                  allowfullscreen
+                ></iframe>
+              </div>
+              <div class="footer">
+                <h3>{{video.title}}</h3>
+                <p>{{video.description}}, {{video.date}}</p>
+              </div>
+            </div>
+            {%endfor%}
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="accordion">
+      <button class="acc-header" data-target="article_accordion">
+        {% assign lang = page.lang %} {% assign artic =
+        site.data.media[lang].article %}
+        <span class="label container"> {{artic.title}} </span>
+        <span class="icon"></span>
+      </button>
+      <div id="article_accordion" class="acc-content">
+        <div class="container">
+          <div class="articles">
+            {% assign articles = artic.data %} {% for
+            article in articles %}
+            <div class="article-card">
+              <div class="content">
+                <h3>{{article.title}}</h3>
+                <p>{{article.location}}, {{article.date}}</p>
+              </div>
+              <div class="info">
+                <div>
+                  <h4>{{artic.author}}</h4>
+                  <p>{{article.author}}</p>
+                </div>
+                <a href="#" class="readmore">{{artic.read}}</a>
+              </div>
+            </div>
+            {%endfor%}
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="accordion">
+      <button class="acc-header" data-target="audio_accordion">
+        {% assign lang = page.lang %} {% assign title =
+        site.data.media[lang].audio.title %}
+        <span class="label container"> {{title}} </span>
+        <span class="icon"></span>
+      </button>
+      <div id="audio_accordion" class="acc-content">
+        <div class="player-container">
+          <div class="audios player-list p-0">
+            {% assign audios = site.data.media[lang].audio.data %} {% for
+            play in audios %}
+            <div class="player" data-target="{{play.id}}">
+              <div class="player-icon">
+                <img
+                  src="/assets/images/icons/play-icon.png"
+                  alt="play-icon"
+                  class="play-btn"
+                />
+                <img
+                  src="/assets/images/icons/pause-icon.png"
+                  alt="play-icon"
+                  class="pause-btn hide"
+                />
+                <audio id="{{play.id}}" src="{{play.url}}"></audio>
+              </div>
+              <div class="content">
+                <div class="info">
+                  <h3 class="play-name">{{play.name}}</h3>
+                  <p class="play-credits">
+                    {{play.album}}
+                    <span class="play-credits">Credits: {{play.credits}}</span>
+                  </p>
+                </div>
+                <div class="timing">
+                  <img src="/assets/images/icons/clock.svg" alt="clock" />
+                  <span class="duration">00:00</span>
+                </div>
+              </div>
+            </div>
+            {%endfor%}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

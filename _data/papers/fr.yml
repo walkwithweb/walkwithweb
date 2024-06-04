@@ -1,0 +1,46 @@
+- title: "Sounds in the City"
+  id: 'sound_in_the_city'
+  data:
+    - title: "Sounds in the City: bridging the gaps from research to practice through soundscape workshops"
+      description: "Journal of Urban Design, 201"
+      date: "2020-12-10"
+      link:
+        url: ""
+        name: "10.1080/13574809.2019.1699399"
+      authors:
+        - name: 'Daniel Steele'
+        - name: 'Christine Kerrigan'
+        - name: 'Catherine Guastavino'
+
+    - title: "Researching soundscape conceptualizations, contexts, and information in urban planning and design practices through interviews"
+      description: "Association of European Schools of Planning (AESOP) Annual Congress <br> Lisbon, Portugal, July 11-17 2017 "
+      date: "2020-12-10"
+      link:
+        url: ""
+      authors:
+        - name: 'Daniel Steele'
+        - name: 'Catherine Guastavino'
+
+- title: "Musikiosk"
+  id: 'musikiosk'
+  data:
+    - title: "Etudier les nuisances sonores pour améliorer la qualité de vie"
+      location: "Journal Métro"
+      date: "2020-12-10"
+      link:
+        url: ""
+        name: "10.1080/13574809.2019.1699399"
+      authors:
+        - name: 'Machillot. C'
+
+- title: "Soundscape and Urban Planners"
+  id: "soundscape_and_urban_Planners"
+  data:
+    - title: "Etudier les nuisances sonores pour améliorer la qualité de vie"
+      location: "Journal Métro"
+      date: "2020-12-10"
+      link:
+        url: ""
+        name: "10.1080/13574809.2019.1699399"
+      authors:
+        - name: 'Machillot. C'
