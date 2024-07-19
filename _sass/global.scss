@@ -406,6 +406,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    border-right: 2px solid $black;
+    border-bottom: 2px solid $black;
     &.black {
       background-color: $black;
       flex-direction: column;
@@ -472,6 +474,10 @@ body {
 
 /* ACCORDIONS STYLES STARTS HERE*/
 .accordions {
+  p.desc{
+    text-align: left;
+  }
+
   .accordion {
     position: relative;
 
@@ -502,12 +508,13 @@ body {
       padding: 0;
       width: 100%;
       border: none;
-      height: 120px;
+      height: 80px;
       text-align: left;
       outline: none;
-      font-size: 14px;
+      font-size: 16px;
       font-weight: 700;
       line-height: 18px;
+      letter-spacing: 2px;
       align-items: center;
       display: flex;
       justify-content: space-between;
@@ -517,7 +524,7 @@ body {
       position: relative;
 
       @media (min-width: $mobile_screen) {
-        font-size: 32px;
+        font-size: 16px;
         line-height: 40px;
 
       }
@@ -817,8 +824,11 @@ body {
       max-width: 660px;
       padding: 16px 80px 16px 20px;
       border: 2px solid $black;
-      font-size: 16px;
+      font-size: 18px;
       outline: none;
+      color: #A5A5A5;
+      font-style: italic;
+      font-family: 'Lato';
 
       &:focus,
       &:active {
@@ -847,16 +857,16 @@ body {
   @media (min-width: $mobile_screen) {
       input {
           font-size: 32px;
-          height: 120px;
+          height: 80px;
           padding: 16px 160px 16px 40px;
       }
 
       .icon {
-          height: 120px;
-          width: 120px;
+          height: 80px;
+          width: 80px;
 
           svg {
-              height: 60px;
+              height: 40px;
           }
       }
   }
@@ -925,7 +935,7 @@ body {
     }
   }
   .content {
-    min-height: 120px;
+    min-height: 80px;
     padding: 36px;
     position: relative;
     z-index: 0;
@@ -969,7 +979,7 @@ body {
   }
   @media (min-width: $mobile_screen) {
     h3 {
-      font-size: 32px;
+      font-size: 20px;
       line-height: 40px;
     }
     i {

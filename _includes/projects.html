@@ -4,31 +4,11 @@
       <h2 class="title heading">{{ t.title }}</h2>
     </div>
     <form class="searchbar" id="searchForm">
-      <input type="text" id="searchInput" />
-      <div class="icon" id="searchIcon" >
-        <svg
-          width="54"
-          height="62"
-          viewBox="0 0 54 62"
-          fill="none"
-          xmlns="http://www.w3.org/2000/svg"
-        >
-          <circle
-            cx="31"
-            cy="23"
-            r="22"
-            fill="translate"
-            stroke="currentColor"
-            stroke-width="2"
-          />
-          <line
-            x1="17.7619"
-            y1="40.6476"
-            x2="0.76194"
-            y2="60.6476"
-            stroke="currentColor"
-            stroke-width="2"
-          />
+      <input type="text" id="searchInput" placeholder="Search" />
+      <div class="icon" id="searchIcon">
+        <svg width="54" height="62" viewBox="0 0 54 62" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <circle cx="31" cy="23" r="22" fill="translate" stroke="currentColor" stroke-width="2" />
+          <line x1="17.7619" y1="40.6476" x2="0.76194" y2="60.6476" stroke="currentColor" stroke-width="2" />
         </svg>
       </div>
     </form>
@@ -36,11 +16,11 @@
   </div>
   <div class="list">
     <div id="noResultsMessage"></div>
-
     {% assign lang = page.lang %} {% assign projects =
     site.data.projects[lang] %} {% for project in projects %}
     {% assign tag_names = project.tags | map: 'name' %}
-    <a class="list-item" data-tags="{{ tag_names | join: ',' | downcase }}" data-title="{{project.title}}"  href="/{{ lang | append:'/projects/' | append: project.url}}" >
+    <a class="list-item" data-tags="{{ tag_names | join: ',' | downcase }}" data-title="{{project.title}}"
+      href="/{{ lang | append:'/projects/' | append: project.url}}">
       <div class="container">
         <div class="card">
           <div class="media">
@@ -62,5 +42,8 @@
       </div>
     </a>
     {% endfor %}
+    <div class="scroll-to-top" id="scroll-top">
+      <img src="/assets/images/icons/arrow-up.svg" alt="arrow-up" />
+    </div>
   </div>
 </div>
