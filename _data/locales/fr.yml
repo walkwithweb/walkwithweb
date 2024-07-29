@@ -1,31 +1,31 @@
 index:
-  cities: CITIES CAN
-  sound: SOUND BETTER
+  cities: POUR QUE NOS
+  sound: VILLES SONNENT MIEUX
   discover: DISCOVER WHO WE ARE
-  notbad: "(not just less bad)"
-  description: "Sounds in the City, led by Prof. Guastavino, brings together
-        researchers, artists, professionals who shape our cities, and citizens,
-        to look at urban sound from a novel, resource-oriented perspective and
-        nourish creative solutions to make cities sound better."
+  notbad: "(PAS SEULEMENT MOINS FORT)"
+  description: "Le sonore joue un rôle essentiel et complexe dans notre expérience des espaces urbains. 
+  À l’heure actuelle, la majorité des villes considèrent les enjeux sonores comme du “bruit”, c’est-à-dire une nuisance n’existant qu’en vase clos et considérée uniquement au moment 
+  où des problèmes surgissent. Mais tout n’est pas qu’une question de bruit ! Le sonore contribue à notre bien-être, nous aide à nous orienter dans le temps et l’espace, peut animer nos milieux de vie et les rendre plus attrayants. Plus encore, les ambiances sonores font partie intégrante du patrimoine de nos villes. 
+  Pensez notamment aux sonorités de votre quotidien, comme la musique, les conversations, les chants des oiseaux ou les cloches."
   discover: "DISCOVER WHO WE ARE"
   who: "WHO WE ARE"
   meet: "Meet the team & collaborators"
   view: "VIEW THE PARTNERS & FUNDINGS PAGE"
   funding: "FUNDINGS"
   accordions:
-    - title: SOUNDS IN CITIES
+    - title: VILLE SONORE
       id: "home-accordion-1"
-      description: "Sound plays a critical and complex role in the way we experience urban spaces. Today, cities treat urban sound as “noise”, an isolated nuisance that should be mitigated when problems arise. But sound can also support our well-being, orientation, focus, and our lasting memories of urban spaces - even the city as a whole (e.g. music, conversation, bird chirping, water sounds)."
+      description: "Ville Sonore est un partenariat mené par Pr. Guastavino qui réunit chercheur·ses, artistes, professionel·les qui façonnent nos villes, et citoyen·nes pour discuter du sonore comme ressource et nourrir des solutions créatives visant à rendre nos villes plus agréables à vivre."
       image: "/assets/images/accordions/home/1.png"
 
-    - title: WHAT IS SOUNDSCAPE?
+    - title: AMBIANCES SONORES
       id: "home-accordion-2"
-      description: "Sound plays a critical and complex role in the way we experience urban spaces. Today, cities treat urban sound as “noise”, an isolated nuisance that should be mitigated when problems arise. But sound can also support our well-being, orientation, focus, and our lasting memories of urban spaces - even the city as a whole (e.g. music, conversation, bird chirping, water sounds)."
+      description: "Le concept d’ambiance sonore (aussi connu sous le nom de paysage sonore) [LIEN PAGE SOUNDSCAPE] est une approche novatrice, centrée sur le ressenti, qui redéfinit le sonore comme ressource en lien avec les autres dimensions de l’aménagement urbain, des premiers stades de la conception aux usages dans la durée. Au cœur de cette approche se trouve l’idée que les sonorités du quotidien ne sont pas toutes (et toujours) indésirables. Cependant, malgré de grandes avancées dans le domaine de la recherche, le paysage sonore peine à être mis en œuvre dans la pratique. En somme, tout·e citoyen·ne a le droit de vivre, travailler et se relaxer dans des ambiances sonores qu’iel juge appropriées. Pour y arriver, il faut prendre en compte les perspectives citoyennes, notamment les activités menées et les contextes dans lesquels sont vécus les expériences sonores – tout cela, dans le but de mieux planifier et aménager nos espaces urbains. À terme, nous pouvons améliorer la qualité de vie des résidents et des visiteurs de nos villes par le biais d’une meilleure gestion urbaine sensible au sonore."
       image: "/assets/images/accordions/home/1.png"
 
-    - title: LOCATION
+    - title: MONTRÉAL COMME LABORATOIRE VIVANT
       id: "home-accordion-3"
-      description: "Sound plays a critical and complex role in the way we experience urban spaces. Today, cities treat urban sound as “noise”, an isolated nuisance that should be mitigated when problems arise. But sound can also support our well-being, orientation, focus, and our lasting memories of urban spaces - even the city as a whole (e.g. music, conversation, bird chirping, water sounds)."
+      description: "Ville Sonore se sert de Montréal comme d’un laboratoire vivant pour la recherche sur les ambiances sonors en collaboration avec une diversité de parties prenantes des secteurs public et privé ainsi que du grand public. Dans l’élan des chantiers réglementaires au Québec et au Canada, nous avons mis en place un partenariat intersectoriel pour contribuer à une fabrique de la ville plus équitable, favorable à la santé, et sensible au sonore."
       image: "/assets/images/accordions/home/1.png"
   slides:
     - title: "COVID-19 and c"

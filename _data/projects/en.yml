@@ -1,32 +1,32 @@
-- title: "English ROY: English A NEW PUBLIC SPACE"
-  description: "A pedestrianization in the heart of the Plateau-Mont-Royal."
+- title: "Terrasses Roy: creating a new public space"
+  description: "A pedestrianization in the heart of the Plateau-Mont-Royal "
   location: "Plateau-Mont-Royal, Montreal, QC"
   date: "Summer and Fall 2017"
-  image: "/assets/images/projects/project1.png"
+  image: "/assets/images/projects/Roy/Roy2.jpg"
   url: "project1"
   fundings: "SSHRC-PDG grant"
   collaborators: "City of Montreal (Arrondissement Plateau-Mont-Royal)"
   name: "TERRASSES ROY"
   tags:
-    - name: public space
-      id: 'public_space'
-    - name: pedestrianizationTAGS
+    - name: pedestrianization
       id: 'pedestrianizationTAGS'
     - name: soundscape evaluation
       id: 'soundscape_evaluation'
     - name: City of Montreal
       id: 'city_of_montreal'
+    - name: public space
+      id: 'public_space'
   before:
-    image: '/assets/images/projects/project1_before.png'
+    image: '/assets/images/projects/Roy/Roy1.jpg'
     credits: 'Maryse Lavoie.'
     alt: ""
   after:
-    image: '/assets/images/projects/project1.png'
+    image: '/assets/images/projects/Roy/Roy2.jpg'
     credits: 'Maryse Lavoie.'
     alt: ""
   brief: "The project removed traffic noise and created a new pedestrian walkway / seating area in a space where previously there was only a road.<br><br> It also created a new neighborhood space of meeting, often used by residents and visitors alike, who appreciate the greenery, increased sense of safety due to lack of cars, and the ‘quieter’ soundscape where cars are only audible in the distance."
   about: "We collaborated with Ville de Montreal around the pedestrianization of rue Roy, in the heart of the Plateau-Mont-Royal borough. To create the Terrasses Roy, a section of the street was closed off to traffic and a temporary design was installed by design firm Castor et Pollux in the summer 2017. Four sections were created to invite visitors to relax and interact, including colourful street furniture, communal gardens, and a play area. This pilot project was very well received by the community and extended into the fall and winter of 2017. The space is currently being converted into a permanent outdoor meeting space around urban agriculture."
-  participation: "We participated in public consultations and conducted acoustic measurements and audio recordings before and after the pedestrianization. We also administered questionnaires to passers-by to evaluate their experience in the new pedestrian walkway, with an emphasis on soundscape and sonic expectations. We then provided recommendations to the borough on how to reinforce the purpose of this new space through sound."
+  participation: "We participated in public consultations and conducted acoustic measurements and audio recordings before and after the pedestrianization. We also administered questionnaires to passers-by to evaluate their experience in the new pedestrian walkway, with an emphasis on soundscape and sonic expectations. We then provided recommendations to the borough on how to reinforce the purpose of this new space through sound. "
   contact_info: "For details, please contact: Daniel Steele, Catherine Guastavino"
   links:
     - url: ''
@@ -37,27 +37,35 @@
       name: 'montreal.ca/en/places/terrasses-roy-6507'
   publications:
     - url: ''
-      name: 'Bocksteal 2019-ICSV 2019 paper '
-  prev_url: ""
+      name: 'Bockstael A., Steele D. Trudeau C., Guastavino, C. (2019). Forever young: Is age of importance in urban soundscape design? Invited paper, Proceedings of the 26th International Congress on Sound and Vibration (ICSV26), Montr.al, QC, July 7–11'
+  prev_url: "project1"
   next_url: 'project2'
 
 
-- title: "English 1: English 1 NEW PUBLIC SPACE"
-  description: "A pedestrianization in the heart of the Plateau-Mont-Royal."
+- title: "Noise policy guidelines: Valeurs Guides"
+  description: "a project on environmental noise management in Quebec and internationally "
   location: "Plateau-Mont-Royal, Montreal, QC"
-  date: "Summer and Fall 2017"
-  image: "/assets/images/projects/project1.png"
+  date: "2018 - 2023"
+  image: "/assets/images/projects/ValeursGuide/SoundLevelMeterRoy_ChristineKerrigan.jpg"
   url: "project2"
-  fundings: "SSHRC-PDG grant"
-  collaborators: "City of Montreal (Arrondissement Plateau-Mont-Royal)"
-  name: "TERRASSES ROY"
+  fundings: "Quebec ministries of Health and Environment - Ministère de la Santé et des services sociaux (MSSS) and the Ministère du Développement durable, de l’Environnement et de la Lutte contre les changements climatiques (MDDELCC). "
+  collaborators: "Thomas Dupont (ETS), Johanne Brochu and F. Hubert (ULaval)"
+  name: "Noise policy guidelines: Valeurs Guides"
   tags:
-    - name: pedestrianizationTAGS
+    - name: noise policy   
       id: 'pedestrianizationTAGS'
-    - name: soundscape evaluation
-      id: 'soundscape_evaluation'
-    - name: City of Montreal
-      id: 'city_of_montreal'
+    - name: environmental noise
+      id: 'env_noise'
+    - name: policy review
+      id: 'policy_review'
+    - name: best practices
+      id: 'best_prac'
+    - name: noise limit
+      id: 'noise_limit'
+    - name: urban design
+      id: 'urban_design'
+    - name: urban planning 
+      id: 'urban_planning'
   before:
     image: '/assets/images/projects/project1_before.png'
     credits: 'Maryse Lavoie.'
@@ -66,39 +74,45 @@
     image: '/assets/images/projects/project1.png'
     credits: 'Maryse Lavoie.'
     alt: ""
-  brief: "The project removed traffic noise and created a new pedestrian walkway / seating area in a space where previously there was only a road.<br><br> It also created a new neighborhood space of meeting, often used by residents and visitors alike, who appreciate the greenery, increased sense of safety due to lack of cars, and the ‘quieter’ soundscape where cars are only audible in the distance."
-  about: "We collaborated with Ville de Montreal around the pedestrianization of rue Roy, in the heart of the Plateau-Mont-Royal borough. To create the Terrasses Roy, a section of the street was closed off to traffic and a temporary design was installed by design firm Castor et Pollux in the summer 2017. Four sections were created to invite visitors to relax and interact, including colourful street furniture, communal gardens, and a play area. This pilot project was very well received by the community and extended into the fall and winter of 2017. The space is currently being converted into a permanent outdoor meeting space around urban agriculture."
-  participation: "We participated in public consultations and conducted acoustic measurements and audio recordings before and after the pedestrianization. We also administered questionnaires to passers-by to evaluate their experience in the new pedestrian walkway, with an emphasis on soundscape and sonic expectations. We then provided recommendations to the borough on how to reinforce the purpose of this new space through sound."
-  contact_info: "For details, please contact: Daniel Steele, Catherine Guastavino"
+  brief: "Noise is a major pollutant of our time but its regulation in policies is often reactive, rarely harmonized across provinces, states or countries, and remains siloed. <br><br> Our project offers recommendations toward an integrated, pro-active approach to environmental noise management "
+  about: "Noise policies differ around the world and even within the same country, with various provinces or municipalities within the same province taking different approaches to noise management. In Quebec, noise policies focus on reactive strategies that focus on specific sound sources and their levels (and on reducing them) that distribute responsibilities at different levels of governance. <br><br> Since 2018, Sounds in the City has been working on a review on environmental noise management. The first part of the project, in collaboration with École de Technologie Supérieure, included a systematic review of noise policies around the world to identify best practices in terms of noise limit values, measurement protocols, and communications strategies, as well as a review of how low-level government (municipalities), address noise considerations in Quebec. The second part of the project, in collaboration with Université Laval, focused on how to best integrate sound considerations in urban design and practice, through Quebec and international case studies and interview with professionals of the built environments."
+  participation: "The diversity of noise levels included in policies, the varied (or lacking) protocols for measuring those levels as well as the often-siloed approach focusing on specific sources (like car traffic, recreational activities, or industry) addressed at different governmental levels makes environmental noise management a global challenge and limits the transferability of certain documented good practices. We formulated recommendations for our governmental partners on strategies for integrating sound in earlier stages of, for example, planning and design and for managing noise that are not exclusively reliant on noise levels, but rather focus on communication and education."
+  contact_info: "Josee Laplace (email), Edda Bild (email)"
   links:
-    - url: ''
-      name: 'electronslibres.telequebec.tv/episodes/35418'
-    - url: ''
-      name: 'montreal.ca/en/places/terrasses-roy'
-    - url: ''
-      name: 'montreal.ca/en/places/terrasses-roy-6507'
+    - url: 'https://ici.radiocanada.ca/tele/decouverte/site/episodes/520848/covid-ghgsat-methane-lune-pollution'
+      name: 'Société Radio-Canada (2021, April 28). A l’écoute de la ville – Emission Découverte [TV report with C. Guastavino]. <br><br>'
+    - url: 'https://ici.radio-canada.ca/ohdio/premiere/emissions/lesannees-lumiere/segments/reportage/390982/bruit-sante-pollution-nuit-paysageenvironnement-maladie'
+      name: 'Société Radio-Canada (2022, Feb. 18). Les effets néfastes du bruit sur la santé : les détails avec C. Srivastava – Emission Les années lumière [radio interview with C. Guastavino]. '
   publications:
     - url: ''
-      name: 'Bocksteal 2019-ICSV 2019 paper '
+      name: 'Tarlao, C., Leclerc, F., Brochu, J., & Guastavino, C. (2024). Current approaches to planning (with) sound. Science of The Total Environment, 931, 172826. <br><br>'
+    - url: 'https://www.utpjournals.press/doi/full/10.3138/cpp.2021-009'
+      name: 'Laplace, J., E. Bild, C. Trudeau, M. Perna,T. Dupont & C. Guastavino (2022). Encadrement du bruit environnemental au Canada. Canadian Public Policy / Analyses de politiques, 48(1), March, p. 74-90. <br><br>'
+    - url: ''
+      name: 'Trudeau, C, Bild, E., Guastavino, C. (accepted). Noise regulations and practices: A survey of Quebec municipalities. Urban Research and Practice. <br><br>'
+    - url: 'https://doi.org/10.3390/ijerph19010173'
+      name: 'Perna, M., Padois, T., Trudeau, C., Bild, E., Laplace, J.*, Dupont, T., & Guastavino, C. (2022). Comparison of road noise policies across Australia, Europe, and North America. International Journal of Environmental Research and Public Health, 19(1), 173'
   prev_url: "project1"
   next_url: 'project3'
 
-- title: "TEST SEARCH"
-  description: "A pedestrianization in the heart of the Plateau-Mont-Royal."
+- title: "The (water) misters of Fleurs de Macadam"
+  description: "Outcomes from adding water features in a pocket park"
   location: "Plateau-Mont-Royal, Montreal, QC"
-  date: "Summer and Fall 2017"
-  image: "/assets/images/projects/project1.png"
+  date: "Summer 2018"
+  image: "/assets/images/projects/Fleurs de Macadam sound art/Val_IMG_20190726_183158.jpg"
   url: "project3"
   fundings: "SSHRC-PDG grant"
-  collaborators: "City of Montreal (Arrondissement Plateau-Mont-Royal)"
-  name: "TERRASSES ROY"
+  collaborators: "City of Montreal (Arrondissement Plateau-Mont-Royal) "
+  name: "The (water) misters of Fleurs de Macadam"
   tags:
-    - name: pedestrianizationTAGS
-      id: 'pedestrianizationTAGS'
-    - name: soundscape evaluation
-      id: 'soundscape_evaluation'
+    - name: public space
+      id: 'public_space'
+    - name: water feature
+      id: 'water_feature'
     - name: City of Montreal
       id: 'city_of_montreal'
+    - name: pocket park
+      id: 'pocket_park'
   before:
     image: '/assets/images/projects/project1_before.png'
     credits: 'Maryse Lavoie.'
@@ -107,33 +121,27 @@
     image: '/assets/images/projects/project1.png'
     credits: 'Maryse Lavoie.'
     alt: ""
-  brief: "The project removed traffic noise and created a new pedestrian walkway / seating area in a space where previously there was only a road.<br><br> It also created a new neighborhood space of meeting, often used by residents and visitors alike, who appreciate the greenery, increased sense of safety due to lack of cars, and the ‘quieter’ soundscape where cars are only audible in the distance."
-  about: "We collaborated with Ville de Montreal around the pedestrianization of rue Roy, in the heart of the Plateau-Mont-Royal borough. To create the Terrasses Roy, a section of the street was closed off to traffic and a temporary design was installed by design firm Castor et Pollux in the summer 2017. Four sections were created to invite visitors to relax and interact, including colourful street furniture, communal gardens, and a play area. This pilot project was very well received by the community and extended into the fall and winter of 2017. The space is currently being converted into a permanent outdoor meeting space around urban agriculture."
-  participation: "We participated in public consultations and conducted acoustic measurements and audio recordings before and after the pedestrianization. We also administered questionnaires to passers-by to evaluate their experience in the new pedestrian walkway, with an emphasis on soundscape and sonic expectations. We then provided recommendations to the borough on how to reinforce the purpose of this new space through sound."
-  contact_info: "For details, please contact: Daniel Steele, Catherine Guastavino"
+  brief: "During the hot summer months, a water feature in a pocket park is attractive. But if it’s poorly designed, that water feature is just as likely to dissuade users from making use of the space."
+  about: "We conducted a summer-long study on a new public space the city was piloting – the Fleurs de Macadam pocket park, where three prototype designs, each featuring a misting water feature somewhere in the space, were tested. We wanted to see the effects of water features with varying degrees of audibility on how the park users evaluated their soundscapes and the lessons that could be learnt moving forward. <br><br> Through on-site surveys, we found that, on its own, a misting water feature is not a guarantee for an improved soundscape. While two of the designs were evaluated as less chaotic and less loud when the misters were on, the third design was the opposite, likely due to the way the misters were integrated in their designs: the misters for design 3 were located right in the gravel pathways, which often left a muddy, unusable space. <strong>Lesson #1: Like all other aspects of design, the design of the sound experience must be considered purposefully.</strong>"
+  participation: "Survey respondents who said they heard water sounds consistently rated them as pleasant. The sound from the misters recalled memories and experiences in the minds of the users of the space, like the cooling feeling of water on a hot summer day. Those recollections influenced the soundscape evaluations in a positive way. <strong>Lesson #2: consider the meanings the sound might evoke. </strong> <br><br> The truly surprising finding was that even when it was unlikely that respondents could hear the misters, their evaluations on how chaotic or loud the soundscape decreased compared to when the misters were not on. <strong> Lesson #3: misters don’t need to be audible to affect how the users of a public space evaluate the way it sounds. </strong>"
+  contact_info: "For details, please contact: Christopher Trudeau, Daniel Steele"
   links:
-    - url: ''
-      name: 'electronslibres.telequebec.tv/episodes/35418'
-    - url: ''
-      name: 'montreal.ca/en/places/terrasses-roy'
-    - url: ''
-      name: 'montreal.ca/en/places/terrasses-roy-6507'
   publications:
-    - url: ''
-      name: 'Bocksteal 2019-ICSV 2019 paper '
+    - url: 'https://doi.org/10.3389/fpsyg.2020.570797'
+      name: 'Trudeau, C., Steele, D., Guastavino, C. (2020). A tale of three misters: the effect of water features on soundscape assessments in a Montreal public space. Frontiers in Psychology, section Environmental Psychology. Research Topic: Human Perception of Environmental Sounds, 11: 570797.'
   prev_url: "project2"
   next_url: 'project4'
 
 
-- title: "English 1: English 1 NEW PUBLIC SPACE"
-  description: "A pedestrianization in the heart of the Plateau-Mont-Royal."
-  location: "Plateau-Mont-Royal, Montreal, QC"
-  date: "Summer and Fall 2017"
-  image: "/assets/images/projects/project1.png"
+- title: "Co-designing soundscapes of public spaces "
+  description: "Conducting workshops to help determine the technology needs of professionals  "
+  location: ""
+  date: "Summer 2019"
+  image: "/assets/images/projects/Street Performances and the Quality of Urban Public Space/Musician in the park.png"
   url: "project4"
   fundings: "SSHRC-PDG grant"
   collaborators: "City of Montreal (Arrondissement Plateau-Mont-Royal)"
-  name: "TERRASSES ROY"
+  name: ""
   tags:
     - name: pedestrianizationTAGS
       id: 'pedestrianizationTAGS'
@@ -164,4 +172,334 @@
     - url: ''
       name: 'Bocksteal 2019-ICSV 2019 paper '
   prev_url: "project3"
-  next_url: ''
+  next_url: 'project5'
+
+- title: "Translating soundscape scales"
+  description: "local and global projects to improve the way we measure soundscape across languages"
+  location: ""
+  date: "2015 – ongoing"
+  image: "/assets/images/projects/translation/TranslationCCommons.jpeg"
+  url: "project5"
+  fundings: "SSHRC-PDG grant"
+  collaborators: "City of Montreal (Arrondissement Plateau-Mont-Royal)"
+  name: ""
+  tags:
+    - name: pedestrianizationTAGS
+      id: 'pedestrianizationTAGS'
+    - name: soundscape evaluation
+      id: 'soundscape_evaluation'
+    - name: City of Montreal
+      id: 'city_of_montreal'
+  before:
+    image: '/assets/images/projects/project1_before.png'
+    credits: 'Maryse Lavoie.'
+    alt: ""
+  after:
+    image: '/assets/images/projects/project1.png'
+    credits: 'Maryse Lavoie.'
+    alt: ""
+  brief: "The project removed traffic noise and created a new pedestrian walkway / seating area in a space where previously there was only a road.<br><br> It also created a new neighborhood space of meeting, often used by residents and visitors alike, who appreciate the greenery, increased sense of safety due to lack of cars, and the ‘quieter’ soundscape where cars are only audible in the distance."
+  about: "We collaborated with Ville de Montreal around the pedestrianization of rue Roy, in the heart of the Plateau-Mont-Royal borough. To create the Terrasses Roy, a section of the street was closed off to traffic and a temporary design was installed by design firm Castor et Pollux in the summer 2017. Four sections were created to invite visitors to relax and interact, including colourful street furniture, communal gardens, and a play area. This pilot project was very well received by the community and extended into the fall and winter of 2017. The space is currently being converted into a permanent outdoor meeting space around urban agriculture."
+  participation: "We participated in public consultations and conducted acoustic measurements and audio recordings before and after the pedestrianization. We also administered questionnaires to passers-by to evaluate their experience in the new pedestrian walkway, with an emphasis on soundscape and sonic expectations. We then provided recommendations to the borough on how to reinforce the purpose of this new space through sound."
+  contact_info: "For details, please contact: Daniel Steele, Catherine Guastavino"
+  links:
+    - url: ''
+      name: 'electronslibres.telequebec.tv/episodes/35418'
+    - url: ''
+      name: 'montreal.ca/en/places/terrasses-roy'
+    - url: ''
+      name: 'montreal.ca/en/places/terrasses-roy-6507'
+  publications:
+    - url: ''
+      name: 'Bocksteal 2019-ICSV 2019 paper '
+  prev_url: "project4"
+  next_url: 'project6'
+
+- title: "What should a restaurant sound like?"
+  description: "improving the soundscape of restaurants"
+  location: ""
+  date: "Summer 2015; Fall 2020 - Winter 2021"
+  image: "/assets/images/projects/restaurant/restaurant-ithq-sherbrooke-montreal-14.jpg"
+  url: "project6"
+  fundings: "SSHRC-PDG grant"
+  collaborators: "City of Montreal (Arrondissement Plateau-Mont-Royal)"
+  name: ""
+  tags:
+    - name: pedestrianizationTAGS
+      id: 'pedestrianizationTAGS'
+    - name: soundscape evaluation
+      id: 'soundscape_evaluation'
+    - name: City of Montreal
+      id: 'city_of_montreal'
+  before:
+    image: '/assets/images/projects/project1_before.png'
+    credits: 'Maryse Lavoie.'
+    alt: ""
+  after:
+    image: '/assets/images/projects/project1.png'
+    credits: 'Maryse Lavoie.'
+    alt: ""
+  brief: "The project removed traffic noise and created a new pedestrian walkway / seating area in a space where previously there was only a road.<br><br> It also created a new neighborhood space of meeting, often used by residents and visitors alike, who appreciate the greenery, increased sense of safety due to lack of cars, and the ‘quieter’ soundscape where cars are only audible in the distance."
+  about: "We collaborated with Ville de Montreal around the pedestrianization of rue Roy, in the heart of the Plateau-Mont-Royal borough. To create the Terrasses Roy, a section of the street was closed off to traffic and a temporary design was installed by design firm Castor et Pollux in the summer 2017. Four sections were created to invite visitors to relax and interact, including colourful street furniture, communal gardens, and a play area. This pilot project was very well received by the community and extended into the fall and winter of 2017. The space is currently being converted into a permanent outdoor meeting space around urban agriculture."
+  participation: "We participated in public consultations and conducted acoustic measurements and audio recordings before and after the pedestrianization. We also administered questionnaires to passers-by to evaluate their experience in the new pedestrian walkway, with an emphasis on soundscape and sonic expectations. We then provided recommendations to the borough on how to reinforce the purpose of this new space through sound."
+  contact_info: "For details, please contact: Daniel Steele, Catherine Guastavino"
+  links:
+    - url: ''
+      name: 'electronslibres.telequebec.tv/episodes/35418'
+    - url: ''
+      name: 'montreal.ca/en/places/terrasses-roy'
+    - url: ''
+      name: 'montreal.ca/en/places/terrasses-roy-6507'
+  publications:
+    - url: ''
+      name: 'Bocksteal 2019-ICSV 2019 paper '
+  prev_url: "project5"
+  next_url: 'project7'
+
+- title: "Prototyping a codesign sound sketchpad"
+  description: "developing technologies with and for professionals of the built environment"
+  location: ""
+  date: "Spring 2019 – Summer 2019"
+  image: "/assets/images/projects/Codesign sketch pad/DSC_1272.jpeg"
+  url: "project7"
+  fundings: "SSHRC-PDG grant"
+  collaborators: "City of Montreal (Arrondissement Plateau-Mont-Royal)"
+  name: ""
+  tags:
+    - name: pedestrianizationTAGS
+      id: 'pedestrianizationTAGS'
+    - name: soundscape evaluation
+      id: 'soundscape_evaluation'
+    - name: City of Montreal
+      id: 'city_of_montreal'
+  before:
+    image: '/assets/images/projects/project1_before.png'
+    credits: 'Maryse Lavoie.'
+    alt: ""
+  after:
+    image: '/assets/images/projects/project1.png'
+    credits: 'Maryse Lavoie.'
+    alt: ""
+  brief: "The project removed traffic noise and created a new pedestrian walkway / seating area in a space where previously there was only a road.<br><br> It also created a new neighborhood space of meeting, often used by residents and visitors alike, who appreciate the greenery, increased sense of safety due to lack of cars, and the ‘quieter’ soundscape where cars are only audible in the distance."
+  about: "We collaborated with Ville de Montreal around the pedestrianization of rue Roy, in the heart of the Plateau-Mont-Royal borough. To create the Terrasses Roy, a section of the street was closed off to traffic and a temporary design was installed by design firm Castor et Pollux in the summer 2017. Four sections were created to invite visitors to relax and interact, including colourful street furniture, communal gardens, and a play area. This pilot project was very well received by the community and extended into the fall and winter of 2017. The space is currently being converted into a permanent outdoor meeting space around urban agriculture."
+  participation: "We participated in public consultations and conducted acoustic measurements and audio recordings before and after the pedestrianization. We also administered questionnaires to passers-by to evaluate their experience in the new pedestrian walkway, with an emphasis on soundscape and sonic expectations. We then provided recommendations to the borough on how to reinforce the purpose of this new space through sound."
+  contact_info: "For details, please contact: Daniel Steele, Catherine Guastavino"
+  links:
+    - url: ''
+      name: 'electronslibres.telequebec.tv/episodes/35418'
+    - url: ''
+      name: 'montreal.ca/en/places/terrasses-roy'
+    - url: ''
+      name: 'montreal.ca/en/places/terrasses-roy-6507'
+  publications:
+    - url: ''
+      name: 'Bocksteal 2019-ICSV 2019 paper '
+  prev_url: "project6"
+  next_url: 'project8'
+
+- title: "COVID-19 and Sound"
+  description: "Getting a taste of the quiet we thought we wanted"
+  location: ""
+  date: "2020 - 2023"
+  image: "/assets/images/projects/COVID19/QDSlockdown.jpg"
+  url: "project8"
+  fundings: "SSHRC-PDG grant"
+  collaborators: "City of Montreal (Arrondissement Plateau-Mont-Royal)"
+  name: ""
+  tags:
+    - name: pedestrianizationTAGS
+      id: 'pedestrianizationTAGS'
+    - name: soundscape evaluation
+      id: 'soundscape_evaluation'
+    - name: City of Montreal
+      id: 'city_of_montreal'
+  before:
+    image: '/assets/images/projects/project1_before.png'
+    credits: 'Maryse Lavoie.'
+    alt: ""
+  after:
+    image: '/assets/images/projects/project1.png'
+    credits: 'Maryse Lavoie.'
+    alt: ""
+  brief: "The project removed traffic noise and created a new pedestrian walkway / seating area in a space where previously there was only a road.<br><br> It also created a new neighborhood space of meeting, often used by residents and visitors alike, who appreciate the greenery, increased sense of safety due to lack of cars, and the ‘quieter’ soundscape where cars are only audible in the distance."
+  about: "We collaborated with Ville de Montreal around the pedestrianization of rue Roy, in the heart of the Plateau-Mont-Royal borough. To create the Terrasses Roy, a section of the street was closed off to traffic and a temporary design was installed by design firm Castor et Pollux in the summer 2017. Four sections were created to invite visitors to relax and interact, including colourful street furniture, communal gardens, and a play area. This pilot project was very well received by the community and extended into the fall and winter of 2017. The space is currently being converted into a permanent outdoor meeting space around urban agriculture."
+  participation: "We participated in public consultations and conducted acoustic measurements and audio recordings before and after the pedestrianization. We also administered questionnaires to passers-by to evaluate their experience in the new pedestrian walkway, with an emphasis on soundscape and sonic expectations. We then provided recommendations to the borough on how to reinforce the purpose of this new space through sound."
+  contact_info: "For details, please contact: Daniel Steele, Catherine Guastavino"
+  links:
+    - url: ''
+      name: 'electronslibres.telequebec.tv/episodes/35418'
+    - url: ''
+      name: 'montreal.ca/en/places/terrasses-roy'
+    - url: ''
+      name: 'montreal.ca/en/places/terrasses-roy-6507'
+  publications:
+    - url: ''
+      name: 'Bocksteal 2019-ICSV 2019 paper '
+  prev_url: "project7"
+  next_url: 'project9'
+
+- title: "Context matters"
+  description: "investigating the factors that shape urban sound experiences"
+  location: ""
+  date: "2015 – 2021"
+  image: "/assets/images/projects/context matters/962-Mont-Royal-intervention.jpg"
+  url: "project9"
+  fundings: "SSHRC-PDG grant"
+  collaborators: "City of Montreal (Arrondissement Plateau-Mont-Royal)"
+  name: ""
+  tags:
+    - name: pedestrianizationTAGS
+      id: 'pedestrianizationTAGS'
+    - name: soundscape evaluation
+      id: 'soundscape_evaluation'
+    - name: City of Montreal
+      id: 'city_of_montreal'
+  before:
+    image: '/assets/images/projects/project1_before.png'
+    credits: 'Maryse Lavoie.'
+    alt: ""
+  after:
+    image: '/assets/images/projects/project1.png'
+    credits: 'Maryse Lavoie.'
+    alt: ""
+  brief: "The project removed traffic noise and created a new pedestrian walkway / seating area in a space where previously there was only a road.<br><br> It also created a new neighborhood space of meeting, often used by residents and visitors alike, who appreciate the greenery, increased sense of safety due to lack of cars, and the ‘quieter’ soundscape where cars are only audible in the distance."
+  about: "We collaborated with Ville de Montreal around the pedestrianization of rue Roy, in the heart of the Plateau-Mont-Royal borough. To create the Terrasses Roy, a section of the street was closed off to traffic and a temporary design was installed by design firm Castor et Pollux in the summer 2017. Four sections were created to invite visitors to relax and interact, including colourful street furniture, communal gardens, and a play area. This pilot project was very well received by the community and extended into the fall and winter of 2017. The space is currently being converted into a permanent outdoor meeting space around urban agriculture."
+  participation: "We participated in public consultations and conducted acoustic measurements and audio recordings before and after the pedestrianization. We also administered questionnaires to passers-by to evaluate their experience in the new pedestrian walkway, with an emphasis on soundscape and sonic expectations. We then provided recommendations to the borough on how to reinforce the purpose of this new space through sound."
+  contact_info: "For details, please contact: Daniel Steele, Catherine Guastavino"
+  links:
+    - url: ''
+      name: 'electronslibres.telequebec.tv/episodes/35418'
+    - url: ''
+      name: 'montreal.ca/en/places/terrasses-roy'
+    - url: ''
+      name: 'montreal.ca/en/places/terrasses-roy-6507'
+  publications:
+    - url: ''
+      name: 'Bocksteal 2019-ICSV 2019 paper '
+  prev_url: "project8"
+  next_url: 'project10'
+
+- title: "Sonic inquiry in Urban Research"
+  description: "Advancing policy analysis and design through sound planning tools"
+  location: ""
+  date: "2021 - Ongoing"
+  image: "/assets/images/projects/soninurb/Soninurb.jpg"
+  url: "project10"
+  fundings: "SSHRC-PDG grant"
+  collaborators: "City of Montreal (Arrondissement Plateau-Mont-Royal)"
+  name: ""
+  tags:
+    - name: pedestrianizationTAGS
+      id: 'pedestrianizationTAGS'
+    - name: soundscape evaluation
+      id: 'soundscape_evaluation'
+    - name: City of Montreal
+      id: 'city_of_montreal'
+  before:
+    image: '/assets/images/projects/project1_before.png'
+    credits: 'Maryse Lavoie.'
+    alt: ""
+  after:
+    image: '/assets/images/projects/project1.png'
+    credits: 'Maryse Lavoie.'
+    alt: ""
+  brief: "The project removed traffic noise and created a new pedestrian walkway / seating area in a space where previously there was only a road.<br><br> It also created a new neighborhood space of meeting, often used by residents and visitors alike, who appreciate the greenery, increased sense of safety due to lack of cars, and the ‘quieter’ soundscape where cars are only audible in the distance."
+  about: "We collaborated with Ville de Montreal around the pedestrianization of rue Roy, in the heart of the Plateau-Mont-Royal borough. To create the Terrasses Roy, a section of the street was closed off to traffic and a temporary design was installed by design firm Castor et Pollux in the summer 2017. Four sections were created to invite visitors to relax and interact, including colourful street furniture, communal gardens, and a play area. This pilot project was very well received by the community and extended into the fall and winter of 2017. The space is currently being converted into a permanent outdoor meeting space around urban agriculture."
+  participation: "We participated in public consultations and conducted acoustic measurements and audio recordings before and after the pedestrianization. We also administered questionnaires to passers-by to evaluate their experience in the new pedestrian walkway, with an emphasis on soundscape and sonic expectations. We then provided recommendations to the borough on how to reinforce the purpose of this new space through sound."
+  contact_info: "For details, please contact: Daniel Steele, Catherine Guastavino"
+  links:
+    - url: ''
+      name: 'electronslibres.telequebec.tv/episodes/35418'
+    - url: ''
+      name: 'montreal.ca/en/places/terrasses-roy'
+    - url: ''
+      name: 'montreal.ca/en/places/terrasses-roy-6507'
+  publications:
+    - url: ''
+      name: 'Bocksteal 2019-ICSV 2019 paper '
+  prev_url: "project9"
+  next_url: 'project11'
+
+- title: "Recreation vs. Residence: Sonic Cohabitation in downtown Montreal (ListenUpMTL / ÉcoutezMTL)"
+  description: "researching sonic cohabitation on pedestrianized streets during COVID-19"
+  location: ""
+  date: "Spring 2021 – Spring 2022"
+  image: "/assets/images/projects/recreation v residence/IMG_1848_QdS_CreditsFXFeron.JPG"
+  url: "project11"
+  fundings: "SSHRC-PDG grant"
+  collaborators: "City of Montreal (Arrondissement Plateau-Mont-Royal)"
+  name: ""
+  tags:
+    - name: pedestrianizationTAGS
+      id: 'pedestrianizationTAGS'
+    - name: soundscape evaluation
+      id: 'soundscape_evaluation'
+    - name: City of Montreal
+      id: 'city_of_montreal'
+  before:
+    image: '/assets/images/projects/project1_before.png'
+    credits: 'Maryse Lavoie.'
+    alt: ""
+  after:
+    image: '/assets/images/projects/project1.png'
+    credits: 'Maryse Lavoie.'
+    alt: ""
+  brief: "The project removed traffic noise and created a new pedestrian walkway / seating area in a space where previously there was only a road.<br><br> It also created a new neighborhood space of meeting, often used by residents and visitors alike, who appreciate the greenery, increased sense of safety due to lack of cars, and the ‘quieter’ soundscape where cars are only audible in the distance."
+  about: "We collaborated with Ville de Montreal around the pedestrianization of rue Roy, in the heart of the Plateau-Mont-Royal borough. To create the Terrasses Roy, a section of the street was closed off to traffic and a temporary design was installed by design firm Castor et Pollux in the summer 2017. Four sections were created to invite visitors to relax and interact, including colourful street furniture, communal gardens, and a play area. This pilot project was very well received by the community and extended into the fall and winter of 2017. The space is currently being converted into a permanent outdoor meeting space around urban agriculture."
+  participation: "We participated in public consultations and conducted acoustic measurements and audio recordings before and after the pedestrianization. We also administered questionnaires to passers-by to evaluate their experience in the new pedestrian walkway, with an emphasis on soundscape and sonic expectations. We then provided recommendations to the borough on how to reinforce the purpose of this new space through sound."
+  contact_info: "For details, please contact: Daniel Steele, Catherine Guastavino"
+  links:
+    - url: ''
+      name: 'electronslibres.telequebec.tv/episodes/35418'
+    - url: ''
+      name: 'montreal.ca/en/places/terrasses-roy'
+    - url: ''
+      name: 'montreal.ca/en/places/terrasses-roy-6507'
+  publications:
+    - url: ''
+      name: 'Bocksteal 2019-ICSV 2019 paper '
+  prev_url: "project10"
+  next_url: 'project12'
+
+- title: "Industry vs. Residence: Sonic Cohabitation in Assumption Sud-Longue Pointe"
+  description: "Investigating sonic cohabitation around the port of Montreal"
+  location: ""
+  date: "Spring 2022 – Spring 2023; Spring 2024 – Spring 2025"
+  image: "/assets/images/projects/industry v residence/Port-port.jpeg"
+  url: "project12"
+  fundings: "SSHRC-PDG grant"
+  collaborators: "City of Montreal (Arrondissement Plateau-Mont-Royal)"
+  name: ""
+  tags:
+    - name: pedestrianizationTAGS
+      id: 'pedestrianizationTAGS'
+    - name: soundscape evaluation
+      id: 'soundscape_evaluation'
+    - name: City of Montreal
+      id: 'city_of_montreal'
+  before:
+    image: '/assets/images/projects/project1_before.png'
+    credits: 'Maryse Lavoie.'
+    alt: ""
+  after:
+    image: '/assets/images/projects/project1.png'
+    credits: 'Maryse Lavoie.'
+    alt: ""
+  brief: "The project removed traffic noise and created a new pedestrian walkway / seating area in a space where previously there was only a road.<br><br> It also created a new neighborhood space of meeting, often used by residents and visitors alike, who appreciate the greenery, increased sense of safety due to lack of cars, and the ‘quieter’ soundscape where cars are only audible in the distance."
+  about: "We collaborated with Ville de Montreal around the pedestrianization of rue Roy, in the heart of the Plateau-Mont-Royal borough. To create the Terrasses Roy, a section of the street was closed off to traffic and a temporary design was installed by design firm Castor et Pollux in the summer 2017. Four sections were created to invite visitors to relax and interact, including colourful street furniture, communal gardens, and a play area. This pilot project was very well received by the community and extended into the fall and winter of 2017. The space is currently being converted into a permanent outdoor meeting space around urban agriculture."
+  participation: "We participated in public consultations and conducted acoustic measurements and audio recordings before and after the pedestrianization. We also administered questionnaires to passers-by to evaluate their experience in the new pedestrian walkway, with an emphasis on soundscape and sonic expectations. We then provided recommendations to the borough on how to reinforce the purpose of this new space through sound."
+  contact_info: "For details, please contact: Daniel Steele, Catherine Guastavino"
+  links:
+    - url: ''
+      name: 'electronslibres.telequebec.tv/episodes/35418'
+    - url: ''
+      name: 'montreal.ca/en/places/terrasses-roy'
+    - url: ''
+      name: 'montreal.ca/en/places/terrasses-roy-6507'
+  publications:
+    - url: ''
+      name: 'Bocksteal 2019-ICSV 2019 paper '
+  prev_url: "project10"
+  next_url: 'project12'
+
+
