@@ -45,5 +45,31 @@
     <div class="scroll-to-top" id="scroll-top">
       <img src="/assets/images/icons/arrow-up.svg" alt="arrow-up" />
     </div>
+    <script>
+      document.addEventListener('DOMContentLoaded', function () {
+        const scrollToTopButton = document.getElementById('scroll-top');
+        const listItems = document.querySelectorAll('.list-item');
+        const lastListItem = listItems[listItems.length - 1];
+
+        window.addEventListener('scroll', function () {
+          const lastItemRect = lastListItem.getBoundingClientRect();
+          const lastItemVisible = lastItemRect.bottom <= window.innerHeight;
+
+          if (window.scrollY > window.innerHeight && lastItemVisible) {
+            scrollToTopButton.classList.add('visible');
+          } else {
+            scrollToTopButton.classList.remove('visible');
+          }
+        });
+
+        scrollToTopButton.addEventListener('click', function () {
+          window.scrollTo({
+            top: 0,
+            behavior: 'smooth'
+          });
+        });
+      });
+
+    </script>
   </div>
 </div>

@@ -121,6 +121,60 @@ soundscape:
     communities are subject to more stringent policing, and more likely to be
     exposed to higher noise levels."
 
+  cards:
+    list1:
+      - id: 1
+        img_src: '/assets/images/soundscape principles/1-fountains-creditChristineKerrigan.JPG'
+        subtitle: 'SOUND IS MORE THAN JUST NOISE'
+        description: 'Depending on the context, some sounds can annoy or distract us, while others can help us orient ourselves, relax, and/or energize. Sound is an environmental resource.'
+
+      - id: 2
+        img_src: '/assets/images/soundscape principles/2-traffic-creditDanielSteele.png'
+        subtitle: 'SOUND DOES NOT EXIST IN A VACUUM'
+        description: 'Sound exists in relation to other senses and as a part of broader systems. For example, think about how decisions about shared streets will shape the sound environment.'
+
+      - id: 3
+        img_src: '/assets/images/soundscape principles/3-tamtams-creditMatiasGarabedian.jpg'
+        subtitle: 'WE ALL EXPERIENCE SOUND DIFFERENTLY'
+        description: 'The personal, social, and cultural background will change how people make and experience sound.'
+
+      - id: 4
+        img_src: '/assets/images/soundscape principles/4-measurements-creditEddaBild.jpg'
+        subtitle: 'DIALOGUE IS ESSENTIAL'
+        description: 'Creating sound awareness is key. We all play an active part in shaping soundscapes around us, we are not just affected by sounds. We often think about the noise of other people, but it is a shared responsibility. Think about your cell phone conversation in public transit, could other passengers hear it? Have you ever been annoyed by construction noise in your neighbourhood without prior notice?'
+
+      - id: 5
+        img_src: '/assets/images/soundscape principles/5-guitar-creditCynthiaTarlao.jpeg'
+        subtitle: 'SOUNDSCAPES ARE LINKED WITH ENVIRONMENTAL (IN)JUSTICE'
+        description: 'Vulnerable groups are more exposed to noise. We don’t all have the same access to soundscapes of ‘high quality’.'
+
+    list2:
+      - id: 6
+        img_src: '/assets/images/soundscape principles/6-mockup-creditPetersenStudio.png'
+        subtitle: 'SOUND LEVELS CAPTURE ONLY PART OF THE STORY'
+        description: 'Noise exposure can affect our health and most of the time, we don’t even realize it. But it is not just about how loud it is, other properties (temporal evolution, spectral content) affect perception, Most importantly the meaning attributed to sounds and who makes them. 55dB of your favorite music doesn’t feel the same as 55dB of traffic/construction.'
+
+      - id: 7
+        img_src: '/assets/images/soundscape principles/7-soundwalk-creditChristineKerrigan.jpg'
+        subtitle: 'SOUND REFLECTS LIFE'
+        description: 'Quiet is not always the goal, as sounds can animate spaces. Sound is the soul of the city / heartbeat of the city. Can you imagine a festival or bustling street without sound? A morning walk in the park without birds?'
+
+      - id: 8
+        img_src: '/assets/images/soundscape principles/8-Lyon-creditRomainBehar.jpg'
+        subtitle: 'SOUNDSCAPES ARE DYNAMIC'
+        description: 'Soundscapes change over time, space, and use and user. Consider the sounds around you at different times of the day, in different seasons, in different locations.'
+
+      - id: 9
+        img_src: '/assets/images/soundscape principles/9-plane-creditUSNationalArchivesandRecordsAdministration.jpg'
+        subtitle: 'SOUNDSCAPES SUPPORT OR HINDER WHAT PEOPLE DO AND FEEL'
+        description: 'What do you do when you can’t hear the person you are talking to in a restaurant because it is too loud? Conversely, do you feel energized at a concert or relaxed when you walk along a waterfront?'
+
+      - id: 10
+        img_src: '/assets/images/soundscape principles/10-festival-creditChristineKerrigan.JPG'
+        subtitle: 'SOUND CONTRIBUTES TO A SENSE OF PLACE'
+        description: 'Think about important sounds valued by your community (e.g., street vendors, cow bells). Sound can help reinforce the identity of, and attachment to, a place.'
+
+
 projects:
   title: PROJECTS LIST
   description: "projects description"
