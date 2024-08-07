@@ -1,10 +1,7 @@
 function filterProjects() {
   const projects = document.querySelectorAll(".list-item");
   if (projects?.length) {
-    const tagsContainer = document.getElementById("searchTags");
-    const filterTags = Array.from(tagsContainer.childNodes).map((tag) =>
-      tag.dataset.value.toLowerCase()
-    );
+    const filterTags = [...new Set(Array.from(document.querySelectorAll(".search-tag.active")).map((tag) => tag.dataset.value.toLowerCase()))];
     let visibleCount = 0;
     if (filterTags.length > 0) {
       // Apply filters only if there are tags
@@ -48,6 +45,13 @@ document.addEventListener("DOMContentLoaded", function () {
   const input = document.getElementById("searchInput");
   const form = document.getElementById("searchForm");
   const icon = document.getElementById("searchIcon");
+
+  addTag("Indoor spaces", "disabled");
+  addTag("Policy and planning", "disabled");
+  addTag("Public outreach", "disabled");
+  addTag("Public spaces", "disabled");
+  addTag("Simulation", "disabled");
+  addTag("Sound art", "disabled");
   if (form) {
     form.addEventListener("submit", handleKeyPress);
   }
@@ -68,22 +72,26 @@ document.addEventListener("DOMContentLoaded", function () {
     const input = document.getElementById("searchInput");
     const value = input.value.trim();
     if (value) {
-      addTag(value);
+      addTag(value, "active");
       input.value = ""; // Clear input after adding tag
       filterProjects();
     }
   }
 
-  function addTag(value) {
+  function addTag(value, status) {
     const tagsContainer = document.getElementById("searchTags");
     if (tagsContainer) {
       const tag = document.createElement("div");
       tag.className = "search-tag";
       tag.textContent = value;
       tag.dataset.value = value;
+      tag.classList.add(status);
       const closeBtn = document.createElement("span");
       closeBtn.textContent = "×";
       closeBtn.className = "x-icon";
+      if(status == "disabled"){
+        closeBtn.classList.add("disabled");
+      }
       closeBtn.onclick = function () {
         tagsContainer.removeChild(tag);
         filterProjects();
@@ -96,6 +104,19 @@ document.addEventListener("DOMContentLoaded", function () {
       } else {
         tagsContainer.classList.remove("space-t");
       }
+      tag.onclick = function (){
+        if(tag.classList.contains("active")){
+          tag.classList.remove("active");
+          tag.classList.add("disabled");
+          filterProjects();
+        } else if (tag.classList.contains("disabled")){
+          tag.classList.remove("disabled");
+          tag.classList.add("active");
+          filterProjects();
+        }
+        
+      }
     }
   }
+
 });
