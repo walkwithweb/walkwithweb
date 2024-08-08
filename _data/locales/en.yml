@@ -53,32 +53,32 @@ soundscape:
   title: Why sound matters?
   description: Often described as the “new secondhand smoke”, <strong>noise is a major pollutant</strong> of our time, with consequences ranging from annoyance and hearing loss to early death. Poor noise management also has environmental consequences as precious resources and space are wasted.
   p1:
-    - url: "/assets/audios/1.mp3"
+    - url: "/assets/audios/SoundFile1_SoundscapePage_TamTamMontRoyal.mp3"
       id: "audio-1"
-      name: "Sounds of A busy road"
-      credits: "V. Fraisse, 2023."
-      album: "Le Plateau, Mont Royal, Montréal."
+      name: "Tam-tams in Mount Royal Park: A Montreal soundmark"
+      credits: "Mariana Mejia Ahrens, 2019"
+      album: "Recorded around the George-Étienne Cartier Monument"
 
-    - url: "/assets/audios/1.mp3"
+    - url: "/assets/audios/SoundFile2_SoundscapePage_TakingBreak.mp3"
       id: "audio-2"
-      name: "MONTREAL CITY CENTER"
-      credits: "V. Fraisse, 2023."
-      album: "Place des Arts, Montréal."
+      name: "Taking a break with the birds in a Montreal pocket park"
+      credits: "Catherine Guastavino, 2020"
+      album: "Recorded at park Palomino-Brind’Amour, Plateau Mont-Royal"
 
-    - url: "/assets/audios/1.mp3"
+    - url: "/assets/audios/SoundFile3_SoundscapePage_ConstructionTraffic.mp3"
       id: "audio-3"
-      name: "MONTREAL CITY CENTER"
-      credits: "V. Fraisse, 2023."
-      album: "Place des Arts, Montréal."
+      name: "Construction and traffic noise"
+      credits: "Valérian. Fraisse, 2019."
+      album: "Recorded at Fleurs-de-Macadam, Plateau Mont-Royal"
 
   p2:
-    - url: "/assets/audios/1.mp3"
+    - url: "/assets/audios/SoundFile1_SoundscapePage_TamTamMontRoyal.mp3"
       id: "audio-11"
       name: "Sounds of A busy road"
       credits: "V. Fraisse, 2023."
       album: "Le Plateau, Mont Royal, Montréal."
 
-    - url: "/assets/audios/1.mp3"
+    - url: "/assets/audios/SoundFile1_SoundscapePage_TamTamMontRoyal.mp3"
       id: "audio-22"
       name: "MONTREAL CITY CENTER"
       credits: "V. Fraisse, 2023."
@@ -173,7 +173,15 @@ soundscape:
         img_src: '/assets/images/soundscape principles/10-festival-creditChristineKerrigan.JPG'
         subtitle: 'SOUND CONTRIBUTES TO A SENSE OF PLACE'
         description: 'Think about important sounds valued by your community (e.g., street vendors, cow bells). Sound can help reinforce the identity of, and attachment to, a place.'
-
+  steps:
+  - id: 1
+    title: '1 in 5 people are highly annoyed with noise'
+  - id: 2
+    title: 'Noise is the second worst environmental risk factor (after air pollution)'
+  - id: 3
+    title: 'Quality sound environments can help relieve stress.'
+  - id: 4
+    title: 'Sound can animate public space.'
 
 projects:
   title: PROJECTS LIST

@@ -69,13 +69,15 @@
     </div>
     <div class="container">
       <div class="steps-wrapper">
+        {% for step in t.steps %}
         <div class="step">
-          <h3 class="title">1</h3>
+          <h3 class="title">{{step.id}}</h3>
           <p class="info">
-            1 in 5 people are highly annoyed with noise.
+            {{step.title}}
           </p>
         </div>
-        <div class="step">
+        {% endfor %}
+        <!-- <div class="step">
           <h3 class="title">2</h3>
           <p class="info">
             Noise is the second worst environmental risk factor (after air pollution).
@@ -92,7 +94,7 @@
           <p class="info">
             Sound can animate public space.
           </p>
-        </div>
+        </div> -->
       </div>
     </div>
   </div>
