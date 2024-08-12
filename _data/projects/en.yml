@@ -344,7 +344,7 @@
   date: "2015 – 2021"
   image: "/assets/images/projects/context matters/962-Mont-Royal-intervention.jpg"
   url: "project9"
-  fundings: "SSHRC-PDG grant"
+  fundings: "CRSH"
   collaborators: "City of Montreal (Arrondissement Plateau-Mont-Royal)"
   name: ""
   tags:
@@ -906,11 +906,11 @@ Sounds in the City started a collaboration with the City of Montreal and Montrea
       id: 'knowledge_mobilization'
   before:
     image: '/assets/images/projects/engaging_sound_before.jpg'
-    credits: 'Photographer Name'
+    credits: ''
     alt: "Participants engaging in a sound-related workshop before the project"
   after:
     image: '/assets/images/projects/engaging_sound_after.jpg'
-    credits: 'Photographer Name'
+    credits: ''
     alt: "Participants engaging in a sound-related workshop after the project"
   brief: "We mobilize sound knowledge with professionals and the public through an array of activities. Different strategies create sound awareness in different ways, with different levels of participation and immersion."
   about: "Our team has been conducting workshops and soundwalks, giving demonstrations and presentations in schools, workplaces, festivals, and community centers. We also participate in public consultation activities, working groups, and professional training, and disseminate our research findings in the media (press, TV, radio, blogs, social media) through videos, pamphlets, and comic books. Additionally, we develop soundscape simulation tools for different users (general public and professionals of the built environment)."
@@ -952,11 +952,11 @@ Sounds in the City started a collaboration with the City of Montreal and Montrea
       id: 'equity'
   before:
     image: '/assets/images/projects/sonic_injustice_before.jpg'
-    credits: 'Photographer Name'
+    credits: ''
     alt: "A low-income neighborhood affected by noise pollution"
   after:
     image: '/assets/images/projects/sonic_injustice_after.jpg'
-    credits: 'Photographer Name'
+    credits: ''
     alt: "An outdoor space providing respite from urban noise"
   brief: "Low income and racialized groups are often overexposed to noise in their homes. They may also have less access to outdoor spaces where they can escape from noise."
   about: "The sounds that fill our everyday lives matter for our health and wellbeing. Undesirable sounds, which we refer to as noise, can have negative auditory and non-auditory health effects, as well as reducing our overall quality of life. Spaces with desirable sounds, such as nature or festivals, can reduce stress levels, helping to improve overall health and wellbeing. Some people are more vulnerable to the effects of environmental problems like noise than others because of who they are, including children, people with low income and racialized people. We’re studying the inequalities faced by these groups in two areas: 1) exposure to noise and 2) access to health-promoting sonic environments. In many cities and regions around the world, low-income and racialized groups are often overexposed to noise in their homes. Early evidence suggests that they may have less access to sonic environments that enable them to de-stress."
@@ -998,11 +998,11 @@ Sounds in the City started a collaboration with the City of Montreal and Montrea
       id: "emerging-technologies"
   before:
     image: '/assets/images/projects/City Ditty/before.jpg'
-    credits: 'Photo by John Doe'
+    credits: ''
     alt: "Before project image"
   after:
     image: '/assets/images/projects/City Ditty/after.jpg'
-    credits: 'Photo by Jane Doe'
+    credits: ''
     alt: "After project image"
   brief: "City Ditty is an ongoing user-centered design project that provides accessible audio-visual sound planning tools, raising sound awareness and supporting exploratory designs."
   about: "Soundscape simulators enable quick iteration through various possibilities, fostering sound awareness and informed decisions among non-experts. City Ditty focuses on creating positive auditory experiences, offering fast, informative, and engaging exploratory tools for professionals of the built environment. The project began with a user needs assessment and has evolved to support rapid audio-visual prototyping of urban soundscapes. It is currently used in collaboration with the City of Montreal and other research projects."
@@ -1056,11 +1056,11 @@ Sounds in the City started a collaboration with the City of Montreal and Montrea
       id: "education"
   before:
     image: '/assets/images/projects//before_fantastique_acoustique.jpg'
-    credits: 'Photo by John Doe'
+    credits: ''
     alt: "Before project image"
   after:
     image: '/assets/images/projects//after_fantastique_acoustique.jpg'
-    credits: 'Photo by Jane Doe'
+    credits: ''
     alt: "After project image"
   brief: "Creation of graphic novels with illustrators. Presented at the Montreal Comic Arts Festival 2024. Graphic novels available below (Creative Commons CC-XXX)"
   about: "Sharing research with the public has always been a core tenet of the Sounds in the City project, through raising awareness with soundwalks and sound installations. This effort is now furthered by the addition of two beautiful comics, thanks to the art of Marina León and Madeleine Guastavino. The comics tell stories of sonic inequalities and rethinking urban sound environments, aiming to engage and educate the public on these critical issues."
