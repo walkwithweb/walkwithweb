@@ -65,7 +65,7 @@ soundscape:
       credits: "Catherine Guastavino, 2020"
       album: "Recorded at park Palomino-Brind’Amour, Plateau Mont-Royal"
 
-    - url: "/assets/audios/SoundFile3_SoundscapePage_ConstructionTraffic.mp3"
+    - url: "/assets/audios/SoundFile4_SoundscapePage_ConstructionTraffic_trimmed.mp3"
       id: "audio-3"
       name: "Construction and traffic noise"
       credits: "Valérian. Fraisse, 2019."
