@@ -175,127 +175,158 @@
   next_url: 'project5'
 
 - title: "Translating soundscape scales"
-  description: "local and global projects to improve the way we measure soundscape across languages"
+  description: "Local and global projects to improve the way we measure soundscape across languages"
   location: ""
   date: "2015 – ongoing"
   image: "/assets/images/projects/translation/TranslationCCommons.jpeg"
   url: "project5"
   fundings: "SSHRC-PDG grant"
   collaborators: "City of Montreal (Arrondissement Plateau-Mont-Royal)"
-  name: ""
+  name: "TRANSLATING SOUNDSCAPE SCALES"
   tags:
-    - name: pedestrianizationTAGS
-      id: 'pedestrianizationTAGS'
-    - name: soundscape evaluation
-      id: 'soundscape_evaluation'
-    - name: City of Montreal
-      id: 'city_of_montreal'
+    - name: research instrument
+      id: 'research_instrument'
+    - name: best practices
+      id: 'best_practices'
+    - name: translation
+      id: 'translation'
+    - name: soundscape scale
+      id: 'soundscape_scale'
   before:
-    image: '/assets/images/projects/project1_before.png'
-    credits: 'Maryse Lavoie.'
+    image: '/assets/images/projects/'
+    credits: ''
     alt: ""
   after:
-    image: '/assets/images/projects/project1.png'
-    credits: 'Maryse Lavoie.'
+    image: '/assets/images/projects/'
+    credits: ''
     alt: ""
-  brief: "The project removed traffic noise and created a new pedestrian walkway / seating area in a space where previously there was only a road.<br><br> It also created a new neighborhood space of meeting, often used by residents and visitors alike, who appreciate the greenery, increased sense of safety due to lack of cars, and the ‘quieter’ soundscape where cars are only audible in the distance."
-  about: "We collaborated with Ville de Montreal around the pedestrianization of rue Roy, in the heart of the Plateau-Mont-Royal borough. To create the Terrasses Roy, a section of the street was closed off to traffic and a temporary design was installed by design firm Castor et Pollux in the summer 2017. Four sections were created to invite visitors to relax and interact, including colourful street furniture, communal gardens, and a play area. This pilot project was very well received by the community and extended into the fall and winter of 2017. The space is currently being converted into a permanent outdoor meeting space around urban agriculture."
-  participation: "We participated in public consultations and conducted acoustic measurements and audio recordings before and after the pedestrianization. We also administered questionnaires to passers-by to evaluate their experience in the new pedestrian walkway, with an emphasis on soundscape and sonic expectations. We then provided recommendations to the borough on how to reinforce the purpose of this new space through sound."
-  contact_info: "For details, please contact: Daniel Steele, Catherine Guastavino"
+  brief: "Developing a universal standard for soundscape evaluation is challenging as correspondences across languages are not straightforward."
+  about: "Sounds in the City has been exploring questions of translation of soundscape scales, given the unique bilingual context offered by Montreal. We have been looking at the vocabulary used by French and English speakers to describe everyday sounds and soundscapes as well as similarities and differences between them; for example, the distinction between “sound” and “noise” differs between French and English. We also proposed and tested French translations of the Swedish Soundscape Quality Protocol, an 8-scale questionnaire to evaluate soundscape on pleasantness and eventfulness. In addition, we are participating in global efforts of standardization and translation of soundscape assessment tools, such as ISO working groups and the Soundscape Attributes Translation Project (SATP), an international research project started in 2019."
+  participation: "We participated in global standardization efforts, translating and testing soundscape assessment tools across different languages."
+  contact_info: "For details, please contact: Cynthia Tarlao, Catherine Guastavino"
   links:
-    - url: ''
-      name: 'electronslibres.telequebec.tv/episodes/35418'
-    - url: ''
-      name: 'montreal.ca/en/places/terrasses-roy'
-    - url: ''
-      name: 'montreal.ca/en/places/terrasses-roy-6507'
   publications:
-    - url: ''
-      name: 'Bocksteal 2019-ICSV 2019 paper '
+    - url: 'https://www.sciencedirect.com/science/article/abs/pii/S0003682X23003705?via%3Dihub'
+      name: 'Tarlao, C., Aumond. P., Lavandier, C., & Guastavino, C. (2023). Converging towards a French translation of soundscape attributes: Insights from Quebec and France. Applied Acoustics, 211: 109572, doi.org/10.1016/j.apacoust.2023.109572'
+    - url: 'https://www.jbe-platform.com/content/books/9789027258908'
+      name: 'Dubois, D., Cance, C., Coler, M., Paté., A. & Guastavino, C. eds (2021). Sensory Experiences: Exploring meaning and the senses. Benjamins, Amsterdam, NL. doi.org/10.1075/celcr.24'
+    - url: 'https://pubs.aip.org/asa/jasa/article/130/4_Supplement/2495/651338/Languages-and-conceptualization-of-soundscapes-A'
+      name: 'Cance, C., Guastavino, C., & Dubois, D. (2011). Languages and conceptualizations of soundscapes: A cross-linguistic analysis. Proceedings of the 162nd meeting of the Acoustical Society of America, Oct. 31- Nov. 4, San Diego, CA, USA. Abstract published in Journal of the Acoustical Society of America, 130(4), 2495, http://dx.doi.org/10.1121/1.3654926'
   prev_url: "project4"
   next_url: 'project6'
 
-- title: "What should a restaurant sound like?"
-  description: "improving the soundscape of restaurants"
-  location: ""
-  date: "Summer 2015; Fall 2020 - Winter 2021"
-  image: "/assets/images/projects/restaurant/restaurant-ithq-sherbrooke-montreal-14.jpg"
-  url: "project6"
-  fundings: "SSHRC-PDG grant"
-  collaborators: "City of Montreal (Arrondissement Plateau-Mont-Royal)"
-  name: ""
-  tags:
-    - name: pedestrianizationTAGS
-      id: 'pedestrianizationTAGS'
-    - name: soundscape evaluation
-      id: 'soundscape_evaluation'
-    - name: City of Montreal
-      id: 'city_of_montreal'
-  before:
-    image: '/assets/images/projects/project1_before.png'
-    credits: 'Maryse Lavoie.'
-    alt: ""
-  after:
-    image: '/assets/images/projects/project1.png'
-    credits: 'Maryse Lavoie.'
-    alt: ""
-  brief: "The project removed traffic noise and created a new pedestrian walkway / seating area in a space where previously there was only a road.<br><br> It also created a new neighborhood space of meeting, often used by residents and visitors alike, who appreciate the greenery, increased sense of safety due to lack of cars, and the ‘quieter’ soundscape where cars are only audible in the distance."
-  about: "We collaborated with Ville de Montreal around the pedestrianization of rue Roy, in the heart of the Plateau-Mont-Royal borough. To create the Terrasses Roy, a section of the street was closed off to traffic and a temporary design was installed by design firm Castor et Pollux in the summer 2017. Four sections were created to invite visitors to relax and interact, including colourful street furniture, communal gardens, and a play area. This pilot project was very well received by the community and extended into the fall and winter of 2017. The space is currently being converted into a permanent outdoor meeting space around urban agriculture."
-  participation: "We participated in public consultations and conducted acoustic measurements and audio recordings before and after the pedestrianization. We also administered questionnaires to passers-by to evaluate their experience in the new pedestrian walkway, with an emphasis on soundscape and sonic expectations. We then provided recommendations to the borough on how to reinforce the purpose of this new space through sound."
-  contact_info: "For details, please contact: Daniel Steele, Catherine Guastavino"
-  links:
-    - url: ''
-      name: 'electronslibres.telequebec.tv/episodes/35418'
-    - url: ''
-      name: 'montreal.ca/en/places/terrasses-roy'
-    - url: ''
-      name: 'montreal.ca/en/places/terrasses-roy-6507'
-  publications:
-    - url: ''
-      name: 'Bocksteal 2019-ICSV 2019 paper '
-  prev_url: "project5"
-  next_url: 'project7'
 
-- title: "Prototyping a codesign sound sketchpad"
-  description: "developing technologies with and for professionals of the built environment"
+- title: What should a restaurant sound like?
+  description: Improving the soundscape of restaurants
   location: ""
-  date: "Spring 2019 – Summer 2019"
-  image: "/assets/images/projects/Codesign sketch pad/DSC_1272.jpeg"
-  url: "project7"
-  fundings: "SSHRC-PDG grant"
-  collaborators: "City of Montreal (Arrondissement Plateau-Mont-Royal)"
-  name: ""
+  date: Summer 2015; Fall 2020 - Winter 2021
+  image: /assets/images/projects/restaurant/restaurant-ithq-sherbrooke-montreal-14.jpg
+  url: project6
+  fundings: ITHQ, Saint-Gobain Research
+  collaborators: Institut du Tourisme et d’Hôtellerie du Québec (ITHQ), Saint-Gobain Research
+  name: WHAT SHOULD A RESTAURANT SOUND LIKE?
   tags:
-    - name: pedestrianizationTAGS
-      id: 'pedestrianizationTAGS'
+    - name: indoor soundscape
+      id: indoor_soundscape
     - name: soundscape evaluation
-      id: 'soundscape_evaluation'
-    - name: City of Montreal
-      id: 'city_of_montreal'
-  before:
-    image: '/assets/images/projects/project1_before.png'
-    credits: 'Maryse Lavoie.'
-    alt: ""
-  after:
-    image: '/assets/images/projects/project1.png'
-    credits: 'Maryse Lavoie.'
-    alt: ""
-  brief: "The project removed traffic noise and created a new pedestrian walkway / seating area in a space where previously there was only a road.<br><br> It also created a new neighborhood space of meeting, often used by residents and visitors alike, who appreciate the greenery, increased sense of safety due to lack of cars, and the ‘quieter’ soundscape where cars are only audible in the distance."
-  about: "We collaborated with Ville de Montreal around the pedestrianization of rue Roy, in the heart of the Plateau-Mont-Royal borough. To create the Terrasses Roy, a section of the street was closed off to traffic and a temporary design was installed by design firm Castor et Pollux in the summer 2017. Four sections were created to invite visitors to relax and interact, including colourful street furniture, communal gardens, and a play area. This pilot project was very well received by the community and extended into the fall and winter of 2017. The space is currently being converted into a permanent outdoor meeting space around urban agriculture."
-  participation: "We participated in public consultations and conducted acoustic measurements and audio recordings before and after the pedestrianization. We also administered questionnaires to passers-by to evaluate their experience in the new pedestrian walkway, with an emphasis on soundscape and sonic expectations. We then provided recommendations to the borough on how to reinforce the purpose of this new space through sound."
-  contact_info: "For details, please contact: Daniel Steele, Catherine Guastavino"
+      id: soundscape_evaluation
+    - name: acoustic treatment
+      id: acoustic_treatment
+    - name: ITHQ
+      id: ithq
+  highlights:
+    - Consumers spent more time and money in the studied restaurant when the
+      sound level was higher.
+    - However, lower sound levels foster higher satisfaction and acoustic
+      comfort.
+  brief: Much attention has been given to the problem of how loud restaurants can
+    be. High restaurant sound levels have been identified as a culprit in
+    contributing to fatigue, difficulty in social situations, and even affect
+    the taste of the food.
+  about: "Sounds in the City began working with the ITHQ in Montreal in 2015 with
+    the goal of first documenting and then fine-tuning their restaurant’s
+    soundscape to encourage a more pleasant dining experience. This ongoing
+    collaboration has paved the way for a new project in 2019 with Saint-Gobain
+    Research to investigate the effect of sound environments on diners’
+    experiences. Initial findings showed that, as the sound levels increased,
+    diners spent more money and time in the restaurant, but they were not more
+    satisfied with the experience and did not find the restaurant more
+    convivial. However, this does not mean that diners enjoy a louder sound
+    environment: acoustic treatment applied by Saint-Gobain in the same
+    restaurant during the pandemic led to increased satisfaction, increased
+    acoustic comfort, and a sound level considered more appropriate by diners,
+    as well as more positive soundscape evaluations and lower vocal and
+    listening effort."
+  contact_info: "For details, please contact: Cynthia Tarlao, Catherine Guastavino"
   links:
-    - url: ''
-      name: 'electronslibres.telequebec.tv/episodes/35418'
-    - url: ''
-      name: 'montreal.ca/en/places/terrasses-roy'
-    - url: ''
-      name: 'montreal.ca/en/places/terrasses-roy-6507'
-  publications:
-    - url: ''
-      name: 'Bocksteal 2019-ICSV 2019 paper '
-  prev_url: "project6"
-  next_url: 'project8'
+    - url: https://jcaa.caaaca.ca/index.php/jcaa/article/view/4115
+      name: Tarlao, C., Bild, E., & Guastavino, C. (2023). Effect of acoustic
+        treatment and table dividers on diners’ experience in a Montreal
+        restaurant. Proceedings of Acoustics Week in Canada 2023. Canadian
+        Acoustics, 51(3):50-1.
+    - url: https://doi.org/10.1016/j.apacoust.2020.107772
+      name: "Tarlao, C., Fernandez, P., Frissen, I., & Guastavino, C. (2021).
+        Influence of Sound Level on Diners’ Perceptions and Behavior in a
+        Montreal Restaurant. Applied Acoustics. 174: 107772."
+  prev_url: "project5"
+  next_url: "project7"
+
+- title: Prototyping a codesign sound sketchpad
+  description: Developing technologies with and for professionals of the built environment
+  location: ""
+  date: Spring 2019 – Summer 2019
+  image: /assets/images/projects/Codesign sketch pad/DSC_1272.jpeg
+  url: project7
+  fundings: SSHRC, FRQSC doctoral fellowship
+  collaborators: CIRMMT, Ville de Montréal
+  name: PROTOTYPING A CODESIGN SOUND SKETCHPAD
+  tags:
+    - name: soundscape design
+      id: soundscape_design
+    - name: urban practice
+      id: urban_practice
+    - name: professionals of the built environment
+      id: professionals_of_the_built_environment
+    - name: soundscape simulator
+      id: soundscape_simulator
+    - name: co-design
+      id: co_design
+    - name: prototype
+      id: prototype
+  highlights:
+    - The visual is dominant in urban planning so we develop new tools to help
+      planners understand also the sonic consequences of their planning choices.
+    - Simulating the sound environment in 3D immerses planners in the urban
+      experience they are creating.
+  brief: Each urban development project raises aesthetic, functional, and
+    socio-demographic questions depending on the local context. However, its
+    sounds are considered in the later stages of design or simply remain an
+    afterthought. To raise the awareness of urban professionals to the question
+    of sound in their projects, and to facilitate the processes of consultation,
+    creation, and communication, our team developed an interactive immersive
+    “codesign sound sketchpad.”
+  about: >-
+    This soundscape simulator can help not only play on-site recordings back
+    in a listening room, but also add, position, and move single sources in
+    space. This software allows to simply and efficiently (re)produce the sound
+    environments of various spaces that do not yet exist.
+    <br><br>
+    A first public prototype of this tool was unveiled at a CIRMMT-hosted day-long event offered by the “Sounds in the City” team in July 2019. The event was articulated around the integration of new technologies and approaches in the process of co-designing the soundscapes of public spaces. In a concert hall equipped with 48 loudspeakers, an audience of mostly urban professionals used the simulator to discuss, design, and listen to what the soundscape of a specific public space could sound like under different circumstances, while taking into account location constraints: What would be the impact of slowing down traffic on the main avenue? Would it be pertinent to install a fountain in the centre of the square? The simulator allowed participants to listen to a sonic rendering of their suggestions in real-time and appreciate the consequences of planning decisions on the sound environment.
+  contact_info: "For details, please contact: Cynthia Tarlao, Catherine Guastavino"
+  links:
+    - url: https://doi.org/10.3390/app13031611
+      name: "Yanaky, R., Tyler, D., & Guastavino, C. (2023). City Ditty: An Immersive
+        Soundscape Sketchpad for Professionals of the Built Environment. Applied
+        Sciences, 13, 1611."
+    - url: https://doi.org/10.1016/j.landurbplan.2022.104642
+      name: Tarlao, C., Steele, D., Blanc, G., & Guastavino, C. (2023). Interactive
+        soundscape simulation as a co-design tool for urban professionals.
+        Landscape and Urban Planning, 231, 104642.
+    - url: https://www.youtube.com/watch?v=i4fLhBGuAi8
+      name: Check out a short binaural demonstration
+  prev_url: project6
+  next_url: project8
+
 
 - title: "COVID-19 and Sound"
   description: "Getting a taste of the quiet we thought we wanted"
@@ -303,40 +334,52 @@
   date: "2020 - 2023"
   image: "/assets/images/projects/COVID19/QDSlockdown.jpg"
   url: "project8"
-  fundings: "SSHRC-PDG grant"
-  collaborators: "City of Montreal (Arrondissement Plateau-Mont-Royal)"
-  name: ""
+  fundings: "MITACS Accelerate program with Quartier des spectacles"
+  collaborators: "Quartier des spectacles"
+  name: "COVID-19 AND SOUND"
   tags:
-    - name: pedestrianizationTAGS
-      id: 'pedestrianizationTAGS'
-    - name: soundscape evaluation
-      id: 'soundscape_evaluation'
-    - name: City of Montreal
-      id: 'city_of_montreal'
-  before:
-    image: '/assets/images/projects/project1_before.png'
-    credits: 'Maryse Lavoie.'
-    alt: ""
-  after:
-    image: '/assets/images/projects/project1.png'
-    credits: 'Maryse Lavoie.'
-    alt: ""
-  brief: "The project removed traffic noise and created a new pedestrian walkway / seating area in a space where previously there was only a road.<br><br> It also created a new neighborhood space of meeting, often used by residents and visitors alike, who appreciate the greenery, increased sense of safety due to lack of cars, and the ‘quieter’ soundscape where cars are only audible in the distance."
-  about: "We collaborated with Ville de Montreal around the pedestrianization of rue Roy, in the heart of the Plateau-Mont-Royal borough. To create the Terrasses Roy, a section of the street was closed off to traffic and a temporary design was installed by design firm Castor et Pollux in the summer 2017. Four sections were created to invite visitors to relax and interact, including colourful street furniture, communal gardens, and a play area. This pilot project was very well received by the community and extended into the fall and winter of 2017. The space is currently being converted into a permanent outdoor meeting space around urban agriculture."
-  participation: "We participated in public consultations and conducted acoustic measurements and audio recordings before and after the pedestrianization. We also administered questionnaires to passers-by to evaluate their experience in the new pedestrian walkway, with an emphasis on soundscape and sonic expectations. We then provided recommendations to the borough on how to reinforce the purpose of this new space through sound."
-  contact_info: "For details, please contact: Daniel Steele, Catherine Guastavino"
+    - name: COVID-19
+      id: 'covid_19'
+    - name: quiet
+      id: 'quiet'
+    - name: Quartier des Spectacles
+      id: 'quartier_des_spectacles'
+  highlights:
+    - "Montreal had a short-lasting 6dB reduction in sound levels in the downtown, which returned mostly to normal with the restarting of construction and traffic."
+    - "The periods of restrictions, lockdowns, and other measures following the onset of COVID-19 led to residents forming new associations and habits with home and public space use, driven partially by the drastic changes in their sound environments."
+  brief: "The COVID-19 pandemic changed the focus of research projects all over the world and Sounds in the City was no different. Those working on sound were left with the opportunity to study what happened while the world was on pause and the planet got quiet. Quiet has been the focus of our modern noise policies for a century, but once we experienced it, we realized it's not so simple."
+  about: "Sounds in the City engaged in a multi-method, multi-year study observing the COVID-19 auditory experience, including:
+    <br><br>
+    • Interviews (2020 and 2021)<br>
+    • Diary study<br>
+    • Questionnaires<br>
+    • Sound level measurements<br>
+
+    <br><br>
+    
+    The findings of the first year of the pandemic showed us a very temporary 6 dB drop in overall sound levels during the first restriction. Sound levels largely returned to normal with the return of construction and traffic, yet public life suffered, and people were very conscious of the sounds that they missed. Public space use was transformed in many ways and saw many new uses while those who were working at home had to contend with new sound environments and new challenges during their workdays. This change was especially hard on families with children."
+  contact_info: "For details, please contact: Daniel Steele, Edda Bild, Nicola di Croce"
   links:
-    - url: ''
-      name: 'electronslibres.telequebec.tv/episodes/35418'
-    - url: ''
-      name: 'montreal.ca/en/places/terrasses-roy'
-    - url: ''
-      name: 'montreal.ca/en/places/terrasses-roy-6507'
+    - url: 'https://www.cbc.ca/listen/live-radio/1-15-daybreak-montreal/clip/15869524-the-sounds-downtown'
+      name: 'Canadian Broadcasting Corporation. (2021, Sept. 28). The sounds of downtown [Radio interview with Daniel Steele and collaborators]'
+    - url: 'https://doi.org/10.1515/noise-2022-0169'
+      name: 'Trudeau, C., Tarlao, C., & Guastavino, C. (2023). Montreal soundscapes during the COVID-19 pandemic: A spatial analysis of noise complaints and residents’ surveys. Noise Mapping, 10(1), 20220169.'
+    - url: 'https://doi.org/10.1080/09640568.2022.2100247'
+      name: 'Di Croce, N., Bild, E., Steele, D., & Guastavino, C. (2024). A sonic perspective for the post-pandemic future of entertainment districts: the case of Montreal’s Quartier des Spectacles. Journal of Environmental Planning and Management, 67(1), 131-154.'
+    - url: 'https://doi.org/10.1016/j.landurbplan.2022.104642'
+      name: 'Bild, E., Steele, D., & Guastavino, C. (2022) Festivals and Events as Everyday Life in Montreal’s Entertainment District. Sustainability 14.8: 4559.'
+    - url: 'https://doi.org/10.2148/benv.48.2.244'
+      name: 'Bild, E., Steele, D., & Guastavino, C. (2022). Revisiting public space transformations from a sonic perspective during the Covid-19 pandemic. Built Environment, 48(1), 244-263.'
   publications:
-    - url: ''
-      name: 'Bocksteal 2019-ICSV 2019 paper '
+    - url: 'https://ici.radio-canada.ca/nouvelle/1706900/apres-covid-19-coronavirus-silence-villes-lecons-bruit-pollution-sonore-printemps-silencieux'
+      name: 'Leblanc, E. (2020, May 30). L’après-COVID-19: tirer les leçons de ce printemps silencieux [interview with C. Guastavino]. Radio-Canada (in French)'
+    - url: 'https://ici.radio-canada.ca/ohdio/premiere/emissions/l-heure-du-monde/episodes/464308/rattrapage-du-jeudi-28-mai-2020'
+      name: 'Société Radio-Canada (2020, May 28). Le silence, une conséquence positive du confinement: Reportage d’E. Leblanc – L’heure du monde [interview with C. Guastavino] (in French)'
+    - url: 'https://ici.radio-canada.ca/ohdio/premiere/emissions/du-cote-de-chez-catherine/episodes/462975/rattrapage-du-dimanche-10-mai-2020'
+      name: 'Société Radio-Canada (2020, May 10). Confinement et reduction du bruit en ville – Du côté de chez Catherine [radio interview with C. Guastavino and R. Dumoulin] (in French)'
   prev_url: "project7"
-  next_url: 'project9'
+  next_url: "project9"
+
 
 - title: "Context matters"
   description: "investigating the factors that shape urban sound experiences"
@@ -344,38 +387,42 @@
   date: "2015 – 2021"
   image: "/assets/images/projects/context matters/962-Mont-Royal-intervention.jpg"
   url: "project9"
-  fundings: "CRSH"
+  fundings: "SSHRC"
   collaborators: "City of Montreal (Arrondissement Plateau-Mont-Royal)"
   name: ""
   tags:
-    - name: pedestrianizationTAGS
-      id: 'pedestrianizationTAGS'
+    - name: public space
+      id: 'public_space'
     - name: soundscape evaluation
       id: 'soundscape_evaluation'
-    - name: City of Montreal
-      id: 'city_of_montreal'
+    - name: context
+      id: 'context'
   before:
     image: '/assets/images/projects/project1_before.png'
-    credits: 'Maryse Lavoie.'
+    credits: ''
     alt: ""
   after:
     image: '/assets/images/projects/project1.png'
-    credits: 'Maryse Lavoie.'
+    credits: ''
     alt: ""
-  brief: "The project removed traffic noise and created a new pedestrian walkway / seating area in a space where previously there was only a road.<br><br> It also created a new neighborhood space of meeting, often used by residents and visitors alike, who appreciate the greenery, increased sense of safety due to lack of cars, and the ‘quieter’ soundscape where cars are only audible in the distance."
-  about: "We collaborated with Ville de Montreal around the pedestrianization of rue Roy, in the heart of the Plateau-Mont-Royal borough. To create the Terrasses Roy, a section of the street was closed off to traffic and a temporary design was installed by design firm Castor et Pollux in the summer 2017. Four sections were created to invite visitors to relax and interact, including colourful street furniture, communal gardens, and a play area. This pilot project was very well received by the community and extended into the fall and winter of 2017. The space is currently being converted into a permanent outdoor meeting space around urban agriculture."
+  brief: "Our experience of urban environments is shaped by many factors, from expectations to personality to the specifics of the situation.<br><br> The model of contextual influences we have started to build is a first step towards helping urban planners and policymakers create more inclusive urban spaces."
+  about: "We all know that context matters: where and who we are matter just as much as what we are doing in any given moment of life. In a series of studies, including modeling of on-site factors and various laboratory experiments, Sounds in the City has investigated the many ways in which context matters, particularly for soundscape evaluations.<br><br> In laboratory experiments, we showed that what we call ‘situational factors’ like location, day, and time of use shape our perceptions of the sound environment regardless of expectations we might have had before using a space. For example, a quieter location is evaluated as more pleasant and less eventful than a noisier location or afternoons are generally evaluated as less calm and more eventful than evenings, while weekends are more eventful than weekdays.<br><br> Meanwhile, on-site studies hinted at other factors that are not directly related to sound levels, such as social interaction – that is, if a person is alone or with others – and ‘personal factors’ like extraversion, gender, age, and noise sensitivity. People in groups find their soundscape more pleasant and less eventful than solitary users, potentially because they are focusing their attention on the other(s) they are with. And women and younger people find their soundscape more pleasant and less eventful, which can be linked to the fact that they go out in groups more than men and older people, respectively. More extroverted people evaluate their soundscape as less eventful and people who are more sensitive to noise (like women and older people) tend to evaluate their soundscape as less pleasant.<br><br> While we are only beginning to scratch the surface of the complexity of factors that influence how we evaluate soundscapes, it is essential to keep in mind that context matters and that designing spaces must take into account this myriad of experiences."
   participation: "We participated in public consultations and conducted acoustic measurements and audio recordings before and after the pedestrianization. We also administered questionnaires to passers-by to evaluate their experience in the new pedestrian walkway, with an emphasis on soundscape and sonic expectations. We then provided recommendations to the borough on how to reinforce the purpose of this new space through sound."
-  contact_info: "For details, please contact: Daniel Steele, Catherine Guastavino"
+  contact_info: "For details, please contact: Cynthia Tarlao, Catherine Guastavino"
   links:
+    - url: 'https://newcities.org/the-big-picturecity-sound-like/'
+      name: "Guastavino, C. & Steele, D (2020). What should the city sound like? Why the pursuit of quiet isn’t working."
+    - url: 'https://bycs.org/sound-as-a-resourcewith-catherine-guastavino/'
+      name: "BYCS perspective (2021, March 1). Sound as a resource: with Catherine Guastavino [interview with C. Guastavino]."
+    - url: 'https://ici.radiocanada.ca/tele/decouverte/site/episodes/520848/covid-ghgsat-methane-lune-pollution'
+      name: "Société Radio-Canada (2021, April 28). A l’écoute de la ville – Emission Découverte [TV report with C. Guastavino]."
     - url: ''
-      name: 'electronslibres.telequebec.tv/episodes/35418'
+      name: "Trudel, B. (2023, Fall). Quand un son vaut mille mots. [interview with C. Guastavino]. Continuité, 178 – Patrimoine Sonore, 18-21. (in French)"
     - url: ''
-      name: 'montreal.ca/en/places/terrasses-roy'
-    - url: ''
-      name: 'montreal.ca/en/places/terrasses-roy-6507'
+      name: "Gagnon, M. (2023, Fall). Les archéologues du son. [interview with C. Guastavino]. Continuité, 178 – Patrimoine Sonore, 178, 22-24. (in French)"
   publications:
-    - url: ''
-      name: 'Bocksteal 2019-ICSV 2019 paper '
+    - url: 'doi.org/10.1016/j.buildenv.2020.107490'
+      name: 'Tarlao, C., Steffens, S., & Guastavino, C. (2021). Investigating contextual influences on urban soundscape evaluations with structural equation modeling. Building and Environment. 188: 107490. doi.org/10.1016/j.buildenv.2020.107490'
   prev_url: "project8"
   next_url: 'project10'
 
@@ -385,38 +432,42 @@
   date: "2021 - Ongoing"
   image: "/assets/images/projects/soninurb/Soninurb.jpg"
   url: "project10"
-  fundings: "SSHRC-PDG grant"
-  collaborators: "City of Montreal (Arrondissement Plateau-Mont-Royal)"
+  fundings: "The European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant"
+  collaborators: "City of Montreal (Arrondissement Plateau-Mont-Royal), Università Iuav di Venezia"
   name: ""
   tags:
-    - name: pedestrianizationTAGS
-      id: 'pedestrianizationTAGS'
-    - name: soundscape evaluation
-      id: 'soundscape_evaluation'
-    - name: City of Montreal
-      id: 'city_of_montreal'
+    - name: urban atmosphere
+      id: 'urban_atmosphere'
+    - name: policy analysis
+      id: 'policy_analysis'
+    - name: participatory design
+      id: 'participatory_design'
+    - name: sound art
+      id: 'sound_art'
+    - name: public space
+      id: 'public_space'
+    - name: Venice
+      id: 'venice'
   before:
     image: '/assets/images/projects/project1_before.png'
-    credits: 'Maryse Lavoie.'
+    credits: ''
     alt: ""
   after:
     image: '/assets/images/projects/project1.png'
-    credits: 'Maryse Lavoie.'
+    credits: ''
     alt: ""
-  brief: "The project removed traffic noise and created a new pedestrian walkway / seating area in a space where previously there was only a road.<br><br> It also created a new neighborhood space of meeting, often used by residents and visitors alike, who appreciate the greenery, increased sense of safety due to lack of cars, and the ‘quieter’ soundscape where cars are only audible in the distance."
-  about: "We collaborated with Ville de Montreal around the pedestrianization of rue Roy, in the heart of the Plateau-Mont-Royal borough. To create the Terrasses Roy, a section of the street was closed off to traffic and a temporary design was installed by design firm Castor et Pollux in the summer 2017. Four sections were created to invite visitors to relax and interact, including colourful street furniture, communal gardens, and a play area. This pilot project was very well received by the community and extended into the fall and winter of 2017. The space is currently being converted into a permanent outdoor meeting space around urban agriculture."
+  brief: "How can we research and design a lively and inclusive sound environment? Something on method? Location?"
+  about: "The EU-funded SONINURB project studies the sound environment that contributes to the atmosphere unique to each location, understanding how atmosphere directly impacts the perceived quality of the urban environment: it can either attract people or drive them away or make them feel comfortable or under threat. The project aims to show how researching the sound environment can support novel approaches to urban policy analysis and policy design. It further explores how experimenting with new sound planning tools to investigate urban areas undergoing transformation can lead to collaborative approaches to urban sound design. Finally, the project shows how the use of participatory sound installations and sonic interventions can promote social inclusion and sustainable local development.<br><br> The project addresses these aims by fieldwork in two different geographical locations: Montreal (Canada) – as part of Sounds in the City, and Venice (Italy) – as part of Iuav University of Venice."
   participation: "We participated in public consultations and conducted acoustic measurements and audio recordings before and after the pedestrianization. We also administered questionnaires to passers-by to evaluate their experience in the new pedestrian walkway, with an emphasis on soundscape and sonic expectations. We then provided recommendations to the borough on how to reinforce the purpose of this new space through sound."
-  contact_info: "For details, please contact: Daniel Steele, Catherine Guastavino"
+  contact_info: "For details, please contact: Nicola Di Croce"
   links:
-    - url: ''
-      name: 'electronslibres.telequebec.tv/episodes/35418'
-    - url: ''
-      name: 'montreal.ca/en/places/terrasses-roy'
-    - url: ''
-      name: 'montreal.ca/en/places/terrasses-roy-6507'
+    - url: 'https://www.youtube.com/watch?app=desktop&v=ZYmpKyCrsOs'
+      name: "Containing multitude"
+    - url: 'https://nicoladicroce.cargo.site/Research-menu'
+      name: "Nicole Di Croce website"
   publications:
-    - url: ''
-      name: 'Bocksteal 2019-ICSV 2019 paper '
+    - url: 'https://www.researchgate.net/project/Sonic-inquiry-in-urban-research'
+      name: 'Sonic inquiry in urban research'
   prev_url: "project9"
   next_url: 'project11'
 
@@ -426,38 +477,46 @@
   date: "Spring 2021 – Spring 2022"
   image: "/assets/images/projects/recreation v residence/IMG_1848_QdS_CreditsFXFeron.JPG"
   url: "project11"
-  fundings: "SSHRC-PDG grant"
-  collaborators: "City of Montreal (Arrondissement Plateau-Mont-Royal)"
+  fundings: "MITACS Accelerate program with the City of Montreal"
+  collaborators: "City of Montreal (Service of Economic Development) and Montreal’s Public Health Agency (DRSP)"
   name: ""
   tags:
-    - name: pedestrianizationTAGS
-      id: 'pedestrianizationTAGS'
-    - name: soundscape evaluation
-      id: 'soundscape_evaluation'
+    - name: ListenUpMTL
+      id: 'listenupmtl'
+    - name: sonic cohabitation
+      id: 'sonic_cohabitation'
+    - name: pedestrianization
+      id: 'pedestrianization'
+    - name: entertainment district
+      id: 'entertainment_district'
+    - name: Quartier des Spectacles
+      id: 'quartier_des_spectacles'
     - name: City of Montreal
       id: 'city_of_montreal'
+    - name: DRSP
+      id: 'drsp'
   before:
     image: '/assets/images/projects/project1_before.png'
-    credits: 'Maryse Lavoie.'
+    credits: ''
     alt: ""
   after:
     image: '/assets/images/projects/project1.png'
-    credits: 'Maryse Lavoie.'
+    credits: ''
     alt: ""
-  brief: "The project removed traffic noise and created a new pedestrian walkway / seating area in a space where previously there was only a road.<br><br> It also created a new neighborhood space of meeting, often used by residents and visitors alike, who appreciate the greenery, increased sense of safety due to lack of cars, and the ‘quieter’ soundscape where cars are only audible in the distance."
-  about: "We collaborated with Ville de Montreal around the pedestrianization of rue Roy, in the heart of the Plateau-Mont-Royal borough. To create the Terrasses Roy, a section of the street was closed off to traffic and a temporary design was installed by design firm Castor et Pollux in the summer 2017. Four sections were created to invite visitors to relax and interact, including colourful street furniture, communal gardens, and a play area. This pilot project was very well received by the community and extended into the fall and winter of 2017. The space is currently being converted into a permanent outdoor meeting space around urban agriculture."
+  brief: "The sound of recreational activities is a contentious topic for ideas on urban sonic cohabitations. The sound of recreational activities is 'expected' when living downtown, and nightlife is not the main issue of residents, but construction noise and other punctual noise issues."
+  about: "The sound of recreational activities is often considered a necessary nuisance of urban economy to be mitigated, and while urban life must respond to the needs and expectations of both residents and visitors, its sounds sit at the intersection of concerns on liveability and vitality, challenging ideas on successful sonic cohabitation.<br><br> Sounds in the City collaborated with the City of Montreal and Montreal’s public health department (DRSP) to develop ÉcoutezMTL / ListenUpMTL - a mixed methods study aimed at better understanding the complexity of living in the vicinity of vibrant urban neighborhoods, focusing on two pedestrianized streets and the entertainment district (Quartier des Spectacles) in downtown Montreal. Using sound level measurements, surveys, resident diaries, and interviews, we aimed to complement the existing limited, negative portrayal of recreational noise and nightlife in the media, public imagination, and in policy. Our research shows that the sounds from recreational activities (including festivals and events as well as everyday street life) are not always perceived negatively by residents, especially in the context of the COVID-19 pandemic, and the challenges of sonic cohabitation lie elsewhere."
   participation: "We participated in public consultations and conducted acoustic measurements and audio recordings before and after the pedestrianization. We also administered questionnaires to passers-by to evaluate their experience in the new pedestrian walkway, with an emphasis on soundscape and sonic expectations. We then provided recommendations to the borough on how to reinforce the purpose of this new space through sound."
-  contact_info: "For details, please contact: Daniel Steele, Catherine Guastavino"
+  contact_info: "For details, please contact: Edda Bild"
   links:
+    - url: 'https://www.ledevoir.com/societe/transports-urbanisme/756802/le-son-cet-oubliedes-villes'
+      name: "Provost A.M. (2022, Sept. 16). Le son, cet oubli. des villes. [Description of MITACS-funded project with Ville de Montreal]. Le devoir."
     - url: ''
-      name: 'electronslibres.telequebec.tv/episodes/35418'
+      name: "Gyulai, L., (2021, Oct. 3). Noise observatory still necessary, still in the works, councillors say. Montreal Gazette."
     - url: ''
-      name: 'montreal.ca/en/places/terrasses-roy'
-    - url: ''
-      name: 'montreal.ca/en/places/terrasses-roy-6507'
+      name: "Canadian Broadcasting Corporation. (2021, Sept. 28). The sounds of downtown [Radio interview with postdoc Daniel Steele and collaborators]. Daybreak."
   publications:
     - url: ''
-      name: 'Bocksteal 2019-ICSV 2019 paper '
+      name: ''
   prev_url: "project10"
   next_url: 'project12'
 
@@ -471,36 +530,45 @@
   collaborators: "City of Montreal (Arrondissement Plateau-Mont-Royal)"
   name: ""
   tags:
-    - name: pedestrianizationTAGS
-      id: 'pedestrianizationTAGS'
-    - name: soundscape evaluation
-      id: 'soundscape_evaluation'
+    - name: residents
+      id: 'residents'
+    - name: soundwalks
+      id: 'soundwalks'
+    - name: noise pollution
+      id: 'noise_pollution'
+    - name: public policy
+      id: 'public_policy'
+    - name: sonic cohabitation
+      id: 'sonic_cohabitation'
     - name: City of Montreal
       id: 'city_of_montreal'
+    - name: DRSP
+      id: 'drsp'
   before:
     image: '/assets/images/projects/project1_before.png'
-    credits: 'Maryse Lavoie.'
+    credits: ''
     alt: ""
   after:
     image: '/assets/images/projects/project1.png'
-    credits: 'Maryse Lavoie.'
+    credits: ''
     alt: ""
-  brief: "The project removed traffic noise and created a new pedestrian walkway / seating area in a space where previously there was only a road.<br><br> It also created a new neighborhood space of meeting, often used by residents and visitors alike, who appreciate the greenery, increased sense of safety due to lack of cars, and the ‘quieter’ soundscape where cars are only audible in the distance."
-  about: "We collaborated with Ville de Montreal around the pedestrianization of rue Roy, in the heart of the Plateau-Mont-Royal borough. To create the Terrasses Roy, a section of the street was closed off to traffic and a temporary design was installed by design firm Castor et Pollux in the summer 2017. Four sections were created to invite visitors to relax and interact, including colourful street furniture, communal gardens, and a play area. This pilot project was very well received by the community and extended into the fall and winter of 2017. The space is currently being converted into a permanent outdoor meeting space around urban agriculture."
+  brief: "Ports contribute to the vitality and attractiveness of cities but can also generate conflicts around noise.<br><br> We investigate soundscape in residential areas in the proximity of the port to inform policy making that integrates a sonic dimension."
+  about: "Ports are key economic players for their cities but generate nuisances for their residents, including in the sonic dimension. In Montreal, the Assomption Sud–Longue-Pointe area is especially impacted by issues of sonic cohabitation between port and industrial activities and residential uses.<br><br> In the present project, Sounds in the City, together with the Observatoire des Milieux de Vie urbains (OMV) from UQAM, documented the situation to better understand the dynamics at play, not only on an acoustic level but also in terms of the quality of life of residents. Assomption Sud–Longue-Pointe is a complex area that requires multi-pronged efforts to address current issues of cohabitation and politically tense situations.<br><br> Residents and workers in the area had a lengthy, readily available list of suggestions on how to make the area more livable. These cover not only technical solutions, but also urban planning and design, communication and community building, or governance. These solutions sometimes offer innovative, place-based approaches that demonstrate the crucial nature of local input when both documenting and seeking to transform an area.<br><br> The Sounds in the City team is now collaborating with both the Mercier-Hochelaga-Maisonneuve borough and the Montreal Port Authority to implement solutions to sonic cohabitation issues between the industrial and residential uses in the area."
   participation: "We participated in public consultations and conducted acoustic measurements and audio recordings before and after the pedestrianization. We also administered questionnaires to passers-by to evaluate their experience in the new pedestrian walkway, with an emphasis on soundscape and sonic expectations. We then provided recommendations to the borough on how to reinforce the purpose of this new space through sound."
   contact_info: "For details, please contact: Daniel Steele, Catherine Guastavino"
   links:
     - url: ''
-      name: 'electronslibres.telequebec.tv/episodes/35418'
-    - url: ''
-      name: 'montreal.ca/en/places/terrasses-roy'
-    - url: ''
-      name: 'montreal.ca/en/places/terrasses-roy-6507'
+      name: 'Le bruit environnemental dans nos actions de planification (October 6th 2022) workshop, aimed at Montreal urban professionals. Organized by City of Montreal and the Montreal Public Health Agency.'
   publications:
+    - url: 'https://utpjournals.press/doi/10.3138/cpp.2021-009'
+      name: 'Laplace, J., Bild, E., Trudeau, C., Perna, M., Dupont, T. & Guastavino C. (2022). Encadrement du bruit environnemental au Canada. Canadian Public Policy / Analyse de politiques publiques, 48(1), 49-65.'
+    - url: 'https://hal.archives-ouvertes.fr/hal-03233770/document'
+      name: 'Trudeau, C., Bild, E., Padois, T., Perna, M., Dumoulin, R., Dupont, T., & Guastavino, C. (2020). Municipal noise regulations in Québec. Proceedings of Forum Acusticum. Forum Acusticum, Dec. 7-1, Lyon, France.'
     - url: ''
-      name: 'Bocksteal 2019-ICSV 2019 paper '
+      name: 'Bild, E., Fraisse, V., & Guastavino, C. (2023). Integrating sound considerations into the Montreal nightlife policy. Report for the Service de développement économique, Ville de Montreal (61 pages).'
   prev_url: "project11"
   next_url: 'project13'
+
 
 - title: "What’s next for nightlife and night noise in Montreal?"
   description: "integrating sound considerations into the Montreal nightlife policy"
