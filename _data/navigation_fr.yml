@@ -1,28 +1,28 @@
-- title: HOME
+- title: ACCUEIL
   url: "/"
 
-- title: SOUNDSCAPE
+- title: Soundscape
   url: "/soundscape"
 
-- title: PROJECTS
+- title: PROJETS
   url: "/projects/"
 
-- title: MEDIA
+- title: MÉDIAS
   url: "/media"
   submenu:
-    - title: Papers
+    - title: Articles
       url: "/papers"
 
     - title: Blog (archives)
       url: "/blogs/"
 
-    - title: Events (archives)
+    - title: Événements (archives)
       url: "/events/"
 
-- title: ABOUT US
+- title: À PROPOS DE NOUS
   url: "/about"
   submenu:
-    - title: Partners & Fundings
+    - title: Partenaires & Financements
       url: "/partners"
 
     - title: Services
