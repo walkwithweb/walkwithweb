@@ -1,17 +1,17 @@
 index:
   cities: POUR QUE NOS
   sound: VILLES SONNENT MIEUX
-  discover: DISCOVER WHO WE ARE
+  discover: DÉCOUVREZ QUI NOUS SOMMES
   notbad: "(PAS SEULEMENT MOINS FORT)"
   description: "Le sonore joue un rôle essentiel et complexe dans notre expérience des espaces urbains. 
   À l’heure actuelle, la majorité des villes considèrent les enjeux sonores comme du “bruit”, c’est-à-dire une nuisance n’existant qu’en vase clos et considérée uniquement au moment 
   où des problèmes surgissent. Mais tout n’est pas qu’une question de bruit ! Le sonore contribue à notre bien-être, nous aide à nous orienter dans le temps et l’espace, peut animer nos milieux de vie et les rendre plus attrayants. Plus encore, les ambiances sonores font partie intégrante du patrimoine de nos villes. 
   Pensez notamment aux sonorités de votre quotidien, comme la musique, les conversations, les chants des oiseaux ou les cloches."
-  discover: "DISCOVER WHO WE ARE"
-  who: "WHO WE ARE"
-  meet: "Meet the team & collaborators"
-  view: "VIEW THE PARTNERS & FUNDINGS PAGE"
-  funding: "FUNDINGS"
+  discover: "DÉCOUVREZ QUI NOUS SOMMES"
+  who: "QUI NOUS SOMMES"
+  meet: "Rencontrez l'équipe et les collaborateurs"
+  view: "CONSULTER LA PAGE PARTENAIRES ET FINANCEMENTS"
+  funding: "FINANCEMENTS"
   accordions:
     - title: VILLE SONORE
       id: "home-accordion-1"
@@ -67,7 +67,7 @@ soundscape:
       credits: "Catherine Guastavino, 2020"
       album: "Enregistré au parc Palomino-Brind’Amour, Plateau Mont-Royal"
 
-    - url: "/assets/audios/SoundFile3_SoundscapePage_ConstructionTraffic.mp3"
+    - url: "/assets/audios/SoundFile4_SoundscapePage_ConstructionTraffic_trimmed.mp3"
       id: "audio-3"
       name: "Bruits de construction et de trafic"
       credits: "Valérian. Fraisse, 2019."
@@ -231,7 +231,7 @@ blogs:
   credits: "Credits"
   author: "author"
   posted: "POSTED"
-  discover_blog: "DISCOVER THE BLOG"
+  discover_blog: "DÉCOUVREZ LE BLOGUE"
   when: 'WHEN'
   for_details: "For more information (French only)"
  
