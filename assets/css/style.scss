@@ -411,7 +411,7 @@
 
 #why-sound-matters {
     .sound-header {
-        max-width: 860px;
+        max-width: 960px;
 
         h2 {
             margin: 30px 0;
@@ -428,8 +428,8 @@
             }
 
             p {
-                font-size: 32px;
-                line-height: 50px;
+                font-size: 20px;
+                line-height: 40px;
             }
         }
 
@@ -580,13 +580,13 @@
 
     // Variables for easy customization
     $card-padding: 20px;
-    $card-margin: 40px;
+    $card-margin: 80px;
     $card-border: 1px solid #000;
     $card-border-radius: 5px;
     $card-background-color: #fff;
     $image-height: 300px;
     $line-height: 1.5;
-    $font-size: 16px;
+    $font-size: 20px;
     $font-color: #333;
     $title-font-size: 16px;
     $title-font-weight: bold;
