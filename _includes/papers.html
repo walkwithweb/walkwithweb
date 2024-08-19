@@ -20,7 +20,7 @@
                 <h3>{{ article.title }}</h3>
                 <p>{{ article.description | safe }}</p>
                 {% if article.link.name %}
-                <p>{{content.dio}}: <a href="#">{{ article.link.name }}</a></p>
+                <p>{{content.dio}}: <a href="{{ article.link.url }}" target="_blank">{{ article.link.name }}</a></p>
                 {% endif %}
               </div>
               <div class="info">
@@ -30,7 +30,7 @@
                   <p>{{ author.name }}</p>
                   {% endfor %}
                 </div>
-                <a href="#" class="readmore">{{content.read}}</a>
+                <a href="{{ article.link.url }}" class="readmore" target="_blank">{{content.read}}</a>
               </div>
             </div>
             {% endfor %}
