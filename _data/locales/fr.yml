@@ -246,80 +246,80 @@ events:
 
 services:
   title: "Services"
-  description: "Let us transform your sound-related questions into evidence-based action plans! We have experience in collaborative research projects with different funding agencies, but also industry contracts and we’re open to consulting opportunities.<br><br><strong>We have a history of turning ideas into a concrete process with viable outcomes</strong>. So, whether you are a planning or design firm, an academic or health institution, a municipality, a non-governmental entity or a corporate setting, we can help you:"
+  description: "Laissez-nous transformer vos questions liées au son en plans d'action fondés sur des preuves ! Nous avons de l'expérience dans des projets de recherche collaboratifs avec différentes agences de financement, mais aussi dans des contrats industriels, et nous sommes ouverts aux opportunités de consultation.<br><br><strong>Nous avons une histoire de transformation des idées en un processus concret avec des résultats viables</strong>. Que vous soyez une entreprise de planification ou de design, une institution académique ou de santé, une municipalité, une entité non-gouvernementale ou une organisation d'entreprise, nous pouvons vous aider :"
   list:
-    - info: "Articulate your sound-related needs and expectations, and integrating them into a broader plan for your products, services and spaces"
+    - info: "Exprimer vos besoins et attentes liés au son et les intégrer dans un plan plus large pour vos produits, services et espaces"
       image: "/assets/images/icons/files-contained.svg"
       alt: "service-1"
       
-    - info: "Identify and strategize sound-related transformations"
+    - info: "Identifier et stratégiquement transformer les éléments liés au son"
       image: "/assets/images/icons/eye-contained.svg"
       alt: "service-2"
       
-    - info: "Facilitate communication between engineering and design professionals to articulate solutions and interventions"
+    - info: "Faciliter la communication entre les professionnels de l'ingénierie et du design pour formuler des solutions et des interventions"
       image: "/assets/images/icons/chat-contained.svg"
       alt: "service-3"
       
-    - info: "Identify and preserve “high quality” sound environments"
+    - info: "Identifier et préserver les environnements sonores de « haute qualité »"
       image: "/assets/images/icons/star-contained.svg"
       alt: "service-4"
       
-    - info: "Enhance the quality of experience through sound"
+    - info: "Améliorer la qualité de l'expérience à travers le son"
       image: "/assets/images/icons/sound-contained.svg"
       alt: "service-5"
       
-    - info: "Reinforce the sonic identity of heritage places"
+    - info: "Renforcer l'identité sonore des lieux patrimoniaux"
       image: "/assets/images/icons/building-contained.svg"
       alt: "service-6"
-  difference: "DIFFERENT  PERSPECTIVES ON"
-  sound: "SOUND"
-  info: "Our projects rely on participatory approaches to the design of built environment and products, integrating different perspectives on sound from a wide range of stakeholders.  "
+  difference: "DIFFÉRENTES PERSPECTIVES SUR"
+  sound: "LE SON"
+  info: "Nos projets reposent sur des approches participatives de la conception de l'environnement bâti et des produits, intégrant différentes perspectives sur le son provenant d'un large éventail de parties prenantes."
   accordions:
-    - name: "Research methods"
+    - name: "Méthodes de recherche"
       id: "research"
       points:
-        - name: "Participatory research approaches with an “ear” for fairness and equity"
-        - name: "For public space and ambiance"
-        - name: Balancing quantitative and qualitative insights
-        - name: Developing research instruments and tools
-        - name: Documenting and integrating insights from different stakeholders
-        - name: Characterization of sound environments of e.g., “high quality”
-    - name: "Workshops "
+        - name: "Approches de recherche participative avec une « oreille » pour l'équité"
+        - name: "Pour l'espace public et l'ambiance"
+        - name: "Équilibrer les perspectives quantitatives et qualitatives"
+        - name: "Développer des instruments et des outils de recherche"
+        - name: "Documenter et intégrer les perspectives de différents acteurs"
+        - name: "Caractérisation des environnements sonores de, par exemple, « haute qualité »"
+    - name: "Ateliers"
       id: "workshop"
       points:
-        - name: "Participatory research approaches with an “ear” for fairness and equity"
-        - name: "For public space and ambiance"
-        - name: Balancing quantitative and qualitative insights
-        - name: Developing research instruments and tools
-        - name: Documenting and integrating insights from different stakeholders
-        - name: Characterization of sound environments of e.g., “high quality”
-    - name: "Knowledge mobilization"
+        - name: "Approches de recherche participative avec une « oreille » pour l'équité"
+        - name: "Pour l'espace public et l'ambiance"
+        - name: "Équilibrer les perspectives quantitatives et qualitatives"
+        - name: "Développer des instruments et des outils de recherche"
+        - name: "Documenter et intégrer les perspectives de différents acteurs"
+        - name: "Caractérisation des environnements sonores de, par exemple, « haute qualité »"
+    - name: "Mobilisation des connaissances"
       id: "knowledge"
       points:
-        - name: "Participatory research approaches with an “ear” for fairness and equity"
-        - name: "For public space and ambiance"
-        - name: Balancing quantitative and qualitative insights
-        - name: Developing research instruments and tools
-        - name: Documenting and integrating insights from different stakeholders
-        - name: Characterization of sound environments of e.g., “high quality”
-    - name: "Research creation"
+        - name: "Approches de recherche participative avec une « oreille » pour l'équité"
+        - name: "Pour l'espace public et l'ambiance"
+        - name: "Équilibrer les perspectives quantitatives et qualitatives"
+        - name: "Développer des instruments et des outils de recherche"
+        - name: "Documenter et intégrer les perspectives de différents acteurs"
+        - name: "Caractérisation des environnements sonores de, par exemple, « haute qualité »"
+    - name: "Création en recherche"
       id: "creation"
       points:
-        - name: "Participatory research approaches with an “ear” for fairness and equity"
-        - name: "For public space and ambiance"
-        - name: Balancing quantitative and qualitative insights
-        - name: Developing research instruments and tools
-        - name: Documenting and integrating insights from different stakeholders
-        - name: Characterization of sound environments of e.g., “high quality”
-    - name: "Outreach / sound awareness"
+        - name: "Approches de recherche participative avec une « oreille » pour l'équité"
+        - name: "Pour l'espace public et l'ambiance"
+        - name: "Équilibrer les perspectives quantitatives et qualitatives"
+        - name: "Développer des instruments et des outils de recherche"
+        - name: "Documenter et intégrer les perspectives de différents acteurs"
+        - name: "Caractérisation des environnements sonores de, par exemple, « haute qualité »"
+    - name: "Sensibilisation / prise de conscience sonore"
       id: "awareness"
       points:
-        - name: "Participatory research approaches with an “ear” for fairness and equity"
-        - name: "For public space and ambiance"
-        - name: Balancing quantitative and qualitative insights
-        - name: Developing research instruments and tools
-        - name: Documenting and integrating insights from different stakeholders
-        - name: Characterization of sound environments of e.g., “high quality” 
+        - name: "Approches de recherche participative avec une « oreille » pour l'équité"
+        - name: "Pour l'espace public et l'ambiance"
+        - name: "Équilibrer les perspectives quantitatives et qualitatives"
+        - name: "Développer des instruments et des outils de recherche"
+        - name: "Documenter et intégrer les perspectives de différents acteurs"
+        - name: "Caractérisation des environnements sonores de, par exemple, « haute qualité »"
   slides:
     - title: "COVID-19 and c"
       description: "Getting a taste of the quiet we thought we wanted"
@@ -338,21 +338,21 @@ services:
       image: "/assets/images/slides/slide1.png"
 
 partners:
-  title: "PARTNERS & FUNDINGS"
+  title: "PARTENAIRES ET FINANCEMENTS"
   city:
-    title: "City of Montreal"
+    title: "Ville de Montréal"
     links:
-      - name: "Ville-Marie borough, Inspection"
-        language: "(in French only)"
+      - name: "Arrondissement Ville-Marie, Inspection"
+        language: "(en français seulement)"
         url: "#"
-      - name: "Ville-Marie borough, Urban Planning"
-        language: "(in French only)"
+      - name: "Arrondissement Ville-Marie, Urbanisme"
+        language: "(en français seulement)"
         url: "#"
-      - name: "Le Plateau-Mont-Royal borough Urban Planning"
-        language: "(in French only)"
+      - name: "Arrondissement Le Plateau-Mont-Royal, Urbanisme"
+        language: "(en français seulement)"
         url: "#"
   organization:
-    title: "Organizations"
+    title: "Organisations"
     links:
       - name: "Quartier des Spectacles"
         url: "#"
@@ -361,100 +361,100 @@ partners:
       - name: "ARUP"
       - name: "Local Logic"
         url: "#"
-      - name: "Center for Interdisciplinary Research in Music Media and Technology (CIRMMT)"
+      - name: "Centre for Interdisciplinary Research in Music Media and Technology (CIRMMT)"
         url: "#"
       - name: "Goethe-Institut Montreal"
         url: "#"
-      - name: "McGill Innovation Week"
+      - name: "Semaine de l'Innovation de McGill"
         url: "#"
   funding:
-    title: "Funding"
+    title: "Financement"
     links:
-      - name: "Social Sciences and Humanities Research Council (SSHRC) grants to C. Guastavino (2016-2018, 2018-2021)"
+      - name: "Subventions du Conseil de recherches en sciences humaines (CRSH) à C. Guastavino (2016-2018, 2018-2021)"
       - name: "MITACS"
         url: "#"
-      - name: "Ministère de l'Environnement et de la Lutte aux changements climatiques"
-        language: "(French only)"
+      - name: "Ministère de l'Environnement et de la Lutte contre les changements climatiques"
+        language: "(en français seulement)"
         url: "#"
       - name: "Ministère de la Santé et des Services sociaux"
-        language: "(French only)"
+        language: "(en français seulement)"
         url: "#"
 services:
   title: "Services"
-  description: "Let us transform your sound-related questions into evidence-based action plans! We have experience in collaborative research projects with different funding agencies, but also industry contracts and we’re open to consulting opportunities.<br><br><strong>We have a history of turning ideas into a concrete process with viable outcomes</strong>. So, whether you are a planning or design firm, an academic or health institution, a municipality, a non-governmental entity or a corporate setting, we can help you:"
+  description: "Laissez-nous transformer vos questions liées au son en plans d'action fondés sur des preuves ! Nous avons de l'expérience dans des projets de recherche collaboratifs avec différentes agences de financement, mais aussi dans des contrats industriels, et nous sommes ouverts aux opportunités de consultation.<br><br><strong>Nous avons une histoire de transformation des idées en un processus concret avec des résultats viables</strong>. Que vous soyez une entreprise de planification ou de design, une institution académique ou de santé, une municipalité, une entité non-gouvernementale ou une organisation d'entreprise, nous pouvons vous aider :"
   list:
-    - info: "Articulate your sound-related needs and expectations, and integrating them into a broader plan for your products, services and spaces"
+    - info: "Exprimer vos besoins et attentes liés au son et les intégrer dans un plan plus large pour vos produits, services et espaces"
       image: "/assets/images/icons/files-contained.svg"
       alt: "service-1"
       
-    - info: "Identify and strategize sound-related transformations"
+    - info: "Identifier et stratégiquement transformer les éléments liés au son"
       image: "/assets/images/icons/eye-contained.svg"
       alt: "service-2"
       
-    - info: "Facilitate communication between engineering and design professionals to articulate solutions and interventions"
+    - info: "Faciliter la communication entre les professionnels de l'ingénierie et du design pour formuler des solutions et des interventions"
       image: "/assets/images/icons/chat-contained.svg"
       alt: "service-3"
       
-    - info: "Identify and preserve “high quality” sound environments"
+    - info: "Identifier et préserver les environnements sonores de « haute qualité »"
       image: "/assets/images/icons/star-contained.svg"
       alt: "service-4"
       
-    - info: "Enhance the quality of experience through sound"
+    - info: "Améliorer la qualité de l'expérience à travers le son"
       image: "/assets/images/icons/sound-contained.svg"
       alt: "service-5"
       
-    - info: "Reinforce the sonic identity of heritage places"
+    - info: "Renforcer l'identité sonore des lieux patrimoniaux"
       image: "/assets/images/icons/building-contained.svg"
       alt: "service-6"
-  difference: "DIFFERENT  PERSPECTIVES ON"
-  sound: "SOUND"
-  info: "Our projects rely on participatory approaches to the design of built environment and products, integrating different perspectives on sound from a wide range of stakeholders.  "
+  difference: "DIFFÉRENTES PERSPECTIVES SUR"
+  sound: "LE SON"
+  info: "Nos projets reposent sur des approches participatives de la conception de l'environnement bâti et des produits, intégrant différentes perspectives sur le son provenant d'un large éventail de parties prenantes."
   accordions:
-    - name: "Research methods"
+    - name: "Méthodes de recherche"
       id: "research"
       points:
-        - name: "Participatory research approaches with an “ear” for fairness and equity"
-        - name: "For public space and ambiance"
-        - name: Balancing quantitative and qualitative insights
-        - name: Developing research instruments and tools
-        - name: Documenting and integrating insights from different stakeholders
-        - name: Characterization of sound environments of e.g., “high quality”
-    - name: "Workshops "
+        - name: "Approches de recherche participative avec une « oreille » pour l'équité"
+        - name: "Pour l'espace public et l'ambiance"
+        - name: "Équilibrer les perspectives quantitatives et qualitatives"
+        - name: "Développer des instruments et des outils de recherche"
+        - name: "Documenter et intégrer les perspectives de différents acteurs"
+        - name: "Caractérisation des environnements sonores de, par exemple, « haute qualité »"
+    - name: "Ateliers"
       id: "workshop"
       points:
-        - name: "Participatory research approaches with an “ear” for fairness and equity"
-        - name: "For public space and ambiance"
-        - name: Balancing quantitative and qualitative insights
-        - name: Developing research instruments and tools
-        - name: Documenting and integrating insights from different stakeholders
-        - name: Characterization of sound environments of e.g., “high quality”
-    - name: "Knowledge mobilization"
+        - name: "Approches de recherche participative avec une « oreille » pour l'équité"
+        - name: "Pour l'espace public et l'ambiance"
+        - name: "Équilibrer les perspectives quantitatives et qualitatives"
+        - name: "Développer des instruments et des outils de recherche"
+        - name: "Documenter et intégrer les perspectives de différents acteurs"
+        - name: "Caractérisation des environnements sonores de, par exemple, « haute qualité »"
+    - name: "Mobilisation des connaissances"
       id: "knowledge"
       points:
-        - name: "Participatory research approaches with an “ear” for fairness and equity"
-        - name: "For public space and ambiance"
-        - name: Balancing quantitative and qualitative insights
-        - name: Developing research instruments and tools
-        - name: Documenting and integrating insights from different stakeholders
-        - name: Characterization of sound environments of e.g., “high quality”
-    - name: "Research creation"
+        - name: "Approches de recherche participative avec une « oreille » pour l'équité"
+        - name: "Pour l'espace public et l'ambiance"
+        - name: "Équilibrer les perspectives quantitatives et qualitatives"
+        - name: "Développer des instruments et des outils de recherche"
+        - name: "Documenter et intégrer les perspectives de différents acteurs"
+        - name: "Caractérisation des environnements sonores de, par exemple, « haute qualité »"
+    - name: "Création en recherche"
       id: "creation"
       points:
-        - name: "Participatory research approaches with an “ear” for fairness and equity"
-        - name: "For public space and ambiance"
-        - name: Balancing quantitative and qualitative insights
-        - name: Developing research instruments and tools
-        - name: Documenting and integrating insights from different stakeholders
-        - name: Characterization of sound environments of e.g., “high quality”
-    - name: "Outreach / sound awareness"
+        - name: "Approches de recherche participative avec une « oreille » pour l'équité"
+        - name: "Pour l'espace public et l'ambiance"
+        - name: "Équilibrer les perspectives quantitatives et qualitatives"
+        - name: "Développer des instruments et des outils de recherche"
+        - name: "Documenter et intégrer les perspectives de différents acteurs"
+        - name: "Caractérisation des environnements sonores de, par exemple, « haute qualité »"
+    - name: "Sensibilisation / prise de conscience sonore"
       id: "awareness"
       points:
-        - name: "Participatory research approaches with an “ear” for fairness and equity"
-        - name: "For public space and ambiance"
-        - name: Balancing quantitative and qualitative insights
-        - name: Developing research instruments and tools
-        - name: Documenting and integrating insights from different stakeholders
-        - name: Characterization of sound environments of e.g., “high quality” 
+        - name: "Approches de recherche participative avec une « oreille » pour l'équité"
+        - name: "Pour l'espace public et l'ambiance"
+        - name: "Équilibrer les perspectives quantitatives et qualitatives"
+        - name: "Développer des instruments et des outils de recherche"
+        - name: "Documenter et intégrer les perspectives de différents acteurs"
+        - name: "Caractérisation des environnements sonores de, par exemple, « haute qualité »"
   slides:
     - title: "COVID-19 and c"
       description: "Getting a taste of the quiet we thought we wanted"
