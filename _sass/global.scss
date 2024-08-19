@@ -253,6 +253,33 @@ body {
       padding: 20px;
     }
 
+    a.menu-hover {
+    .icon-white {
+        display: none;
+      }
+
+      .icon-black {
+        display: block;
+      }
+
+      &:hover {
+        background-color: $black;
+        color: $white;
+
+        .icon-white {
+          display: block;
+        }
+
+        .icon-black {
+          display: none;
+        }
+      }
+      
+      text-decoration: none;
+      color: $black;
+      
+    }
+
     li.menu-item {
       display: block;
       list-style-type: none;
@@ -264,39 +291,6 @@ body {
       &.item-main {
         display: block;
         margin: 30px 0;
-
-        a.menu-link {
-          .icon-white {
-            display: none;
-          }
-
-          .icon-black {
-            display: block;
-          }
-
-          &:hover {
-            background-color: $black;
-            color: $white;
-
-            .icon-white {
-              display: block;
-            }
-
-            .icon-black {
-              display: none;
-            }
-          }
-        }
-      }
-
-      &:hover a.menu-link {
-        background-color: $black;
-        color: $white;
-      }
-
-      a {
-        text-decoration: none;
-        color: $black;
       }
     }
 
