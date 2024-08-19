@@ -17,14 +17,10 @@
             in videos %}
             <div class="video-card">
               <div class="responsive-iframe-container">
-                <iframe
-                  src="https://www.youtube.com/embed/xMVwfa107xQ"
-                  title="Full Highlights | Pakistan vs New Zealand | 3rd T20I 2024 | PCB | M2E2U"
-                  frameborder="0"
+                <iframe src="{{video.url}}"
+                  title="YouTube video player" frameborder="0"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                  referrerpolicy="strict-origin-when-cross-origin"
-                  allowfullscreen
-                ></iframe>
+                  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
               </div>
               <div class="footer">
                 <h3>{{video.title}}</h3>
@@ -80,16 +76,8 @@
             play in audios %}
             <div class="player" data-target="{{play.id}}">
               <div class="player-icon">
-                <img
-                  src="/assets/images/icons/play-icon.png"
-                  alt="play-icon"
-                  class="play-btn"
-                />
-                <img
-                  src="/assets/images/icons/pause-icon.png"
-                  alt="play-icon"
-                  class="pause-btn hide"
-                />
+                <img src="/assets/images/icons/play-icon.png" alt="play-icon" class="play-btn" />
+                <img src="/assets/images/icons/pause-icon.png" alt="play-icon" class="pause-btn hide" />
                 <audio id="{{play.id}}" src="{{play.url}}"></audio>
               </div>
               <div class="content">
