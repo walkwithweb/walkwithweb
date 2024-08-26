@@ -1,7 +1,7 @@
-- title: "Sounds in the City"
-  id: 'sound_in_the_city'
+- title: "Sons en ville"
+  id: 'sons_en_ville'
   data:
-    - title: "Sounds in the City: bridging the gaps from research to practice through soundscape workshops"
+    - title: "Sons en ville : combler les écarts entre la recherche et la pratique à travers des ateliers sur le paysage sonore"
       description: "Journal of Urban Design, 201"
       date: "2020-12-10"
       link:
@@ -12,8 +12,8 @@
         - name: 'Christine Kerrigan'
         - name: 'Catherine Guastavino'
 
-    - title: "Researching soundscape conceptualizations, contexts, and information in urban planning and design practices through interviews"
-      description: "Association of European Schools of Planning (AESOP) Annual Congress <br> Lisbon, Portugal, July 11-17 2017 "
+    - title: "Étudier les conceptualisations du paysage sonore, les contextes et les informations dans les pratiques de planification et de conception urbaine à travers des entretiens"
+      description: "Congrès annuel de l'Association des écoles européennes de planification (AESOP) <br> Lisbonne, Portugal, du 11 au 17 juillet 2017"
       date: "2020-12-10"
       link:
         url: ""
@@ -24,7 +24,7 @@
 - title: "Musikiosk"
   id: 'musikiosk'
   data:
-    - title: "Etudier les nuisances sonores pour améliorer la qualité de vie"
+    - title: "Étudier les nuisances sonores pour améliorer la qualité de vie"
       location: "Journal Métro"
       date: "2020-12-10"
       link:
@@ -33,10 +33,10 @@
       authors:
         - name: 'Machillot. C'
 
-- title: "Soundscape and Urban Planners"
-  id: "soundscape_and_urban_Planners"
+- title: "Paysage sonore et urbanistes"
+  id: "paysage_sonore_et_urbanistes"
   data:
-    - title: "Etudier les nuisances sonores pour améliorer la qualité de vie"
+    - title: "Étudier les nuisances sonores pour améliorer la qualité de vie"
       location: "Journal Métro"
       date: "2020-12-10"
       link:
