@@ -475,26 +475,26 @@ services:
 
 contact:
   title: "Contact"
-  telephone: "Telephone"
+  telephone: "Téléphone"
   team:
     title: "MEMBRES DE L'ÉQUIPE"
     members:
       - name: "Catherine Guastavino"
-        role: "Principal Investigator"
+        role: "Chercheuse principale"
         email: "catherine.guastavino@mcgill.ca"
         phone: "514-398-1709"
       - name: "Daniel Steele"
-        role: "Lead Researcher"
+        role: "Chercheur principal"
         email: "daniel.steele@mail.mcgill.ca"
   contact:
-    title: "Noise Regulation Database"
+    title: "Base de données sur la réglementation du bruit"
     links:
-      - name: "To contribute to the noise regulation database, please send your documentation to"
+      - name: "Pour contribuer à la base de données sur la réglementation du bruit, veuillez envoyer votre documentation à"
       - name: "catherine.guastavino@mcgill.ca"
         url: "#"
   address:
-    title: "MAILING ADDRESS"
+    title: "ADRESSE POSTALE"
     location:
-      - name: "School of Information StudiesMcGill University"
-      - name: "3661 Peel Street,"
-      - name: "Montreal, QC (Canada) H3A 1X1"
+      - name: "École d'études en information Université McGill"
+      - name: "3661 rue Peel,"
+      - name: "Montréal, QC (Canada) H3A 1X1"
