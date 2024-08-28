@@ -175,9 +175,9 @@ soundscape:
         description: 'Think about important sounds valued by your community (e.g., street vendors, cow bells). Sound can help reinforce the identity of, and attachment to, a place.'
   steps:
   - id: 1
-    title: '1 in 5 people are highly annoyed with noise'
+    title: '1 in 5 people are highly annoyed with noise.'
   - id: 2
-    title: 'Noise is the second worst environmental risk factor (after air pollution)'
+    title: 'Noise is the second worst environmental risk factor (after air pollution).'
   - id: 3
     title: 'Quality sound environments can help relieve stress.'
   - id: 4
