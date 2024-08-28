@@ -9,9 +9,11 @@
     <li class="language">/</li>
     {% endfor %}
   </ul>
-  <a href="/">
-    <img alt="logo" src="/assets/images/logo.svg" />
-  </a>
+{% assign lang = page.lang %}
+{% assign locale = site.data.locales[lang] %}
+<a href="{{ locale.links.home }}">
+  <img alt="logo" src="/assets/images/logo.svg" />
+</a>
   <div class="menu text-btn" id="menu-open-btn">
     <div class="bars"></div>
     <span>MENU</span>
@@ -20,7 +22,9 @@
 <div class="navigation" id="nav-container">
   <div class="menu text-btn close" id="menu-close-btn">
     <div class="bars"></div>
-    <span>CLOSE</span>
+    {% assign lang = page.lang %}
+    {% assign locale = site.data.locales[lang] %}
+    <span>{{ locale.links.close }}</span>
   </div>
   <ul class="container main-menu">
     {% assign lang = page.lang %}

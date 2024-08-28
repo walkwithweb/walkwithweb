@@ -498,3 +498,7 @@ contact:
       - name: "École d'études en information Université McGill"
       - name: "3661 rue Peel,"
       - name: "Montréal, QC (Canada) H3A 1X1"
+
+links:
+  home: "/fr"
+  close: "Fermer"
