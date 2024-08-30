@@ -180,22 +180,24 @@ soundscape:
     
 projects:
   title: "LISTE DE PROJETS"
-  description: "projects description"
-  where: 'OÙ'
+  placeholder: "Recherche"
+  description: "description des projets"
+  where: "OÙ"
   tags: "TAGS"
-  fundings: "FUNDINGS"
-  collaborators: "COLLABORATORS"
-  previous: "Previous"
-  next: "NEXT"
-  about_this_project: "ABOUT THE PROJECT"
-  links: "LINKS"
-  media_coverage: "For media coverage on the project, check these links"
-  academic_output: "For the academic output, consult these publications and links"
-  after: "AFTER"
-  before: "BEFORE"
+  fundings: "FINANCEMENTS"
+  collaborators: "COLLABORATEURS"
+  previous: "Précédent"
+  next: "Suivant"
+  about_this_project: "À PROPOS DE CE PROJET"
+  links: "LIENS"
+  media_coverage: "Pour la couverture médiatique du projet, consultez ces liens"
+  academic_output: "Pour les résultats académiques, consultez ces publications et liens"
+  after: "APRÈS"
+  before: "AVANT"
   year: "QUAND"
-  credits: "Credits"
-  author: "author"
+  credits: "Crédits"
+  author: "auteur"
+
 
 media:
   title: "MEDIA"
@@ -208,6 +210,7 @@ papers:
 
 blogs:
   title: "BLOG ARCHIVES"
+  placeholder: "Recherche"
   description: "This blog has French and English content and may not be available in both languages."
   where: 'WHERE'
   tags: "TAGS"
@@ -232,6 +235,7 @@ blogs:
 
 events:
   title: "EVENTS ARCHIVES"
+  placeholder: "Recherche"
   description: "This blog has French and English content and may not be available in both languages."
   time: 'TIME'
   location: 'LOCATION'

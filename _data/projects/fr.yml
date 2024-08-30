@@ -59,8 +59,8 @@
       id: 'pedestrianizationTAGS'
     - name: bruit environnemental
       id: 'env_noise'
-    - name: examens des politiques
-      id: 'policy_review'
+    - name: Politique et planification
+      id: 'policy_and_planning'
     - name: bonnes pratiques
       id: 'best_prac'
     - name: limite de bruit
@@ -418,12 +418,14 @@
       id: 'policy_analysis'
     - name: participatory design
       id: 'participatory_design'
-    - name: sound art
+    - name: Art sonore
       id: 'sound_art'
     - name: public space
       id: 'public_space'
     - name: Venice
       id: 'venice'
+    - name: Politique et planification
+      id: 'policy_and_planning'
   before:
     image: '/assets/images/projects/project1_before.png'
     credits: ''
@@ -514,6 +516,8 @@
       id: 'sonic_cohabitation'
     - name: Ville de Montréal
       id: 'ville_de_montreal'
+    - name: Politique et planification
+      id: 'policy_and_planning'
   before:
     image: '/assets/images/projects/project1_before.png'
     credits: ''
@@ -568,6 +572,8 @@
       id: 'Ville_de_Montréal'
     - name: DRSP
       id: 'DRSP'
+    - name: Politique et planification
+      id: 'policy_and_planning'
   before:
     image: '/assets/images/projects/nightlife/MITACS_ListenUp_Oct6_2022Workshop.jpg'
     credits: ''
@@ -757,6 +763,8 @@ Ville sonore s'est associée au Partenariat du Quartier des spectacles (l'organi
       id: 'experience_sensorielle'
     - name: expérience sonore
       id: 'experience_sonore'
+    - name: espaces intérieurs
+      id: 'espaces_interieurs'
     - name: environnement réparateur
       id: 'environnement_reparateur'
     - name: paysage sonore intérieur
@@ -906,6 +914,8 @@ Ville sonore s'est associée au Partenariat du Quartier des spectacles (l'organi
       id: 'education'
     - name: mobilisation des connaissances
       id: 'knowledge_mobilization'
+    - name: Sensibilisation du public
+      id: 'public_awareness'
   before:
     image: '/assets/images/projects/soundwalks_before.jpg'
     credits: ''
@@ -953,6 +963,8 @@ Ville sonore s'est associée au Partenariat du Quartier des spectacles (l'organi
       id: 'workshop'
     - name: mobilisation des connaissances
       id: 'knowledge_mobilization'
+    - name: Sensibilisation du public
+      id: 'public_awareness'
   before:
     image: '/assets/images/projects/engaging_sound_before.jpg'
     credits: ''
@@ -1185,5 +1197,42 @@ Ville sonore s'est associée au Partenariat du Quartier des spectacles (l'organi
   next_url: "project25"
 
 
+- title: "De chez vous à votre espace vert local ; Qu'entendez-vous en chemin ?"
+  description: "Paysage sonore de l'accès piéton aux espaces verts, Une approche de cartographie participative"
+  tags: 
+    - name: "paysage sonore"
+      id: "paysage_sonore"
+    - name: "marchabilité"
+      id: "marchabilite"
+    - name: "espaces verts"
+      id: "espaces_verts"
+    - name: "espaces publics"
+      id: "espaces_publics"
+    - name: "planification participative"
+      id: "planification_participative"
+    - name: "cartographie"
+      id: "cartographie"
+    - name: Sensibilisation du public
+      id: 'public_awareness'
+  brief: 
+    - "Quelles sont les relations entre la présence de chemins piétonniers vers les espaces verts et les paysages sonores quotidiens des résidents ?"
+    - "La marchabilité autour des espaces verts influence-t-elle le paysage sonore quotidien des résidents ?"
+    - "Un environnement sonore plus positif dans le quartier favorise-t-il la marchabilité des espaces verts ?"
+  about: "Marcheriez-vous sur un trottoir visuellement agréable si le bruit des voitures vous dérangeait ? Les sons sont un élément important de notre vie quotidienne ; cependant, ils ont rarement été étudiés dans le contexte des environnements piétonniers. Alors que l'objectif de marcher dans les espaces verts est de fournir une expérience réparatrice aux gens, la qualité du chemin piétonnier et son paysage sonore n'ont pas été étudiés autour des parcs. Ce projet vise à (1) comprendre si des zones plus marchables autour des espaces verts offrent une meilleure expérience aux résidents lors de leurs trajets. Pour ce faire, nous utilisons des cartes de la largeur des trottoirs, des arbres, des points d'intérêt, etc. - qui sont les indicateurs de marchabilité - à grande échelle et nous mesurerons la marchabilité dans un logiciel SIG. Nous verrons si la plus grande marchabilité du quartier améliore l'expérience sonore globale des personnes se rendant à l'espace vert dans différents quartiers de Montréal. De plus, dans la deuxième phase (2), nous nous concentrerons sur les expériences quotidiennes des habitants à petite échelle dans leur quartier. En utilisant la cartographie participative, la relation entre les chemins choisis par les résidents et l'environnement sonore sera étudiée. Cette étude ouvre la voie à une meilleure compréhension des relations entre la marchabilité et les paysages sonores urbains."
+  dates: "2023 - En cours"
+  before:
+    image: '/assets/images/projects/local green space/Picture1.jpg'
+    credits: ''
+    alt: "Image avant projet"
+  after:
+    image: '/assets/images/projects/local green space/Picture2.jpg'
+    credits: ''
+    alt: "Image après projet"
+  collaborators: ""
+  funding: ""
+  publications: ""
+  contact_info: "Negar Imani, Catherine Guastavino"
+  url: "projet25"
+  prev_url: "projet24"
 
 

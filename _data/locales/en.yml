@@ -186,6 +186,7 @@ soundscape:
 projects:
   title: PROJECTS LIST
   description: "projects description"
+  placeholder: "Search"
   where: 'WHERE'
   tags: "TAGS"
   fundings: "FUNDINGS"
@@ -214,6 +215,7 @@ papers:
 
 blogs:
   title: "BLOG ARCHIVES"
+  placeholder: Search
   description: "This blog has French and English content and may not be available in both languages."
   where: 'WHERE'
   tags: "TAGS"
@@ -237,6 +239,7 @@ blogs:
 
 events:
   title: "EVENTS ARCHIVES"
+  placeholder: Search
   description: "This blog has French and English content and may not be available in both languages."
   time: 'TIME'
   location: 'LOCATION'

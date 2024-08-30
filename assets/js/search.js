@@ -15,7 +15,7 @@ function filterProjects() {
         ];
         const projectTitle = project.dataset.title.toLowerCase();
         const isVisible = filterTags.some((filterTag) =>
-          projectTags.includes(filterTag) ||  projectTitle.includes(filterTag)
+          projectTags.includes(filterTag) || projectTitle.includes(filterTag)
         );
         project.style.display = isVisible ? "" : "none";
         if (isVisible) visibleCount++;
@@ -46,13 +46,24 @@ document.addEventListener("DOMContentLoaded", function () {
   const form = document.getElementById("searchForm");
   const icon = document.getElementById("searchIcon");
 
-  //add permanent tag, check in line 108 if permanent, else do the rest
-  addTag("Indoor spaces", "disabled", "permanent");
-  addTag("Policy and planning", "disabled", "permanent");
-  addTag("Public outreach", "disabled", "permanent");
-  addTag("Public spaces", "disabled", "permanent");
-  addTag("Simulation", "disabled", "permanent");
-  addTag("Sound art", "disabled", "permanent");
+  const language = checkLanguage();
+
+  if (language == "en") {
+    addTag("Indoor spaces", "disabled", "permanent");
+    addTag("Policy and planning", "disabled", "permanent");
+    addTag("Public outreach", "disabled", "permanent");
+    addTag("Public spaces", "disabled", "permanent");
+    addTag("Simulation", "disabled", "permanent");
+    addTag("Sound art", "disabled", "permanent");
+  } else if (language == "fr") {
+    addTag("Espaces intérieurs", "disabled", "permanent");
+    addTag("Politique et planification", "disabled", "permanent");
+    addTag("Sensibilisation du public", "disabled", "permanent");
+    addTag("Espaces publics", "disabled", "permanent");
+    addTag("Simulation", "disabled", "permanent");
+    addTag("Art sonore", "disabled", "permanent");
+  }
+
   if (form) {
     form.addEventListener("submit", handleKeyPress);
   }
@@ -88,7 +99,7 @@ document.addEventListener("DOMContentLoaded", function () {
       tag.dataset.value = value;
       tag.dataset.type = type;
       tag.classList.add(status);
-      if(type != "permanent"){
+      if (type != "permanent") {
         const closeBtn = document.createElement("span");
         closeBtn.textContent = "×";
         closeBtn.className = "x-icon";
@@ -108,18 +119,40 @@ document.addEventListener("DOMContentLoaded", function () {
       } else {
         tagsContainer.classList.remove("space-t");
       }
-      tag.onclick = function (){
-        if(tag.classList.contains("active")){
+      tag.onclick = function () {
+        if (tag.classList.contains("active")) {
           tag.classList.remove("active");
           tag.classList.add("disabled");
           filterProjects();
-        } else if (tag.classList.contains("disabled")){
+        } else if (tag.classList.contains("disabled")) {
           tag.classList.remove("disabled");
           tag.classList.add("active");
           filterProjects();
         }
-        
+
       }
+    }
+  }
+
+  function checkLanguage() {
+    // Get the current URL path
+    const path = window.location.pathname;
+
+    // Check if the path starts with '/fr/'
+    if (path.startsWith('/fr/')) {
+      console.log("Language is French");
+      return 'fr';
+    }
+    // Check if the path starts with '/en/'
+    else if (path.startsWith('/en/')) {
+      console.log("Language is English");
+      return 'en';
+    }
+    
+    // Default case when the language is not specified
+    else {
+      console.log("Language not specified or different");
+      return null;
     }
   }
 
