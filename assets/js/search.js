@@ -47,12 +47,12 @@ document.addEventListener("DOMContentLoaded", function () {
   const icon = document.getElementById("searchIcon");
 
   //add permanent tag, check in line 108 if permanent, else do the rest
-  addTag("Indoor spaces", "disabled");
-  addTag("Policy and planning", "disabled");
-  addTag("Public outreach", "disabled");
-  addTag("Public spaces", "disabled");
-  addTag("Simulation", "disabled");
-  addTag("Sound art", "disabled");
+  addTag("Indoor spaces", "disabled", "permanent");
+  addTag("Policy and planning", "disabled", "permanent");
+  addTag("Public outreach", "disabled", "permanent");
+  addTag("Public spaces", "disabled", "permanent");
+  addTag("Simulation", "disabled", "permanent");
+  addTag("Sound art", "disabled", "permanent");
   if (form) {
     form.addEventListener("submit", handleKeyPress);
   }
@@ -73,31 +73,34 @@ document.addEventListener("DOMContentLoaded", function () {
     const input = document.getElementById("searchInput");
     const value = input.value.trim();
     if (value) {
-      addTag(value, "active");
+      addTag(value, "active", "");
       input.value = ""; // Clear input after adding tag
       filterProjects();
     }
   }
 
-  function addTag(value, status) {
+  function addTag(value, status, type) {
     const tagsContainer = document.getElementById("searchTags");
     if (tagsContainer) {
       const tag = document.createElement("div");
       tag.className = "search-tag";
       tag.textContent = value;
       tag.dataset.value = value;
+      tag.dataset.type = type;
       tag.classList.add(status);
-      const closeBtn = document.createElement("span");
-      closeBtn.textContent = "×";
-      closeBtn.className = "x-icon";
-      if(status == "disabled"){
-        closeBtn.classList.add("disabled");
+      if(type != "permanent"){
+        const closeBtn = document.createElement("span");
+        closeBtn.textContent = "×";
+        closeBtn.className = "x-icon";
+        if (status == "disabled") {
+          closeBtn.classList.add("disabled");
+        }
+        closeBtn.onclick = function () {
+          tagsContainer.removeChild(tag);
+          filterProjects();
+        };
+        tag.appendChild(closeBtn);
       }
-      closeBtn.onclick = function () {
-        tagsContainer.removeChild(tag);
-        filterProjects();
-      };
-      tag.appendChild(closeBtn);
       tagsContainer.appendChild(tag);
       const length = tagsContainer.childNodes.length;
       if (length) {

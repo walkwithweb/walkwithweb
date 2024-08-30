@@ -56,6 +56,8 @@
       id: 'pedestrianizationTAGS'
     - name: environmental noise
       id: 'env_noise'
+    - name: policy and planning
+      id: 'policy_and_planning'
     - name: policy review
       id: 'policy_review'
     - name: best practices
@@ -440,6 +442,8 @@
       id: 'urban_atmosphere'
     - name: policy analysis
       id: 'policy_analysis'
+    - name: policy and planning
+      id: 'policy_and_planning'
     - name: participatory design
       id: 'participatory_design'
     - name: sound art
@@ -538,6 +542,8 @@
       id: 'noise_pollution'
     - name: public policy
       id: 'public_policy'
+    - name: policy and planning
+      id: 'policy_and_planning'
     - name: sonic cohabitation
       id: 'sonic_cohabitation'
     - name: City of Montreal
@@ -580,6 +586,8 @@
   collaborators: "The City of Montreal (Service of Economic Development), Montreal’s Public Health Agency (DRSP), École de Technologie Superieure, Quartier des Spectacles Partnership, other collaborators"
   name: ""
   tags:
+    - name: policy and planning
+      id: 'policy_and_planning'
     - name: entertainment district
       id: 'entertainment district'
     - name: resident 
@@ -771,8 +779,8 @@ Sounds in the City started a collaboration with the City of Montreal and Montrea
   collaborators: "Parish of Saint-Pierre-Apôtre, St. Peter and St. Paul Russian Orthodox Cathedral (Centre Sud), Parishes of Très-Saint-Nom-de-Jésus and La Nativité-de-la-Sainte-Vierge d’Hochelaga, diocesan officials for the church of Très-Saint-Rédempteur (Hochelaga-Maisonneuve)"
   name: "CHURCHES AS PLACES OF RESTORATION"
   tags:
-    - name: Indoor space
-      id: 'indoor_space'
+    - name: Indoor spaces
+      id: 'indoor_spaces'
     - name: sensory experience
       id: 'sensory_experience'
     - name: sound experience
@@ -1148,3 +1156,40 @@ Sounds in the City started a collaboration with the City of Montreal and Montrea
   next_url: "project25"
 
 
+- title: "From your home to your local green space; What you hear in-between?"
+  description: "Soundscape of Green Spaces Walking Access, A Participatory Mapping Approach"
+  tags: 
+    - name: "soundscape"
+      id: "soundscape"
+    - name: "walkability"
+      id: "walkability"
+    - name: "green spaces"
+      id: "green_spaces"
+    - name: "public spaces"
+      id: "public_space"
+    - name: "public outreach"
+      id: "public_outreach"
+    - name: "participatory planning"
+      id: "participatory_planning"
+    - name: "mapping"
+      id: "mapping"
+  brief: 
+    - "What are the relationships between having walkable paths to green spaces and residents’ everyday soundscapes?"
+    - "Does walkability around green spaces impact residents’ everyday soundscape?"
+    - "Is having a more positive sonic environment in the neighborhood promoting the walkability of green spaces?"
+  about: "Would you walk on a visually pleasant sidewalk if you were annoyed with the noise of cars passing by? Sounds are an important element of our everyday life; however, they have rarely been studied in the context of walking environments. While the aim of walking in green spaces is to provide a restorative experience for people, the quality of the walking path and its soundscape has not been studied around the parks. This project aims to (1) understand if more walkable areas around green spaces result in a better experience while residents walk to them. To do so, we use maps of the sidewalk width, trees, points of interest, etc. -which are the walkability indicators- on a large scale and will measure walkability in GIS software. We will see if the higher walkability of the neighborhood promotes people’s overall sound experience of their walk to the green space of people living in different neighborhoods in Montreal. Moreover, in the second phase (2) we will focus on people’s everyday experiences on a small scale in their neighborhood. Using participatory mapping, the relationship between the paths residents choose and the sound environment will be studied. This study paves the way to understanding the relationships between walkability and urban soundscapes."
+  dates: "2023 - Ongoing"
+  before:
+    image: '/assets/images/projects/local green space/Picture1.jpg'
+    credits: ''
+    alt: "Before project image"
+  after:
+    image: '/assets/images/projects/local green space/Picture2.jpg'
+    credits: ''
+    alt: "After project image"
+  collaborators: ""
+  funding: ""
+  publications: ""
+  contact_info: "Negar Imani, Catherine Guastavino"
+  url: "project25"
+  prev_url: "project24"
