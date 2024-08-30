@@ -46,6 +46,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const form = document.getElementById("searchForm");
   const icon = document.getElementById("searchIcon");
 
+  //add permanent tag, check in line 108 if permanent, else do the rest
   addTag("Indoor spaces", "disabled");
   addTag("Policy and planning", "disabled");
   addTag("Public outreach", "disabled");

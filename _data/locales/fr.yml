@@ -1,12 +1,8 @@
 index:
   cities: POUR QUE NOS
   sound: VILLES SONNENT MIEUX
-  discover: DÉCOUVREZ QUI NOUS SOMMES
   notbad: "(PAS SEULEMENT MOINS FORT)"
-  description: "Le sonore joue un rôle essentiel et complexe dans notre expérience des espaces urbains. 
-  À l’heure actuelle, la majorité des villes considèrent les enjeux sonores comme du “bruit”, c’est-à-dire une nuisance n’existant qu’en vase clos et considérée uniquement au moment 
-  où des problèmes surgissent. Mais tout n’est pas qu’une question de bruit ! Le sonore contribue à notre bien-être, nous aide à nous orienter dans le temps et l’espace, peut animer nos milieux de vie et les rendre plus attrayants. Plus encore, les ambiances sonores font partie intégrante du patrimoine de nos villes. 
-  Pensez notamment aux sonorités de votre quotidien, comme la musique, les conversations, les chants des oiseaux ou les cloches."
+  description: "Le sonore joue un rôle essentiel et complexe dans notre expérience des espaces urbains. À l’heure actuelle, la majorité des villes considèrent les enjeux sonores comme du “bruit”, c’est-à-dire une nuisance n’existant qu’en vase clos et considérée uniquement au moment où des problèmes surgissent. Mais tout n’est pas qu’une question de bruit ! Le sonore contribue à notre bien-être, nous aide à nous orienter dans le temps et l’espace, peut animer nos milieux de vie et les rendre plus attrayants. Plus encore, les ambiances sonores font partie intégrante du patrimoine de nos villes. Pensez notamment aux sonorités de votre quotidien, comme la musique, les conversations, les chants des oiseaux ou les cloches."
   discover: "DÉCOUVREZ QUI NOUS SOMMES"
   who: "QUI NOUS SOMMES"
   meet: "Rencontrez l'équipe et les collaborateurs"
@@ -20,7 +16,7 @@ index:
 
     - title: AMBIANCES SONORES
       id: "home-accordion-2"
-      description: "Le concept d’ambiance sonore (aussi connu sous le nom de paysage sonore) [LIEN PAGE SOUNDSCAPE] est une approche novatrice, centrée sur le ressenti, qui redéfinit le sonore comme ressource en lien avec les autres dimensions de l’aménagement urbain, des premiers stades de la conception aux usages dans la durée. Au cœur de cette approche se trouve l’idée que les sonorités du quotidien ne sont pas toutes (et toujours) indésirables. Cependant, malgré de grandes avancées dans le domaine de la recherche, le paysage sonore peine à être mis en œuvre dans la pratique. En somme, tout·e citoyen·ne a le droit de vivre, travailler et se relaxer dans des ambiances sonores qu’iel juge appropriées. Pour y arriver, il faut prendre en compte les perspectives citoyennes, notamment les activités menées et les contextes dans lesquels sont vécus les expériences sonores – tout cela, dans le but de mieux planifier et aménager nos espaces urbains. À terme, nous pouvons améliorer la qualité de vie des résidents et des visiteurs de nos villes par le biais d’une meilleure gestion urbaine sensible au sonore."
+      description: <a href="./soundscape.html">Le concept d’ambiance sonore</a> (aussi connu sous le nom de paysage sonore) est une approche novatrice, centrée sur le ressenti, qui redéfinit le sonore comme ressource en lien avec les autres dimensions de l’aménagement urbain, des premiers stades de la conception aux usages dans la durée. Au cœur de cette approche se trouve l’idée que les sonorités du quotidien ne sont pas toutes (et toujours) indésirables. Cependant, malgré de grandes avancées dans le domaine de la recherche, le paysage sonore peine à être mis en œuvre dans la pratique. En somme, tout·e citoyen·ne a le droit de vivre, travailler et se relaxer dans des ambiances sonores qu’iel juge appropriées. Pour y arriver, il faut prendre en compte les perspectives citoyennes, notamment les activités menées et les contextes dans lesquels sont vécus les expériences sonores – tout cela, dans le but de mieux planifier et aménager nos espaces urbains. À terme, nous pouvons améliorer la qualité de vie des résidents et des visiteurs de nos villes par le biais d’une meilleure gestion urbaine sensible au sonore.
       image: "/assets/images/accordions/home/1.png"
 
     - title: MONTRÉAL COMME LABORATOIRE VIVANT
@@ -51,9 +47,7 @@ about:
 
 soundscape:
   title: Le sonore, c’est important?
-  description: "Le bruit est <strong>un enjeu majeur</strong> dans nos milieux de vie, généralement abordé sous l’angle des nuisances et des niveaux de bruit.
-
-<br><br>Mais tout n’est pas qu’une question de bruit ! Prendre en compte l’expérience sonore participe à améliorer nos milieux de vies dans une perspective de santé durable. Prendre en compte le sonore peut rendre nos villes plus favorables à la santé. Mais comment faire ? Voici quelques principes pour commencer. "
+  description: "Le bruit est <strong>un enjeu majeur</strong> dans nos milieux de vie, généralement abordé sous l’angle des nuisances et des niveaux de bruit. <br><br> Mais tout n’est pas qu’une question de bruit ! Prendre en compte l’expérience sonore participe à améliorer nos milieux de vies dans une perspective de santé durable. Prendre en compte le sonore peut rendre nos villes plus favorables à la santé. Mais comment faire ? Voici quelques principes pour commencer. "
   p1:
     - url: "/assets/audios/SoundFile1_SoundscapePage_TamTamMontRoyal.mp3"
       id: "audio-1"
@@ -199,7 +193,7 @@ projects:
   academic_output: "For the academic output, consult these publications and links"
   after: "AFTER"
   before: "BEFORE"
-  year: "ANNÉE"
+  year: "QUAND"
   credits: "Credits"
   author: "author"
 
@@ -276,50 +270,52 @@ services:
   info: "Nos projets reposent sur des approches participatives de la conception de l'environnement bâti et des produits, intégrant différentes perspectives sur le son provenant d'un large éventail de parties prenantes."
   accordions:
     - name: "Méthodes de recherche"
-      id: "research"
+      id: "recherche"
       points:
-        - name: "Approches de recherche participative avec une « oreille » pour l'équité"
+        - name: "Approches de recherche participatives avec une attention à l'équité et à la justice"
         - name: "Pour l'espace public et l'ambiance"
         - name: "Équilibrer les perspectives quantitatives et qualitatives"
         - name: "Développer des instruments et des outils de recherche"
         - name: "Documenter et intégrer les perspectives de différents acteurs"
         - name: "Caractérisation des environnements sonores de, par exemple, « haute qualité »"
     - name: "Ateliers"
-      id: "workshop"
+      id: "atelier"
       points:
-        - name: "Approches de recherche participative avec une « oreille » pour l'équité"
-        - name: "Pour l'espace public et l'ambiance"
-        - name: "Équilibrer les perspectives quantitatives et qualitatives"
-        - name: "Développer des instruments et des outils de recherche"
-        - name: "Documenter et intégrer les perspectives de différents acteurs"
-        - name: "Caractérisation des environnements sonores de, par exemple, « haute qualité »"
+        - name: "Avec les parties prenantes, par exemple :
+                    Avec les professionnels du design
+                    Avec les professionnels de l'urbanisme
+                    Avec les décideurs politiques
+                    Avec les artistes sonores
+                    Avec le grand public"
+        - name: "En utilisant 
+                    des outils de conception tangibles, par exemple, des fiches de travail
+                    des méthodes immersives/incarnées, par exemple, des simulations VR, des soundwalks"
+        - name: "Exercices d'écoute 
+                    En utilisant des approches innovantes, par exemple, des exercices de développement de l'empathie"
     - name: "Mobilisation des connaissances"
-      id: "knowledge"
+      id: "connaissance"
       points:
-        - name: "Approches de recherche participative avec une « oreille » pour l'équité"
-        - name: "Pour l'espace public et l'ambiance"
-        - name: "Équilibrer les perspectives quantitatives et qualitatives"
-        - name: "Développer des instruments et des outils de recherche"
-        - name: "Documenter et intégrer les perspectives de différents acteurs"
-        - name: "Caractérisation des environnements sonores de, par exemple, « haute qualité »"
-    - name: "Création en recherche"
+        - name: "Dans la politique"
+        - name: "Dans la pratique du design urbain"
+        - name: "Dans la création artistique"
+        - name: "Dans l'éducation"
+    - name: "Création de recherche"
       id: "creation"
       points:
-        - name: "Approches de recherche participative avec une « oreille » pour l'équité"
-        - name: "Pour l'espace public et l'ambiance"
-        - name: "Équilibrer les perspectives quantitatives et qualitatives"
-        - name: "Développer des instruments et des outils de recherche"
-        - name: "Documenter et intégrer les perspectives de différents acteurs"
-        - name: "Caractérisation des environnements sonores de, par exemple, « haute qualité »"
+        - name: "Collaboration avec des artistes sonores"
+        - name: "Art sonore dans des espaces publics/privés"
     - name: "Sensibilisation / prise de conscience sonore"
-      id: "awareness"
+      id: "sensibilisation"
       points:
-        - name: "Approches de recherche participative avec une « oreille » pour l'équité"
-        - name: "Pour l'espace public et l'ambiance"
-        - name: "Équilibrer les perspectives quantitatives et qualitatives"
-        - name: "Développer des instruments et des outils de recherche"
-        - name: "Documenter et intégrer les perspectives de différents acteurs"
-        - name: "Caractérisation des environnements sonores de, par exemple, « haute qualité »"
+        - name: "Soundwalks"
+        - name: "Conférences publiques"
+        - name: "Ateliers (voir ci-dessus)"
+        - name: "Cours d'écologie sonore (pour les professionnels de l'urbanisme)"
+    - name: "Voir notre liste de projets. D'autres exemples incluent :"
+      id: "exemples"
+      points:
+        - name: "Conception d'« environnements de travail sains » (intérieurs et extérieurs) pour vous et vos employés"
+        - name: "Animation des espaces publics par le son"
   slides:
     - title: "COVID-19 and c"
       description: "Getting a taste of the quiet we thought we wanted"
@@ -379,100 +375,6 @@ partners:
       - name: "Ministère de la Santé et des Services sociaux"
         language: "(en français seulement)"
         url: "#"
-services:
-  title: "Services"
-  description: "Laissez-nous transformer vos questions liées au son en plans d'action fondés sur des preuves ! Nous avons de l'expérience dans des projets de recherche collaboratifs avec différentes agences de financement, mais aussi dans des contrats industriels, et nous sommes ouverts aux opportunités de consultation.<br><br><strong>Nous avons une histoire de transformation des idées en un processus concret avec des résultats viables</strong>. Que vous soyez une entreprise de planification ou de design, une institution académique ou de santé, une municipalité, une entité non-gouvernementale ou une organisation d'entreprise, nous pouvons vous aider :"
-  list:
-    - info: "Exprimer vos besoins et attentes liés au son et les intégrer dans un plan plus large pour vos produits, services et espaces"
-      image: "/assets/images/icons/files-contained.svg"
-      alt: "service-1"
-      
-    - info: "Identifier et stratégiquement transformer les éléments liés au son"
-      image: "/assets/images/icons/eye-contained.svg"
-      alt: "service-2"
-      
-    - info: "Faciliter la communication entre les professionnels de l'ingénierie et du design pour formuler des solutions et des interventions"
-      image: "/assets/images/icons/chat-contained.svg"
-      alt: "service-3"
-      
-    - info: "Identifier et préserver les environnements sonores de « haute qualité »"
-      image: "/assets/images/icons/star-contained.svg"
-      alt: "service-4"
-      
-    - info: "Améliorer la qualité de l'expérience à travers le son"
-      image: "/assets/images/icons/sound-contained.svg"
-      alt: "service-5"
-      
-    - info: "Renforcer l'identité sonore des lieux patrimoniaux"
-      image: "/assets/images/icons/building-contained.svg"
-      alt: "service-6"
-  difference: "DIFFÉRENTES PERSPECTIVES SUR"
-  sound: "LE SON"
-  info: "Nos projets reposent sur des approches participatives de la conception de l'environnement bâti et des produits, intégrant différentes perspectives sur le son provenant d'un large éventail de parties prenantes."
-  accordions:
-    - name: "Méthodes de recherche"
-      id: "research"
-      points:
-        - name: "Approches de recherche participative avec une « oreille » pour l'équité"
-        - name: "Pour l'espace public et l'ambiance"
-        - name: "Équilibrer les perspectives quantitatives et qualitatives"
-        - name: "Développer des instruments et des outils de recherche"
-        - name: "Documenter et intégrer les perspectives de différents acteurs"
-        - name: "Caractérisation des environnements sonores de, par exemple, « haute qualité »"
-    - name: "Ateliers"
-      id: "workshop"
-      points:
-        - name: "Approches de recherche participative avec une « oreille » pour l'équité"
-        - name: "Pour l'espace public et l'ambiance"
-        - name: "Équilibrer les perspectives quantitatives et qualitatives"
-        - name: "Développer des instruments et des outils de recherche"
-        - name: "Documenter et intégrer les perspectives de différents acteurs"
-        - name: "Caractérisation des environnements sonores de, par exemple, « haute qualité »"
-    - name: "Mobilisation des connaissances"
-      id: "knowledge"
-      points:
-        - name: "Approches de recherche participative avec une « oreille » pour l'équité"
-        - name: "Pour l'espace public et l'ambiance"
-        - name: "Équilibrer les perspectives quantitatives et qualitatives"
-        - name: "Développer des instruments et des outils de recherche"
-        - name: "Documenter et intégrer les perspectives de différents acteurs"
-        - name: "Caractérisation des environnements sonores de, par exemple, « haute qualité »"
-    - name: "Création en recherche"
-      id: "creation"
-      points:
-        - name: "Approches de recherche participative avec une « oreille » pour l'équité"
-        - name: "Pour l'espace public et l'ambiance"
-        - name: "Équilibrer les perspectives quantitatives et qualitatives"
-        - name: "Développer des instruments et des outils de recherche"
-        - name: "Documenter et intégrer les perspectives de différents acteurs"
-        - name: "Caractérisation des environnements sonores de, par exemple, « haute qualité »"
-    - name: "Sensibilisation / prise de conscience sonore"
-      id: "awareness"
-      points:
-        - name: "Approches de recherche participative avec une « oreille » pour l'équité"
-        - name: "Pour l'espace public et l'ambiance"
-        - name: "Équilibrer les perspectives quantitatives et qualitatives"
-        - name: "Développer des instruments et des outils de recherche"
-        - name: "Documenter et intégrer les perspectives de différents acteurs"
-        - name: "Caractérisation des environnements sonores de, par exemple, « haute qualité »"
-  slides:
-    - title: "COVID-19 and c"
-      description: "Getting a taste of the quiet we thought we wanted"
-      image: "/assets/images/slides/slide1.png"
-    - title: "COVID-19 and c"
-      description: "Getting a taste of the quiet we thought we wanted"
-      image: "/assets/images/slides/slide1.png"
-    - title: "COVID-19 and c"
-      description: "Getting a taste of the quiet we thought we wanted"
-      image: "/assets/images/slides/slide1.png"
-    - title: "COVID-19 and c"
-      description: "Getting a taste of the quiet we thought we wanted"
-      image: "/assets/images/slides/slide1.png"
-    - title: "COVID-19 and c"
-      description: "Getting a taste of the quiet we thought we wanted"
-      image: "/assets/images/slides/slide1.png"
-
-
 contact:
   title: "Contact"
   telephone: "Téléphone"
