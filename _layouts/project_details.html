@@ -95,7 +95,7 @@
                             {{ content.media_coverage }}:
                             <br /><br />
                             {% for link in page.links %}
-                            <a href="{{ link.url }}">{{ link.name }}</a>
+                            <a href="{{ link.url }}" target="_blank">{{ link.name }}</a>
                             {% endfor %}
                         </p>
                     </div>
@@ -105,7 +105,7 @@
                             <br />
                             <br />
                             {% for link in page.publications %}
-                            <a href="{{ link.url }}">{{ link.name }}</a>
+                            <a href="{{ link.url }}" target="_blank">{{ link.name }}</a>
                             {% endfor %}
                         </p>
                     </div>
