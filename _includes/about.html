@@ -89,7 +89,7 @@
                 {% assign links = collaborators.links %}
                 {% for link in links %}
                   {% if link.url %}
-                    <a href="{{ link.url }}" class="link">{{ link.name }}</a>
+                    <a href="{{ link.url }}" class="link" target="_blank">{{ link.name }}</a>
                   {% else %}
                     <p class="link">{{ link.name }}</p>
                   {% endif %}
