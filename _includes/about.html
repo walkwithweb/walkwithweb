@@ -79,7 +79,7 @@
                 {% assign members = collaborators.members %}
                 {% for member in members %}
                   {% if member.url %}
-                    <a href="{{ member.url }}" class="member">{{ member.name }}</a>
+                    <a href="{{ member.url }}" class="member" target="_blank">{{ member.name }}</a>
                   {% else %}
                     <p class="member">{{ member.name }}</p>
                   {% endif %}
