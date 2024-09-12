@@ -3,12 +3,13 @@
     <div class="wrapper">
       <div class="location">
         <img src="/assets/images/icons/location.svg" alt="location-icon" />
+        {% assign lang = page.lang %}
+        {% assign locale = site.data.locales[lang] %}
         <p>
           <span>
-            School of Information Studies<br />
-            McGill University 3661 Peel <br />
-            Street Montreal, QC (Canada) <br />
-            H3A 1X1
+            {% for location in locale.footer.location %}
+              {{ location.name }}</br>
+            {%endfor%}
           </span>
         </p>
       </div>

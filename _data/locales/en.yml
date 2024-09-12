@@ -409,6 +409,13 @@ contact:
       - name: "3661 Peel Street,"
       - name: "Montreal, QC (Canada) H3A 1X1"
 
+footer: 
+  location:
+    - name: "School of Information Studies"
+    - name: "McGill University, 3661 Peel Street,"
+    - name: "Montreal, QC (Canada)"
+    - name: "H3A 1X1"
+
 links:
   home: "/en"
   close: "Close"

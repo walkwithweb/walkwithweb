@@ -405,6 +405,13 @@ contact:
       - name: "3661 rue Peel,"
       - name: "Montréal, QC (Canada) H3A 1X1"
 
+footer: 
+  location:
+    - name: "École d'études en information"
+    - name: "Université McGill, 3661 rue Peel,"
+    - name: "Montréal, QC (Canada)"
+    - name: "H3A 1X1"
+
 links:
   home: "/fr"
   close: "Fermer"
