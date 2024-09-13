@@ -99,6 +99,26 @@ index:
         image: " "
 ```
 
+##### Accordion Content 
+To update the accordion section on the homepage, find the "accordions" list in the "index" item and update the "title" list. Each  -title (description, image) list represents a single accordion, to create more accordions, repeat the list for each additional accordion
+
+```
+index: 
+    .
+    .
+    .
+    accordions:
+    - title: --enter a title for the accordion, do not use quotation marks e.g SOUNDS IN CITIES --
+      id: "--enter a unique id for the accordion button, make sure no other accordion button is using this id e.g home-accordion-1 --"
+      description: "--enter the text that will be showed when the accordion is open--"
+      image: "--enter the path for the image e.g /assets/images/accordions/home/1.png where image 1.png is in the home folder in the accordions folder in the images folder which is in the assets folder--"
+
+    - title: --title text here no quotation marks--
+      id: " "
+      description: " "
+      image: " "
+```
+
 ### Media 
 
 ### Papers
