@@ -1,3 +1,6 @@
+# Quick Links 
+- [Jekyll Installation Instructions](#readme-ov-file#jekyll-starter-template-i18n) 
+
 # Jekyll starter template (I18n)
 
 Basic template to quickly start projects with [Jekyll](https://jekyllrb.com/).
