@@ -1,6 +1,18 @@
 # Quick Links 
 - [Jekyll Installation Instructions](#readme-ov-file#jekyll-starter-template-i18n) 
 - [How to Update Content](#updating-content)
+- [Locales Folder - Static Page Content](#locales-folder---websites-static-content)
+    - [Home Page](#home-page)
+    - [Soundscape Page](#soundscape-page)
+    - [Partners Page](#partners-page-content)
+    - [Services Page](#services-content)
+    - [Contact Page](#contact-page-content)
+- [Blogs Page](#blogs)
+- [Events Page](#events)
+- [Media Page](#media)
+- [Papers Page](#papers)
+- [Projects Page](#projects)
+- [Team](#team)
 
 # Jekyll starter template (I18n)
 
@@ -23,7 +35,7 @@ bundle exec jekyll serve
 
 4 - Browse to http://localhost:4000
 
-## Updating Content
+## Updating Content [Back to top](#quick-links)
 
 #### Things to keep in mind: 
 The basic structure of the .yml files you will edit to update your site's content is a map or list and follows a hierarchy that depends on indentation see example below: 
