@@ -7,7 +7,7 @@
         {% for link in city.links %}
         <p>
             {% if link.url %}
-                <a href="{{ link.url }}" >{{ link.name }}</a><span>&nbsp{{link.language}}</span>
+                <a href="{{ link.url }}" target="_blank">{{ link.name }}</a><span>&nbsp{{link.language}}</span>
             {% else %}
                 {{ link.name }}<span>&nbsp{{link.language}}</span>
             {% endif %}
@@ -20,7 +20,7 @@
         {% for link in organization.links %}
         <p>
             {% if link.url %}
-                <a href="{{ link.url }}" >{{ link.name }}</a><span>&nbsp{{link.language}}</span>
+                <a href="{{ link.url }}" target="_blank">{{ link.name }}</a><span>&nbsp{{link.language}}</span>
             {% else %}
                 {{ link.name }}<span>&nbsp{{link.language}}</span>
             {% endif %}
@@ -33,7 +33,7 @@
         {% for link in funding.links %}
         <p>
             {% if link.url %}
-                <a href="{{ link.url }}" >{{ link.name }}</a><span>&nbsp{{link.language}}</span>
+                <a href="{{ link.url }}" target="_blank">{{ link.name }}</a><span>&nbsp{{link.language}}</span>
             {% else %}
                 {{ link.name }}<span>&nbsp{{link.language}}</span>
             {% endif %}

@@ -38,7 +38,7 @@ food:
       sweets: raisins
 ```
 
-### Locales folder - WEBSITES STATIC CONTENT
+### Locales folder - WEBSITE'S STATIC CONTENT
 This folder contains your websites static content (non changing content e.g main page headers etc)
 folder - "locales" found in the "_data" folder
 related files - "en.yml" for English text, "fr.yml" for French translations 
@@ -47,7 +47,7 @@ Using the template text below, copy and paste the section between the ``` tags i
 
 #### Home Page
 ##### Slider Content 
-To update the slider on the homepage, find the "slides" list in the "index" item and update the "slides" item . Each  -title (description, image) list represents a single slide, to create more slides, repeat the list for each additional slide item
+To update the slider on the homepage, in the "locales" folder, find the "slides" list in the "index" item and update the "slides" item . Each  -title (description, image) list represents a single slide, to create more slides, repeat the list for each additional slide item
 
 ```
 index: 
@@ -64,7 +64,7 @@ index:
 ```
 
 ##### Accordion Content 
-To update the accordion section on the homepage, find the "accordions" list in the "index" item and update the "title" list. Each  -title (description, image) list represents a single accordion, to create more accordions, repeat the list for each additional accordion
+To update the accordion section on the homepage, in the "locales" folder, find the "accordions" list in the "index" item and update the "title" list. Each  -title (description, image) list represents a single accordion, to create more accordions, repeat the list for each additional accordion
 
 ```
 index: 
@@ -82,6 +82,131 @@ index:
       description: " "
       image: " "
 ```
+
+#### Soundscape Page
+##### Audio Player Content 
+To update the audio player on the soundscape page, in the "locales" folder, find the "p1" list in the "soundscape" item and update the "url" item . Each  -url (id, name, credits, album) list represents a single audio item, to create more items, repeat the list for each additional audio item
+
+```
+soundscape:
+  .
+  .
+  .
+  p1:
+    - url: "--enter the path to where the audio file is saved e.g /assets/audios/SoundFile1_SoundscapePage_TamTamMontRoyal.mp3 --"
+      id: "--enter a unique id for the audio player item e.g audio-1 --"
+      name: "--enter a display title for the audio e.g Tam-tams in Mount Royal Park: A Montreal soundmark --"
+      credits: "--enter the credits e.g Mariana Mejia Ahrens, 2019 --"
+      album: "-- enter the subtitle for the audio file e.g Recorded around the George-Étienne Cartier Monument --"
+
+    - url: " "
+      id: " "
+      name: " "
+      credits: " "
+      album: " "
+```
+
+#### Soundscape Cards Content 
+To update the cards on the soundscape page, in the "locales" folder, find the "list2" item in the "cards" item and update the "id" item . Each  -id (img src, subtitle, description) list represents a single card item, to create more cards, repeat the list for each additional item
+
+```
+soundscape:
+    .
+    .
+    .
+    cards:
+        .
+        .
+        .
+        list2:
+            - id: --enter a number, needs to be consecutive, check previous items in the list are not using the number, no quotation marks e.g 6 --
+                img_src: '--enter a path to the image e.g /assets/images/soundscape principles/6-mockup-creditPetersenStudio.png --'
+                subtitle: '--enter a subtitle for the section eg. SOUND LEVELS CAPTURE ONLY PART OF THE STORY --'
+                description: '--enter the section's text --'
+
+            - id: --enter a number no quotation marks--
+                img_src: ' '
+                subtitle: ' '
+                description: ' '
+
+```
+
+#### Soundscape Steps Content 
+To update the steps 1, 2, 3, 4 on the soundscape page, in the "locales" folder, find the "steps" item in the "soundscape" item and update the "id" item . Each  -id (title) list represents a single step, to create more steps, repeat the list for each additional item
+
+```
+soundscape:
+  .
+  .
+  .
+  steps:
+    - id: --enter a number, no quotation marks--
+        title: '--enter the text for the step e.g 1 in 5 people are highly annoyed with noise. --'
+    - id: 2
+        title: ''
+    - id: 3
+        title: ''
+    - id: 4
+        title: ''
+
+```
+
+##### Partners Page Content 
+To update the partner's page, in the "locales" folder, find the "accordions" list in the "index" item and update the "title" list. Update the links list in the partners, organizations, or funding sections. Each "name" represents a link item
+
+```
+locales:
+    .
+    .
+    .
+    partners:
+        title: "PARTNERS & FUNDINGS"
+        city:
+            title: "City of Montreal"
+            links:
+                - name: "--enter the link's text here e.g Ville-Marie borough, Inspection --"
+                    language: "--enter the language the content in the link is available in e.g (in French only) --"
+                    url: "--enter a full url e.g https://... if no url use a # symbol or remove the url item if the listing is not a link --"
+                - name: "--enter the link's text--"
+                    language: " "
+                    url: "#"
+    organization:
+        title: "Organizations"
+        links:
+            - name: "--enter the link's text here --"
+                url: "--enter a full url e.g https://... --"
+            - name: "--For items that are not links, do not add a "url" item to the list add only the name item e.g ARUP"
+            - name: ""
+                url: ""
+    funding:
+        title: "Funding"
+        links:
+            - name: "--enter the title here--"
+            - name: " "
+                url: "#"
+```
+
+##### Accordion Content 
+To update the accordion section on the homepage, in the "locales" folder, find the "accordions" list in the "index" item and update the "title" list. Each  -title (description, image) list represents a single accordion, to create more accordions, repeat the list for each additional accordion
+
+```
+index: 
+    .
+    .
+    .
+    accordions:
+    - title: --enter a title for the accordion, do not use quotation marks e.g SOUNDS IN CITIES --
+      id: "--enter a unique id for the accordion button, make sure no other accordion button is using this id e.g home-accordion-1 --"
+      description: "--enter the text that will be showed when the accordion is open--"
+      image: "--enter the path for the image e.g /assets/images/accordions/home/1.png where image 1.png is in the home folder in the accordions folder in the images folder which is in the assets folder--"
+
+    - title: --title text here no quotation marks--
+      id: " "
+      description: " "
+      image: " "
+```
+
+
 ### Blogs
 folder - "blogs" found in the "_data" folder
 related files - "en.yml" for English text, "fr.yml" for French translations 

@@ -236,7 +236,7 @@ blogs:
 events:
   title: "EVENTS ARCHIVES"
   placeholder: "Recherche"
-  description: "This blog has French and English content and may not be available in both languages."
+  description: "This archive has French and English content and may not be available in both languages."
   time: 'TIME'
   location: 'LOCATION'
   language: 'LANGUAGE'
