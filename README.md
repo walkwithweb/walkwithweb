@@ -22,7 +22,7 @@ bundle exec jekyll serve
 ## Updating Content
 
 ### Blogs
-folder - blogs found in the "_data" folder
+folder - "blogs" found in the "_data" folder
 related files - "en.yml" for English text, "fr.yml" for French translations 
 
 Using the template text below, copy and paste the section between the ``` tags into the .yml files and edit the text for each section.
@@ -43,6 +43,20 @@ title: "--enter a title for your blog post here--"
   link: "--enter a full url for an external link related to the blog e.g https://... --"
 ```
 ### Events
+folder - "events" found in the "_data" folder
+related files - "en.yml" for English text, "fr.yml" for French translations 
+
+Using the template text below, copy and paste the section between the ``` tags into the .yml files and edit the text for each section.
+
+```
+title: "--enter a title for your event here--"
+  id: "--enter a unique id for the event here e.g event-5 - check that no other event exists with the same id --"
+  location: "--enter a location for the event e.g Virtual event --"
+  date: "--enter a date for the event e.g June 2-3, 2021, 8:30 to 12:30 --"
+  language: "--enter the language the event is held in e.g French only --"
+  about: "--enter the content text for the event ... use <br><br> tags to create paragraphs or breaks in the text --"
+  link: "--enter a full url for an external link related to the event e.g https://... --"
+```
 
 ### Footer
 
