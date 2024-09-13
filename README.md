@@ -56,11 +56,11 @@ index:
     .
     slides:
         - title: "--enter a title for the image here --"
-        description: "--enter the short caption for the image here --"
-        image: "--enter the path to the image e.g /assets/images/slides/slide1.png ... here slide1.png is the image and has been saved in the "slides" folder in the images which is in the "assets" folder --"
+          description: "--enter the short caption for the image here --"
+          image: "--enter the path to the image e.g /assets/images/slides/slide1.png ... here slide1.png is the image and has been saved in the "slides" folder in the images which is in the "assets" folder --"
         - title: " "
-        description: " "
-        image: " "
+          description: " "
+          image: " "
 ```
 
 ##### Accordion Content 
@@ -73,7 +73,7 @@ index:
     .
     accordions:
     - title: --enter a title for the accordion, do not use quotation marks e.g SOUNDS IN CITIES --
-      id: "--enter a unique id for the accordion button, make sure no other accordion button is using this id e.g home-accordion-1 --"
+      id: "--enter a unique id for the accordion button, make sure no other accordion button is using this id and user no spaces e.g home-accordion-1 --"
       description: "--enter the text that will be showed when the accordion is open--"
       image: "--enter the path for the image e.g /assets/images/accordions/home/1.png where image 1.png is in the home folder in the accordions folder in the images folder which is in the assets folder--"
 
@@ -94,7 +94,7 @@ soundscape:
   .
   p1:
     - url: "--enter the path to where the audio file is saved e.g /assets/audios/SoundFile1_SoundscapePage_TamTamMontRoyal.mp3 --"
-      id: "--enter a unique id for the audio player item e.g audio-1 --"
+      id: "--enter a unique id for the audio player item, no spaces e.g audio-1 --"
       name: "--enter a display title for the audio e.g Tam-tams in Mount Royal Park: A Montreal soundmark --"
       credits: "--enter the credits e.g Mariana Mejia Ahrens, 2019 --"
       album: "-- enter the subtitle for the audio file e.g Recorded around the George-Étienne Cartier Monument --"
@@ -106,7 +106,7 @@ soundscape:
       album: " "
 ```
 
-#### Soundscape Cards Content 
+##### Soundscape Cards Content 
 To update the cards on the soundscape page, in the "locales" folder, find the "list2" item in the "cards" item and update the "id" item . Each  -id (img src, subtitle, description) list represents a single card item, to create more cards, repeat the list for each additional item
 
 ```
@@ -131,7 +131,7 @@ soundscape:
 
 ```
 
-#### Soundscape Steps Content 
+##### Soundscape Steps Content 
 To update the steps 1, 2, 3, 4 on the soundscape page, in the "locales" folder, find the "steps" item in the "soundscape" item and update the "id" item . Each  -id (title) list represents a single step, to create more steps, repeat the list for each additional item
 
 ```
@@ -152,7 +152,7 @@ soundscape:
 ```
 
 ##### Partners Page Content 
-To update the partner's page, in the "locales" folder, find the "accordions" list in the "index" item and update the "title" list. Update the links list in the partners, organizations, or funding sections. Each "name" represents a link item
+To update the partner's page, in the "locales" folder, find the "accordions" list in the "index" item and update the "title" list. Update the links list in the partners, organizations, or funding items. Each "name" represents a list item in that section
 
 ```
 locales:
@@ -186,26 +186,93 @@ locales:
                 url: "#"
 ```
 
-##### Accordion Content 
-To update the accordion section on the homepage, in the "locales" folder, find the "accordions" list in the "index" item and update the "title" list. Each  -title (description, image) list represents a single accordion, to create more accordions, repeat the list for each additional accordion
+##### Services Content 
+To update the services page, in the "locales" folder, find the "services" list update the "list" list. Each  -info (image, alt) list represents a single service, to create more services, repeat the list for each additional service
 
 ```
-index: 
-    .
-    .
-    .
-    accordions:
-    - title: --enter a title for the accordion, do not use quotation marks e.g SOUNDS IN CITIES --
-      id: "--enter a unique id for the accordion button, make sure no other accordion button is using this id e.g home-accordion-1 --"
-      description: "--enter the text that will be showed when the accordion is open--"
-      image: "--enter the path for the image e.g /assets/images/accordions/home/1.png where image 1.png is in the home folder in the accordions folder in the images folder which is in the assets folder--"
+services:
+  .
+  .
+  .
+  list:
+    - info: "--enter the text for the service here --"
+      image: "--enter the path to the where the image icon is saved e.g /assets/images/icons/files-contained.svg --"
+      alt: "--enter the alt text for the image e.g service-1 --"
+      
+    - info: " "
+      image: " "
+      alt: " "
+```
 
-    - title: --title text here no quotation marks--
-      id: " "
+##### Services Slider Content 
+To update the services page slider, in the "locales" folder, find the "slides" list update the "title" list. Each  -title (description, image) list represents a single slide, to create more slides, repeat the list for each additional slide
+
+```
+services:
+  .
+  .
+  .
+  slides:
+    - title: "--enter the image's title e.g COVID-19 and c --"
+      description: "--enter the caption for the slide e.g Getting a taste of the quiet we thought we wanted --"
+      image: "--enter a path to where the image has been saved e.g /assets/images/slides/slide1.png --"
+    - title: " "
       description: " "
       image: " "
 ```
 
+##### Services Accordion Content 
+To update the services page accordion, in the "locales" folder, find the "services" list update the "accordions" list. Each  -name (id, points, name) list represents a single accordion item, to create more accordions, repeat the -name list for each additional accordion. To add to the list add more -name: items to the points item
+
+```
+services:
+  .
+  .
+  .
+  accordions:
+    - name: "--enter a title for the accordion button e.g Research methods --"
+      id: "--enter a unique one word id, no spaces for the section e.g research --"
+      points:
+        - name: "--enter a list item ... use the <br> tag in your text to break the list item into a new line --"
+        - name: "--enter a list item --"
+    - name: "--enter a title for the accordion button e.g Workshops --"
+      id: "--enter a unique one word id, no spaces for the section e.g workshops --"
+      points:
+        - name: " "
+        - name: " "
+        - name: " "
+```
+
+##### Contact Page Content 
+To update the contact page, in the "locales" folder, find the "contact" list update the "members" list. Each  -name (role, email) list represents a single team member, to create more members, repeat the -name list for each additional person. To add to the list add more -name: items to the points item
+
+```
+contact:
+  title: "Contact"
+  telephone: "Telephone"
+  team:
+    title: "TEAM MEMBERS"
+    members:
+      - name: "--enter the team member's name e.g Catherine Guastavino --"
+        role: "--enter the person's role e.g Principal Investigator --"
+        email: "--enter the person's email e.g catherine.guastavino@mcgill.ca --"
+        phone: "--enter the person's phone number e.g 514-398-1709 --"
+      - name: " "
+        role: " "
+        email: " "
+  contact:
+    title: "Noise Regulation Database"
+    links:
+      - name: "To contribute to the noise regulation database, please send your documentation to"
+      - name: "--enter the display for the link e.g catherine.guastavino@mcgill.ca --"
+        url: "--enter a full link to a url e.g https://... --"
+  address:
+    title: "MAILING ADDRESS"
+    location:
+      - name: "School of Information Studies McGill University"
+      - name: "3661 Peel Street,"
+      - name: "Montreal, QC (Canada) H3A 1X1"
+```
 
 ### Blogs
 folder - "blogs" found in the "_data" folder
@@ -228,6 +295,7 @@ title: "--enter a title for your blog post here--"
   next_url: "--enter the next blog's url e.g blog-3 if your blog is blog-2 --"
   link: "--enter a full url for an external link related to the blog e.g https://... --"
 ```
+
 ### Events
 folder - "events" found in the "_data" folder
 related files - "en.yml" for English text, "fr.yml" for French translations 
@@ -236,14 +304,75 @@ Using the template text below, copy and paste the section between the ``` tags i
 
 ```
 title: "--enter a title for your event here--"
-  id: "--enter a unique id for the event here e.g event-5 - check that no other event exists with the same id --"
+  id: "--enter a unique id, no spaces for the event here e.g event-5 - check that no other event exists with the same id --"
   location: "--enter a location for the event e.g Virtual event --"
   date: "--enter a date for the event e.g June 2-3, 2021, 8:30 to 12:30 --"
   language: "--enter the language the event is held in e.g French only --"
   about: "--enter the content text for the event ... use <br><br> tags to create paragraphs or breaks in the text --"
   link: "--enter a full url for an external link related to the event e.g https://... --"
 ```
+
 ### Media 
+folder - "media" found in the "_data" folder
+related files - "en.yml" for English text, "fr.yml" for French translations 
+
+Using the template text below, copy and paste the section between the ``` tags into the .yml files and edit the text for each section.
+
+#### Videos update
+To update the videos section, in the "media" folder, find the "video" list update the "data" list. Each  -url (title, description, date) list represents a single video, to create more videos, repeat the -url list for each additional video. 
+
+```
+video:
+  title: "VIDEOS"
+  data:
+    - url: "--enter the full link to the video e.g https://... --"
+      title: "--enter the title for the video e.g Presentation of the Sounds in the City research partnership --"
+      description: "--enter the caption for the video --"
+      date: "--enter the posted date e.g 2019, May 14 --"
+    - url: " "
+      title: " "
+      description: " "
+      date: " "
+```
+
+#### Articles update
+To update the articles section, in the "media" folder, find the "article" list update the "data" list. Each  -title (location, date, author) list represents a single article, to create more articles, repeat the -title list for each additional article. 
+
+```
+article:
+  title: "ARTICLES"
+  read: "READ"
+  author: "AUTHOR"
+  data:
+    - title: --enter the title e.g Etudier les nuisances sonores pour améliorer la qualité de vie--
+      location: --enter the location e.g Journal Métro --
+      date: --enter the date e.g 2020, December 10 --
+      author: '--enter the article's author e.g Machillot. C --'
+      link: '--enter the full link to read the article e.g https://... --'
+    - title: ' '
+      date: ' '
+      author: ' '
+      link: ' '
+```
+
+#### Audio update
+To update the audio section, in the "media" folder, find the "audio" list update the "data" list. Each  -url (id, name, credits, album) list represents a single audio file, to create more items, repeat the -url list for each additional item. 
+
+```
+audio:
+  title: "AUDIO"
+  data:
+    - url: "--enter the file path where the sound file is stored e.g /assets/audios/1.mp3 --"
+      id: "--enter a unique id for the file, no spaces e.g audio-1 --"
+      name: "--enter a title e.g Sounds of A busy road --"
+      credits: "--enter the credits e.g V. Fraisse, 2023. --"
+      album: "--enter the album details e.f Le Plateau, Mont Royal, Montréal. --"
+    - url: " "
+      id: " "
+      name: " "
+      credits: " "
+      album: " "
+```
 
 ### Papers
 

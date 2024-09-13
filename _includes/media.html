@@ -42,8 +42,8 @@
       <div id="article_accordion" class="acc-content">
         <div class="container">
           <div class="articles">
-            {% assign articles = artic.data %} {% for
-            article in articles %}
+            {% assign articles = artic.data %} 
+            {% for article in articles %}
             <div class="article-card">
               <div class="content">
                 <h3>{{article.title}}</h3>
@@ -54,7 +54,7 @@
                   <h4>{{artic.author}}</h4>
                   <p>{{article.author}}</p>
                 </div>
-                <a href="#" class="readmore">{{artic.read}}</a>
+                <a href="{{article.link}}" target="_blank" class="readmore">{{artic.read}}</a>
               </div>
             </div>
             {%endfor%}
