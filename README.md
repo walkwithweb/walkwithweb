@@ -1,5 +1,6 @@
 # Quick Links 
 - [Jekyll Installation Instructions](#readme-ov-file#jekyll-starter-template-i18n) 
+- [How to Update Content](#updating-content)
 
 # Jekyll starter template (I18n)
 
