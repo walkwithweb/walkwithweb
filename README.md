@@ -10,9 +10,15 @@
 - [Blogs Page](#blogs)
 - [Events Page](#events)
 - [Media Page](#media)
+-   [Videos](#videos-update)
+-   [Articles](#articles-update)
+-   [Audio](#audio-update)
 - [Papers Page](#papers)
 - [Projects Page](#projects)
 - [Team](#team)
+    - [Members](#members-content)
+    - [Alumni](#alumni-content)
+    - [Collaborators](#collaborators-content)
 
 # Jekyll starter template (I18n)
 
@@ -54,14 +60,14 @@ food:
       sweets: raisins
 ```
 
-### Locales folder - WEBSITE'S STATIC CONTENT
+### Locales folder - WEBSITE'S STATIC CONTENT [Back to top](#quick-links)
 This folder contains your websites static content (non changing content e.g main page headers etc)
 folder - "locales" found in the "_data" folder
 related files - "en.yml" for English text, "fr.yml" for French translations 
 
 Using the template text below, copy and paste the section between the ``` tags into the .yml files and edit the text for each section.
 
-#### Home Page
+#### Home Page [Back to top](#quick-links)
 ##### Slider Content 
 To update the slider on the homepage, in the "locales" folder, find the "slides" list in the "index" item and update the "slides" item . Each  -title (description, image) list represents a single slide, to create more slides, repeat the list for each additional slide item
 
@@ -99,7 +105,7 @@ index:
       image: " "
 ```
 
-#### Soundscape Page
+#### Soundscape Page [Back to top](#quick-links)
 ##### Audio Player Content 
 To update the audio player on the soundscape page, in the "locales" folder, find the "p1" list in the "soundscape" item and update the "url" item . Each  -url (id, name, credits, album) list represents a single audio item, to create more items, repeat the list for each additional audio item
 
@@ -167,7 +173,7 @@ soundscape:
 
 ```
 
-##### Partners Page Content 
+##### Partners Page Content [Back to top](#quick-links)
 To update the partner's page, in the "locales" folder, find the "accordions" list in the "index" item and update the "title" list. Update the links list in the partners, organizations, or funding items. Each "name" represents a list item in that section
 
 ```
@@ -202,7 +208,7 @@ locales:
                 url: "#"
 ```
 
-##### Services Content 
+##### Services Content [Back to top](#quick-links)
 To update the services page, in the "locales" folder, find the "services" list update the "list" list. Each  -info (image, alt) list represents a single service, to create more services, repeat the list for each additional service
 
 ```
@@ -259,7 +265,7 @@ services:
         - name: " "
 ```
 
-##### Contact Page Content 
+##### Contact Page Content [Back to top](#quick-links)
 To update the contact page, in the "locales" folder, find the "contact" list update the "members" list. Each  -name (role, email) list represents a single team member, to create more members, repeat the -name list for each additional person. To add to the list add more -name: items to the points item
 
 ```
@@ -290,7 +296,7 @@ contact:
       - name: "Montreal, QC (Canada) H3A 1X1"
 ```
 
-### Blogs
+### Blogs [Back to top](#quick-links)
 folder - "blogs" found in the "_data" folder
 related files - "en.yml" for English text, "fr.yml" for French translations 
 
@@ -312,7 +318,7 @@ title: "--enter a title for your blog post here--"
   link: "--enter a full url for an external link related to the blog e.g https://... --"
 ```
 
-### Events
+### Events [Back to top](#quick-links)
 folder - "events" found in the "_data" folder
 related files - "en.yml" for English text, "fr.yml" for French translations 
 
@@ -328,13 +334,13 @@ title: "--enter a title for your event here--"
   link: "--enter a full url for an external link related to the event e.g https://... --"
 ```
 
-### Media 
+### Media [Back to top](#quick-links)
 folder - "media" found in the "_data" folder
 related files - "en.yml" for English text, "fr.yml" for French translations 
 
 Using the template text below, copy and paste the section between the ``` tags into the .yml files and edit the text for each section.
 
-#### Videos update
+#### Videos update 
 To update the videos section, in the "media" folder, find the "video" list update the "data" list. Each  -url (title, description, date) list represents a single video, to create more videos, repeat the -url list for each additional video. 
 
 ```
@@ -390,8 +396,177 @@ audio:
       album: " "
 ```
 
-### Papers
+### Papers [Back to top](#quick-links)
+folder - "papers" found in the "_data" folder
+related files - "en.yml" for English text, "fr.yml" for French translations 
 
-### Projects
+Using the template text below, copy and paste the section between the ``` tags into the .yml files and edit the text for each section.
 
-### Team 
+To create a paper section create a main level -title item each -title item will have the following items id, data. 
+
+To list papers inside this new section create a -title list in the data item. Each title list will have the following items description, date,link containing a url and name, and authors containing a list of names for each author
+
+To add another paper to this same section, add another title list to the data item 
+
+```
+- title: "--enter a title for the section e.g Sounds in the City --"
+  id: '--enter a unique id with no spaces e.g sound_in_the_city --'
+  data:
+    - title: "--enter a title for the first paper in the Sounds in the City section e.f Sounds in the City: bridging the gaps from research to practice through soundscape workshops --"
+      description: "--enter a description e.g. Journal of Urban Design, 201 --"
+      date: "--enter a date e.g 2020-12-10 --"
+      link:
+        url: "--enter a full link to the paper e.g https://... --"
+        name: "--enter the doi number e.g 10.1080/13574809.2019.1699399 --"
+      authors:
+        - name: '--enter an author name e.g Daniel Steele --'
+        - name: '--enter another author name e.g Christine Kerrigan --'
+        - name: '--enter another author name e.g Catherine Guastavino --'
+
+    - title: "--enter another paper title in the Sounds in the City section e.g Researching soundscape conceptualizations, contexts, and information in urban planning and design practices through interviews--"
+      description: "--enter a description--"
+      date: " "
+      link:
+        url: "--leave url blank if there is no link e.g '#' "
+      authors:
+        - name: ' '
+        - name: ' '
+- title: "--Enter a title for the next section --"
+  id: '--enter a unique id --'
+  data:
+    - title: "--enter a paper title--"
+      description: "--enter a description--"
+      date: "--enter a date--"
+      link:
+        url: ""
+      authors:
+        - name: '--enter an author name--'
+```
+
+### Projects [Back to top](#quick-links)
+folder - "projects" found in the "_data" folder
+related files - "en.yml" for English text, "fr.yml" for French translations 
+
+Using the template text below, copy and paste the section between the ``` tags into the .yml files and edit the text for each section.
+
+Each -title item represents a project, to add more projects add more -title items and their corresponding lists
+
+#### Project Details Update
+```
+- title: "--enter the project's title e.g Terrasses Roy: creating a new public space --"
+  description: "--enter a short description of the project e.g. A pedestrianization in the heart of the Plateau-Mont-Royal --"
+  location: "--enter a location e.g Plateau-Mont-Royal, Montreal, QC--"
+  date: "--enter the season e.g Summer and Fall 2017--"
+  image: "--enter the path for the thumbnail image e.g /assets/images/projects/Roy/Roy2.jpg --"
+  url: "--enter a unique id, no spaces e.g project1--"
+  fundings: "--enter the funding orgs e.g SSHRC-PDG grant --"
+  collaborators: "--enter the collaborators e.g City of Montreal (Arrondissement Plateau-Mont-Royal) --"
+  name: "--enter a caption for the project's images e.g TERRASSES ROY --"
+  tags:
+    - name: --add tags for the project--
+      id: --add a unique id for the tag--
+    - name: pedestrianization
+      id: 'pedestrianizationTAGS'
+    - name: soundscape evaluation
+      id: 'soundscape_evaluation'
+    - name: City of Montreal
+      id: 'city_of_montreal'
+    - name: public space
+      id: 'public_space'
+  before:
+    image: '--enter a path for the before image e.g /assets/images/projects/Roy/Roy1.jpg --'
+    credits: '--enter credits e.g Maryse Lavoie. --'
+    alt: "--enter alt text for the image e.g image of an empty park --"
+  after:
+    image: '--enter a path for the after image e.g /assets/images/projects/Roy/Roy1.jpg --'
+    credits: '--enter credits e.g Maryse Lavoie. --'
+    alt: "--enter alt text for the image e.g image of an empty park --"
+  brief: "--enter the short text for the project ... use <br> tags to break up long text into paragraphs --"
+  about: "--enter the longer text for the project ... use <br> tags to break up long text into paragraphs -- "
+  contact_info: "--enter contact info e.g For details, please contact: Daniel Steele, Catherine Guastavino --"
+  links:
+    - url: '--enter full url e.g https://... --'
+      name: '--enter the url text e.g electronslibres.telequebec.tv/episodes/35418 --'
+    - url: ' '
+      name: ' '
+    - url: ' '
+      name: ' '
+  publications:
+    - url: '--enter full url e.g https://... --'
+      name: '--enter the paper title --'
+  prev_url: "--enter the id of the previous project e.g project1 if you are working on project2"
+  next_url: '--enter the id of the next project e.g project3 if you are working on project2'
+  ```
+
+### Team [Back to top](#quick-links)
+folder - "team" found in the "_data" folder
+related files - "en.yml" for English text, "fr.yml" for French translations 
+
+Using the template text below, copy and paste the section between the ``` tags into the .yml files and edit the text for each section.
+
+#### Members content 
+To update the members section, in the "team" folder, find the "members" list in the main "staff" list. Each  -name (role,image,info) list represents a single member, to create more team members, repeat the -name list for each additional person. 
+
+```
+staff:
+  title: "MEET OUR TEAM"
+  members:
+    - name: "--enter the person's name e.g Catherine Guastavino --"
+      role: "--enter their role e.g Principal Investigator --"
+      image: "--enter the path to the person's saved image in the assets folder e.g /assets/images/team/Catherine_Guastavino-RC3_Square.jpg --"
+      info: "--enter the person's bio text ... use the <br> tag to break up text into paragraphs --"
+    - name: " "
+      role: " "
+      image: " "
+      info: " "
+```
+
+#### Alumni content 
+To update the alumni section, in the "team" folder, find the "alumni" list in the main "staff" list. Each  -name (role,image,info) list represents a single alumni, to create more alumni, repeat the -name list for each additional person. 
+
+```
+staff:
+  title: "MEET OUR TEAM"
+  members:
+    .
+    .
+    .
+  alumni:
+    - name: "--enter the person's name --"
+      role: "--enter their role --"
+      image: "--enter the path to the person's saved image in the assets folder e.g /assets/images/team/1.webp --"
+      info: "--enter the person's bio text ... use the <br> tag to break up text into paragraphs --"
+    - name: " "
+      role: " "
+      image: " "
+      info: " "
+```
+
+#### Collaborators content 
+To update the collaborators section, in the "team" folder, find the "collaborators" list in the main "staff" list. 
+List of collaborators - Each  -name (name, image, url) list represents a single collaborator, add more -name items to add to the list
+List of collaborating projects or organizations - Each -name (url) item represents one listing, add more -name items to add to the list  
+
+```
+staff:
+  title: "MEET OUR TEAM"
+  members:
+    .
+    .
+    .
+  collaborators:
+  title: "COLLABORATORS"
+  members:
+    - name: "--enter a name --"
+      image: "--enter a path to an image in the assets folder if no image leave empty e.g '' "
+    - name: "--enter a name --"
+      url: "--enter a full url if name should link to an external site, if not leave out the 'url' key --"
+      image: " "
+  links:
+    - name: "--enter a name for the collaborating project or organization e.g Audiotopie --"
+      url: "--enter a full link to the project or organization e.g https://... --"
+    - name: "Ville de Montréal" # If the list item has no link, leave out the 'url' item 
+
+    - name: "Soft dB"
+
+```
