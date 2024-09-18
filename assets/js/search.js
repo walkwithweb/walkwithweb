@@ -33,7 +33,7 @@ function filterProjects() {
     } else {
       if (noResults) {
         noResults.style.display = "block";
-        noResults.textContent = "No projects found with the given search.";
+        noResults.textContent = "No results found with the given search.";
       }
     }
   }
