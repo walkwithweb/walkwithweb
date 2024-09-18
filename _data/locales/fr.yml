@@ -6,8 +6,8 @@ index:
   discover: "DÉCOUVREZ QUI NOUS SOMMES"
   who: "QUI NOUS SOMMES"
   meet: "Rencontrez l'équipe et les collaborateurs"
-  view: "CONSULTER LA PAGE PARTENAIRES ET FINANCEMENTS"
-  funding: "FINANCEMENTS"
+  view: "DÉCOUVREZ NOS PROJECTS"
+  funding: "PROJETS"
   accordions:
     - title: VILLE SONORE
       id: "home-accordion-1"

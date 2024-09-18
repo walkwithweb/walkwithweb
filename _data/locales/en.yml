@@ -11,8 +11,8 @@ index:
   discover: "DISCOVER WHO WE ARE"
   who: "WHO WE ARE"
   meet: "Meet the team & collaborators"
-  view: "VIEW THE PARTNERS & FUNDINGS PAGE"
-  funding: "FUNDINGS"
+  view: "LEARN ABOUT OUR PROJECTS"
+  funding: "PROJECTS"
   accordions:
     - title: SOUNDS IN CITIES
       id: "home-accordion-1"
