@@ -27,8 +27,11 @@ ol {
   margin: 0;
   padding: 0;
 }
-a:visited , a.slider-links:visited{
-  color:$black;
+a {
+  color:#000;
+}
+a:link, a:visited , a.slider-links:visited {
+  color: $black;
 }
 
 * {
