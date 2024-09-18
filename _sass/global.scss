@@ -453,6 +453,10 @@ body {
 
   }
 
+  a.slider-links {
+    text-decoration: none;
+  }
+
   @media (min-width: $mobile_screen) {
     flex-wrap: nowrap;
 
