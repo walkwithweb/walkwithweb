@@ -80,9 +80,11 @@ index:
         - title: "--enter a title for the image here --"
           description: "--enter the short caption for the image here --"
           image: "--enter the path to the image e.g /assets/images/slides/slide1.png ... here slide1.png is the image and has been saved in the "slides" folder in the images which is in the "assets" folder --"
+          url: "--enter the path to project e.g 'project/project1' --"
         - title: " "
           description: " "
           image: " "
+          url: " "
 ```
 
 ##### Accordion Content 
