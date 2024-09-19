@@ -579,6 +579,10 @@ body {
       .label {
         padding: 0 30px;
         text-transform: uppercase;
+        @media (max-width:768px){
+          max-width:250px;
+          margin-left:0;
+        }
       }
 
       .icon {
