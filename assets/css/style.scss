@@ -65,7 +65,7 @@
             left: 0;
             right: 0;
             bottom: 0;
-            background: $black; // Black overlay
+            background: rgba(0,0,0,0.5); // Black overlay
             justify-content: center;
             align-items: center;
             transition: 0.3s all ease;
@@ -78,8 +78,8 @@
             text-align: center;
 
             img.icon {
-                height: 40px !important;
-                width: 70px !important;
+                height: 41px !important;
+                width: 75px !important;
             }
 
             p {
@@ -841,7 +841,7 @@
                 content: "";
                 height: 100%;
                 position: absolute;
-                background-color: #f1f1f1;
+                //background-color: #f1f1f1; - removing whitish card overlay
                 opacity: 0.3;
                 left: 0;
                 top: 0;
@@ -892,7 +892,7 @@
                         left: 0;
                         right: 0;
                         bottom: 0;
-                        background: $black; // Black overlay
+                        background: rgba(0,0,0,0.5); // Black overlay
                         justify-content: center;
                         align-items: center;
                         transition: 0.3s all ease;
@@ -905,8 +905,8 @@
                         text-align: center;
 
                         img.icon {
-                            height: 40px !important;
-                            width: 70px !important;
+                            height: 41px !important;
+                            width: 75px !important;
                         }
 
                         p {
