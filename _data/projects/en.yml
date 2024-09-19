@@ -403,7 +403,7 @@
   url: "project9"
   fundings: "SSHRC"
   collaborators: "City of Montreal (Arrondissement Plateau-Mont-Royal)"
-  name: ""
+  name: "Context matters"
   tags:
     - name: public space
       id: 'public_space'
@@ -443,12 +443,14 @@
 - title: "Sonic inquiry in Urban Research"
   description: "Advancing policy analysis and design through sound planning tools"
   location: ""
-  date: "2021 - Ongoing"
+  date: "2021 - 2022"
+  start-date: "2021"
+  end-date: "2021"
   image: "/assets/images/projects/soninurb/Soninurb.jpg"
   url: "project10"
   fundings: "The European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant"
-  collaborators: "City of Montreal (Arrondissement Plateau-Mont-Royal), Università Iuav di Venezia"
-  name: ""
+  collaborators: "Università Iuav di Venezia"
+  name: "Sonic inquiry in Urban Research"
   tags:
     - name: urban atmosphere
       id: 'urban_atmosphere'
@@ -465,25 +467,25 @@
     - name: Venice
       id: 'venice'
   before:
-    image: '/assets/images/projects/project1_before.png'
-    credits: ''
-    alt: ""
+    image: '/assets/images/projects/soninurb/Soninurb.jpg'
+    credits: 'Nicola Di Croce'
+    alt: "Sonic process."
   after:
-    image: '/assets/images/projects/project1.png'
+    image: ''
     credits: ''
     alt: ""
-  brief: "How can we research and design a lively and inclusive sound environment? Something on method? Location?"
-  about: "The EU-funded SONINURB project studies the sound environment that contributes to the atmosphere unique to each location, understanding how atmosphere directly impacts the perceived quality of the urban environment: it can either attract people or drive them away or make them feel comfortable or under threat. The project aims to show how researching the sound environment can support novel approaches to urban policy analysis and policy design. It further explores how experimenting with new sound planning tools to investigate urban areas undergoing transformation can lead to collaborative approaches to urban sound design. Finally, the project shows how the use of participatory sound installations and sonic interventions can promote social inclusion and sustainable local development.<br><br> The project addresses these aims by fieldwork in two different geographical locations: Montreal (Canada) – as part of Sounds in the City, and Venice (Italy) – as part of Iuav University of Venice."
-  participation: "We participated in public consultations and conducted acoustic measurements and audio recordings before and after the pedestrianization. We also administered questionnaires to passers-by to evaluate their experience in the new pedestrian walkway, with an emphasis on soundscape and sonic expectations. We then provided recommendations to the borough on how to reinforce the purpose of this new space through sound."
+  brief: "How can we research and design a lively and inclusive sound environment?"
+  about: "The EU-funded SONINURB project studies the sound environment that contributes to the  atmosphere unique to each location, understanding how atmosphere directly impacts the perceived quality of the urban environment:  it can either attract people or drive them away or make them feel comfortable or under threat. The project aims to show how researching the sound  environment can support novel approaches to urban policy analysis and policy design. It further explores how experimenting with new sound planning tools to investigate urban areas undergoing transformation can lead to collaborative approaches to urban sound design. Finally, the project shows how the use of participatory sound installations and sonic interventions can promote social inclusion and sustainable local development."
+  participation: "The project addresses these aims by fieldwork in two different geographical locations: Montreal (Canada) – as part of Sounds in the City, and Venice (Italy) – as part of Iuav University of Venice."
   contact_info: "For details, please contact: Nicola Di Croce"
   links:
     - url: 'https://www.youtube.com/watch?app=desktop&v=ZYmpKyCrsOs'
-      name: "Containing multitude"
+      name: "Containing multitude https://www.youtube.com/watch?app=desktop&v=ZYmpKyCrsOs "
     - url: 'https://nicoladicroce.cargo.site/Research-menu'
-      name: "Nicole Di Croce website"
+      name: "Nicole Di Croce website https://nicoladicroce.cargo.site/Research-menu "
   publications:
-    - url: 'https://www.researchgate.net/project/Sonic-inquiry-in-urban-research'
-      name: 'Sonic inquiry in urban research'
+    - url: ''
+      name: 'Sonic inquiry in urban research https://www.researchgate.net/project/Sonic-inquiry-in-urban-research'
   prev_url: "project9"
   next_url: 'project11'
 

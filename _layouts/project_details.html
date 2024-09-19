@@ -70,6 +70,7 @@
                 <div class="brief">
                     <p>{{ page.brief | safe }}</p>
                 </div>
+                {% if {{page.after.image}} != "" %}
                 <div class="card">
                     <div class="media">
                         <img src="{{ page.after.image }}" alt="{{ page.after.alt | default: page.after.credits }}" />
@@ -81,6 +82,9 @@
                         <p>{{ content.credits }}: {{ page.after.credits }}</p>
                     </div>
                 </div>
+                {% else %}
+                <div class="no-card"></div>
+                {% endif %}
                 <h4 class="about-title">{{ content.about_this_project }}</h4>
                 <div class="about">
                     <div class="col">
