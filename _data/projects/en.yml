@@ -1,7 +1,9 @@
 - title: "Terrasses Roy: creating a new public space"
-  description: "A pedestrianization in the heart of the Plateau-Mont-Royal "
+  description: "A pedestrianization in the heart of the Plateau-Mont-Royal"
   location: "Plateau-Mont-Royal, Montreal, QC"
   date: "Summer and Fall 2017"
+  start-date: "2017"
+  end-date: "2017"
   image: "/assets/images/projects/Roy/Roy2.jpg"
   url: "project1"
   fundings: "SSHRC-PDG grant"
@@ -18,23 +20,22 @@
       id: 'public_space'
   before:
     image: '/assets/images/projects/Roy/Roy1.jpg'
-    credits: 'Maryse Lavoie.'
+    credits: 'Maryse Lavoie'
     alt: ""
   after:
     image: '/assets/images/projects/Roy/Roy2.jpg'
-    credits: 'Maryse Lavoie.'
+    credits: 'Christine Kerrigan'
     alt: ""
   brief: "The project removed traffic noise and created a new pedestrian walkway / seating area in a space where previously there was only a road.<br><br> It also created a new neighborhood space of meeting, often used by residents and visitors alike, who appreciate the greenery, increased sense of safety due to lack of cars, and the ‘quieter’ soundscape where cars are only audible in the distance."
   about: "We collaborated with Ville de Montreal around the pedestrianization of rue Roy, in the heart of the Plateau-Mont-Royal borough. To create the Terrasses Roy, a section of the street was closed off to traffic and a temporary design was installed by design firm Castor et Pollux in the summer 2017. Four sections were created to invite visitors to relax and interact, including colourful street furniture, communal gardens, and a play area. This pilot project was very well received by the community and extended into the fall and winter of 2017. The space is currently being converted into a permanent outdoor meeting space around urban agriculture."
+
   participation: "We participated in public consultations and conducted acoustic measurements and audio recordings before and after the pedestrianization. We also administered questionnaires to passers-by to evaluate their experience in the new pedestrian walkway, with an emphasis on soundscape and sonic expectations. We then provided recommendations to the borough on how to reinforce the purpose of this new space through sound. "
   contact_info: "For details, please contact: Daniel Steele, Catherine Guastavino"
   links:
-    - url: 'electronslibres.telequebec.tv/episodes/35418'
-      name: 'electronslibres.telequebec.tv/episodes/35418'
-    - url: 'montreal.ca/en/places/terrasses-roy'
-      name: 'montreal.ca/en/places/terrasses-roy'
-    - url: 'montreal.ca/en/places/terrasses-roy-6507'
-      name: 'montreal.ca/en/places/terrasses-roy-6507'
+    - url: 'https://montreal.ca/en/places/terrasses-roy'
+      name: 'https://montreal.ca/en/places/terrasses-roy'
+    - url: 'https://montreal.ca/articles/les-terrasses-roy-6507'
+      name: 'https://montreal.ca/articles/les-terrasses-roy-6507'
   publications:
     - url: ''
       name: 'Bockstael A., Steele D. Trudeau C., Guastavino, C. (2019). Forever young: Is age of importance in urban soundscape design? Invited paper, Proceedings of the 26th International Congress on Sound and Vibration (ICSV26), Montr.al, QC, July 7–11'
@@ -43,12 +44,12 @@
 
 
 - title: "Noise policy guidelines: Valeurs Guides"
-  description: "a project on environmental noise management in Quebec and internationally "
+  description: "a project on environmental noise management in Quebec and internationally"
   location: "Plateau-Mont-Royal, Montreal, QC"
   date: "2018 - 2023"
   image: "/assets/images/projects/ValeursGuide/SoundLevelMeterRoy_ChristineKerrigan.jpg"
   url: "project2"
-  fundings: "Quebec ministries of Health and Environment - Ministère de la Santé et des services sociaux (MSSS) and the Ministère du Développement durable, de l’Environnement et de la Lutte contre les changements climatiques (MDDELCC). "
+  fundings: "Quebec ministries of Health and Environment - Ministère de la Santé et des services sociaux (MSSS) and the Ministère du Développement durable, de l’Environnement et de la Lutte contre les changements climatiques (MDDELCC).  "
   collaborators: "Thomas Dupont (ETS), Johanne Brochu and F. Hubert (ULaval)"
   name: "Noise policy guidelines: Valeurs Guides"
   tags:
@@ -69,15 +70,20 @@
     - name: urban planning 
       id: 'urban_planning'
   before:
-    image: '/assets/images/projects/project1_before.png'
-    credits: 'Maryse Lavoie.'
+    image: '/assets/images/projects/ValeursGuide/VG1.png'
+    credits: 'Christopher Trudeau.'
     alt: ""
   after:
-    image: '/assets/images/projects/project1.png'
-    credits: 'Maryse Lavoie.'
+    image: ''
+    credits: ''
     alt: ""
   brief: "Noise is a major pollutant of our time but its regulation in policies is often reactive, rarely harmonized across provinces, states or countries, and remains siloed. <br><br> Our project offers recommendations toward an integrated, pro-active approach to environmental noise management "
-  about: "Noise policies differ around the world and even within the same country, with various provinces or municipalities within the same province taking different approaches to noise management. In Quebec, noise policies focus on reactive strategies that focus on specific sound sources and their levels (and on reducing them) that distribute responsibilities at different levels of governance. <br><br> Since 2018, Sounds in the City has been working on a review on environmental noise management. The first part of the project, in collaboration with École de Technologie Supérieure, included a systematic review of noise policies around the world to identify best practices in terms of noise limit values, measurement protocols, and communications strategies, as well as a review of how low-level government (municipalities), address noise considerations in Quebec. The second part of the project, in collaboration with Université Laval, focused on how to best integrate sound considerations in urban design and practice, through Quebec and international case studies and interview with professionals of the built environments."
+  about: "Noise policies differ around the world and even within the same country, with various provinces or municipalities within the same province taking different approaches to noise management. In Quebec, noise policies focus on reactive strategies that focus on specific sound sources and their levels (and on reducing them) that distribute responsibilities at different levels of governance. 
+ 
+Since 2018, Sounds in the City has been working on a review on environmental noise management. The first part of the project, in collaboration with École de Technologie Supérieure, included a systematic review of noise policies around the world to identify best practices in terms of noise limit values, measurement protocols, and communications strategies, as well as a review of how low-level government (municipalities), address noise considerations in Quebec. The second part of the project, in collaboration with Université Laval, focused on how to best integrate sound considerations in urban design and practice, through Quebec and international case studies and interview with professionals of the built environments.  
+ 
+The diversity of noise levels included in policies, the varied (or lacking) protocols for measuring those levels as well as the often-siloed approach focusing on specific sources (like car traffic, recreational activities, or industry) addressed at different governmental levels makes environmental noise management a global challenge and limits the transferability of certain documented good practices. We formulated recommendations for our governmental partners on strategies for integrating sound in earlier stages of, for example, planning and design and for managing noise that are not exclusively reliant on noise levels, but rather focus on communication and education. 
+"
   participation: "The diversity of noise levels included in policies, the varied (or lacking) protocols for measuring those levels as well as the often-siloed approach focusing on specific sources (like car traffic, recreational activities, or industry) addressed at different governmental levels makes environmental noise management a global challenge and limits the transferability of certain documented good practices. We formulated recommendations for our governmental partners on strategies for integrating sound in earlier stages of, for example, planning and design and for managing noise that are not exclusively reliant on noise levels, but rather focus on communication and education."
   contact_info: "Josee Laplace (email), Edda Bild (email)"
   links:
@@ -124,7 +130,16 @@
     credits: 'Maryse Lavoie.'
     alt: ""
   brief: "During the hot summer months, a water feature in a pocket park is attractive. But if it’s poorly designed, that water feature is just as likely to dissuade users from making use of the space."
-  about: "We conducted a summer-long study on a new public space the city was piloting – the Fleurs de Macadam pocket park, where three prototype designs, each featuring a misting water feature somewhere in the space, were tested. We wanted to see the effects of water features with varying degrees of audibility on how the park users evaluated their soundscapes and the lessons that could be learnt moving forward. <br><br> Through on-site surveys, we found that, on its own, a misting water feature is not a guarantee for an improved soundscape. While two of the designs were evaluated as less chaotic and less loud when the misters were on, the third design was the opposite, likely due to the way the misters were integrated in their designs: the misters for design 3 were located right in the gravel pathways, which often left a muddy, unusable space. <strong>Lesson #1: Like all other aspects of design, the design of the sound experience must be considered purposefully.</strong>"
+  about: "We conducted a summer-long study on a new public space the city was piloting – the Fleurs de Macadam pocket park, where three prototype designs, each featuring a misting water feature somewhere in the space, were tested. We wanted to see the effects of water features with varying degrees of audibility on how the park users evaluated their soundscapes and the lessons that could be learnt moving forward. 
+
+Through on-site surveys, we found that, on its own, a misting water feature is not a guarantee for an improved soundscape. While two of the designs were evaluated as less chaotic and less loud when the misters were on, the third design was the opposite, likely due to the way the misters were integrated in their designs: the misters for design 3 were located right in the gravel pathways, which often left a muddy, unusable space. Lesson #1: Like all other aspects of design, the design of the sound experience must be considered purposefully.
+ 
+ 
+ 
+Survey respondents who said they heard water sounds consistently rated them as pleasant. The sound from the misters recalled memories and experiences in the minds of the users of the space, like the cooling feeling of water on a hot summer day. Those recollections influenced the soundscape evaluations in a positive way. Lesson #2: consider the meanings the sound might evoke. 
+
+The truly surprising finding was that even when it was unlikely that respondents could hear the misters, their evaluations on how chaotic or loud the soundscape decreased compared to when the misters were not on. Lesson #3: misters don’t need to be audible to affect how the users of a public space evaluate the way it sounds.
+</strong>"
   participation: "Survey respondents who said they heard water sounds consistently rated them as pleasant. The sound from the misters recalled memories and experiences in the minds of the users of the space, like the cooling feeling of water on a hot summer day. Those recollections influenced the soundscape evaluations in a positive way. <strong>Lesson #2: consider the meanings the sound might evoke. </strong> <br><br> The truly surprising finding was that even when it was unlikely that respondents could hear the misters, their evaluations on how chaotic or loud the soundscape decreased compared to when the misters were not on. <strong> Lesson #3: misters don’t need to be audible to affect how the users of a public space evaluate the way it sounds. </strong>"
   contact_info: "For details, please contact: Christopher Trudeau, Daniel Steele"
   links:
