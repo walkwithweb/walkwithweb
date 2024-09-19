@@ -596,7 +596,10 @@
     $divider-color: #000;
 
 .parent-container {
-    display: flex;
+    display: inline-block;
+    @media(min-width: $mobile_screen){
+        display: flex;
+    }
     justify-content: space-between;
     margin-top: 30px;
     gap: $card-margin;
@@ -605,8 +608,12 @@
         justify-content: space-between;
         flex-wrap: wrap;
         gap: $card-margin;
-        margin-top: 100px;
-        width: 50%;
+        margin-top: 50px;
+        width:100%; 
+        @media(min-width: $mobile_screen){
+            margin-top: 100px;
+            width: 50%;
+        }
 
         .card {
             background-color: $card-background-color;
