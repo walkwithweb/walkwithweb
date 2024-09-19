@@ -1187,8 +1187,8 @@
         .description {
             margin-top: 60px;
             margin-bottom: 80px;
-            font-size: 32px;
-            line-height: 50px;
+            font-size: 18px;
+            line-height: 160%;
 
         }
 
@@ -1206,13 +1206,13 @@
 
                     .content {
                         h3 {
-                            font-size: 16px;
-                            line-height: 24px;
+                            font-size: 18px;
+                            line-height: 160%;
                         }
 
                         p {
-                            font-size: 20px;
-                            line-height: 32px;
+                            font-size: 18px;
+                            line-height: 160%;
                         }
                     }
                 }
@@ -1231,21 +1231,21 @@
                 min-height: 120px;
 
                 h3 {
-                    font-size: 16px;
-                    line-height: 24px;
+                    font-size: 18px;
+                    line-height: 160%;
                     text-transform: uppercase;
                 }
 
                 p {
                     font-size: 18px;
-                    line-height: 28px;
+                    line-height: 160%;
                 }
             }
         }
 
         .brief {
-            font-size: 32px;
-            line-height: 50px;
+            font-size: 18px;
+            line-height: 160%;
         }
 
         h4.about-title {
@@ -1263,8 +1263,8 @@
         }
 
         p.text {
-            font-size: 20px;
-            line-height: 32px;
+            font-size: 18px;
+            line-height: 160%;
         }
 
     }
@@ -1763,7 +1763,7 @@
 
             span {
                 font-size: 18px;
-                line-height: 32px;
+                line-height: 160%;
             }
         }
     }

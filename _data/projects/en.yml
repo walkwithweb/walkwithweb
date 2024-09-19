@@ -106,7 +106,9 @@
   description: "Outcomes from adding water features in a pocket park"
   location: "Plateau-Mont-Royal, Montreal, QC"
   date: "Summer 2018"
-  image: "/assets/images/projects/Fleurs de Macadam sound art/Val_IMG_20190726_183158.jpg"
+  start-date: "2018"
+  end-date: "2018"
+  image: "assets/images/projects/Fleurs_de_Macadam_misters/DSC_0319.jpeg"
   url: "project3"
   fundings: "SSHRC-PDG grant"
   collaborators: "City of Montreal (Arrondissement Plateau-Mont-Royal) "
@@ -121,25 +123,16 @@
     - name: pocket park
       id: 'pocket_park'
   before:
-    image: '/assets/images/projects/project1_before.png'
-    credits: 'Maryse Lavoie.'
+    image: '/assets/images/projects/Fleurs_De_Macadam_misters/mister_locations.jpeg'
+    credits: 'Castor et Pollux'
     alt: ""
   after:
-    image: '/assets/images/projects/project1.png'
-    credits: 'Maryse Lavoie.'
+    image: '/assets/images/projects/Fleurs_de_Macadam_misters/DSC_0319.jpeg'
+    credits: 'Cynthia Tarlao'
     alt: ""
   brief: "During the hot summer months, a water feature in a pocket park is attractive. But if it’s poorly designed, that water feature is just as likely to dissuade users from making use of the space."
-  about: "We conducted a summer-long study on a new public space the city was piloting – the Fleurs de Macadam pocket park, where three prototype designs, each featuring a misting water feature somewhere in the space, were tested. We wanted to see the effects of water features with varying degrees of audibility on how the park users evaluated their soundscapes and the lessons that could be learnt moving forward. 
-
-Through on-site surveys, we found that, on its own, a misting water feature is not a guarantee for an improved soundscape. While two of the designs were evaluated as less chaotic and less loud when the misters were on, the third design was the opposite, likely due to the way the misters were integrated in their designs: the misters for design 3 were located right in the gravel pathways, which often left a muddy, unusable space. Lesson #1: Like all other aspects of design, the design of the sound experience must be considered purposefully.
- 
- 
- 
-Survey respondents who said they heard water sounds consistently rated them as pleasant. The sound from the misters recalled memories and experiences in the minds of the users of the space, like the cooling feeling of water on a hot summer day. Those recollections influenced the soundscape evaluations in a positive way. Lesson #2: consider the meanings the sound might evoke. 
-
-The truly surprising finding was that even when it was unlikely that respondents could hear the misters, their evaluations on how chaotic or loud the soundscape decreased compared to when the misters were not on. Lesson #3: misters don’t need to be audible to affect how the users of a public space evaluate the way it sounds.
-</strong>"
-  participation: "Survey respondents who said they heard water sounds consistently rated them as pleasant. The sound from the misters recalled memories and experiences in the minds of the users of the space, like the cooling feeling of water on a hot summer day. Those recollections influenced the soundscape evaluations in a positive way. <strong>Lesson #2: consider the meanings the sound might evoke. </strong> <br><br> The truly surprising finding was that even when it was unlikely that respondents could hear the misters, their evaluations on how chaotic or loud the soundscape decreased compared to when the misters were not on. <strong> Lesson #3: misters don’t need to be audible to affect how the users of a public space evaluate the way it sounds. </strong>"
+  about: "We conducted a summer-long study on a new public space the city was piloting – the Fleurs de Macadam pocket park, where three prototype designs, each featuring a misting water feature somewhere in the space, were tested. We wanted to see the effects of water features with varying degrees of audibility on how the park users evaluated their soundscapes and the lessons that could be learnt moving forward.<br><br>Through on-site surveys, we found that, on its own, a misting water feature is not a guarantee for an improved soundscape. While two of the designs were evaluated as less chaotic and less loud when the misters were on, the third design was the opposite, likely due to the way the misters were integrated in their designs: the misters for design 3 were located right in the gravel pathways, which often left a muddy, unusable space. <b>Lesson #1: Like all other aspects of design, the design of the sound experience must be considered purposefully</b>."
+  participation: "Survey respondents who said they heard water sounds consistently rated them as pleasant. The sound from the misters recalled memories and experiences in the minds of the users of the space, like the cooling feeling of water on a hot summer day. Those recollections influenced the soundscape evaluations in a positive way. <b>Lesson #2: consider the meanings the sound might evoke</b>.<br><br>The truly surprising finding was that even when it was unlikely that respondents could hear the misters, their evaluations on how chaotic or loud the soundscape decreased compared to when the misters were not on. <b>Lesson #3: misters don’t need to be audible to affect how the users of a public space evaluate the way it sounds.</b>"
   contact_info: "For details, please contact: Christopher Trudeau, Daniel Steele"
   links:
   publications:
