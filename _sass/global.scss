@@ -183,6 +183,9 @@ body {
   .menu span {
     display: inline-block;
   }
+  span.menu-item-long {
+    width:770px;
+  }
 }
 
 .menu.close {

@@ -34,7 +34,7 @@
     {% for item in navigation %}
     <li class="menu-item item-main">
       <a href="/{{ lang }}{{ item.url }}" class="heading menu-link menu-hover">
-        <span class="menu-item-long">
+        <span class="{{item.display-class}}">
           {{ item.title }}
           <img alt="arrow" class="icon-white" src="/assets/images/icons/arrow-tilt-white.svg" />
           <img alt="arrow" class="icon-black" src="/assets/images/icons/arrow-tilt.svg" />

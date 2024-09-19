@@ -20,6 +20,7 @@
       url: "/events/"
 
 - title: À PROPOS DE NOUS
+  display-class: "menu-item-long"
   url: "/about"
   submenu:
     - title: Partenaires & Financements
