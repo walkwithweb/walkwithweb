@@ -44,9 +44,11 @@
 
 
 - title: "Noise policy guidelines: Valeurs Guides"
-  description: "a project on environmental noise management in Quebec and internationally"
+  description: "A project on environmental noise management in Quebec and internationally"
   location: "Plateau-Mont-Royal, Montreal, QC"
   date: "2018 - 2023"
+  start-date: "2018"
+  end-date: "2023"
   image: "/assets/images/projects/ValeursGuide/SoundLevelMeterRoy_ChristineKerrigan.jpg"
   url: "project2"
   fundings: "Quebec ministries of Health and Environment - Ministère de la Santé et des services sociaux (MSSS) and the Ministère du Développement durable, de l’Environnement et de la Lutte contre les changements climatiques (MDDELCC).  "
@@ -54,7 +56,7 @@
   name: "Noise policy guidelines: Valeurs Guides"
   tags:
     - name: noise policy   
-      id: 'pedestrianizationTAGS'
+      id: 'noise_policy'
     - name: environmental noise
       id: 'env_noise'
     - name: policy and planning
@@ -71,35 +73,32 @@
       id: 'urban_planning'
   before:
     image: '/assets/images/projects/ValeursGuide/VG1.png'
-    credits: 'Christopher Trudeau.'
+    credits: 'Christopher Trudeau'
     alt: ""
   after:
-    image: ''
-    credits: ''
+    image: '/assets/images/projects/ValeursGuide/VG_Bruit chantiers_JL.jpg'
+    credits: 'Josée Laplace'
     alt: ""
-  brief: "Noise is a major pollutant of our time but its regulation in policies is often reactive, rarely harmonized across provinces, states or countries, and remains siloed. <br><br> Our project offers recommendations toward an integrated, pro-active approach to environmental noise management "
-  about: "Noise policies differ around the world and even within the same country, with various provinces or municipalities within the same province taking different approaches to noise management. In Quebec, noise policies focus on reactive strategies that focus on specific sound sources and their levels (and on reducing them) that distribute responsibilities at different levels of governance. 
- 
-Since 2018, Sounds in the City has been working on a review on environmental noise management. The first part of the project, in collaboration with École de Technologie Supérieure, included a systematic review of noise policies around the world to identify best practices in terms of noise limit values, measurement protocols, and communications strategies, as well as a review of how low-level government (municipalities), address noise considerations in Quebec. The second part of the project, in collaboration with Université Laval, focused on how to best integrate sound considerations in urban design and practice, through Quebec and international case studies and interview with professionals of the built environments.  
- 
-The diversity of noise levels included in policies, the varied (or lacking) protocols for measuring those levels as well as the often-siloed approach focusing on specific sources (like car traffic, recreational activities, or industry) addressed at different governmental levels makes environmental noise management a global challenge and limits the transferability of certain documented good practices. We formulated recommendations for our governmental partners on strategies for integrating sound in earlier stages of, for example, planning and design and for managing noise that are not exclusively reliant on noise levels, but rather focus on communication and education. 
-"
+  brief: "Noise is a major pollutant of our time but its regulation in policies is often reactive, rarely harmonized across provinces, states or countries, and remains siloed. <br><br> Our project offers recommendations toward an integrated, pro-active approach to environmental noise management"
+  about: "Noise policies differ around the world and even within the same country, with various provinces or municipalities within the same province taking different approaches to noise management. In Quebec, noise policies focus on reactive strategies that focus on specific sound sources and their levels (and on reducing them) that distribute responsibilities at different levels of governance.<br><br>Since 2018, Sounds in the City has been working on a review on environmental noise management. The first part of the project, in collaboration with École de Technologie Supérieure, included a systematic review of noise policies around the world to identify best practices in terms of noise limit values, measurement protocols, and communications strategies, as well as a review of how low-level government (municipalities), address noise considerations in Quebec. The second part of the project, in collaboration with Université Laval, focused on how to best integrate sound considerations in urban design and practice, through Quebec and international case studies and interview with professionals of the built environments."
   participation: "The diversity of noise levels included in policies, the varied (or lacking) protocols for measuring those levels as well as the often-siloed approach focusing on specific sources (like car traffic, recreational activities, or industry) addressed at different governmental levels makes environmental noise management a global challenge and limits the transferability of certain documented good practices. We formulated recommendations for our governmental partners on strategies for integrating sound in earlier stages of, for example, planning and design and for managing noise that are not exclusively reliant on noise levels, but rather focus on communication and education."
   contact_info: "Josee Laplace (email), Edda Bild (email)"
   links:
     - url: 'https://ici.radiocanada.ca/tele/decouverte/site/episodes/520848/covid-ghgsat-methane-lune-pollution'
-      name: 'Société Radio-Canada (2021, April 28). A l’écoute de la ville – Emission Découverte [TV report with C. Guastavino]. <br><br>'
+      name: 'Société Radio-Canada (2021, April 28). A l’écoute de la ville – Emission Découverte [TV report with C. Guastavino].'
     - url: 'https://ici.radio-canada.ca/ohdio/premiere/emissions/lesannees-lumiere/segments/reportage/390982/bruit-sante-pollution-nuit-paysageenvironnement-maladie'
-      name: 'Société Radio-Canada (2022, Feb. 18). Les effets néfastes du bruit sur la santé : les détails avec C. Srivastava – Emission Les années lumière [radio interview with C. Guastavino]. '
+      name: 'Société Radio-Canada (2022, Feb. 18). Les effets néfastes du bruit sur la santé : les détails avec C. Srivastava – Emission Les années lumière [radio interview with C. Guastavino].'
   publications:
     - url: ''
-      name: 'Tarlao, C., Leclerc, F., Brochu, J., & Guastavino, C. (2024). Current approaches to planning (with) sound. Science of The Total Environment, 931, 172826. <br><br>'
+      name: 'Tarlao, C., Leclerc, F., Brochu, J., & Guastavino, C. (2024). Current approaches to planning (with) sound. Science of The Total Environment, 931, 172826.'
     - url: 'https://www.utpjournals.press/doi/full/10.3138/cpp.2021-009'
-      name: 'Laplace, J., E. Bild, C. Trudeau, M. Perna,T. Dupont & C. Guastavino (2022). Encadrement du bruit environnemental au Canada. Canadian Public Policy / Analyses de politiques, 48(1), March, p. 74-90. <br><br>'
+      name: 'Laplace, J., E. Bild, C. Trudeau, M. Perna,T. Dupont & C. Guastavino (2022). Encadrement du bruit environnemental au Canada. Canadian Public Policy / Analyses de politiques, 48(1), March, p. 74-90.'
     - url: ''
-      name: 'Trudeau, C, Bild, E., Guastavino, C. (accepted). Noise regulations and practices: A survey of Quebec municipalities. Urban Research and Practice. <br><br>'
+      name: 'Trudeau, C, Bild, E., Guastavino, C. (accepted). Noise regulations and practices: A survey of Quebec municipalities. Urban Research and Practice.'
     - url: 'https://doi.org/10.3390/ijerph19010173'
       name: 'Perna, M., Padois, T., Trudeau, C., Bild, E., Laplace, J.*, Dupont, T., & Guastavino, C. (2022). Comparison of road noise policies across Australia, Europe, and North America. International Journal of Environmental Research and Public Health, 19(1), 173'
+    - url: ''
+      name: 'We put together 7 technical reports, available on request.<br>The outcomes were presented at the <a href="https://www.msss.gouv.qc.ca/professionnels/sante-environnementale/journees-du-bruit-environnemental/" target="_blank">Journées du Bruit Environnemental</a> in 2019 and Journées de l’Environnement Sonore in 2021 and 2022.' 
   prev_url: "project1"
   next_url: 'project3'
 
