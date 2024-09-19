@@ -45,7 +45,7 @@
 
 - title: "Noise policy guidelines: Valeurs Guides"
   description: "A project on environmental noise management in Quebec and internationally"
-  location: "Plateau-Mont-Royal, Montreal, QC"
+  location: ""
   date: "2018 - 2023"
   start-date: "2018"
   end-date: "2023"
@@ -104,7 +104,7 @@
 
 - title: "The (water) misters of Fleurs de Macadam"
   description: "Outcomes from adding water features in a pocket park"
-  location: "Plateau-Mont-Royal, Montreal, QC"
+  location: ""
   date: "Summer 2018"
   start-date: "2018"
   end-date: "2018"
@@ -144,7 +144,7 @@
 
 - title: "Co-designing soundscapes of public spaces "
   description: "Conducting workshops to help determine the technology needs of professionals  "
-  location: "Plateau-Mont-Royal, Montreal, QC"
+  location: ""
   date: "Summer 2019"
   start-date: "2019"
   end-date: "2019"
@@ -187,6 +187,8 @@
   description: "Local and global projects to improve the way we measure soundscape across languages"
   location: ""
   date: "2015 – ongoing"
+  start-date: "2015"
+  end-date: "2023"
   image: "/assets/images/projects/translation/TranslationCCommons.jpeg"
   url: "project5"
   fundings: "SSHRC-PDG grant"
@@ -202,25 +204,31 @@
     - name: soundscape scale
       id: 'soundscape_scale'
   before:
-    image: '/assets/images/projects/'
-    credits: ''
+    image: '/assets/images/projects/translation/translation.jpg'
+    credits: 'N/A'
     alt: ""
   after:
-    image: '/assets/images/projects/'
-    credits: ''
+    image: '/assets/images/projects/translation/TranslationCCommons.jpeg'
+    credits: 'N/A'
     alt: ""
   brief: "Developing a universal standard for soundscape evaluation is challenging as correspondences across languages are not straightforward."
-  about: "Sounds in the City has been exploring questions of translation of soundscape scales, given the unique bilingual context offered by Montreal. We have been looking at the vocabulary used by French and English speakers to describe everyday sounds and soundscapes as well as similarities and differences between them; for example, the distinction between “sound” and “noise” differs between French and English. We also proposed and tested French translations of the Swedish Soundscape Quality Protocol, an 8-scale questionnaire to evaluate soundscape on pleasantness and eventfulness. In addition, we are participating in global efforts of standardization and translation of soundscape assessment tools, such as ISO working groups and the Soundscape Attributes Translation Project (SATP), an international research project started in 2019."
-  participation: "We participated in global standardization efforts, translating and testing soundscape assessment tools across different languages."
+  about: 'Sounds in the City has been exploring questions of translation of soundscape scales, given the unique bilingual context offered by Montreal. We have been looking at the vocabulary used by French and English speakers to describe everyday sounds and soundscapes as well as similarities and differences between them; for example, the distinction between “sound” and “noise” differs between French and English. '
+  participation: 'We also proposed and tested French translations of the <a href="https://asa.scitation.org/doi/full/10.1121/1.3493436" target="_blank">Swedish Soundscape Quality Protocol</a>, an 8-scale questionnaire to evaluate soundscape on pleasantness and eventfulness. In addition, we are participating in global efforts of standardization and translation of soundscape assessment tools, such as <a href="https://www.iso.org/committee/48474.html" target="_blank">ISO working groups</a> and the <a href="https://www.researchgate.net/project/Soundscape-Attributes-Translation-Project-SATP">Soundscape Attributes Translation Project (SATP)</a>, an international research project started in 2019.'
   contact_info: "For details, please contact: Cynthia Tarlao, Catherine Guastavino"
   links:
   publications:
+    - url: 'https://asa.scitation.org/doi/10.1121/1.2935025'
+      name: 'Tarlao et al, 2016, Internoise; Aletta et al, 2020, Internoise; Tarlao et al, 2021, BAE; Dubois et al, 2021 (book); Dubois & Guastavino, 2008, JASA; Tarlao et al, 2023, APAC.'
     - url: 'https://www.sciencedirect.com/science/article/abs/pii/S0003682X23003705?via%3Dihub'
       name: 'Tarlao, C., Aumond. P., Lavandier, C., & Guastavino, C. (2023). Converging towards a French translation of soundscape attributes: Insights from Quebec and France. Applied Acoustics, 211: 109572, doi.org/10.1016/j.apacoust.2023.109572'
     - url: 'https://www.jbe-platform.com/content/books/9789027258908'
       name: 'Dubois, D., Cance, C., Coler, M., Paté., A. & Guastavino, C. eds (2021). Sensory Experiences: Exploring meaning and the senses. Benjamins, Amsterdam, NL. doi.org/10.1075/celcr.24'
+    - url: ''
+      name: 'Aletta, F., Oberman, T., Axelsson, ., Xie, H., Zhang, Y., Lau S-K., Tan, S-K, Jambrošić, K., De Coensel, B., van den Bosch, K., Aumond, P., Guastavino, C., Lavandier, C., Fiebig, A., Schulte-Fortkamp, B., Sarwono, J., Sudarsono, A., Astolfi, A., Nagahata, K., Jeon J-Y, Jo, H-I., Chieng, J., Gan, W-S., Hong J-H., Lam, B., Ong, Z-T., Kogan, P., Su.rez Silva, E., Vida Manzano, J., D.kmeci Y.rükoğlu, P. N., Nguyen, T. L., Kang, J. (2020). Soundscape assessment: towards a validated translation of perceptual attributes in different languages. Invited paper. Proceedings of the 49th International Congress and Exposition on Noise Control Engineerin (Internoise 2020), Seoul, Korea, August 23-26, 2020'
     - url: 'https://pubs.aip.org/asa/jasa/article/130/4_Supplement/2495/651338/Languages-and-conceptualization-of-soundscapes-A'
       name: 'Cance, C., Guastavino, C., & Dubois, D. (2011). Languages and conceptualizations of soundscapes: A cross-linguistic analysis. Proceedings of the 162nd meeting of the Acoustical Society of America, Oct. 31- Nov. 4, San Diego, CA, USA. Abstract published in Journal of the Acoustical Society of America, 130(4), 2495, http://dx.doi.org/10.1121/1.3654926'
+    - url: ''
+      name: 'Dubois, D. & Guastavino, C. (2008). Noise(s) and sound(s): comparing various conceptualizations of acoustic phenomena across languages. Invited paper at Acoustics’08 (joint meeting of the 155th meeting of the Acoustical Society of America, 5th Forum Acusticum, and 9th Congr.s Francais d’Acoustique), June 29 to July 4, 2008, Paris, France, abstract published in Journal of the Acoustical Society of America, 123, 3674 (2008). '
   prev_url: "project4"
   next_url: 'project6'
 

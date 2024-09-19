@@ -112,7 +112,7 @@
                                 {% if {{link.url}} == "" %}
                                     <span>{{ link.name }}</span>
                                 {% else %}
-                                    <a href="{{ link.url }}" target="_blank">{{ link.name }}</a>
+                                    <a class="list-links" href="{{ link.url }}" target="_blank">{{ link.name }}</a>
                                 {% endif %}
                             {% endfor %}
                         </p>
