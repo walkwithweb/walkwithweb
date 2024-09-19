@@ -278,59 +278,48 @@
   prev_url: "project5"
   next_url: "project7"
 
-- title: Prototyping a codesign sound sketchpad
-  description: Developing technologies with and for professionals of the built environment
+- title: 'Prototyping a codesign sound sketchpad'
+  description: "Developing technologies with and for professionals of the built environment"
   location: ""
-  date: Spring 2019 – Summer 2019
-  image: /assets/images/projects/Codesign sketch pad/DSC_1272.jpeg
+  date: 'Spring 2019 – Summer 2019'
+  image: '/assets/images/projects/Codesign sketch pad/DSC_1272.jpeg'
   url: project7
-  fundings: SSHRC, FRQSC doctoral fellowship
-  collaborators: CIRMMT, Ville de Montréal
-  name: PROTOTYPING A CODESIGN SOUND SKETCHPAD
+  fundings: 'SSHRC, FRQSC doctoral fellowship'
+  collaborators: 'CIRMMT, Ville de Montréal'
+  name: 'PROTOTYPING A CODESIGN SOUND SKETCHPAD'
   tags:
-    - name: soundscape design
+    - name: 'soundscape design'
       id: soundscape_design
-    - name: urban practice
+    - name: 'urban practice'
       id: urban_practice
-    - name: professionals of the built environment
-      id: professionals_of_the_built_environment
-    - name: soundscape simulator
+    - name: 'professionals of the built environment'
+      id: professionals_of_the_built_env
+    - name: 'soundscape simulator'
       id: soundscape_simulator
-    - name: co-design
+    - name: 'co-design'
       id: co_design
-    - name: prototype
-      id: prototype
-  highlights:
-    - The visual is dominant in urban planning so we develop new tools to help
-      planners understand also the sonic consequences of their planning choices.
-    - Simulating the sound environment in 3D immerses planners in the urban
-      experience they are creating.
-  brief: Each urban development project raises aesthetic, functional, and
-    socio-demographic questions depending on the local context. However, its
-    sounds are considered in the later stages of design or simply remain an
-    afterthought. To raise the awareness of urban professionals to the question
-    of sound in their projects, and to facilitate the processes of consultation,
-    creation, and communication, our team developed an interactive immersive
-    “codesign sound sketchpad.”
-  about: >-
-    This soundscape simulator can help not only play on-site recordings back
-    in a listening room, but also add, position, and move single sources in
-    space. This software allows to simply and efficiently (re)produce the sound
-    environments of various spaces that do not yet exist.
-    <br><br>
-    A first public prototype of this tool was unveiled at a CIRMMT-hosted day-long event offered by the “Sounds in the City” team in July 2019. The event was articulated around the integration of new technologies and approaches in the process of co-designing the soundscapes of public spaces. In a concert hall equipped with 48 loudspeakers, an audience of mostly urban professionals used the simulator to discuss, design, and listen to what the soundscape of a specific public space could sound like under different circumstances, while taking into account location constraints: What would be the impact of slowing down traffic on the main avenue? Would it be pertinent to install a fountain in the centre of the square? The simulator allowed participants to listen to a sonic rendering of their suggestions in real-time and appreciate the consequences of planning decisions on the sound environment.
+    - name: 'prototype'
+      id: prototype 
+  before:
+    image: "/assets/images/projects/Codesign_sketch_pad/SOUNDSCAPESIMULATOR.png"
+    credits: 'Grégoire Blanc'
+    alt: "Soundscape simulator interface"
+  after:
+    image: "/assets/images/projects/Codesign_sketch_pad/DSC_1272.jpeg"
+    credits: 'Valérian Fraisse'
+    alt: ""
+  brief: "The visual is dominant in urban planning so we develop new tools to help planners understand also the sonic consequences of their planning choices<br><br>Simulating the sound environment in 3D immerses planners in the urban experience they are creating"
+  about: 'Each urban development project raises aesthetic, functional, and socio-demographic questions depending on the local context. However, its sounds are considered in the later stages of design or simply remain an afterthought. To raise the awareness of urban professionals to the question of sound in their projects, and to facilitate the processes of consultation, creation, and communication, our team developed an interactive immersive "co-design sound sketchpad". <br><br>This soundscape simulator can help not only play on-site recordings back in a listening room, but also add, position, and move single sources in space. This software allows to simply and efficiently (re)produce the sound environments of various spaces that do not yet exist.'
+  participation: "A first public prototype of this tool was unveiled at a CIRMMT-hosted day-long event offered by the “Sounds in the City” team in July 2019. The event was articulated around the integration of new technologies and approaches in the process of co-designing the soundscapes of public spaces. In a concert hall equipped with 48 loudspeakers, an audience of mostly urban professionals used the simulator to discuss about, design and listen to what the soundscape of a specific public space could sound like under different circumstances, while taking into account location constraints: What would be the impact of slowing down traffic on the main avenue? Would it be pertinent to install a fountain in the centre of the square? The simulator allowed participants to listen to a sonic rendering of their suggestions in real-time and appreciate the consequences of planning decisions on the sound environment."
   contact_info: "For details, please contact: Cynthia Tarlao, Catherine Guastavino"
   links:
-    - url: https://doi.org/10.3390/app13031611
-      name: "Yanaky, R., Tyler, D., & Guastavino, C. (2023). City Ditty: An Immersive
-        Soundscape Sketchpad for Professionals of the Built Environment. Applied
-        Sciences, 13, 1611."
-    - url: https://doi.org/10.1016/j.landurbplan.2022.104642
-      name: Tarlao, C., Steele, D., Blanc, G., & Guastavino, C. (2023). Interactive
-        soundscape simulation as a co-design tool for urban professionals.
-        Landscape and Urban Planning, 231, 104642.
-    - url: https://www.youtube.com/watch?v=i4fLhBGuAi8
-      name: Check out a short binaural demonstration
+  publications: 
+    - url: 'https://www.mdpi.com/2076-3417/13/3/1611'
+      name: "Yanaky, R., Tyler, D., & Guastavino, C. (2023). City Ditty: An Immersive Soundscape Sketchpad for Professionals of the Built Environment. Applied Sciences, 13, 1611. doi.org/10.3390/app13031611 "
+    - url: 'https://www.sciencedirect.com/science/article/abs/pii/S0169204622002912?via%3Dihub'
+      name: 'Tarlao, C., Steele, D, Blanc, G., & Guastavino, C. (2023). Interactive soundscape simulation as a co-design tool for urban professionals. Landscape and Urban Planning, 231, 104642. doi.org/10.1016/j.landurbplan.2022.104642'
+    - url: 'https://www.youtube.com/watch?v=i4fLhBGuAi8'
+      name: 'Check out a short binaural demonstration at: https://www.youtube.com/watch?v=i4fLhBGuAi8'
   prev_url: project6
   next_url: project8
 
