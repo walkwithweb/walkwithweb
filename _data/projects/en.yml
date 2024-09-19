@@ -236,11 +236,13 @@
 - title: What should a restaurant sound like?
   description: Improving the soundscape of restaurants
   location: ""
-  date: Summer 2015; Fall 2020 - Winter 2021
-  image: /assets/images/projects/restaurant/restaurant-ithq-sherbrooke-montreal-14.jpg
+  date: "Summer 2015; Fall 2020 - Winter 2021"
+  start-date: "2015"
+  end-date: "2021"
+  image: '/assets/images/projects/restaurant/restaurant-ithq-sherbrooke-montreal-13.jpg'
   url: project6
   fundings: ITHQ, Saint-Gobain Research
-  collaborators: Institut du Tourisme et d’Hôtellerie du Québec (ITHQ), Saint-Gobain Research
+  collaborators: 'Institut du Tourisme et d’Hôtellerie du Québec (ITHQ), Saint-Gobain Research'
   name: WHAT SHOULD A RESTAURANT SOUND LIKE?
   tags:
     - name: indoor soundscape
@@ -251,37 +253,25 @@
       id: acoustic_treatment
     - name: ITHQ
       id: ithq
-  highlights:
-    - Consumers spent more time and money in the studied restaurant when the
-      sound level was higher.
-    - However, lower sound levels foster higher satisfaction and acoustic
-      comfort.
-  brief: Much attention has been given to the problem of how loud restaurants can
-    be. High restaurant sound levels have been identified as a culprit in
-    contributing to fatigue, difficulty in social situations, and even affect
-    the taste of the food.
-  about: "Sounds in the City began working with the ITHQ in Montreal in 2015 with
-    the goal of first documenting and then fine-tuning their restaurant’s
-    soundscape to encourage a more pleasant dining experience. This ongoing
-    collaboration has paved the way for a new project in 2019 with Saint-Gobain
-    Research to investigate the effect of sound environments on diners’
-    experiences. Initial findings showed that, as the sound levels increased,
-    diners spent more money and time in the restaurant, but they were not more
-    satisfied with the experience and did not find the restaurant more
-    convivial. However, this does not mean that diners enjoy a louder sound
-    environment: acoustic treatment applied by Saint-Gobain in the same
-    restaurant during the pandemic led to increased satisfaction, increased
-    acoustic comfort, and a sound level considered more appropriate by diners,
-    as well as more positive soundscape evaluations and lower vocal and
-    listening effort."
+  before:
+    image: '/assets/images/projects/restaurant/restaurant-ithq-sherbrooke-montreal-13.jpg'
+    credits: 'ITHQ'
+    alt: ""
+  after:
+    image: '/assets/images/projects/restaurant/restaurant-ithq-sherbrooke-montreal-14.jpg'
+    credits: 'ITHQ'
+    alt: ""
+  brief: "Consumers spent more time and money in the studied restaurant when the sound level was higher<br><br>However, lower sound levels foster higher satisfaction and acoustic comfort"
+  about: 'Much attention has been given to the problem of how loud restaurants can <a href="https://www.nytimes.com/2020/01/21/dining/restaurant-noise-level-loud.html" target="_blank">be</a>. High restaurant sound levels have been identified as a culprit in contributing to fatigue, difficulty in social situations, and even affect the taste of the food.<br><br>Sounds in the City began working with the <a href="https://www.ithq.qc.ca/expertise-et-recherche/" target="_blank">ITHQ</a> in Montreal in 2015 with the goal of first documenting and then fine-tuning their restaurant’s soundscape to encourage a more pleasant dining experience. This ongoing collaboration has paved the way for a new project in 2019 with <a href="http://www.sgr-paris.saint-gobain.com/fr/node/9" target="_blank">Saint-Gobain Research</a> to investigate the effect of sound environments on diners’ experiences.'
+  participation: 'Initial findings showed that, as the sound levels increased, diners spent more money and time in the restaurant, but they were not more satisfied with the experience and did not find the restaurant more convivial. However, this does not mean that diners enjoy a louder sound environment: acoustic treatment applied by Saint-Gobain in the same restaurant during the pandemic led to increased satisfaction, increased acoustic comfort, and a sound level considered more appropriate by diners, as well as more positive soundscape evaluations and lower vocal and listening effort.'
   contact_info: "For details, please contact: Cynthia Tarlao, Catherine Guastavino"
   links:
-    - url: https://jcaa.caaaca.ca/index.php/jcaa/article/view/4115
-      name: Tarlao, C., Bild, E., & Guastavino, C. (2023). Effect of acoustic
+    - url: 'https://jcaa.caaaca.ca/index.php/jcaa/article/view/4115'
+      name: 'Tarlao, C., Bild, E., & Guastavino, C. (2023). Effect of acoustic
         treatment and table dividers on diners’ experience in a Montreal
         restaurant. Proceedings of Acoustics Week in Canada 2023. Canadian
-        Acoustics, 51(3):50-1.
-    - url: https://doi.org/10.1016/j.apacoust.2020.107772
+        Acoustics, 51(3):50-1.'
+    - url: 'https://doi.org/10.1016/j.apacoust.2020.107772'
       name: "Tarlao, C., Fernandez, P., Frissen, I., & Guastavino, C. (2021).
         Influence of Sound Level on Diners’ Perceptions and Behavior in a
         Montreal Restaurant. Applied Acoustics. 174: 107772."
