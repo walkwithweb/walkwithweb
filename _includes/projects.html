@@ -16,8 +16,9 @@
   </div>
   <div class="list">
     <div id="noResultsMessage"></div>
-    {% assign lang = page.lang %} {% assign projects =
-    site.data.projects[lang] %} {% for project in projects %}
+    {% assign lang = page.lang %} 
+    {% assign projects = site.data.projects[lang] | sort:'title' %} 
+    {% for project in projects %}
     {% assign tag_names = project.tags | map: 'name' %}
     <a class="list-item" data-tags="{{ tag_names | join: ',' | downcase }}" data-title="{{project.title}}"
       href="/{{ lang | append:'/projects/' | append: project.url}}">

@@ -30,7 +30,7 @@
     {% assign lang = page.lang %}
     {% assign key = 'navigation_' | append: lang %}
     {% assign navigation = site.data[key] %}
-    {% assign projects = site.data.projects[lang] %}
+    {% assign projects = site.data.projects[lang] | sort:'title' %}
     {% for item in navigation %}
     <li class="menu-item item-main">
       <a href="/{{ lang }}{{ item.url }}" class="heading menu-link menu-hover">
