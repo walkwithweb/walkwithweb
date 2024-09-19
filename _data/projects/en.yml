@@ -144,42 +144,42 @@
 
 - title: "Co-designing soundscapes of public spaces "
   description: "Conducting workshops to help determine the technology needs of professionals  "
-  location: ""
+  location: "Plateau-Mont-Royal, Montreal, QC"
   date: "Summer 2019"
-  image: "/assets/images/projects/Street Performances and the Quality of Urban Public Space/Musician in the park.png"
+  start-date: "2019"
+  end-date: "2019"
+  image: ""
   url: "project4"
   fundings: "SSHRC-PDG grant"
-  collaborators: "City of Montreal (Arrondissement Plateau-Mont-Royal)"
+  collaborators: "Société des arts technologiques, ARUP"
   name: ""
   tags:
-    - name: pedestrianizationTAGS
-      id: 'pedestrianizationTAGS'
-    - name: soundscape evaluation
-      id: 'soundscape_evaluation'
-    - name: City of Montreal
-      id: 'city_of_montreal'
+    - name: workshop
+      id: 'workshop'
+    - name: participatory design
+      id: 'participatory_design'
+    - name: sound planning tools
+      id: 'sound_planning_tools'
+    - name: professionals of the built environment
+      id: 'professionals_of_the_built_env'
   before:
-    image: '/assets/images/projects/project1_before.png'
-    credits: 'Maryse Lavoie.'
-    alt: ""
+    image: ''
+    credits: 'Christine Kerrigan'
+    alt: "Participant using the Oculus Go."
   after:
-    image: '/assets/images/projects/project1.png'
-    credits: 'Maryse Lavoie.'
-    alt: ""
-  brief: "The project removed traffic noise and created a new pedestrian walkway / seating area in a space where previously there was only a road.<br><br> It also created a new neighborhood space of meeting, often used by residents and visitors alike, who appreciate the greenery, increased sense of safety due to lack of cars, and the ‘quieter’ soundscape where cars are only audible in the distance."
-  about: "We collaborated with Ville de Montreal around the pedestrianization of rue Roy, in the heart of the Plateau-Mont-Royal borough. To create the Terrasses Roy, a section of the street was closed off to traffic and a temporary design was installed by design firm Castor et Pollux in the summer 2017. Four sections were created to invite visitors to relax and interact, including colourful street furniture, communal gardens, and a play area. This pilot project was very well received by the community and extended into the fall and winter of 2017. The space is currently being converted into a permanent outdoor meeting space around urban agriculture."
-  participation: "We participated in public consultations and conducted acoustic measurements and audio recordings before and after the pedestrianization. We also administered questionnaires to passers-by to evaluate their experience in the new pedestrian walkway, with an emphasis on soundscape and sonic expectations. We then provided recommendations to the borough on how to reinforce the purpose of this new space through sound."
-  contact_info: "For details, please contact: Daniel Steele, Catherine Guastavino"
-  links:
-    - url: ''
-      name: 'electronslibres.telequebec.tv/episodes/35418'
-    - url: ''
-      name: 'montreal.ca/en/places/terrasses-roy'
-    - url: ''
-      name: 'montreal.ca/en/places/terrasses-roy-6507'
+    image: ''
+    credits: 'Catherine Guastavino. '
+    alt: "Multimedia room part of workshop (CIRMMT)."
+  brief: "Professionals of the built environment were invited to take part in a workshop with the Sounds in the City team.<br><br>Activities included a an ‘immersive playground’ of different technologies, a collaborative design activity in state-of-the-art facilities, and focus groups, which fed into the designs for new sound planning tools."
+  about: "Soundscape planning is still an uncommon approach, as are tools that facilitate such proactive planning. In the summer of 2019, we held a futures workshop with urban professionals (including planners and designers) to help determine what technologies we could help add to their city planning toolbox."
+  participation: "In the workshop, we introduced basic principles of the soundscape approach, as well as different technologies that could help with future soundscape planning, through three main activities:<br><br>1) an ‘immersive playground’: experimenting with technologies like VR sets with soundscapes (HTC Vive Pro, Oculus Go, and smartphone-based VR sets) and other laptop simulations<br><br>2) a participatory soundscape design session in the state-of-the-art multimedia room at the Centre for Interdisciplinary Research in Music Media and Technology (CIRMMT) <br><br>3) focus groups discussing current challenges of professionals and potential needs, if they were to begin to engage with soundscape designs on their own. <br><br>We integrated these results of the activities into the designs for a prototype virtual reality tool. Development is underway and scheduled for trials in the upcoming months."
+  contact_info: "For details, please contact: Richard Yanaky, Daniel Steele"
+  links: ''
   publications:
-    - url: ''
-      name: 'Bocksteal 2019-ICSV 2019 paper '
+    - url: 'https://www.mdpi.com/2076-3417/13/3/1611'
+      name: 'Yanaky, R., Tyler, D., & Guastavino, C. (2023). City Ditty: An Immersive Soundscape Sketchpad for Professionals of the Built Environment. Applied Sciences, 13, 1611. doi.org/10.3390/app13031611 '
+    - url: 'https://www.sciencedirect.com/science/article/abs/pii/S0169204622002912?via%3Dihub'
+      name: 'Tarlao, C., Steele, D, Blanc, G.*, & Guastavino, C. (2023). Interactive soundscape simulation as a co-design tool for urban professionals. Landscape and Urban Planning, 231, 104642. doi.org/10.1016/j.landurbplan.2022.104642 '
   prev_url: "project3"
   next_url: 'project5'
 
