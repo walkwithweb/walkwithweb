@@ -61,7 +61,9 @@
                         <img src="{{ page.before.image }}" alt="{{ page.before.alt | default: page.before.credits }}" />
                     </div>
                     <div class="footer">
-                        <h3>{{ page.project_name }}: {{ content.before }}</h3>
+                        {% if {{page.before.alt}} != "" %}
+                            <h3>{{ page.before.alt }}</h3>
+                        {% endif %}
                         <p>{{ content.credits }}: {{ page.before.credits }}</p>
                     </div>
                 </div>
@@ -73,7 +75,9 @@
                         <img src="{{ page.after.image }}" alt="{{ page.after.alt | default: page.after.credits }}" />
                     </div>
                     <div class="footer">
-                        <h3>{{ page.project_name }}: {{ content.after }}</h3>
+                        {% if {{page.after.alt}} != "" %}
+                            <h3>{{ page.after.alt }}</h3>
+                        {% endif %}
                         <p>{{ content.credits }}: {{ page.after.credits }}</p>
                     </div>
                 </div>
@@ -85,7 +89,7 @@
                     <div class="col">
                         <p class="text">{{ page.participation }}</p>
                         <br />
-                        <p class="text">{{ page.contact_info }}</p>
+                        <p class="text"><i>{{ page.contact_info }}</i></p>
                     </div>
                 </div>
                 <h4 class="about-title">{{ content.links }}</h4>
@@ -105,7 +109,11 @@
                             <br />
                             <br />
                             {% for link in page.publications %}
-                            <a href="{{ link.url }}" target="_blank">{{ link.name }}</a>
+                                {% if {{link.url}} == "" %}
+                                    <span>{{ link.name }}</span>
+                                {% else %}
+                                    <a href="{{ link.url }}" target="_blank">{{ link.name }}</a>
+                                {% endif %}
                             {% endfor %}
                         </p>
                     </div>

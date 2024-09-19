@@ -1160,6 +1160,16 @@
         a {
             color: $black;
             display: inline-block;
+            margin-bottom: 16px;
+        }
+
+        span {
+            margin-bottom: 16px;
+            display: inline-block;
+
+            a {
+                margin-bottom: 0;
+            }
         }
     }
 
@@ -1223,6 +1233,7 @@
                 h3 {
                     font-size: 16px;
                     line-height: 24px;
+                    text-transform: uppercase;
                 }
 
                 p {
