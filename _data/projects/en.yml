@@ -394,10 +394,12 @@
 
 
 - title: "Context matters"
-  description: "investigating the factors that shape urban sound experiences"
+  description: "Investigating the factors that shape urban sound experiences"
   location: ""
   date: "2015 – 2021"
-  image: "/assets/images/projects/context matters/962-Mont-Royal-intervention.jpg"
+  start-date: "2015"
+  end-date: "2021"
+  image: "/assets/images/projects/context_matters/962-Mont-Royal-intervention.jpg"
   url: "project9"
   fundings: "SSHRC"
   collaborators: "City of Montreal (Arrondissement Plateau-Mont-Royal)"
@@ -410,31 +412,31 @@
     - name: context
       id: 'context'
   before:
-    image: '/assets/images/projects/project1_before.png'
-    credits: ''
+    image: '/assets/images/projects/context_matters/P1060338_CreditCatherineGuastavino.JPG'
+    credits: 'Catherine Guastavino'
     alt: ""
   after:
-    image: '/assets/images/projects/project1.png'
-    credits: ''
+    image: '/assets/images/projects/context_matters/P8020249_CreditLouisGuastavino.JPG'
+    credits: 'Louis Guastavino'
     alt: ""
-  brief: "Our experience of urban environments is shaped by many factors, from expectations to personality to the specifics of the situation.<br><br> The model of contextual influences we have started to build is a first step towards helping urban planners and policymakers create more inclusive urban spaces."
-  about: "We all know that context matters: where and who we are matter just as much as what we are doing in any given moment of life. In a series of studies, including modeling of on-site factors and various laboratory experiments, Sounds in the City has investigated the many ways in which context matters, particularly for soundscape evaluations.<br><br> In laboratory experiments, we showed that what we call ‘situational factors’ like location, day, and time of use shape our perceptions of the sound environment regardless of expectations we might have had before using a space. For example, a quieter location is evaluated as more pleasant and less eventful than a noisier location or afternoons are generally evaluated as less calm and more eventful than evenings, while weekends are more eventful than weekdays.<br><br> Meanwhile, on-site studies hinted at other factors that are not directly related to sound levels, such as social interaction – that is, if a person is alone or with others – and ‘personal factors’ like extraversion, gender, age, and noise sensitivity. People in groups find their soundscape more pleasant and less eventful than solitary users, potentially because they are focusing their attention on the other(s) they are with. And women and younger people find their soundscape more pleasant and less eventful, which can be linked to the fact that they go out in groups more than men and older people, respectively. More extroverted people evaluate their soundscape as less eventful and people who are more sensitive to noise (like women and older people) tend to evaluate their soundscape as less pleasant.<br><br> While we are only beginning to scratch the surface of the complexity of factors that influence how we evaluate soundscapes, it is essential to keep in mind that context matters and that designing spaces must take into account this myriad of experiences."
-  participation: "We participated in public consultations and conducted acoustic measurements and audio recordings before and after the pedestrianization. We also administered questionnaires to passers-by to evaluate their experience in the new pedestrian walkway, with an emphasis on soundscape and sonic expectations. We then provided recommendations to the borough on how to reinforce the purpose of this new space through sound."
+  brief: "Our experience of urban environments is shaped by many factors, from expectations to personality to the specifics of the situation<br><br>The model of contextual influences we have started to build is a first step towards helping urban planners and policy makers create more inclusive urban spaces"
+  about: "We all know that context matters: where and who we are matter just as much as what we are doing in any given moment of life. In a series of studies, including modeling of on-site factors and various laboratory experiments, Sounds in the City has investigated the many ways in which context matters, particularly for soundscape evaluations.<br><br>In laboratory experiments, we showed that what we call ‘situational factors’ like location, day, and time of use shape our perceptions of the sound environment regardless of expectations we might have had before using a space. For example, a quieter location is evaluated as more pleasant and less eventful than a noisier location or afternoons are generally evaluated as less calm and more eventful than evenings, while weekends are more eventful than weekdays."
+  participation: "Meanwhile, on-site studies hinted at other factors that are not directly related to sound levels, such as social interaction – that is, if a person is alone or with others – and ‘personal factors’ like extraversion, gender, age, and noise sensitivity. People in groups find their soundscape more pleasant and less eventful than solitary users, potentially because they are focusing their attention on the other(s) they are with. And women and younger people find their soundscape more pleasant and less eventful, which can be linked to the fact that they go out in groups more than men and older people, respectively. More extraverted people evaluate their soundscape as less eventful and people who are more sensitive to noise (like women and older people) tend to evaluate their soundscape as less pleasant.<br><br>While we are only beginning to scratch the surface of the complexity of factors that influence how we evaluate soundscapes, it is essential to keep in mind that context matters and that designing spaces must take into account this myriad of experiences."
   contact_info: "For details, please contact: Cynthia Tarlao, Catherine Guastavino"
   links:
     - url: 'https://newcities.org/the-big-picturecity-sound-like/'
-      name: "Guastavino, C. & Steele, D (2020). What should the city sound like? Why the pursuit of quiet isn’t working."
+      name: "Guastavino, C. & Steele, D (2020). What should the city sound like? Why the pursuit of quiet isn’t working. Editorial retrieved from https://newcities.org/the-big-picturecity-sound-like/"
     - url: 'https://bycs.org/sound-as-a-resourcewith-catherine-guastavino/'
-      name: "BYCS perspective (2021, March 1). Sound as a resource: with Catherine Guastavino [interview with C. Guastavino]."
+      name: "BYCS perspective (2021, March 1). Sound as a resource: with Catherine Guastavino [interview with C. Guastavino]. Retrieved from https://bycs.org/sound-as-a-resourcewith-catherine-guastavino/ "
+    - url: ''
+      name: "Trudel, B. (2023, Fall). Quand un son vaut mille mots. [interview with C. Guastavino]. Continuité, 178 – Patrimoine Sonore, 18-21. (in French) "
+    - url: ''
+      name: "Gagnon, M. (2023, Fall). Les archéologues du son. [interview with C. Guastavino]. Continuité, 178 – Patrimoine Sonore, 178, 22-24. (in French) "
     - url: 'https://ici.radiocanada.ca/tele/decouverte/site/episodes/520848/covid-ghgsat-methane-lune-pollution'
-      name: "Société Radio-Canada (2021, April 28). A l’écoute de la ville – Emission Découverte [TV report with C. Guastavino]."
-    - url: ''
-      name: "Trudel, B. (2023, Fall). Quand un son vaut mille mots. [interview with C. Guastavino]. Continuité, 178 – Patrimoine Sonore, 18-21. (in French)"
-    - url: ''
-      name: "Gagnon, M. (2023, Fall). Les archéologues du son. [interview with C. Guastavino]. Continuité, 178 – Patrimoine Sonore, 178, 22-24. (in French)"
+      name: "Société Radio-Canada (2021, April 28). A l’écoute de la ville – Emission Découverte [TV report with C. Guastavino]. Retrieved from https://ici.radiocanada.ca/tele/decouverte/site/episodes/520848/covid-ghgsat-methane-lune-pollution"
   publications:
-    - url: 'doi.org/10.1016/j.buildenv.2020.107490'
-      name: 'Tarlao, C., Steffens, S., & Guastavino, C. (2021). Investigating contextual influences on urban soundscape evaluations with structural equation modeling. Building and Environment. 188: 107490. doi.org/10.1016/j.buildenv.2020.107490'
+    - url: 'https://www.sciencedirect.com/science/article/abs/pii/S036013232030857X?via%3Dihub'
+      name: 'Tarlao, C., Steffens, S., & Guastavino, C. (2021). Investigating contextual influences on urban soundscape evaluations with structural equation modeling. Building and Environment. 188: 107490. doi.org/10.1016/j.buildenv.2020.107490 '
   prev_url: "project8"
   next_url: 'project10'
 
