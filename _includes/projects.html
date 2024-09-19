@@ -55,7 +55,7 @@
           const lastItemRect = lastListItem.getBoundingClientRect();
           const lastItemVisible = lastItemRect.bottom <= window.innerHeight;
 
-          if (window.scrollY > window.innerHeight && lastItemVisible) {
+          if (window.scrollY > window.innerHeight/2) {
             scrollToTopButton.classList.add('visible');
           } else {
             scrollToTopButton.classList.remove('visible');

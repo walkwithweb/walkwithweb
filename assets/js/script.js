@@ -50,14 +50,25 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 
   /* SCROLL TO TOP */
-  const scrollTopBtn = document.getElementById("scroll-top");
-  if(scrollTopBtn){
-    scrollTopBtn.addEventListener("click", scrollTop);
-    function scrollTop() {
-      window.scrollTo({top: 0, behavior: 'smooth'});
-    }
-  }
+  const scrollToTopButton = document.getElementById('scroll-top');
+  if(scrollToTopButton){
+    console.log("Found it");
+    
+    window.addEventListener('scroll', function () {
+      if (window.scrollY > window.innerHeight/2) {
+        scrollToTopButton.classList.add('visible');
+      } else {
+        scrollToTopButton.classList.remove('visible');
+      }
+    });
 
+    scrollToTopButton.addEventListener('click', function () {
+      window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+      });
+    });
+  }
 
   // 
 });
