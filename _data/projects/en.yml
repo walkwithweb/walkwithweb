@@ -328,7 +328,9 @@
   description: "Getting a taste of the quiet we thought we wanted"
   location: ""
   date: "2020 - 2023"
-  image: "/assets/images/projects/COVID19/QDSlockdown.jpg"
+  start-date: ""
+  end-date: ""
+  image: "/assets/images/projects/COVID19/MesuresQdS2.jpeg"
   url: "project8"
   fundings: "MITACS Accelerate program with Quartier des spectacles"
   collaborators: "Quartier des spectacles"
@@ -338,12 +340,17 @@
       id: 'covid_19'
     - name: quiet
       id: 'quiet'
-    - name: Quartier des Spectacles
+    - name: 'Quartier des Spectacles'
       id: 'quartier_des_spectacles'
-  highlights:
-    - "Montreal had a short-lasting 6dB reduction in sound levels in the downtown, which returned mostly to normal with the restarting of construction and traffic."
-    - "The periods of restrictions, lockdowns, and other measures following the onset of COVID-19 led to residents forming new associations and habits with home and public space use, driven partially by the drastic changes in their sound environments."
-  brief: "The COVID-19 pandemic changed the focus of research projects all over the world and Sounds in the City was no different. Those working on sound were left with the opportunity to study what happened while the world was on pause and the planet got quiet. Quiet has been the focus of our modern noise policies for a century, but once we experienced it, we realized it's not so simple."
+  before:
+    image: "/assets/images/projects/COVID19/QDSlockdown.jpg"
+    credits: 'Catherine Guastavino'
+    alt: "Recording the sounds of an empty Quartier des Spectacles"
+  after:
+    image: "/assets/images/projects/COVID19/3_2.jpg"
+    credits: 'Catherine Guastavino'
+    alt: "Recording the sounds of an empty Quartier des Spectacles"
+  brief: "Montreal had a short-lasting 6dB reduction in sound levels in the downtown, which returned mostly to normal with the restarting of construction and traffic<br><br>The periods of restrictions, lockdowns, and other measures following the onset of COVID-19 led to residents forming new associations and habits with home and public space use, driven partially by the drastic changes in their sound environments"
   about: "Sounds in the City engaged in a multi-method, multi-year study observing the COVID-19 auditory experience, including:
     <br><br>
     • Interviews (2020 and 2021)<br>
@@ -351,28 +358,37 @@
     • Questionnaires<br>
     • Sound level measurements<br>
 
-    <br><br>
-    
-    The findings of the first year of the pandemic showed us a very temporary 6 dB drop in overall sound levels during the first restriction. Sound levels largely returned to normal with the return of construction and traffic, yet public life suffered, and people were very conscious of the sounds that they missed. Public space use was transformed in many ways and saw many new uses while those who were working at home had to contend with new sound environments and new challenges during their workdays. This change was especially hard on families with children."
+    <br><br>"
+  participation: "The findings of the first year of the pandemic showed us a very temporary 6 dB drop in overall sound levels during the first restriction. Sound levels largely returned to normal with the return of construction and traffic, yet public life suffered, and people were very conscious of the sounds that they missed. Public space use was transformed in many ways and saw many new uses while those who were working at home had to contend with new sound environments and new challenges during their workdays. This change was especially hard on families with children"
   contact_info: "For details, please contact: Daniel Steele, Edda Bild, Nicola di Croce"
   links:
     - url: 'https://www.cbc.ca/listen/live-radio/1-15-daybreak-montreal/clip/15869524-the-sounds-downtown'
-      name: 'Canadian Broadcasting Corporation. (2021, Sept. 28). The sounds of downtown [Radio interview with Daniel Steele and collaborators]'
-    - url: 'https://doi.org/10.1515/noise-2022-0169'
-      name: 'Trudeau, C., Tarlao, C., & Guastavino, C. (2023). Montreal soundscapes during the COVID-19 pandemic: A spatial analysis of noise complaints and residents’ surveys. Noise Mapping, 10(1), 20220169.'
-    - url: 'https://doi.org/10.1080/09640568.2022.2100247'
-      name: 'Di Croce, N., Bild, E., Steele, D., & Guastavino, C. (2024). A sonic perspective for the post-pandemic future of entertainment districts: the case of Montreal’s Quartier des Spectacles. Journal of Environmental Planning and Management, 67(1), 131-154.'
-    - url: 'https://doi.org/10.1016/j.landurbplan.2022.104642'
-      name: 'Bild, E., Steele, D., & Guastavino, C. (2022) Festivals and Events as Everyday Life in Montreal’s Entertainment District. Sustainability 14.8: 4559.'
-    - url: 'https://doi.org/10.2148/benv.48.2.244'
-      name: 'Bild, E., Steele, D., & Guastavino, C. (2022). Revisiting public space transformations from a sonic perspective during the Covid-19 pandemic. Built Environment, 48(1), 244-263.'
+      name: 'Canadian Broadcasting Corporation. (2021, Sept. 28). The sounds of downtown [Radio interview with Daniel Steele and collaborators] https://www.cbc.ca/listen/live-radio/1-15-daybreak-montreal/clip/15869524-the-sounds-downtown'
+    - url: 'http://www.radio-canada.ca/util/postier/suggerer-go.asp?nID=4523621'
+      name: 'Leblanc, E. (2020, May 30). L’après-COVID-19: tirer les leçons de ce printemps silencieux [interview with C. Guastavino]. Radio-Canada (in French) '
+    - url: 'http://www.radio-canada.ca/util/postier/suggerer-go.asp?nID=4523622'
+      name: 'Société Radio-Canada (2020, May 28). Le silence, une conséquence positive du confinement: Reportage d’E. Leblanc – L’heure du monde [interview with C. Guastavino] (in French) '
+    - url: 'http://www.radio-canada.ca/util/postier/suggerer-go.asp?nID=4513154'
+      name: 'Société Radio-Canada (2020, May 10). Confinement et reduction du bruit en ville – Du côté de chez Catherine [radio interview with C. Guastavino and R. Dumoulin] (in French) '
+    - url: 'http://www.radio-canada.ca/util/postier/suggerer-go.asp?nID=4511818'
+      name: 'Société Radio-Canada (2020, May 7). Sons de la Ville en confinement : Entrevue avec Catherine Guastavino, professeure – Le 15-18 [radio interview with C. Guastavino]. Retrieved from http://www.radio-canada.ca/util/postier/suggerer-go.asp?nID=4511818 (in French) '
+    - url: 'http://www.radio-canada.ca/util/postier/suggerer-go.asp?nID=4608635'
+      name: 'Société Radio-Canada (2021, Jan. 14). Absence de bruit pendant le couvre-feu– Emission Tout un matin [radio interview with C. Guastavino] (in French) '
+    - url: 'https://ici.radio-canada.ca/ohdio/premiere/emissions/moteur-de-recherche/episodes/591221/rattrapage-du-mercredi-15-decembre-2021/4'
+      name: 'Société Radio-Canada (2021, Dec. 15). Pourquoi l’être humain a-t-il si peur du silence – Emission Moteur de Recherche [radio interview with C. Guastavino] (in French) '
+    - url: 'https://newcities.org/the-big-picture-city-sound-like/'
+      name: 'Guastavino, C. & Steele, D (2020). What should the city sound like? Why the pursuit of quiet isn’t working.  '
   publications:
-    - url: 'https://ici.radio-canada.ca/nouvelle/1706900/apres-covid-19-coronavirus-silence-villes-lecons-bruit-pollution-sonore-printemps-silencieux'
-      name: 'Leblanc, E. (2020, May 30). L’après-COVID-19: tirer les leçons de ce printemps silencieux [interview with C. Guastavino]. Radio-Canada (in French)'
-    - url: 'https://ici.radio-canada.ca/ohdio/premiere/emissions/l-heure-du-monde/episodes/464308/rattrapage-du-jeudi-28-mai-2020'
-      name: 'Société Radio-Canada (2020, May 28). Le silence, une conséquence positive du confinement: Reportage d’E. Leblanc – L’heure du monde [interview with C. Guastavino] (in French)'
-    - url: 'https://ici.radio-canada.ca/ohdio/premiere/emissions/du-cote-de-chez-catherine/episodes/462975/rattrapage-du-dimanche-10-mai-2020'
-      name: 'Société Radio-Canada (2020, May 10). Confinement et reduction du bruit en ville – Du côté de chez Catherine [radio interview with C. Guastavino and R. Dumoulin] (in French)'
+    - url: 'https://www.mdpi.com/1660-4601/18/11/5877'
+      name: 'Steele, D., & Guastavino, C. (2021). Quieted city sounds during the Covid-19 pandemic in Montreal. International Journal of Environmental Research and Public Health, 18(11), 5877.  '
+    - url: 'https://www.mdpi.com/2071-1050/14/8/4559'
+      name: 'Bild, E., Steele, D., & Guastavino, C. (2022) Festivals and Events as Everyday Life in Montreal’s Entertainment District. Sustainability 14.8: 4559.  '
+    - url: 'https://www.degruyter.com/document/doi/10.1515/noise-2022-0169/html'
+      name: 'Trudeau, C., Tarlao, C., & Guastavino, C. (2023). Montreal soundscapes during the COVID-19 pandemic: A spatial analysis of noise complaints and residents’ surveys. Noise Mapping, 10(1), 20220169. https://doi.org/10.1515/noise-2022-0169 '
+    - url: 'https://www.tandfonline.com/doi/full/10.1080/09640568.2022.2100247'
+      name: 'Di Croce, N., Bild, E., Steele, D., & Guastavino, C. (2024). A sonic perspective for the post-pandemic future of entertainment districts: the case of Montreal’s Quartier des Spectacles. Journal of Environmental Planning and Management, 67(1), 131-154, doi.org/10.1080/09640568.2022.2100247 '
+    - url: 'https://www.ingentaconnect.com/content/alex/benv/2022/00000048/00000002/art00008'
+      name: 'Bild, E., Steele, D., & Guastavino, C. (2022). Revisiting public space transformations from a sonic perspective during the Covid-19 pandemic. Built Environment, 48(1), 244-263, doi.org/10.2148/benv.48.2.244 '
   prev_url: "project7"
   next_url: "project9"
 
