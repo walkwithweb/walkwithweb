@@ -201,6 +201,7 @@ projects:
   before: "AVANT"
   year: "QUAND"
   credits: "Crédits"
+  discover_project: "DÉCOUVREZ LE PROJET"
   author: "auteur"
 
 

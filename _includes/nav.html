@@ -34,18 +34,22 @@
     {% for item in navigation %}
     <li class="menu-item item-main">
       <a href="/{{ lang }}{{ item.url }}" class="heading menu-link menu-hover">
-        {{ item.title }}
-        <img alt="arrow" class="icon-white" src="/assets/images/icons/arrow-tilt-white.svg" />
-        <img alt="arrow" class="icon-black" src="/assets/images/icons/arrow-tilt.svg" />
+        <span class="menu-item-long">
+          {{ item.title }}
+          <img alt="arrow" class="icon-white" src="/assets/images/icons/arrow-tilt-white.svg" />
+          <img alt="arrow" class="icon-black" src="/assets/images/icons/arrow-tilt.svg" />
+        </span>
       </a>
       {% if item.url contains '/projects/' %}
         <ul class="sub-menu">
           {% for project in projects %}
           <li class="menu-item">
             <a href="/{{ lang }}/projects/{{ project.url }}" class="text-link menu-link-2 menu-hover">
-              {{ project.title }}
-              <img alt="arrow" class="icon-white" src="/assets/images/icons/arrow-tilt-white.svg" />
-              <img alt="arrow" class="icon-black" src="/assets/images/icons/arrow-tilt.svg" />
+              <span class="menu-item-long-2">
+                {{ project.title }}
+                <img alt="arrow" class="icon-white" src="/assets/images/icons/arrow-tilt-white.svg" />
+                <img alt="arrow" class="icon-black" src="/assets/images/icons/arrow-tilt.svg" />
+              </span>
             </a>
           </li>
           {% endfor %}

@@ -185,7 +185,6 @@ body {
   }
 }
 
-
 .menu.close {
   right: 40px;
   position: absolute;
@@ -265,7 +264,7 @@ body {
       }
 
       .icon-black {
-        display: block;
+        display: inline-block;
       }
 
       &:hover {
@@ -273,7 +272,7 @@ body {
         color: $white;
 
         .icon-white {
-          display: block;
+          display: inline-block;
         }
 
         .icon-black {
@@ -310,7 +309,7 @@ body {
           color: $white;
 
           .icon-white {
-            display: block;
+            display: inline-block;
           }
 
           .icon-black {
@@ -327,7 +326,7 @@ body {
           }
 
           .icon-black {
-            display: block;
+            display: inline-block;
           }
 
           img {
