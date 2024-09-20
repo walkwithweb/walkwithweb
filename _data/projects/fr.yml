@@ -169,26 +169,28 @@
       id: 'professionnels_urbanisme'
   before:
     image: '/assets/images/projects/project1_before.png'
-    credits: ''
-    alt: ""
+    credits: 'Christine Kerrigan.'
+    alt: "Participante utilisant l’Oculus Go."
   after:
     image: '/assets/images/projects/project1.png'
-    credits: ''
-    alt: ""
-  brief: "Des professionnel·les en urbanisme ont été invité·es à participer à un atelier avec l'équipe de la Ville Sonore. Les activités comprenaient un « terrain de jeu immersif » de différentes technologies, une activité de conception collaborative dans des installations de pointe et des groupes de discussion, qui ont alimenté la conception de nouveaux outils de planification sonore."
-  about: "La planification des ambiances sonores demeure une approche peu courante, tout comme les outils qui facilitent une telle planification proactive. Au cours de l'été 2019, nous avons organisé un atelier avec des professionnel·les en urbanisme (notamment des urbanistes et des designers) afin de déterminer les technologies qui pourraient être ajoutées à leur boîte à outils de planification urbaine. <br><br> Pendant l'atelier, nous avons présenté les principes de base de l'approche d’ambiance sonore, ainsi que différentes technologies qui pourraient aider à la planification future d’ambiances sonores, à travers trois activités principales :  <br> 1) un « terrain de jeu immersif » : expérimentation de technologies telles que des outils de réalité virtuelle (HTC Vive Pro, Oculus Go et kits VR pour smartphones) et d'autres simulations sur ordinateur. <br> 2) une séance de conception participative d'ambiances sonores dans la salle multimédia ultramoderne du Centre de recherche interdisciplinaire en musique, médias et technologies (CIRMMT). <br> 3) des groupes de discussion sur les défis actuels des professionnels et leurs potentiels besoins s'ils devaient s'engager dans la conception d’ambiances sonores par eux-mêmes. <br><br> Nous avons intégré les résultats de ces activités dans la conception d'un prototype d'outil de réalité virtuelle. Le développement est en cours et des essais sont prévus dans les mois à venir."
+    credits: 'Catherine Guastavino.'
+    alt: "Atelier dans la salle multimédia (CIRMMT)."
+  brief: "Des professionnel·les en urbanisme ont été invité·es à participer à un atelier avec l'équipe de la Ville Sonore.<br><br> Les activités comprenaient un « terrain de jeu immersif » de différentes technologies, une activité de conception collaborative dans des installations de pointe et des groupes de discussion, qui ont alimenté la conception de nouveaux outils de planification sonore."
+  about: "La planification des ambiances sonores demeure une approche peu courante, tout comme les outils qui facilitent une telle planification proactive. Au cours de l'été 2019, nous avons organisé un atelier avec des professionnel·les en urbanisme (notamment des urbanistes et des designers) afin de déterminer les technologies qui pourraient être ajoutées à leur boîte à outils de planification urbaine. <br><br> Pendant l'atelier, nous avons présenté les principes de base de l'approche d’ambiance sonore, ainsi que différentes technologies qui pourraient aider à la planification future d’ambiances sonores, à travers trois activités principales :  <br> 1) un « terrain de jeu immersif » : expérimentation de technologies telles que des outils de réalité virtuelle (HTC Vive Pro, Oculus Go et kits VR pour smartphones) et d'autres simulations sur ordinateur. <br> 2) une séance de conception participative d'ambiances sonores dans la salle multimédia ultramoderne du Centre de recherche interdisciplinaire en musique, médias et technologies (CIRMMT). <br> 3) des groupes de discussion sur les défis actuels des professionnels et leurs potentiels besoins s'ils devaient s'engager dans la conception d’ambiances sonores par eux-mêmes."
   participation: "Nous avons intégré les résultats de ces activités dans la conception d'un prototype d'outil de réalité virtuelle. Le développement est en cours et des essais sont prévus dans les mois à venir."
   contact_info: "Pour plus de détails, veuillez contacter : Daniel Steele, Catherine Guastavino"
   links:
     - url: ''
-      name: 'electronslibres.telequebec.tv/episodes/35418'
+      name: ''
     - url: ''
-      name: 'montreal.ca/en/places/terrasses-roy'
+      name: ''
     - url: ''
-      name: 'montreal.ca/en/places/terrasses-roy-6507'
+      name: ''
   publications:
-    - url: ''
-      name: 'Bocksteal 2019-ICSV 2019 paper '
+    - url: 'http://doi.org/10.3390/app13031611'
+      name: 'Yanaky, R., Tyler, D., & Guastavino, C. (2023). City Ditty: An Immersive Soundscape Sketchpad for Professionals of the Built Environment. Applied Sciences, 13, 1611. doi.org/10.3390/app13031611'
+    - url: 'http://doi.org/10.1016/j.landurbplan.2022.104642'
+      name: 'Tarlao, C., Steele, D, Blanc, G.*, & Guastavino, C. (2023). Interactive soundscape simulation as a co-design tool for urban professionals. Landscape and Urban Planning, 231, 104642. doi.org/10.1016/j.landurbplan.2022.104642'
   prev_url: "project3"
   next_url: "project5"
 
