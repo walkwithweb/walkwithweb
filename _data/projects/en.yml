@@ -544,10 +544,12 @@
   description: "Investigating sonic cohabitation around the port of Montreal"
   location: ""
   date: "Spring 2022 – Spring 2023; Spring 2024 – Spring 2025"
-  image: "/assets/images/projects/industry v residence/Port-port.jpeg"
+  start-date: ""
+  end-date: ""
+  image: "/assets/images/projects/industry_v_residence/Port-port.jpeg"
   url: "project12"
-  fundings: "SSHRC-PDG grant"
-  collaborators: "City of Montreal (Arrondissement Plateau-Mont-Royal)"
+  fundings: "2 MITACS Accelerate programs with Ville de Montreal"
+  collaborators: "The City of Montreal (Service of Economic Development), Montreal’s Public Health Agency (DRSP), Observatoire des Milieux de Vie urbains (OMV-UQAM), Montreal Port authority, other collaborators"
   name: ""
   tags:
     - name: residents
@@ -567,27 +569,27 @@
     - name: DRSP
       id: 'drsp'
   before:
-    image: '/assets/images/projects/project1_before.png'
-    credits: ''
+    image: '/assets/images/projects/industry_v_residence/Port-port.jpeg'
+    credits: 'Google Maps'
     alt: ""
   after:
-    image: '/assets/images/projects/project1.png'
-    credits: ''
+    image: '/assets/images/projects/industry_v_residence/Port-indstry.jpeg'
+    credits: 'Google Maps'
     alt: ""
-  brief: "Ports contribute to the vitality and attractiveness of cities but can also generate conflicts around noise.<br><br> We investigate soundscape in residential areas in the proximity of the port to inform policy making that integrates a sonic dimension."
-  about: "Ports are key economic players for their cities but generate nuisances for their residents, including in the sonic dimension. In Montreal, the Assomption Sud–Longue-Pointe area is especially impacted by issues of sonic cohabitation between port and industrial activities and residential uses.<br><br> In the present project, Sounds in the City, together with the Observatoire des Milieux de Vie urbains (OMV) from UQAM, documented the situation to better understand the dynamics at play, not only on an acoustic level but also in terms of the quality of life of residents. Assomption Sud–Longue-Pointe is a complex area that requires multi-pronged efforts to address current issues of cohabitation and politically tense situations.<br><br> Residents and workers in the area had a lengthy, readily available list of suggestions on how to make the area more livable. These cover not only technical solutions, but also urban planning and design, communication and community building, or governance. These solutions sometimes offer innovative, place-based approaches that demonstrate the crucial nature of local input when both documenting and seeking to transform an area.<br><br> The Sounds in the City team is now collaborating with both the Mercier-Hochelaga-Maisonneuve borough and the Montreal Port Authority to implement solutions to sonic cohabitation issues between the industrial and residential uses in the area."
-  participation: "We participated in public consultations and conducted acoustic measurements and audio recordings before and after the pedestrianization. We also administered questionnaires to passers-by to evaluate their experience in the new pedestrian walkway, with an emphasis on soundscape and sonic expectations. We then provided recommendations to the borough on how to reinforce the purpose of this new space through sound."
-  contact_info: "For details, please contact: Daniel Steele, Catherine Guastavino"
+  brief: "Ports contribute to the vitality and attractiveness of cities but can also generate conflicts around noise<br><br>We investigate soundscape in residential areas in the proximity of the port provide to inform policy making that integrates a sonic dimension"
+  about: "Ports are key economic players for their cities, but generate nuisances for their residents, including in the sonic dimension. In Montreal, the Assomption Sud–Longue-Pointe area is especially impacted with issues of sonic cohabitation between port and industries activities and residential uses.<br><br>In the present project, Sounds in the CIty, together with the Observatoire des Milieux de Vie urbains (OMV) from UQAM, documented the situation to better understand the dynamics at play, not only on an acoustic level but also in terms of quality of life of residents Assomption Sud–Longue-Pointe is a complex area that requires a multi-pronged efforts to address current issues of cohabitation and politically tense situations."
+  participation: "Residents and workers in the area had a lengthy, readily available list of suggestions on how to make the area more livable. These cover not only technical solutions, but also urban planning and design, communication and community building or governance. These solutions sometimes offer innovative, place-based solutions that demonstrate the crucial nature of the input of locals when both documenting and seeking to transform an area.<br><br>The Sounds in the City team is now collaborating with both the Mercier-Hochelaga-Maisonneuve borough and the Montreal Port authority to implement solutions to sonic cohabitation issues between the industrial and residential uses in the area."
+  contact_info: "For details, please contact: Edda Bild, Catherine Guastavino"
   links:
     - url: ''
-      name: 'Le bruit environnemental dans nos actions de planification (October 6th 2022) workshop, aimed at Montreal urban professionals. Organized by City of Montreal and the Montreal Public Health Agency.'
+      name: 'Le bruit environnemental dans nos actions de planification" (October 6th 2022) workshop, aimed at Montreal urban professionals. Organized by City of Montreal and the Montreal Public Health Agency. (in French)'
   publications:
-    - url: 'https://utpjournals.press/doi/10.3138/cpp.2021-009'
+    - url: 'http://doi.org/10.3138/cpp.2021-009'
       name: 'Laplace, J., Bild, E., Trudeau, C., Perna, M., Dupont, T. & Guastavino C. (2022). Encadrement du bruit environnemental au Canada. Canadian Public Policy / Analyse de politiques publiques, 48(1), 49-65.'
     - url: 'https://hal.archives-ouvertes.fr/hal-03233770/document'
-      name: 'Trudeau, C., Bild, E., Padois, T., Perna, M., Dumoulin, R., Dupont, T., & Guastavino, C. (2020). Municipal noise regulations in Québec. Proceedings of Forum Acusticum. Forum Acusticum, Dec. 7-1, Lyon, France.'
+      name: 'Trudeau, C., Bild, E., Padois, T., Perna, M., Dumoulin, R., Dupont, T., & Guastavino, C. (2020). Municipal noise regulations in Québec. Proceedings of Forum Acusticum. Forum Acusticum, Dec. 7-1, Lyon, France '
     - url: ''
-      name: 'Bild, E., Fraisse, V., & Guastavino, C. (2023). Integrating sound considerations into the Montreal nightlife policy. Report for the Service de développement économique, Ville de Montreal (61 pages).'
+      name: 'Bild, E., Fraisse, V., & Guastavino, C. (2023). Integrating sound considerations into the Montreal nightlife policy. Report for the Service de développement économique, Ville de Montréal (61 pages).'
   prev_url: "project11"
   next_url: 'project13'
 
