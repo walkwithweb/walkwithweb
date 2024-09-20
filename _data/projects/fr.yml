@@ -74,12 +74,12 @@
     - name: planification urbaine
       id: 'urban_planning'
   before:
-    image: '/assets/images/projects/project1_before.png'
+    image: '/assets/images/projects/ValeursGuide/VG1.png'
     credits: 'Christopher Trudeau '
     alt: "Distribution des politiques de bruit étudiées."
   after:
-    image: '/assets/images/projects/project1.png'
-    credits: ''
+    image: '/assets/images/projects/ValeursGuide/VG_Bruit chantiers_JL.jpg'
+    credits: 'Josée Laplace'
     alt: ""
   brief: "Le bruit est un polluant majeur de notre époque, mais les politiques qui le règlementent sont souvent réactives, rarement harmonisées entre provinces, États et pays, et restent cloisonnées. <br><br> Notre projet propose des recommandations pour une approche intégrée et proactive de la prise en charge du bruit environnemental."
   about: "Les politiques contre le bruit diffèrent d'un pays à l'autre, voire au sein d'un même pays, en fonction des différentes approches de prise en charge du bruit environnemental adoptées par les provinces ou les municipalités d'une même province. Au Québec, les politiques de lutte contre le bruit se concentrent sur des stratégies réactives axées sur des sources sonores spécifiques et leurs niveaux (et sur leur réduction), répartissant les responsabilités à différents niveaux de gouvernement. <br><br> Depuis 2018, l’équipe de la Ville Sonore travaille à l’analyse des approches d’encadrement du bruit environnemental. La première partie de ce projet, en collaboration avec l'École de technologie supérieure, comprenait un examen systématique des politiques de bruit dans le monde afin d'identifier les bonnes pratiques en termes de valeurs limites de bruit, de protocoles de mesure et de stratégies de communication, ainsi qu'un examen de la façon dont les gouvernements au palier municipal abordent les considérations liées au bruit au Québec. La deuxième partie du projet, en collaboration avec l'Université Laval, s'est concentrée sur la manière d'intégrer au mieux les considérations sonores dans les pratiques de conception et de planification urbaines, au travers d’études de cas québécois et internationaux et d’entretiens avec des professionnels en urbanisme."
@@ -127,12 +127,12 @@
     - name: Ville de Montréal
       id: 'city_of_montreal'
   before:
-    image: '/assets/images/projects/project1_before.png'
-    credits: ''
+    image: '/assets/images/projects/Fleurs_De_Macadam_misters/mister_locations.jpeg'
+    credits: 'Castor et Pollux'
     alt: ""
   after:
-    image: '/assets/images/projects/project1.png'
-    credits: ''
+    image: '/assets/images/projects/Fleurs_de_Macadam_misters/DSC_0319.jpeg'
+    credits: 'Cynthia Tarlao'
     alt: ""
   brief: "Pendant les mois chauds de l'été, une structure d'eau sur une place publique est attrayante. Mais s'il est mal conçu, ce point d'eau risque tout autant de dissuader les usagers d'utiliser l'espace."
   about: "Nous avons mené une étude pendant tout l'été sur un nouvel espace public expérimental de la ville - la place des Fleurs-de-Macadam, dans lequel trois prototypes, chacun doté d'un dispositif de brumisation d'eau, ont été testés. Nous voulions voir les effets d'éléments aquatiques plus ou moins audibles sur la façon dont les utilisateurs de la place évaluaient l’ambiance sonore et les leçons qui pouvaient en être tirées pour l'avenir. <br><br> Les enquêtes menées sur place ont révélé qu'un dispositif de brumisation n'est pas en soi une garantie d'amélioration de l'environnement sonore. Alors que deux des designs ont été évalués comme étant moins chaotiques et moins bruyants lorsque les brumisateurs étaient en marche, le troisième design a obtenu le résultat inverse, probablement en raison de la façon dont les brumisateurs y ont été intégrés : les brumisateurs du projet 3 étaient situés directement dans les allées de gravier, ce qui laissait souvent un espace boueux et inutilisable. <strong>Leçon n° 1 : comme tous les autres aspects de l’aménagement, l'expérience sonore doit être conçue à dessein.</strong>"
@@ -140,7 +140,7 @@
   contact_info: "Pour plus de détails, veuillez contacter : Christopher Trudeau, Daniel Steele"
   links: []
   publications:
-    - url: 'https://doi.org/10.3389/fpsyg.2020.570797'
+    - url: ''
       name: 'Trudeau, C., Steele, D., Guastavino, C. (2020). A tale of three misters: the effect of water features on soundscape assessments in a Montreal public space. Frontiers in Psychology, section Environmental Psychology. Research Topic: Human Perception of Environmental Sounds, 11: 570797.'
   prev_url: "project2"
   next_url: "project4"
