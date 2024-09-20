@@ -317,24 +317,26 @@
       id: 'prototype'
   before:
     image: '/assets/images/projects/project1_before.png'
-    credits: ''
-    alt: ""
+    credits: 'Grégoire Blanc'
+    alt: "Interface du simulateur d’ambiances sonores."
   after:
-    image: '/assets/images/projects/project1.png'
+    image: ''
     credits: ''
     alt: ""
   brief: "L'aspect visuel domine dans la planification urbaine. Nous développons donc de nouveaux outils pour aider les professionnel·les en urbanisme à comprendre également les conséquences sonores de leurs choix de planification.<br><br> La simulation de l'environnement sonore en 3D plonge les professionnel·les en urbanisme dans l'expérience urbaine qu'ils sont en train de créer."
-  about: "Chaque projet de développement urbain soulève des questions esthétiques, fonctionnelles et sociodémographiques en fonction du contexte local. Cependant, ses sonorités sont prises en compte dans les phases ultérieures de la conception ou restent simplement une réflexion après coup. Pour sensibiliser les professionnel·les en urbanisme aux impacts sonores de leurs projets et faciliter les processus de concertation, de création et de communication, notre équipe a développé un « espace de travail pour la co-création sonore » interactif et immersif.<br><br> Ce simulateur d’ambiances sonores permet non seulement de reproduire des enregistrements de l’espace dans une salle d'écoute, mais aussi d'ajouter, de positionner et de déplacer des sources individuelles dans l'espace. Ce logiciel permet de (re)produire simplement et efficacement les environnements sonores d’espaces qui n'existent pas encore.<br><br> Un premier prototype public de cet outil a été dévoilé lors d'un événement d'une journée, organisé par le CIRMMT et proposé par l'équipe de Ville Sonore, en juillet 2019. L'événement s'articulait autour de l'intégration de nouvelles technologies dans le processus de co-conception des ambiances sonores des espaces publics. Dans une salle de concert équipée de 48 haut-parleurs, un public composé principalement de professionnel·les en urbanisme a utilisé le simulateur pour discuter, concevoir et écouter à quoi pourrait ressembler l’ambiance sonore d'un espace public spécifique dans différentes circonstances, tout en tenant compte des contraintes de localisation : Quel serait l'impact d'un ralentissement de la circulation sur l'avenue principale ? Serait-il pertinent d'installer une fontaine au centre de la place ? Le simulateur a permis aux participants d'écouter un rendu sonore de leurs suggestions en temps réel et de comprendre les conséquences des décisions d'aménagement sur l'environnement sonore."
-  participation: ""
+  about: "Chaque projet de développement urbain soulève des questions esthétiques, fonctionnelles et sociodémographiques en fonction du contexte local. Cependant, ses sonorités sont prises en compte dans les phases ultérieures de la conception ou restent simplement une réflexion après coup. Pour sensibiliser les professionnel·les en urbanisme aux impacts sonores de leurs projets et faciliter les processus de concertation, de création et de communication, notre équipe a développé un « espace de travail pour la co-création sonore » interactif et immersif.<br><br> Ce simulateur d’ambiances sonores permet non seulement de reproduire des enregistrements de l’espace dans une salle d'écoute, mais aussi d'ajouter, de positionner et de déplacer des sources individuelles dans l'espace. Ce logiciel permet de (re)produire simplement et efficacement les environnements sonores d’espaces qui n'existent pas encore."
+  participation: "Un premier prototype public de cet outil a été dévoilé lors d'un événement d'une journée, organisé par le CIRMMT et proposé par l'équipe de Ville Sonore, en juillet 2019. L'événement s'articulait autour de l'intégration de nouvelles technologies dans le processus de co-conception des ambiances sonores des espaces publics. Dans une salle de concert équipée de 48 haut-parleurs, un public composé principalement de professionnel·les en urbanisme a utilisé le simulateur pour discuter, concevoir et écouter à quoi pourrait ressembler l’ambiance sonore d'un espace public spécifique dans différentes circonstances, tout en tenant compte des contraintes de localisation : Quel serait l'impact d'un ralentissement de la circulation sur l'avenue principale ? Serait-il pertinent d'installer une fontaine au centre de la place ? Le simulateur a permis aux participants d'écouter un rendu sonore de leurs suggestions en temps réel et de comprendre les conséquences des décisions d'aménagement sur l'environnement sonore."
   contact_info: "Pour plus de détails, contactez : Cynthia Tarlao, Catherine Guastavino"
   links:
     - url: 'https://www.youtube.com/watch?v=i4fLhBGuAi8'
       name: 'Retrouvez une courte démonstration en binaural ici'
   publications:
     - url: 'https://doi.org/10.3390/app13031611'
-      name: 'Yanaky, R., Tyler, D., & Guastavino, C. (2023). City Ditty: An Immersive Soundscape Sketchpad for Professionals of the Built Environment. Applied Sciences, 13, 1611.'
+      name: 'Yanaky, R., Tyler, D., & Guastavino, C. (2023). City Ditty: An Immersive Soundscape Sketchpad for Professionals of the Built Environment. Applied Sciences, 13, 1611.doi.org/10.3390/app13031611'
     - url: 'https://doi.org/10.1016/j.landurbplan.2022.104642'
-      name: 'Tarlao, C., Steele, D, Blanc, G., & Guastavino, C. (2023). Interactive soundscape simulation as a co-design tool for urban professionals. Landscape and Urban Planning, 231, 104642.'
+      name: 'Tarlao, C., Steele, D, Blanc, G., & Guastavino, C. (2023). Interactive soundscape simulation as a co-design tool for urban professionals. Landscape and Urban Planning, 231, 104642.Doi.org/10.1016/j.landurbplan.2022.104642'
+    - url: 'https://www.youtube.com/watch?v=i4fLhBGuAi8'
+      name: 'Retrouvez une courte démonstration en binaural ici : https://www.youtube.com/watch?v=i4fLhBGuAi8'
   prev_url: "project6"
   next_url: "project8"
 
