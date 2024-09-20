@@ -1091,9 +1091,12 @@
   description: "A project to create accessible sound planning tools that consider the wider auditory experience of city users."
   location: ""
   date: "2018 - ongoing"
+  start-date: "2018"
+  end-date: "Ongoing"
   image: "/assets/images/projects/City Ditty/CityDitty-Cafe.png"
   url: "project23"
-  fundings: "Supported by Fonds de recherche du Québec, CIRMMT, and Wolfe Graduate Fellowship in Scientific and Technological Literacy."
+  fundings: "This project has been supported in some form by all three sectors of 
+<a href='https://frq.gouv.qc.ca/en/'>Fonds de recherche du Québec</a>: (Society & Culture, Nature and technologies, and Health); the <a href='https://www.cirmmt.org/'>Centre for Interdisciplinary Research in Music Media and Technology (CIRMMT)<a/>; and a <a href='https://www.mcgill.ca/wolfechair/wolfe-fellows'> Wolfe Graduate Fellowship in Scientific and Technological Literacy.</a>"
   collaborators: "Ying-Ying Zhang and Gianluca Grazioli (McGill Sound Recording PhD candidates); Darcy Tyler (Cognitive Sciences undergraduate research assistant)"
   name: "Richard Yanaky"
   tags:
@@ -1112,41 +1115,40 @@
     - name: "Emerging Technologies"
       id: "emerging-technologies"
   before:
-    image: '/assets/images/projects/City Ditty/before.jpg'
-    credits: ''
+    image: '/assets/images/projects/City Ditty/CityDitty-Cafe.png'
+    credits: 'N/A'
     alt: "Before project image"
   after:
     image: '/assets/images/projects/City Ditty/after.jpg'
-    credits: ''
+    credits: 'N/A'
     alt: "After project image"
-  brief: "City Ditty is an ongoing user-centered design project that provides accessible audio-visual sound planning tools, raising sound awareness and supporting exploratory designs."
-  about: "Soundscape simulators enable quick iteration through various possibilities, fostering sound awareness and informed decisions among non-experts. City Ditty focuses on creating positive auditory experiences, offering fast, informative, and engaging exploratory tools for professionals of the built environment. The project began with a user needs assessment and has evolved to support rapid audio-visual prototyping of urban soundscapes. It is currently used in collaboration with the City of Montreal and other research projects."
-  participation: "Are you interested in using City Ditty for a city project? A fellow researcher interested in using City Ditty for a research project? Please contact us directly."
+  brief: "An ongoing user-centered design process to provide accessible audio-visual sound planning tools.<br<br>Designed to help raise sound-awareness through interactive lessons on soundscape principles and design.<br<br>Supports rapid prototyping of soundscapes through simple manipulation of sound sources, time of day, weather conditions.<br<br>Provides different methods visualization and auralization for sound.<br<br>Prioritizes ease of use for non-sound experts.<br<br>Includes built-in data collection methods including questionnaires, user-action logs (both what was interacted with, and user pathway tracking)."
+  about: "Soundscape simulators make it possible to quickly iterate through many different possibilities to both raise sound-awareness, support exploratory designs, and help non-sound experts make informed decisions. Furthermore, as the focus is on creating positive auditory experiences amongst stakeholders, an emphasis should be placed on fast, informative, and fun exploratory experiences to encourage active and meaningful participation that retains interest overtime.<br><br>In its earliest phase, it examined how Professionals of the Built Environment (PBEs) (e.g. Urban planners, designers, and policy makers) would like to interact with sound. As they current didn’t interact with sound much if at all, a user-centered design process began, with a user needs assessment with PBEs as part of a workshop which included focus groups, tech demos, and a collaborative soundscape design exercise. Although PBEs could not directly say what they needed, this study helped identify what kind of functionalities such a tool would have, and how they could interact with virtual soundscapes, as non-experts.  These results funneled into the development of City Ditty – an immersive soundscape that supports the rapid audio-visual prototyping of urban soundscapes. Its first usability study found that people could learn about soundscapes and prototype their own simple designs with City Ditty, all in under an hour."
+  participation: "As the project continued, it further explored how such emerging technologies could be used to support more people in considering the auditory experience, new and useful ways to model the dynamic nature of people in a city, and how such tools could fit into a PBEs existing workflow. Today, it is being put into use in collaboration of cities the City of Montreal to help auralize existing sound-related issues and help simulate potential sound interventions. It is also being used by other PhD students for their own experiment design and data collection, with future experiments and works in development.<br><br>Are you interested in using City Ditty for a city project? A fellow researcher interested in using City Ditty for a research project? Please contact us directly (contact details below)."
   contact_info: "Richard Yanaky or Catherine Guastavino"
   links:
-    - url: 'https://www.youtube.com/playlist?list=demos'
-      name: 'YouTube Demos'
+    - url: 'https://www.youtube.com/playlist?list=PLIlbMTlgR90J2stZScpJ-oqi1_5Hj4RzY'
+      name: 'YouTube playlist of demos and several past talks.   '
     - url: 'https://doi.org/10.3390/app13031611'
-      name: 'Applied Sciences Paper'
-    - url: 'https://jcaa.caa-aca.ca/index.php/jcaa/article/view/4183'
-      name: 'Canadian Acoustics Paper'
+      name: 'The original paper that describes the longer user-centered design and evaluation process of City Ditty:
+Yanaky, R., Tyler, D., & Guastavino, C. (2023). City Ditty: An Immersive Soundscape Sketchpad for Professionals of the Built Environment. Applied Sciences, 13(3), 1611. https://doi.org/10.3390/app13031611   
+'
+    - url: ' '
+      name: 'A paper in Canadian Acoustics, discuss three lenses for soundscape simulator design and stakeholder engagement:'
     - url: 'https://jcaa.caa-aca.ca/index.php/jcaa/article/view/4180'
-      name: 'Three Tools For Soundscape Simulation'
-    - url: 'https://hal.science/hal-02901211/'
-      name: 'HAID 2020 Workshop Findings'
+      name: 'Yanaky, R., & Guastavino, C. (2024). Realistic Enough? Design Considerations for Soundscape Simulators. Canadian Acoustics, 52(1).'
+ 
+    - url: 'https://jcaa.caa-aca.ca/index.php/jcaa/article/view/4180'
+      name: 'Fraisse, V., Tarlao, C., Yanaky, R., & Guastavino, C. (2024). One Size Doesn'"t Fit All:" Three Tools For Soundscape Simulation. Canadian Acoustics, 52(1).'
   publications:
-    - url: 'https://doi.org/10.3390/app13031611'
-      name: 'City Ditty: An Immersive Soundscape Sketchpad for Professionals of the Built Environment'
-    - url: 'https://jcaa.caa-aca.ca/index.php/jcaa/article/view/4183'
-      name: 'Realistic Enough? Design Considerations for Soundscape Simulators'
-    - url: 'https://jcaa.caa-aca.ca/index.php/jcaa/article/view/4180'
-      name: 'One Size Doesnt Fit All: Three Tools For Soundscape Simulation'
-    - url: 'https://internoise2023.paper.link'
-      name: 'Exploring the use of soundscape sketchpads with professionals'
-    - url: 'https://crcpress.com/hci-interaction-technologies'
-      name: 'Sound-Based Interaction in Human Computer Interaction'
+    - url: 'https://www.researchgate.net/publication/374750772_Exploring_the_use_of_soundscape_sketchpads_with_professionals'
+      name: 'Yanaky, R., Grazioli, G., Zhang, Y.-Y., & Guastavino, C. (2023). Exploring the use of soundscape sketchpads with professionals. INTER-NOISE and NOISE-CON Congress and Conference Proceedings, Chiba, Japan, August 20-23, 2023. '
+    - url: ''
+      name: 'A Human-Computer Interaction (HCI) chapter that discusses using soundscape simulators, interactive sound installations, and digital musical instruments (DMIs).'
+    - url: ''
+      name: 'Yanaky, R., Reimer, P. J. C., Fraisse, V., Wanderley, M., & Guastavino, C. (2024). Sound-Based Interaction. In C. Stephanidis & G. Salvendy (Eds.), Human Computer Interaction: Interaction Technologies and Techniques. CRC Press.'
     - url: 'https://hal.science/hal-02901211/'
-      name: 'An Interactive Soundscape Simulator for Professionals of the Built Environment'
+      name: 'Yanaky, R., Tarlao, C., & Guastavino, C. (2020). An Interactive Soundscape Simulator for Professionals of the Built Environment International Workshop on Haptic and Audio Interaction Design, HAID 2020, Montreal, Canada.'
   prev_url: "project22"
   next_url: 'project24'
 
@@ -1191,6 +1193,8 @@
       name: 'Fantastic Acoustics: A Magazine Describing the Importance and Scope of Acoustics Research in Québec'
     - url: 'https://doi.org/10.1121/10.0012112'
       name: 'An Illustrated Tutorial for Logarithmic Scales and Decibels in Acoustics'
+    
+
   prev_url: "project23"
   next_url: "project25"
 
