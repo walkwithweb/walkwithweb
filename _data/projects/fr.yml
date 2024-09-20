@@ -271,22 +271,22 @@
       id: 'ITHQ'
   before:
     image: '/assets/images/projects/project1_before.png'
-    credits: ''
-    alt: ""
+    credits: 'Cynthia Tarlao'
+    alt: "Restaurant de l’ITHQ."
   after:
     image: '/assets/images/projects/project1.png'
     credits: ''
     alt: ""
   brief: "Les consommateur·trices ont passé plus de temps et dépensé plus d'argent dans le restaurant étudié lorsque le niveau sonore était plus élevé. Cependant, des niveaux sonores plus bas favorisent une plus grande satisfaction et un meilleur confort acoustique."
-  about: "Le problème du niveau sonore dans les restaurants fait depuis longtemps l'objet d'une grande attention. Les niveaux sonores élevés dans les restaurants sont un facteur contribuant à la fatigue, aux difficultés dans les situations sociales, et affectent même le goût des aliments.<br><br>L’équipe de la Ville Sonore a commencé à travailler avec l’Institut de tourisme et d'hôtellerie du Québec (ITHQ) de Montréal en 2015 dans le but de documenter, puis de parfaire l'environnement sonore de son restaurant, afin de favoriser une expérience gastronomique plus agréable. Cette collaboration continue a ouvert la voie à un nouveau projet en 2019 avec Saint-Gobain Research pour étudier l'effet des environnements sonores sur l’expérience des convives.<br><br>Les premiers résultats ont montré que, lorsque les niveaux sonores augmentaient, les convives dépensaient plus d'argent et passaient plus de temps dans le restaurant, mais qu'iels n'étaient pas plus satisfait·es de leur expérience et ne trouvaient pas le restaurant plus convivial. Toutefois, cela ne signifie pas que les convives apprécient un environnement sonore plus fort : le traitement acoustique appliqué par Saint-Gobain dans le même restaurant pendant la pandémie a entraîné une augmentation de la satisfaction, un confort acoustique accru et un niveau sonore jugé plus approprié par les convives, ainsi que des évaluations plus positives de l'environnement sonore et une diminution de l'effort vocal et d'écoute."
-  participation: ""
+  about: "Le problème du niveau sonore dans les restaurants fait depuis longtemps l'objet d'une grande<a href='https://www.nytimes.com/2020/01/21/dining/restaurant-noise-level-loud.html'> attention</a>. Les niveaux sonores élevés dans les restaurants sont un facteur contribuant à la fatigue, aux difficultés dans les situations sociales, et affectent même le goût des aliments.<br><br>L’équipe de la Ville Sonore a commencé à travailler avec l’<a href='https://www.ithq.qc.ca/expertise-et-recherche/'>Institut de tourisme et d'hôtellerie du Québec (ITHQ)</a> de Montréal en 2015 dans le but de documenter, puis de parfaire l'environnement sonore de son restaurant, afin de favoriser une expérience gastronomique plus agréable. Cette collaboration continue a ouvert la voie à un nouveau projet en 2019 avec <a href='https://www.sgr-paris.saint-gobain.com/fr/node/9'>Saint-Gobain Research</a> pour étudier l'effet des environnements sonores sur l’expérience des convives.<br><br>"
+  participation: "Les premiers résultats ont montré que, lorsque les niveaux sonores augmentaient, les convives dépensaient plus d'argent et passaient plus de temps dans le restaurant, mais qu'iels n'étaient pas plus satisfait·es de leur expérience et ne trouvaient pas le restaurant plus convivial. Toutefois, cela ne signifie pas que les convives apprécient un environnement sonore plus fort : le traitement acoustique appliqué par Saint-Gobain dans le même restaurant pendant la pandémie a entraîné une augmentation de la satisfaction, un confort acoustique accru et un niveau sonore jugé plus approprié par les convives, ainsi que des évaluations plus positives de l'environnement sonore et une diminution de l'effort vocal et d'écoute."
   contact_info: "Pour plus de détails, contactez : Cynthia Tarlao, Catherine Guastavino"
   links: []
   publications:
     - url: 'https://jcaa.caaaca.ca/index.php/jcaa/article/view/4115'
-      name: 'Tarlao, C., Bild, E., & Guastavino, C. (2023). Effect of acoustic treatment and table dividers on diners’ experience in a Montreal restaurant. Canadian Acoustics, 51(3):50-1'
+      name: 'Tarlao, C., Bild, E., & Guastavino, C. (2023). Effect of acoustic treatment and table dividers on diners’ experience in a Montreal restaurant. Proceedings of Acoustics Week in Canada 2023. Canadian Acoustics, 51(3):50-1. Available from: https://jcaa.caaaca.Ca/index.php/jcaa/article/view/4115'
     - url: 'https://doi.org/10.1016/j.apacoust.2020.107772'
-      name: 'Tarlao, C., Fernandez, P., Frissen, I., & Guastavino, C. (2021). Influence of Sound Level on Diners’ Perceptions and Behavior in a Montreal Restaurant. Applied Acoustics. 174: 107772'
+      name: 'Tarlao, C., Fernandez, P., Frissen, I., & Guastavino, C. (2021). Influence of Sound Level on Diners’ Perceptions and Behavior in a Montreal Restaurant. Applied Acoustics. 174: 107772.doi.org/10.1016/j.apacoust.2020.107772'
   prev_url: "project5"
   next_url: "project7"
 
