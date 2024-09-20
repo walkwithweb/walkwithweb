@@ -544,8 +544,8 @@
   description: "Investigating sonic cohabitation around the port of Montreal"
   location: ""
   date: "Spring 2022 – Spring 2023; Spring 2024 – Spring 2025"
-  start-date: ""
-  end-date: ""
+  start-date: "2021"
+  end-date: "2025"
   image: "/assets/images/projects/industry_v_residence/Port-port.jpeg"
   url: "project12"
   fundings: "2 MITACS Accelerate programs with Ville de Montreal"
@@ -595,59 +595,59 @@
 
 
 - title: "What’s next for nightlife and night noise in Montreal?"
-  description: "integrating sound considerations into the Montreal nightlife policy"
+  description: "Integrating sound considerations into the Montreal nightlife policy"
   location: ""
   date: "Spring 2021 – Spring 2023"
-  image: "/assets/images/projects/nightlife/MITACS_ListenUp_Oct6_2022Workshop.jpg"
+  start-date: "2021"
+  end-date: "2023"
+  image: "/assets/images/projects/nightlife/before.jpg"
   url: "project13"
   fundings: "MITACS Accelerate program with Ville de Montreal"
   collaborators: "The City of Montreal (Service of Economic Development), Montreal’s Public Health Agency (DRSP), École de Technologie Superieure, Quartier des Spectacles Partnership, other collaborators"
-  name: ""
+  name: "What’s next for nightlife and night noise in Montreal?"
   tags:
-    - name: policy and planning
-      id: 'policy_and_planning'
-    - name: entertainment district
-      id: 'entertainment district'
-    - name: resident 
-      id: 'resident'
-    - name: festival
-      id: 'festival'
-    - name: recreational noise
-      id: 'recreational noise'
-    - name: sonic cohabitation
-      id: 'sonic cohabitation'
-    - name: Quartier des Spectacles
-      id: 'Quartier des Spectacles'
-    - name: aging
-      id: 'aging'
+    - name: 'nightlife'
+      id: 'nightlife'
+    - name: 'stakeholder'
+      id: 'stakeholder'
+    - name: 'noise_pollution'
+      id: 'noise pollution'
+    - name: 'night_noise'
+      id: 'night noise'
+    - name: 'public_policy'
+      id: 'public policy,'
+    - name: 'sonic cohabitation'
+      id: 'sonic_cohabitation'
+    - name: 'Quartier des Spectacles'
+      id: 'quartier_des_spectacles'
+    - name: 'City of Montreal'
+      id: 'city_of_montreal'
+    - name: 'DRSP'
+      id: 'drsp'
   before:
-    image: '/assets/images/projects/nightlife/MITACS_ListenUp_Oct6_2022Workshop.jpg'
-    credits: ''
-    alt: ""
+    image: '/assets/images/projects/nightlife/before.jpg'
+    credits: 'Wikimedia Commons, the free media repository'
+    alt: "Quartier des Spectacles"
   after:
-    image: '/assets/images/projects/nightlife/QDS.jpg'
-    credits: ''
-    alt: ""
-  brief: "Nightlife activities contribute to the vitality and attractiveness of cities but can also generate conflicts around unwanted noise. We will offer recommendations on Montreal’s development of a nightlife policy that integrates a sonic dimension"
-  about: "Many worldwide cities face the challenge of striking a balance between livability and vitality, and this dichotomy is often tested in the sonic dimension. However, no world cities, including Montreal, have expressed a nightlife policy that tackles these challenges head-on. <br><br>
-
-Sounds in the City started a collaboration with the City of Montreal and Montreal’s public health department (DRSP) to investigate and integrate the needs and expectations of different stakeholders for the development of a new nightlife strategy using the soundscape approach document. The project documents situations of sound conflicts and cohabitation in Montreal to better understand/characterize the dynamics at play & issue recommendations to improve public policies from an economic development perspective where the human being is at the center. The first step was a comprehensive review of relevant academic literature as well as public and private reports provided by partners on the status of sound-related knowledge centered on Montreal. The second step was the development of pilot projects: the ListenUpMTL pilot project [LINK TO LISTEN UP PROJECT] and the Assomption Sud–Longue-Pointe project [LINK TO PROJECT ON ASLP]."
-  participation: "This project is a unique opportunity to involve multiple stakeholders around night noise and integrate sound consideration in the new Montreal nightlife policy that is under development. "
-  contact_info: ""
+    image: '/assets/images/projects/nightlife/MITACS_ListenUp_Oct6_2022Workshop.jpg'
+    credits: 'YULISM'
+    alt: "Catherine Guastavino presenting the ListenUpMTL project at the Oct 6th 2022 ("Le bruit environnemental dans nos actions de planification") workshop."
+  brief: "Nightlife activities contribute to the vitality and attractiveness of cities but can also generate conflicts around unwanted noise<br><br>We will offer recommendations on Montreal’s development of a nightlife policy that integrates a sonic dimension"
+  about: "Many worldwide cities face the challenge of striking a balance between livability and vitality, and this dichotomy is often tested in the sonic dimension. However, no world cities, including Montreal, have expressed a nightlife policy that tackles these challenges head-on."
+  participation: "Sounds in the City started a collaboration with the City of Montreal and Montreal’s public health department (DRSP) to investigate and integrate the needs and expectations of different stakeholders for the development of a new nightlife strategy using the soundscape approach document. The project documents situations of sound conflicts and cohabitation in Montreal to better understand/characterize the dynamics at play & issue recommendations to improve public policies from an economic development perspective where the human being is at the center. The first step was a comprehensive review of relevant academic literature as well as public and private reports provided by partners on the status of sound-related knowledge centered on Montreal. The second step was the development of pilot projects: the ListenUpMTL pilot project and the Assomption Sud–Longue-Pointe project.<br><br>This project is a unique opportunity to involve multiple stakeholders around night noise and integrate sound consideration in the new Montreal nightlife policy that is under development."
+  contact_info: "For details, please contact: Edda Bild, Catherine Guastavino"
   links:
     - url: ''
-      name: 'Canadian Broadcasting Corporation. (2021, Sept. 28). The sounds of downtown [Radio interview with postdoc Daniel Steele and collaborators]. Daybreak.'
+      name: 'Canadian Broadcasting Corporation. (2021, Sept. 28). The sounds of downtown [Radio interview with postdoc Daniel Steele and collaborators]. <i>Daybreak.</i>'
     - url: ''
       name: '"Le bruit environnemental dans nos actions de planification" (October 6th 2022) workshop, aimed at Montreal urban professionals. Organized by City of Montreal and the Montreal Public Health Agency.'
-    - url: ''
-      name: ''
   publications:
-    - url: 'https://utpjournals.press/doi/10.3138/cpp.2021-009'
-      name: 'Laplace, J., Bild, E., Trudeau, C., Perna, M., Dupont, T. & Guastavino C. (2022). Encadrement du bruit environnemental au Canada. Canadian Public Policy / Analyse de politiques publiques, 48(1), 49-65. '
+    - url: 'http://doi.org/10.3138/cpp.2021-009'
+      name: 'Laplace, J., Bild, E., Trudeau, C., Perna, M., Dupont, T. & Guastavino C. (2022). Encadrement du bruit environnemental au Canada. Canadian Public Policy / Analyse de politiques publiques, 48(1), 49-65.'
     - url: 'https://hal.archives-ouvertes.fr/hal-03233770/document'
-      name: 'Trudeau, C., Bild, E., Padois, T., Perna, M., Dumoulin, R., Dupont, T., & Guastavino, C. (2020). Municipal noise regulations in Québec. Proceedings of Forum Acusticum. Forum Acusticum, Dec. 7-1, Lyon, France'
-  prev_url: ""
-  next_url: ''
+      name: 'Trudeau, C., Bild, E., Padois, T., Perna, M., Dumoulin, R., Dupont, T., & Guastavino, C. (2020). Municipal noise regulations in Québec. Proceedings of Forum Acusticum. Forum Acusticum, Dec. 7-1, Lyon, France '
+  prev_url: "project12"
+  next_url: 'project14'
 
 - title: "The sounds of Quartier des Spectacles"
   description: "Understanding Montreal festival soundscapes"
