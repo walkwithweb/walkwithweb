@@ -224,8 +224,8 @@
     credits: ''
     alt: ""
   brief: "L'élaboration d’une norme universelle pour l’évaluation des ambiances sonores est un défi car les correspondances entre les langues ne sont pas simples."
-  about: "Ville Sonore explore depuis ses débuts la question de la traduction des échelles d’évaluation des ambiances sonores, étant donné le contexte bilingue unique qu'offre Montréal. Nous avons étudié le vocabulaire utilisé par les francophones et les anglophones pour décrire les sons et les ambiances sonores de leur quotidien, ainsi que les similitudes et les différences entre eux ; par exemple, la distinction entre « son » et « bruit » diffère entre le français et l'anglais. <br><br> Nous avons également proposé et testé des traductions françaises du Swedish Soundscape Quality Protocol (SSQP), un questionnaire comprenant 8 échelles permettant d'évaluer une ambiance sonore sur son caractère agréable et animé. <br><br> En outre, nous participons aux efforts mondiaux de normalisation et de traduction des outils d'évaluation du paysage sonore, tels que les groupes de travail de l'ISO et le Soundscape Attributes Translation Project (SATP), un projet de recherche international lancé en 2019."
-  participation: ""
+  about: "Ville Sonore explore depuis ses débuts la question de la traduction des échelles d’évaluation des ambiances sonores, étant donné le contexte bilingue unique qu'offre Montréal. Nous avons étudié le vocabulaire utilisé par les francophones et les anglophones pour décrire les sons et les ambiances sonores de leur quotidien, ainsi que les similitudes et les différences entre eux ; par exemple, la distinction entre « son » et « bruit » diffère entre le français et l'anglais. <br><br> Nous avons également proposé et testé des traductions françaises du Swedish Soundscape Quality Protocol (SSQP), un questionnaire comprenant 8 échelles permettant d'évaluer une ambiance sonore sur son caractère agréable et animé."
+  participation: "En outre, nous participons aux efforts mondiaux de normalisation et de traduction des outils d'évaluation du paysage sonore, tels que les groupes de travail de l'ISO et le Soundscape Attributes Translation Project (SATP), un projet de recherche international lancé en 2019."
   contact_info: "Pour plus de détails, veuillez contacter : Daniel Steele, Catherine Guastavino"
   links:
     - url: ''
@@ -235,8 +235,16 @@
     - url: ''
       name: 'montreal.ca/en/places/terrasses-roy-6507'
   publications:
+    - url: 'http://doi.org/10.1016/j.apacoust.2023.109572'
+      name: 'Tarlao, C., Aumond. P., Lavandier, C., & Guastavino, C. (2023). Converging towards a French translation of soundscape attributes: Insights from Quebec and France. Applied Acoustics, 211: 109572, doi.org/10.1016/j.apacoust.2023.109572 '
     - url: ''
-      name: 'Bocksteal 2019-ICSV 2019 paper '
+      name: 'Dubois, D., Cance, C., Coler, M., Paté., A. & Guastavino, C. eds (2021). Sensory Experiences: Exploring meaning and the senses. Benjamins, Amsterdam, NL. doi.org/10.1075/celcr.24'
+    - url: ''
+      name: 'Aletta, F., Oberman, T., Axelsson, ., Xie, H., Zhang, Y., Lau S-K., Tan, S-K, Jambrošić, K., De Coensel, B., van den Bosch, K., Aumond, P., Guastavino, C., Lavandier, C., Fiebig, A., Schulte-Fortkamp, B., Sarwono, J., Sudarsono, A., Astolfi, A., Nagahata, K., Jeon J-Y, Jo, H-I., Chieng, J., Gan, W-S., Hong J-H., Lam, B., Ong, Z-T., Kogan, P., Su.rez Silva, E., Vida Manzano, J., D.kmeci Y.rükoğlu, P. N., Nguyen, T. L., Kang, J. (2020). Soundscape assessment: towards a validated translation of perceptual attributes in different languages. Invited paper. Proceedings of the 49th International Congress and Exposition on Noise Control Engineerin (Internoise 2020), Seoul, Korea, August 23-26, 2020'
+    - url: 'http://dx.doi.org/10.1121/1.3654926'
+      name: 'Cance, C., Guastavino, C., & Dubois, D. (2011). Languages and conceptualizations of soundscapes: A cross-linguistic analysis. Proceedings of the 162nd meeting of the Acoustical Society of America, Oct. 31- Nov. 4, San Diego, CA, USA. Abstract published in Journal of the Acoustical Society of America, 130(4), 2495, http://dx.doi.org/10.1121/1.3654926'
+    - url: ''
+      name: 'Dubois, D. & Guastavino, C. (2008). Noise(s) and sound(s): comparing various conceptualizations of acoustic phenomena across languages. Invited paper at Acoustics’08 (joint meeting of the 155th meeting of the Acoustical Society of America, 5th Forum Acusticum, and 9th Congr.s Francais d’Acoustique), June 29 to July 4, 2008, Paris, France, abstract published in Journal of the Acoustical Society of America, 123, 3674 (2008).'
   prev_url: "project4"
   next_url: "project6"
 
