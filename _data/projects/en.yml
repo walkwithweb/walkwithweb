@@ -999,6 +999,8 @@
   description: "Strategies to mobilize sound-related knowledge in practice and public discourse"
   location: ""
   date: "2013 - ongoing"
+  start-date: "2013"
+  end-date: "ongoing"
   image: "/assets/images/projects/Engaging professionals/DSC_0204 (1).jpg"
   url: "project21"
   fundings: ""
@@ -1016,13 +1018,13 @@
     - name: knowledge mobilization
       id: 'knowledge_mobilization'
   before:
-    image: '/assets/images/projects/engaging_sound_before.jpg'
-    credits: ''
+    image: '/assets/images/projects/Engaging professionals/DSC_0204 (1).jpg'
+    credits: 'N/A'
     alt: "Participants engaging in a sound-related workshop before the project"
   after:
-    image: '/assets/images/projects/engaging_sound_after.jpg'
-    credits: ''
-    alt: "Participants engaging in a sound-related workshop after the project"
+    image: '/assets/images/projects/Engaging professionals/IMG_8504.JPG'
+    credits: 'Christine Kerrigan'
+    alt: " Urban professionals discussing sound considerations at our 2019 workshop. Photo "
   brief: "We mobilize sound knowledge with professionals and the public through an array of activities. Different strategies create sound awareness in different ways, with different levels of participation and immersion."
   about: "Our team has been conducting workshops and soundwalks, giving demonstrations and presentations in schools, workplaces, festivals, and community centers. We also participate in public consultation activities, working groups, and professional training, and disseminate our research findings in the media (press, TV, radio, blogs, social media) through videos, pamphlets, and comic books. Additionally, we develop soundscape simulation tools for different users (general public and professionals of the built environment)."
   participation: "Workshops, soundwalks, demonstrations, public consultations, professional training, media dissemination"
