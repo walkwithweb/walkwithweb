@@ -75,8 +75,8 @@
       id: 'urban_planning'
   before:
     image: '/assets/images/projects/project1_before.png'
-    credits: ''
-    alt: ""
+    credits: 'Christopher Trudeau '
+    alt: "Distribution des politiques de bruit étudiées."
   after:
     image: '/assets/images/projects/project1.png'
     credits: ''
@@ -87,18 +87,21 @@
   contact_info: "Pour plus de détails, veuillez contacter : Josee Laplace (email), Edda Bild (email)"
   links:
     - url: 'https://ici.radiocanada.ca/tele/decouverte/site/episodes/520848/covid-ghgsat-methane-lune-pollution'
-      name: 'Société Radio-Canada (2021, 28 avril). A l’écoute de la ville – Émission Découverte [Reportage TV avec C. Guastavino]. <br><br>'
-    - url: 'https://ici.radio-canada.ca/ohdio/premiere/emissions/lesannees-lumiere/segments/reportage/390982/bruit-sante-pollution-nuit-paysageenvironnement-maladie'
-      name: 'Société Radio-Canada (2022, 18 février). Les effets néfastes du bruit sur la santé : les détails avec C. Srivastava – Émission Les années lumière [Entrevue radio avec C. Guastavino]. '
+      name: 'Société Radio-Canada (2021, April 28). A l’écoute de la ville – Emission Découverte [TV report with C. Guastavino]. Retrieved from https://ici.radiocanada.ca/tele/decouverte/site/episodes/520848/covid-ghgsat-methane-lune-pollution<br><br>'
+
   publications:
     - url: ''
       name: 'Tarlao, C., Leclerc, F., Brochu, J., & Guastavino, C. (2024). Current approaches to planning (with) sound. Science of The Total Environment, 931, 172826. <br><br>'
-    - url: 'https://www.utpjournals.press/doi/full/10.3138/cpp.2021-009'
-      name: 'Laplace, J., E. Bild, C. Trudeau, M. Perna,T. Dupont & C. Guastavino (2022). Encadrement du bruit environnemental au Canada. Canadian Public Policy / Analyses de politiques, 48(1), March, p. 74-90. <br><br>'
     - url: ''
-      name: 'Trudeau, C, Bild, E., Guastavino, C. (accepté). Noise regulations and practices: A survey of Quebec municipalities. Urban Research and Practice. <br><br>'
-    - url: 'https://doi.org/10.3390/ijerph19010173'
+      name: 'Laplace, J., E. Bild, C. Trudeau, M. Perna,T. Dupont & C. Guastavino (2022). Encadrement du bruit environnemental au Canada. Canadian Public Policy / Analyses de politiques, 48(1), March, p. 74-90. DOI: 10.3138/cpp.2021-009'
+    - url: ''
+      name: 'Trudeau, C, Bild, E., Guastavino, C. (accepted). Noise regulations and practices: A survey of Quebec municipalities. Urban Research and Practice.'
+    - url: 'http://doi.org/10.3390/ijerph19010173'
       name: 'Perna, M., Padois, T., Trudeau, C., Bild, E., Laplace, J.*, Dupont, T., & Guastavino, C. (2022). Comparison of road noise policies across Australia, Europe, and North America. International Journal of Environmental Research and Public Health, 19(1), 173'
+    - url: ''
+      name: 'Nous avons aussi rédigé 7 rapports techniques, disponibles sur demande.'
+    - url: ''
+      name: 'Les résultats ont été présentés au cours des Journées du bruit environnemental en 2019 et des Journées de l’environnement sonore en 2021.'
   prev_url: "project1"
   next_url: 'project3'
 
@@ -107,8 +110,8 @@
   description: "Résultats de l'ajout de structures d'eau dans une place publique"
   location: "Plateau-Mont-Royal, Montreal, QC"
   date: "Été 2018"
- start-date: "2018"
-  end-date: "2018"
+  start-date: '2018'
+  end-date: '2018'
   image: "/assets/images/projects/Fleurs de Macadam sound art/Val_IMG_20190726_183158.jpg"
   url: "project3"
   fundings: "Bourse CRSH-SDP"
@@ -148,8 +151,8 @@
   description: "Organiser des ateliers pour aider à déterminer les besoins des professionnel·les en matière de technologies"
   location: ""
   date: "Été 2019"
-  start-date: "2019"
-  end-date: "2019"
+  start-date: '2019'
+  end-date: '2019'
   image: "/assets/images/projects/Street Performances and the Quality of Urban Public Space/Musician in the park.png"
   url: "project4"
   fundings: "Bourse CRSH-SDP"
@@ -177,11 +180,11 @@
   participation: "Nous avons intégré les résultats de ces activités dans la conception d'un prototype d'outil de réalité virtuelle. Le développement est en cours et des essais sont prévus dans les mois à venir."
   contact_info: "Pour plus de détails, veuillez contacter : Daniel Steele, Catherine Guastavino"
   links:
-    - url: 'electronslibres.telequebec.tv/episodes/35418'
+    - url: ''
       name: 'electronslibres.telequebec.tv/episodes/35418'
-    - url: 'montreal.ca/en/places/terrasses-roy'
+    - url: ''
       name: 'montreal.ca/en/places/terrasses-roy'
-    - url: 'montreal.ca/en/places/terrasses-roy-6507'
+    - url: ''
       name: 'montreal.ca/en/places/terrasses-roy-6507'
   publications:
     - url: ''
@@ -194,8 +197,8 @@
   description: "Projets locaux et mondiaux visant à améliorer la façon dont nous évaluons les ambiances sonores dans différentes langues"
   location: ""
   date: "2015 – En cours"
-  start-date: "2015"
-  end-date: "En cours"
+  start-date: '2015'
+  end-date: 'En cours'
   image: "/assets/images/projects/translation/TranslationCCommons.jpeg"
   url: "project5"
   fundings: "SSHRC-PDG grant"
@@ -240,8 +243,8 @@
   description: "Améliorer l’environnement sonore des restaurants"
   location: ""
   date: "Été 2015 ; Automne 2020 – Hiver 2021"
-  start-date: "2015"
-  end-date: "2021"
+  start-date: '2015'
+  end-date: '2021'
   image: "/assets/images/projects/restaurant/restaurant-ithq-sherbrooke-montreal-14.jpg"
   url: "project6"
   fundings: "ITHQ, Saint-Gobain Research"
@@ -282,10 +285,8 @@
   description: "Développer des technologies avec, et pour, les professionnel·les en urbanisme"
   location: ""
   date: "Printemps 2019 – Été 2019"
-    start-date: "2019"
-  end-date: "2019"
-  start-date: ""
-  end-date: ""
+  start-date: '2019'
+  end-date: '2019'
   image: "/assets/images/projects/Codesign sketch pad/DSC_1272.jpeg"
   url: "project7"
   fundings: "CRSH, bourse doctorale FRQSC"
@@ -332,8 +333,8 @@
   description: "Un aperçu du silence que nous pensions souhaiter"
   location: ""
   date: "2020 - 2023"
-  start-date: "2020"
-  end-date: "2023"
+  start-date: '2020'
+  end-date: '2023'
   image: "/assets/images/projects/COVID19/QDSlockdown.jpg"
   url: "project8"
   fundings: "Programme MITACS Accélération avec le Quartier des spectacles"
@@ -380,8 +381,8 @@
   description: "Une investigation des facteurs qui façonnent les expériences sonores en milieu urbain"
   location: ""
   date: "2015 – 2021"
-  start-date: "2015"
-  end-date: "2021"
+  start-date: '2015'
+  end-date: '2021'
   image: "/assets/images/projects/context matters/962-Mont-Royal-intervention.jpg"
   url: "project9"
   fundings: "CRSH"
@@ -426,8 +427,8 @@
   description: "Faire progresser l'analyse et l’élaboration de politiques grâce à des outils de planification solides"
   location: "Montréal, Canada; Venise, Italie"
   date: "2021 - En cours"
-  start-date: "2021"
-  end-date: "En cours"
+  start-date: '2021'
+  end-date: 'En cours'
   image: "/assets/images/projects/soninurb/Soninurb.jpg"
   url: "project10"
   fundings: "Horizon Europe 2020 Programme européen pour la recherche et l’innovation - Bourse Marie Sklodowska-Curie"
@@ -474,8 +475,8 @@
   description: "Recherche sur la cohabitation sonore dans les rues piétonnes durant la COVID-19"
   location: "Montréal, Canada"
   date: "Printemps 2021 – Printemps 2022"
-  start-date: "2021"
-  end-date: "2022"
+  start-date: '2021'
+  end-date: '2022'
   image: "/assets/images/projects/recreation v residence/IMG_1848_QdS_CreditsFXFeron.JPG"
   url: "project11"
   fundings: "MITACS Programme Accélération avec la Ville de Montréal"
@@ -522,8 +523,8 @@
   description: "Etudier la cohabitation sonore autour du port de Montréal"
   location: "Montréal, Canada"
   date: "Printemps 2022 – Printemps 2023; Printemps 2024 – Printemps 2025"
-  start-date: "2022"
-  end-date: "2025"
+  start-date: '2022'
+  end-date: '2025'
   image: "/assets/images/projects/industry v residence/Port-port.jpeg"
   url: "project12"
   fundings: "2 Programmes d'accélération de MITACS avec la Ville de Montréal"
@@ -574,8 +575,8 @@
   description: "Prendre en compte le sonore dans la politique de la vie nocturne à Montréal"
   location: ""
   date: "Printemps 2021 – Printemps 2023"
-  start-date: "2021"
-  end-date: "2023"
+  start-date: '2021'
+  end-date: '2023'
   image: "/assets/images/projects/nightlife/MITACS_ListenUp_Oct6_2022Workshop.jpg"
   url: "project13"
   fundings: "MITACS Programme Accélération avec la Ville de Montréal"
@@ -636,8 +637,8 @@ Ville sonore a entamé une collaboration avec la Ville de Montréal et la Direct
   description: "Comprendre les paysages sonores des festivals montréalais"
   location: "Montréal, QC"
   date: "Hiver 2020 – Hiver 2021"
-  start-date: "2020"
-  end-date: "2021"
+  start-date: '2020'
+  end-date: '2021'
   image: "/assets/images/projects/nightlife/QDS.jpg"
   url: "project14"
   fundings: "MITACS programme Accélération avec le Partenariat du Quartier des spectacles, CRSH – subvention de développement de partenariats"
@@ -688,8 +689,8 @@ Ville sonore s'est associée au Partenariat du Quartier des spectacles (l'organi
   description: "Informer la conception de l'art sonore dans un espace public parisien grâce à des simulations de paysage sonore"
   location: "Paris, France"
   date: "2021 – En cours"
-  start-date: "2021"
-  end-date: "En cours"
+  start-date: '2021'
+  end-date: 'En cours'
   image: "/assets/images/projects/niches/niches_acoustiques.jpg"
   url: "project15"
   fundings: "SSHRC PDF, McGill’s Graduate Mobility Award"
@@ -738,8 +739,8 @@ Ville sonore s'est associée au Partenariat du Quartier des spectacles (l'organi
     - "Une collaboration arts-science va permettre d’informer la composition de l'installation sonore, en partant d’enregistrements sur le terrain, de simulations du paysage sonore pour finir avec des enquêtes sur le terrain auprès des résidents."
   location: "Montreal, QC"
   date: "2023-en cours"
-  start-date: "2023"
-  end-date: "en cours"
+  start-date: '2023'
+  end-date: 'En cours'
   image: "/assets/images/projects/les_madelinennes/les_madelinennes.jpg"
   url: "project16"
   fundings: "SSHRC"
@@ -787,8 +788,8 @@ Ville sonore s'est associée au Partenariat du Quartier des spectacles (l'organi
   description: "Une exploration des qualités sensorielles des bâtiments d'église en dehors du contexte du culte"
   location: "Montréal, QC"
   date: "Automne 2021 – Automne 2022"
-  start-date: "2021"
-  end-date: "2022"
+  start-date: '2021'
+  end-date: '2022'
   image: "/assets/images/projects/Church Restoration/ChurchRestor_RussianOrth_IMG_1865.JPG"
   url: "project17"
   fundings: "Fonds de recherche du Québec – Société et culture (FRQSC), Postdoctoral Fellowship"
@@ -839,8 +840,8 @@ Ville sonore s'est associée au Partenariat du Quartier des spectacles (l'organi
   description: "Intégrer la musique dans l'espace public grâce à un système sonore interactif"
   location: "Parc du Portugal, Montreal, QC"
   date: "2014 - Été 2015"
-  start-date: "2014"
-  end-date: "2015"
+  start-date: '2014'
+  end-date: '2015'
   image: "/assets/images/projects/Musikiosk/MusikioskAd.png"
   url: "project18"
   fundings: "McGill Dean of Arts Development Fund"
@@ -894,8 +895,8 @@ Ville sonore s'est associée au Partenariat du Quartier des spectacles (l'organi
   description: "Adopter une approche de création de recherche participative pour améliorer le paysage sonore d'un espace public urbain"
   location: "Plateau-Mont-Royal, Montreal, QC"
   date: "Été 2018 – En cours"
-  start-date: "2018"
-  end-date: "En cours"
+  start-date: '2018'
+  end-date: 'En cours'
   image: "/assets/images/projects/Fleurs de Macadam sound art/Place_Fleurs_des_Macadam_8.jpg"
   url: "project19"
   fundings: "SSHRC"
@@ -940,8 +941,8 @@ Ville sonore s'est associée au Partenariat du Quartier des spectacles (l'organi
   description: "Utiliser les promenades sonores immersives pour encourager la sensibilisation au son et l'empathie parmi les professionels et le grand public"
   location: "Boston, Montréal, Amsterdam"
   date: "2013 – En cours"
-  start-date: "2013"
-  end-date: "En cours"
+  start-date: '2013'
+  end-date: 'En cours'
   image: "/assets/images/projects/Soundwalks/DSC_0142.jpg"
   url: "project20"
   fundings: ""
@@ -991,8 +992,8 @@ Ville sonore s'est associée au Partenariat du Quartier des spectacles (l'organi
   description: "Les stratégies visant à mobiliser les connaissances liées au sonore dans la pratique et le discours public"
   location: ""
   date: "2013 - en cours"
-  start-date: "2013"
-  end-date: "en cours"
+  start-date: '2013'
+  end-date: 'En cours'
   image: "/assets/images/projects/Engaging professionals/DSC_0204 (1).jpg"
   url: "project21"
   fundings: ""
@@ -1044,8 +1045,8 @@ Ville sonore s'est associée au Partenariat du Quartier des spectacles (l'organi
   description: "L'exposition au bruit à long terme diffère selon les groupes socio-économiques"
   location: ""
   date: "2020 - En cours"
-  start-date: "2020"
-  end-date: "En cours"
+  start-date: '2020'
+  end-date: 'En cours'
   image: "/assets/images/projects/sonic injustice/Railyards.jpg"
   url: "project22"
   fundings: "Bourse doctorale du FRQSC"
@@ -1086,9 +1087,9 @@ Ville sonore s'est associée au Partenariat du Quartier des spectacles (l'organi
     accessibles qui tiennent compte de l'expérience auditive plus large des
     usager·ères de la ville
   location: ""
-  date: "2018 - en cours"
-  start-date: "2018"
-  end-date: "En cours"
+  date: 2018 - en cours
+  start-date: '2018'
+  end-date: 'En cours'
   image: /assets/images/projects/City Ditty/CityDitty-Cafe.png
   url: project23
   fundings: "Ce projet a été soutenu d'une manière ou d'une autre par les trois
@@ -1201,8 +1202,8 @@ Ville sonore s'est associée au Partenariat du Quartier des spectacles (l'organi
   description: "Contextualiser les enjeux sonores urbains pour le grand public à travers des bandes dessinées"
   location: "Montréal"
   date: "Automne 2023 - Printemps 2024"
-  start-date: "2023"
-  end-date: "2024"
+  start-date: '2023'
+  end-date: '2024'
   image: "/assets/images/projects/illustrating soundscape/IMG_1367.jpeg"
   url: "project24"
   fundings: "Dialogue FRQ"
@@ -1249,9 +1250,9 @@ Ville sonore s'est associée au Partenariat du Quartier des spectacles (l'organi
 
 - title: "De chez vous à votre espace vert local ; Qu'entendez-vous en chemin ?"
   description: "Paysage sonore de l'accès piéton aux espaces verts, Une approche de cartographie participative"
-    date: "2023 - Ongoing"
-  start-date: "2023"
-  end-date: "en cours"
+  date: "2023 - en cours"
+  start-date: '2023'
+  end-date: 'En cours'
   tags: 
     - name: "paysage sonore"
       id: "paysage_sonore"
@@ -1287,5 +1288,3 @@ Ville sonore s'est associée au Partenariat du Quartier des spectacles (l'organi
   contact_info: "Negar Imani, Catherine Guastavino"
   url: "projet25"
   prev_url: "projet24"
-
-
