@@ -282,7 +282,7 @@
   description: "Developing technologies with and for professionals of the built environment"
   location: ""
   date: 'Spring 2019 – Summer 2019'
-  image: '/assets/images/projects/Codesign sketch pad/DSC_1272.jpeg'
+  image: '/assets/images/projects/Codesign_sketch_pad/DSC_1272.jpeg'
   url: project7
   fundings: 'SSHRC, FRQSC doctoral fellowship'
   collaborators: 'CIRMMT, Ville de Montréal'
@@ -1202,6 +1202,9 @@ Yanaky, R., Tyler, D., & Guastavino, C. (2023). City Ditty: An Immersive Soundsc
 
 - title: "From your home to your local green space; What you hear in-between?"
   description: "Soundscape of Green Spaces Walking Access, A Participatory Mapping Approach"
+  date: "2023 - Ongoing"
+  start-date: "2023"
+  end-date: "Ongoing"
   tags: 
     - name: "soundscape"
       id: "soundscape"
@@ -1220,7 +1223,6 @@ Yanaky, R., Tyler, D., & Guastavino, C. (2023). City Ditty: An Immersive Soundsc
   brief: "What are the relationships between having walkable paths to green spaces and residents’ everyday soundscapes?<br><br>Does walkability around green spaces impact residents’ everyday soundscape?<br><br>Is having a more positive sonic environment in the neighborhood promoting the walkability of green spaces?"
   about: "Would you walk on a visually pleasant sidewalk if you were annoyed with the noise of cars passing by? Sounds are an important element of our everyday life; however, they have rarely been studied in the context of walking environments. While the aim of walking in green spaces is to provide a restorative experience for people, the quality of the walking path and its soundscape has not been studied around the parks. This project aims to (1) understand if more walkable areas around green spaces result in a better experience while residents walk to them. To do so, we use maps of the sidewalk width, trees, points of interest, etc. -which are the walkability indicators- on a large scale and will measure walkability in GIS software."
   participation: " We will see if the higher walkability of the neighborhood promotes people’s overall sound experience of their walk to the green space of people living in different neighborhoods in Montreal. Moreover, in the second phase (2) we will focus on people’s everyday experiences on a small scale in their neighborhood. Using participatory mapping, the relationship between the paths residents choose and the sound environment will be studied. This study paves the way to understanding the relationships between walkability and urban soundscapes."
-  dates: "2023 - Ongoing"
   before:
     image: '/assets/images/projects/local green space/Picture1.jpg'
     credits: ''
@@ -1235,3 +1237,33 @@ Yanaky, R., Tyler, D., & Guastavino, C. (2023). City Ditty: An Immersive Soundsc
   contact_info: "For details, please contact: Negar Imani, Catherine Guastavino"
   url: "project25"
   prev_url: "project24"
+  next_url: "project26"
+
+- title: "Street Performances and the Quality of Urban Public Space"
+  description: "a project to use City Ditty to explore the effects of street performances on Quality of Urban Public Space"
+  url: "project26"
+  date: "Fall 2023-ongoing"
+  start-date: "2023"
+  end-date: "Ongoing"
+  collaborators: "Richard Yanaky, Catherine Guastavino"
+  contact_info: "For more details contact : Chang Miao, Catherine Guastavino"
+  tags: 
+    - name: "sound-related evaluation"
+      id: "sound-related_evaluation"
+    - name: "psychological outcomes"
+      id: "psychological_outcomes"
+    - name: "behavior maps"
+      id: "behavior_maps"
+    
+  brief: "What are the relationships between the presence of street performance and the quality of urban public spaces?<br><br>Does the street performance impact people’s perceptions of urban space?<br><br>How do street performance impact space utilization and user behaviors?"
+  about: "Steet performances, or busking, encompass various entertainment acts that take place in urban public spaces. These performances add significant cultural and artistic value to public spaces, offering free entertainment that captures the attention of passerby. This study investigates how street performances influence the perception and behavior of people in urban public space using virtual reality technology.
+<br><br>The research focuses on understanding if and how street performances alter sound-related evaluations in virtual urban environment, comparing different settings such as street and park. The psychological outcomes of street music performances, including their potential to provide restorative experiences or change their mood. Additionally, the study investigates how the performance affects the way people use these spaces, specifically their choices of where to stay and their interest areas."
+  participation: "Using a 3D virtual environment called “City Ditty”, the study simulates different soundscapes and scenarios to provide controlled experimental conditions. Participants experience various settings with live performance music, music played through speakers, and baseline environments without music. The data will offer insight into how sound environments influence urban public experiences."
+  before:
+    image: '/assets/images/projects /Street Performances and the Quality of Urban Public Space /ChangCityDittyScreenshot2.png'
+    credits: 'N/A'
+    alt: ""
+  after:
+    image: '/assets/images/projects/Street Performances and the Quality of Urban Public Space/Musician in the park.png'
+    credits: 'N/A'
+    alt: ""
