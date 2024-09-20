@@ -51,7 +51,7 @@
   end-date: "2023"
   image: "/assets/images/projects/ValeursGuide/SoundLevelMeterRoy_ChristineKerrigan.jpg"
   url: "project2"
-  fundings: "Quebec ministries of Health and Environment - Ministère de la Santé et des services sociaux (MSSS) and the Ministère du Développement durable, de l’Environnement et de la Lutte contre les changements climatiques (MDDELCC).  "
+  fundings: "Quebec ministries of Health and Environment - Ministère de la Santé et des services sociaux (MSSS) and the Ministère du Développement durable, de l’Environnement et de la Lutte contre les changements climatiques (MDDELCC)."
   collaborators: "Thomas Dupont (ETS), Johanne Brochu and F. Hubert (ULaval)"
   name: "Noise policy guidelines: Valeurs Guides"
   tags:
@@ -188,7 +188,7 @@
   location: ""
   date: "2015 – ongoing"
   start-date: "2015"
-  end-date: "2023"
+  end-date: "ongoing"
   image: "/assets/images/projects/translation/TranslationCCommons.jpeg"
   url: "project5"
   fundings: "SSHRC-PDG grant"
@@ -282,6 +282,8 @@
   description: "Developing technologies with and for professionals of the built environment"
   location: ""
   date: 'Spring 2019 – Summer 2019'
+  start-date: "2019"
+  end-date: "2019"
   image: '/assets/images/projects/Codesign_sketch_pad/DSC_1272.jpeg'
   url: project7
   fundings: 'SSHRC, FRQSC doctoral fellowship'
@@ -445,7 +447,7 @@
   location: ""
   date: "2021 - 2022"
   start-date: "2021"
-  end-date: "2021"
+  end-date: "2022"
   image: "/assets/images/projects/soninurb/Soninurb.jpg"
   url: "project10"
   fundings: "The European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant"
@@ -544,7 +546,7 @@
   description: "Investigating sonic cohabitation around the port of Montreal"
   location: ""
   date: "Spring 2022 – Spring 2023; Spring 2024 – Spring 2025"
-  start-date: "2021"
+  start-date: "2022"
   end-date: "2025"
   image: "/assets/images/projects/industry_v_residence/Port-port.jpeg"
   url: "project12"
@@ -610,12 +612,12 @@
       id: 'nightlife'
     - name: 'stakeholder'
       id: 'stakeholder'
-    - name: 'noise_pollution'
-      id: 'noise pollution'
-    - name: 'night_noise'
-      id: 'night noise'
-    - name: 'public_policy'
-      id: 'public policy,'
+    - name: 'noise pollution'
+      id: 'noise_pollution'
+    - name: 'night noise'
+      id: 'night_noise'
+    - name: 'public policy'
+      id: 'public_policy,'
     - name: 'sonic cohabitation'
       id: 'sonic_cohabitation'
     - name: 'Quartier des Spectacles'
