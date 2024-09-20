@@ -751,6 +751,8 @@
   description: "Sound and cultural heritage in public space: evaluation of a sound installation with the local community"
   location: "Montreal, QC"
   date: "2023-ongoing"
+  start-date: "2023"
+  end-date: "Ongoing"
   image: "/assets/images/projects/les_madelinennes/les_madelinennes.jpg"
   url: "project16"
   fundings: "SSHRC"
@@ -785,8 +787,8 @@
     - url: 'https://journalmetro.com/culture/rencontres/2915990/sons-iles-madeleine-berceront-verdun/'
       name: 'Journal Métro - Les sons des Îles-de-la-Madeleine berceront Verdun'
   publications:
-    - url: 'https://example.com/publication3'
-      name: 'Fraisse, V., Schütz, N., Wanderley, M., Guastavino, C., & Misdariis, N. (2022). Informing sound art design in public space through soundscape simulation. Proceedings of INTERNOISE, Glasgow, UK.'
+    - url: ''
+      name: ''
   prev_url: "project15"
   next_url: 'project17'
 
