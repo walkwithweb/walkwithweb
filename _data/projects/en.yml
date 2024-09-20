@@ -328,8 +328,8 @@
   description: "Getting a taste of the quiet we thought we wanted"
   location: ""
   date: "2020 - 2023"
-  start-date: ""
-  end-date: ""
+  start-date: "2020"
+  end-date: "2023"
   image: "/assets/images/projects/COVID19/MesuresQdS2.jpeg"
   url: "project8"
   fundings: "MITACS Accelerate program with Quartier des spectacles"
@@ -705,6 +705,8 @@
   description: "Informing sound art design in a Parisian public space through soundscape simulations"
   location: "Paris, France"
   date: "2021-ongoing"
+  start-date: "2021"
+  end-date: "Ongoing"
   image: "/assets/images/projects/niches/niches_acoustiques.jpg"
   url: "project15"
   fundings: "SSHRC PDF, McGill’s Graduate Mobility Award"
@@ -734,12 +736,12 @@
   participation: "Conducting listening tests involving High-Order Ambisonic soundscape simulations of prototypes relying on different composition strategies to inform the sound artist’s composition."
   contact_info: "For details, please contact: Valérian Fraisse, Catherine Guastavino"
   links:
-    - url: 'https://acoustique-simulations.example.com'
+    - url: ''
       name: 'Acoustic Simulations at IRCAM'
   publications:
-    - url: 'https://example.com/publication1'
+    - url: ''
       name: 'Fraisse, V., Nicolas, E., Schütz, N., Ribeiro, C., & Misdariis, N. (2022). Évaluer l’impact d’installations sonores sur la perception du paysage sonore urbain: Cas d’étude d’une place publique parisienne. 16e Congrès Français d’Acoustique, Marseille, Paris.'
-    - url: 'https://example.com/publication2'
+    - url: ''
       name: 'Fraisse, V., Schütz, N., Wanderley, M., Guastavino, C., & Misdariis, N. (2022). Informing sound art design in public space through soundscape simulation. Proceedings of INTERNOISE, Glasgow, UK.'
   prev_url: "project14"
   next_url: 'project16'
