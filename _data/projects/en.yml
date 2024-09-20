@@ -677,11 +677,11 @@
       id: 'aging'
   before:
     image: '/assets/images/projects/Quartier des Spectacles/Place_des_arts_08.jpg'
-    credits: ''
+    credits: 'N/A'
     alt: "Quartier des Spectacles before the study"
   after:
     image: '/assets/images/projects/nightlife/QDS.jpg'
-    credits: ''
+    credits: 'N/A'
     alt: "Quartier des Spectacles after the study"
   brief: "Montreal’s entertainment district (the Quartier des Spectacles) is facing unique challenges balancing vitality and livability due to the multitude of events and festivals it hosts throughout the year<br><br>Sounds of festivals are not a primary source of annoyance, but rather the sounds of nightlife (pre-COVID-19)<br><br>	Older residents enjoy and take parts in the festivals and events, questioning ideas of retirement and aging in the city "
   about: "The Quartier des Spectacles (QDS – link) is a dense multi-cultural hub for music, art, design and food, with a diverse population and a flair for public events (including large-scale festivals), while also housing a residential population of mixed socio-economic backgrounds, ever-growing due to new high-rise development projects. It has a need to balance its reputation for vitality with its interest in maintaining a livable environment for its current and potential residents."
@@ -797,6 +797,8 @@
   description: "An exploration of the sensory qualities of church buildings outside the context of worship"
   location: "Montréal, QC"
   date: "Fall 2020-Fall 2022"
+  start-date: "2020"
+  end-date: "2022"
   image: "/assets/images/projects/Church Restoration/ChurchRestor_RussianOrth_IMG_1865.JPG"
   url: "project17"
   fundings: "Fonds de recherche du Québec – Société et culture (FRQSC), Postdoctoral Fellowship"
@@ -847,6 +849,8 @@
   description: "Bringing music to the public space through an interactive sound system"
   location: "Parc du Portugal, Montreal, QC"
   date: "2014-Summer 2015"
+  start-date: "2014"
+  end-date: "2015"
   image: "/assets/images/projects/Musikiosk/MusikioskAd.png"
   url: "project18"
   fundings: "McGill Dean of Arts Development Fund"
@@ -860,32 +864,33 @@
     - name: sound installation
       id: 'sound_installation'
   before:
-    image: '/assets/images/projects/Musikiosk/musikiosk_before.jpg'
-    credits: ''
+    image: '/assets/images/projects/Musikiosk/Musikiosk_PduPortugal.jpg'
+    credits: 'N/A'
     alt: "Musikiosk before installation"
   after:
     image: '/assets/images/projects/Musikiosk/Musikiosk Picture6 blurred.jpg'
-    credits: ''
+    credits: 'N/A'
     alt: "Musikiosk after installation"
-  brief: "A semi-permanent speaker system (Musikiosk) was installed in the gazebo of a public park (Parc du Portugal) and users could connect and play whatever content they wanted. Musikiosk increased the perceived pleasantness of the soundscape of the park and improved moods for park visitors, whether or not they were directly engaging with Musikiosk. Musikiosk added a new layer of activity into the park without displacing existing users."
-  about: "In 2015, researchers from McGill University and ÉTS worked together with the Plateau Mont-Royal borough to install Musikiosk in the gazebo of Parc du Portugal, a small public park in Montreal. Musikiosk was a speaker system through which park users, with the help of an audio jack, could connect their personal devices to a small array of freely provided speakers installed in the gazebo and thus to share their own music with others.<br><br> Documenting their experiences through interviews and surveys, Musikiosk users expressed excitement in engaging with an urban park in novel ways by taking over their space acoustically and offering them an unconventional opportunity to interact with other park users. Through community outreach efforts and extensive planning, the Musikiosk team minimized the displacement of existing park users and managed the expectations and annoyance of neighbors.<br><br> This study kickstarted a long series of projects in collaboration with Montreal city officials and other stakeholders."
-  participation: "Interviews, surveys, community outreach."
+  brief: "•	A semi-permanent speaker system (Musikiosk) was installed in the gazebo of a public park (Parc du Portugal) and users could connect and play whatever content they wanted
+<br><br>Musikiosk increased the perceived pleasantness of the soundscape of the park and improved moods for park visitors, whether or not they were directly engaging with Musikiosk<br><br>Musikiosk added a new layer of activity into the park without displacing existing users"
+  about: "In 2015, researchers from McGill University and ÉTS worked together with the Plateau Mont-Royal borough to install Musikiosk in the gazebo of Parc du Portugal, a small public park in Montreal. Musikiosk was a speaker system through which park users, with the help of an audio jack, could connect their personal devices to a small array of freely provided speakers installed in the gazebo and thus to share their own music with others.<br><br>Documenting their experiences through interviews and surveys, Musikiosk users expressed excitement in engaging with an urban park in novel ways by taking over their space acoustically and offering them an unconventional opportunity to interact with other park users. Through community outreach efforts and extensive planning, the Musikiosk team minimized the displacement of existing park users and managed the expectations and annoyance of neighbors."
+  participation: "This study kickstarted as a long series of projects in collaboration with Montreal city officials and other stakeholders."
   contact_info: "For details, please contact: Daniel Steele, Catherine Guastavino"
   links:
     - url: 'https://journalmetro.com/culture/rencontres/2915990/sons-iles-madeleine-berceront-verdun/'
       name: 'Journal Métro - Les échos de nos églises'
   publications:
-    - url: 'https://doi.org/10.1016/j.apacoust.2020.107910'
+    - url: 'https://www.sciencedirect.com/science/article/pii/S0003682X21000037?'
       name: 'Steele, D., Fraisse, V., Bild, E., & Guastavino, C. (2021). Bringing music to the park: The effect of Musikiosk on the quality of public experience. Applied Acoustics, 177, 107910.'
-    - url: 'https://doi.org/10.3390/ijerph16101865'
+    - url: 'https://www.mdpi.com/469272'
       name: 'Steele, D., Bild, E., Tarlao, C., & Guastavino, C. (2019). Soundtracking the public space: outcomes of the Musikiosk soundscape intervention. International journal of environmental research and public health, 16(10), 1865.'
-    - url: 'https://doi.org/10.4018/978-1-5225-3805-6.ch005'
+    - url: 'https://www.igi-global.com/chapter/activity-as-a-mediator-between-users-and-their-auditory-environment-in-an-urban-pocket-park/198158'
       name: 'Bild, E., Steele, D., Pfeffer, K., Bertolini, L., & Guastavino, C. (2018). Activity as a mediator between users and their auditory environment in an urban pocket park: a case study of Parc du Portugal (Montreal, Canada). In Handbook of Research on Perception-Driven Approaches to Urban Assessment and Design (pp. 100-125). IGI Global.'
-    - url: 'https://doi.org/10.3397/IN-2016-3694'
+    - url: 'https://www.ingentaconnect.com/content/ince/incecp/2016/00000253/00000005/art00093'
       name: 'Bild, E., Tarlao, C., Guastavino, C., & Coler, M. (2016, August). Sharing music in public spaces: social insights from the Musikiosk project (Montreal, CA). In Inter-Noise and Noise-Con Congress and Conference Proceedings (Vol. 253, No. 5, pp. 3657-3666). Institute of Noise Control Engineering.'
-    - url: 'https://doi.org/10.3397/IN-2016-3690'
+    - url: 'https://asa.scitation.org/doi/pdf/10.1121/1.4987775'
       name: 'Steele, D., Bild, E., & Guastavino, C. (2016, August). Evaluation of an urban soundscape intervention with music: quantitative results from questionnaires. In Inter-Noise and Noise-Con Congress and Conference Proceedings (Vol. 253, No. 4, pp. 4627-4637). Institute of Noise Control Engineering.'
-    - url: 'https://doi.org/10.3397/IN-2016-3698'
+    - url: 'https://www.ingentaconnect.com/contentone/ince/incecp/2016/00000253/00000004/art00093'
       name: 'Tarlao, C., Fernandez, P., & Guastavino, C. (2016, August). Comparing soundscape evaluations in French and English across three studies in Montreal. In INTER-NOISE and NOISE-CON Congress and Conference Proceedings (Vol. 253, No. 4, pp. 4701-4707). Institute of Noise Control Engineering.'
   prev_url: "project17"
   next_url: 'project19'
