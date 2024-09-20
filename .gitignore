@@ -1,2 +1,4 @@
 Gemfile.lock
 _site
+.DS_Store
+_layouts/project_details_copy.html

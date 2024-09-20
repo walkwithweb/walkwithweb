@@ -19,13 +19,13 @@
     - name: public space
       id: 'public_space'
   before:
-    image: '/assets/images/projects/Roy/Roy1.jpg'
-    credits: 'Maryse Lavoie'
-    alt: "Terasses Roy - before"
+    - image: '/assets/images/projects/Roy/Roy1.jpg'
+      credits: 'Maryse Lavoie'
+      alt: "Terasses Roy - before"
   after:
-    image: '/assets/images/projects/Roy/Roy2.jpg'
-    credits: 'Christine Kerrigan'
-    alt: "Terasses Roy - after"
+    - image: '/assets/images/projects/Roy/Roy2.jpg'
+      credits: 'Christine Kerrigan'
+      alt: "Terasses Roy - after"
   brief: "The project removed traffic noise and created a new pedestrian walkway / seating area in a space where previously there was only a road.<br><br> It also created a new neighborhood space of meeting, often used by residents and visitors alike, who appreciate the greenery, increased sense of safety due to lack of cars, and the ‘quieter’ soundscape where cars are only audible in the distance."
   about: "We collaborated with Ville de Montreal around the pedestrianization of rue Roy, in the heart of the Plateau-Mont-Royal borough. To create the Terrasses Roy, a section of the street was closed off to traffic and a temporary design was installed by design firm Castor et Pollux in the summer 2017. Four sections were created to invite visitors to relax and interact, including colourful street furniture, communal gardens, and a play area. This pilot project was very well received by the community and extended into the fall and winter of 2017. The space is currently being converted into a permanent outdoor meeting space around urban agriculture."
 
@@ -72,27 +72,27 @@
     - name: urban planning 
       id: 'urban_planning'
   before:
-    image: '/assets/images/projects/ValeursGuide/VG1.png'
-    credits: 'Christopher Trudeau'
-    alt: "Distribution of reviewed noise policies."
+    - image: '/assets/images/projects/ValeursGuide/VG1.png'
+      credits: 'Christopher Trudeau'
+      alt: "Distribution of reviewed noise policies."
   after:
-    image: '/assets/images/projects/ValeursGuide/VG_Bruit chantiers_JL.jpg'
-    credits: 'Josée Laplace'
-    alt: ""
+    - image: '/assets/images/projects/ValeursGuide/VG_Bruit chantiers_JL.jpg'
+      credits: 'Josée Laplace'
+      alt: ""
   brief: "Noise is a major pollutant of our time but its regulation in policies is often reactive, rarely harmonized across provinces, states or countries, and remains siloed. <br><br> Our project offers recommendations toward an integrated, pro-active approach to environmental noise management"
   about: "Noise policies differ around the world and even within the same country, with various provinces or municipalities within the same province taking different approaches to noise management. In Quebec, noise policies focus on reactive strategies that focus on specific sound sources and their levels (and on reducing them) that distribute responsibilities at different levels of governance.<br><br>Since 2018, Sounds in the City has been working on a review on environmental noise management. The first part of the project, in collaboration with École de Technologie Supérieure, included a systematic review of noise policies around the world to identify best practices in terms of noise limit values, measurement protocols, and communications strategies, as well as a review of how low-level government (municipalities), address noise considerations in Quebec. The second part of the project, in collaboration with Université Laval, focused on how to best integrate sound considerations in urban design and practice, through Quebec and international case studies and interview with professionals of the built environments."
   participation: "The diversity of noise levels included in policies, the varied (or lacking) protocols for measuring those levels as well as the often-siloed approach focusing on specific sources (like car traffic, recreational activities, or industry) addressed at different governmental levels makes environmental noise management a global challenge and limits the transferability of certain documented good practices. We formulated recommendations for our governmental partners on strategies for integrating sound in earlier stages of, for example, planning and design and for managing noise that are not exclusively reliant on noise levels, but rather focus on communication and education."
   contact_info: "Josee Laplace (email), Edda Bild (email)"
   links:
     - url: 'https://ici.radiocanada.ca/tele/decouverte/site/episodes/520848/covid-ghgsat-methane-lune-pollution'
-      name: 'Société Radio-Canada (2021, April 28). A l’écoute de la ville – Emission Découverte [TV report with C. Guastavino].'
+      name: 'Société Radio-Canada (2021, April 28). A l’écoute de la ville – Emission Découverte [TV report with C. Guastavino]. Retrieved from https://ici.radiocanada.ca/tele/decouverte/site/episodes/520848/covid-ghgsat-methane-lune-pollution (in French)'
     - url: 'https://ici.radio-canada.ca/ohdio/premiere/emissions/lesannees-lumiere/segments/reportage/390982/bruit-sante-pollution-nuit-paysageenvironnement-maladie'
-      name: 'Société Radio-Canada (2022, Feb. 18). Les effets néfastes du bruit sur la santé : les détails avec C. Srivastava – Emission Les années lumière [radio interview with C. Guastavino].'
+      name: 'Société Radio-Canada (2022, Feb. 18). Les effets néfastes du bruit sur la santé : les détails avec C. Srivastava – Emission Les années lumière [radio interview with C. Guastavino]. Retrieved from https://ici.radio-canada.ca/ohdio/premiere/emissions/lesannees-lumiere/segments/reportage/390982/bruit-sante-pollution-nuit-paysageenvironnement-maladie (in French)'
   publications:
     - url: ''
-      name: 'Tarlao, C., Leclerc, F., Brochu, J., & Guastavino, C. (2024). Current approaches to planning (with) sound. Science of The Total Environment, 931, 172826.'
+      name: 'Tarlao, C., Leclerc, F., Brochu, J., & Guastavino, C. (2024). Current approaches to planning (with) sound. <i>Science of The Total Environment</i>, 931, 172826.'
     - url: 'https://www.utpjournals.press/doi/full/10.3138/cpp.2021-009'
-      name: 'Laplace, J., E. Bild, C. Trudeau, M. Perna,T. Dupont & C. Guastavino (2022). Encadrement du bruit environnemental au Canada. Canadian Public Policy / Analyses de politiques, 48(1), March, p. 74-90.'
+      name: 'Laplace, J., E. Bild, C. Trudeau, M. Perna,T. Dupont & C. Guastavino (2022). Encadrement du bruit environnemental au Canada. <i>Canadian Public Policy / Analyses de politiques</i>, 48(1), March, p. 74-90.'
     - url: ''
       name: 'Trudeau, C, Bild, E., Guastavino, C. (accepted). Noise regulations and practices: A survey of Quebec municipalities. Urban Research and Practice.'
     - url: 'https://doi.org/10.3390/ijerph19010173'
@@ -123,13 +123,13 @@
     - name: pocket park
       id: 'pocket_park'
   before:
-    image: '/assets/images/projects/Fleurs_De_Macadam_misters/mister_locations.jpeg'
-    credits: 'Castor et Pollux'
-    alt: ""
+    - image: '/assets/images/projects/Fleurs_De_Macadam_misters/mister_locations.jpeg'
+      credits: 'Castor et Pollux'
+      alt: ""
   after:
-    image: '/assets/images/projects/Fleurs_de_Macadam_misters/DSC_0319.jpeg'
-    credits: 'Cynthia Tarlao'
-    alt: ""
+    - image: '/assets/images/projects/Fleurs_de_Macadam_misters/DSC_0319.jpeg'
+      credits: 'Cynthia Tarlao'
+      alt: ""
   brief: "During the hot summer months, a water feature in a pocket park is attractive. But if it’s poorly designed, that water feature is just as likely to dissuade users from making use of the space."
   about: "We conducted a summer-long study on a new public space the city was piloting – the Fleurs de Macadam pocket park, where three prototype designs, each featuring a misting water feature somewhere in the space, were tested. We wanted to see the effects of water features with varying degrees of audibility on how the park users evaluated their soundscapes and the lessons that could be learnt moving forward.<br><br>Through on-site surveys, we found that, on its own, a misting water feature is not a guarantee for an improved soundscape. While two of the designs were evaluated as less chaotic and less loud when the misters were on, the third design was the opposite, likely due to the way the misters were integrated in their designs: the misters for design 3 were located right in the gravel pathways, which often left a muddy, unusable space. <b>Lesson #1: Like all other aspects of design, the design of the sound experience must be considered purposefully</b>."
   participation: "Survey respondents who said they heard water sounds consistently rated them as pleasant. The sound from the misters recalled memories and experiences in the minds of the users of the space, like the cooling feeling of water on a hot summer day. Those recollections influenced the soundscape evaluations in a positive way. <b>Lesson #2: consider the meanings the sound might evoke</b>.<br><br>The truly surprising finding was that even when it was unlikely that respondents could hear the misters, their evaluations on how chaotic or loud the soundscape decreased compared to when the misters were not on. <b>Lesson #3: misters don’t need to be audible to affect how the users of a public space evaluate the way it sounds.</b>"
@@ -137,7 +137,7 @@
   links:
   publications:
     - url: 'https://doi.org/10.3389/fpsyg.2020.570797'
-      name: 'Trudeau, C., Steele, D., Guastavino, C. (2020). A tale of three misters: the effect of water features on soundscape assessments in a Montreal public space. Frontiers in Psychology, section Environmental Psychology. Research Topic: Human Perception of Environmental Sounds, 11: 570797.'
+      name: 'Trudeau, C., Steele, D., Guastavino, C. (2020). A tale of three misters: the effect of water features on soundscape assessments in a Montreal public space. Frontiers in Psychology, section Environmental Psychology. Research Topic: Human Perception of Environmental Sounds, 11: 570797. doi.org/10.3389/fpsyg.2020.570797'
   prev_url: "project2"
   next_url: 'project4'
 
@@ -152,7 +152,7 @@
   url: "project4"
   fundings: "SSHRC-PDG grant"
   collaborators: "Société des arts technologiques, ARUP"
-  name: ""
+  name: "Co-designing soundscapes of public spaces"
   tags:
     - name: workshop
       id: 'workshop'
@@ -163,13 +163,13 @@
     - name: professionals of the built environment
       id: 'professionals_of_the_built_env'
   before:
-    image: ''
-    credits: 'Christine Kerrigan'
-    alt: "Participant using the Oculus Go."
+    - image: ''
+      credits: 'Christine Kerrigan'
+      alt: "Participant using the Oculus Go."
   after:
-    image: ''
-    credits: 'Catherine Guastavino. '
-    alt: "Multimedia room part of workshop (CIRMMT)."
+    - image: ''
+      credits: 'Catherine Guastavino'
+      alt: "Multimedia room part of workshop (CIRMMT)."
   brief: "Professionals of the built environment were invited to take part in a workshop with the Sounds in the City team.<br><br>Activities included a an ‘immersive playground’ of different technologies, a collaborative design activity in state-of-the-art facilities, and focus groups, which fed into the designs for new sound planning tools."
   about: "Soundscape planning is still an uncommon approach, as are tools that facilitate such proactive planning. In the summer of 2019, we held a futures workshop with urban professionals (including planners and designers) to help determine what technologies we could help add to their city planning toolbox."
   participation: "In the workshop, we introduced basic principles of the soundscape approach, as well as different technologies that could help with future soundscape planning, through three main activities:<br><br>1) an ‘immersive playground’: experimenting with technologies like VR sets with soundscapes (HTC Vive Pro, Oculus Go, and smartphone-based VR sets) and other laptop simulations<br><br>2) a participatory soundscape design session in the state-of-the-art multimedia room at the Centre for Interdisciplinary Research in Music Media and Technology (CIRMMT) <br><br>3) focus groups discussing current challenges of professionals and potential needs, if they were to begin to engage with soundscape designs on their own. <br><br>We integrated these results of the activities into the designs for a prototype virtual reality tool. Development is underway and scheduled for trials in the upcoming months."
@@ -204,13 +204,13 @@
     - name: soundscape scale
       id: 'soundscape_scale'
   before:
-    image: '/assets/images/projects/translation/translation.jpg'
-    credits: 'N/A'
-    alt: ""
+    - image: '/assets/images/projects/translation/translation.jpg'
+      credits: 'N/A'
+      alt: ""
   after:
-    image: '/assets/images/projects/translation/TranslationCCommons.jpeg'
-    credits: 'N/A'
-    alt: ""
+    - image: '/assets/images/projects/translation/TranslationCCommons.jpeg'
+      credits: 'N/A'
+      alt: ""
   brief: "Developing a universal standard for soundscape evaluation is challenging as correspondences across languages are not straightforward."
   about: 'Sounds in the City has been exploring questions of translation of soundscape scales, given the unique bilingual context offered by Montreal. We have been looking at the vocabulary used by French and English speakers to describe everyday sounds and soundscapes as well as similarities and differences between them; for example, the distinction between “sound” and “noise” differs between French and English. '
   participation: 'We also proposed and tested French translations of the <a href="https://asa.scitation.org/doi/full/10.1121/1.3493436" target="_blank">Swedish Soundscape Quality Protocol</a>, an 8-scale questionnaire to evaluate soundscape on pleasantness and eventfulness. In addition, we are participating in global efforts of standardization and translation of soundscape assessment tools, such as <a href="https://www.iso.org/committee/48474.html" target="_blank">ISO working groups</a> and the <a href="https://www.researchgate.net/project/Soundscape-Attributes-Translation-Project-SATP">Soundscape Attributes Translation Project (SATP)</a>, an international research project started in 2019.'
@@ -254,18 +254,21 @@
     - name: ITHQ
       id: ithq
   before:
-    image: '/assets/images/projects/restaurant/restaurant-ithq-sherbrooke-montreal-13.jpg'
-    credits: 'ITHQ'
-    alt: ""
+    - image: '/assets/images/projects/restaurant/restaurant-ithq-sherbrooke-montreal-13.jpg'
+      credits: 'ITHQ'
+      alt: ""
   after:
-    image: '/assets/images/projects/restaurant/restaurant-ithq-sherbrooke-montreal-14.jpg'
-    credits: 'ITHQ'
-    alt: ""
+    - image: '/assets/images/projects/restaurant/restaurant-ithq-sherbrooke-montreal-14.jpg'
+      credits: 'ITHQ'
+      alt: ""
   brief: "Consumers spent more time and money in the studied restaurant when the sound level was higher<br><br>However, lower sound levels foster higher satisfaction and acoustic comfort"
   about: 'Much attention has been given to the problem of how loud restaurants can <a href="https://www.nytimes.com/2020/01/21/dining/restaurant-noise-level-loud.html" target="_blank">be</a>. High restaurant sound levels have been identified as a culprit in contributing to fatigue, difficulty in social situations, and even affect the taste of the food.<br><br>Sounds in the City began working with the <a href="https://www.ithq.qc.ca/expertise-et-recherche/" target="_blank">ITHQ</a> in Montreal in 2015 with the goal of first documenting and then fine-tuning their restaurant’s soundscape to encourage a more pleasant dining experience. This ongoing collaboration has paved the way for a new project in 2019 with <a href="http://www.sgr-paris.saint-gobain.com/fr/node/9" target="_blank">Saint-Gobain Research</a> to investigate the effect of sound environments on diners’ experiences.'
   participation: 'Initial findings showed that, as the sound levels increased, diners spent more money and time in the restaurant, but they were not more satisfied with the experience and did not find the restaurant more convivial. However, this does not mean that diners enjoy a louder sound environment: acoustic treatment applied by Saint-Gobain in the same restaurant during the pandemic led to increased satisfaction, increased acoustic comfort, and a sound level considered more appropriate by diners, as well as more positive soundscape evaluations and lower vocal and listening effort.'
   contact_info: "For details, please contact: Cynthia Tarlao, Catherine Guastavino"
-  links:
+  links: 
+    - url: ''
+      name: ''
+  publications:
     - url: 'https://jcaa.caaaca.ca/index.php/jcaa/article/view/4115'
       name: 'Tarlao, C., Bild, E., & Guastavino, C. (2023). Effect of acoustic
         treatment and table dividers on diners’ experience in a Montreal
@@ -301,22 +304,24 @@
     - name: 'prototype'
       id: prototype 
   before:
-    image: "/assets/images/projects/Codesign_sketch_pad/SOUNDSCAPESIMULATOR.png"
-    credits: 'Grégoire Blanc'
-    alt: "Soundscape simulator interface"
+    - image: "/assets/images/projects/Codesign_sketch_pad/SOUNDSCAPESIMULATOR.png"
+      credits: 'Grégoire Blanc'
+      alt: "Soundscape simulator interface"
   after:
-    image: "/assets/images/projects/Codesign_sketch_pad/DSC_1272.jpeg"
-    credits: 'Valérian Fraisse'
-    alt: ""
+    - image: "/assets/images/projects/Codesign_sketch_pad/DSC_1272.jpeg"
+      credits: 'Valérian Fraisse'
+      alt: ""
   brief: "The visual is dominant in urban planning so we develop new tools to help planners understand also the sonic consequences of their planning choices<br><br>Simulating the sound environment in 3D immerses planners in the urban experience they are creating"
   about: 'Each urban development project raises aesthetic, functional, and socio-demographic questions depending on the local context. However, its sounds are considered in the later stages of design or simply remain an afterthought. To raise the awareness of urban professionals to the question of sound in their projects, and to facilitate the processes of consultation, creation, and communication, our team developed an interactive immersive "co-design sound sketchpad". <br><br>This soundscape simulator can help not only play on-site recordings back in a listening room, but also add, position, and move single sources in space. This software allows to simply and efficiently (re)produce the sound environments of various spaces that do not yet exist.'
   participation: "A first public prototype of this tool was unveiled at a CIRMMT-hosted day-long event offered by the “Sounds in the City” team in July 2019. The event was articulated around the integration of new technologies and approaches in the process of co-designing the soundscapes of public spaces. In a concert hall equipped with 48 loudspeakers, an audience of mostly urban professionals used the simulator to discuss about, design and listen to what the soundscape of a specific public space could sound like under different circumstances, while taking into account location constraints: What would be the impact of slowing down traffic on the main avenue? Would it be pertinent to install a fountain in the centre of the square? The simulator allowed participants to listen to a sonic rendering of their suggestions in real-time and appreciate the consequences of planning decisions on the sound environment."
   contact_info: "For details, please contact: Cynthia Tarlao, Catherine Guastavino"
   links:
+    - url: ''
+      name: ''
   publications: 
-    - url: 'https://www.mdpi.com/2076-3417/13/3/1611'
+    - url: 'https://doi.org/10.3390/app13031611'
       name: "Yanaky, R., Tyler, D., & Guastavino, C. (2023). City Ditty: An Immersive Soundscape Sketchpad for Professionals of the Built Environment. Applied Sciences, 13, 1611. doi.org/10.3390/app13031611 "
-    - url: 'https://www.sciencedirect.com/science/article/abs/pii/S0169204622002912?via%3Dihub'
+    - url: 'https://doi.org/10.1016/j.landurbplan.2022.104642'
       name: 'Tarlao, C., Steele, D, Blanc, G., & Guastavino, C. (2023). Interactive soundscape simulation as a co-design tool for urban professionals. Landscape and Urban Planning, 231, 104642. doi.org/10.1016/j.landurbplan.2022.104642'
     - url: 'https://www.youtube.com/watch?v=i4fLhBGuAi8'
       name: 'Check out a short binaural demonstration at: https://www.youtube.com/watch?v=i4fLhBGuAi8'
@@ -330,7 +335,7 @@
   date: "2020 - 2023"
   start-date: "2020"
   end-date: "2023"
-  image: "/assets/images/projects/COVID19/MesuresQdS2.jpeg"
+  image: "/assets/images/projects/COVID19/3_2.jpg"
   url: "project8"
   fundings: "MITACS Accelerate program with Quartier des spectacles"
   collaborators: "Quartier des spectacles"
@@ -343,13 +348,13 @@
     - name: 'Quartier des Spectacles'
       id: 'quartier_des_spectacles'
   before:
-    image: "/assets/images/projects/COVID19/QDSlockdown.jpg"
-    credits: 'Catherine Guastavino'
-    alt: "Recording the sounds of an empty Quartier des Spectacles"
+    - image: "/assets/images/projects/COVID19/QDSlockdown.jpg"
+      credits: 'Catherine Guastavino'
+      alt: "Recording the sounds of an empty Quartier des Spectacles"
   after:
-    image: "/assets/images/projects/COVID19/3_2.jpg"
-    credits: 'Catherine Guastavino'
-    alt: "Recording the sounds of an empty Quartier des Spectacles"
+    - image: "/assets/images/projects/COVID19/3_2.jpg"
+      credits: 'Catherine Guastavino'
+      alt: "Recording the sounds of an empty Quartier des Spectacles"
   brief: "Montreal had a short-lasting 6dB reduction in sound levels in the downtown, which returned mostly to normal with the restarting of construction and traffic<br><br>The periods of restrictions, lockdowns, and other measures following the onset of COVID-19 led to residents forming new associations and habits with home and public space use, driven partially by the drastic changes in their sound environments"
   about: "Sounds in the City engaged in a multi-method, multi-year study observing the COVID-19 auditory experience, including:
     <br><br>
@@ -373,18 +378,18 @@
     - url: 'http://www.radio-canada.ca/util/postier/suggerer-go.asp?nID=4511818'
       name: 'Société Radio-Canada (2020, May 7). Sons de la Ville en confinement : Entrevue avec Catherine Guastavino, professeure – Le 15-18 [radio interview with C. Guastavino]. Retrieved from http://www.radio-canada.ca/util/postier/suggerer-go.asp?nID=4511818 (in French) '
     - url: 'http://www.radio-canada.ca/util/postier/suggerer-go.asp?nID=4608635'
-      name: 'Société Radio-Canada (2021, Jan. 14). Absence de bruit pendant le couvre-feu– Emission Tout un matin [radio interview with C. Guastavino] (in French) '
+      name: 'Société Radio-Canada (2021, Jan. 14). Absence de bruit pendant le couvre-feu–</i>Emission Tout un matin</i> [radio interview with C. Guastavino] (in French) '
     - url: 'https://ici.radio-canada.ca/ohdio/premiere/emissions/moteur-de-recherche/episodes/591221/rattrapage-du-mercredi-15-decembre-2021/4'
-      name: 'Société Radio-Canada (2021, Dec. 15). Pourquoi l’être humain a-t-il si peur du silence – Emission Moteur de Recherche [radio interview with C. Guastavino] (in French) '
+      name: 'Société Radio-Canada (2021, Dec. 15). Pourquoi l’être humain a-t-il si peur du silence – <i>Emission Moteur de Recherche</i> [radio interview with C. Guastavino] (in French) '
     - url: 'https://newcities.org/the-big-picture-city-sound-like/'
       name: 'Guastavino, C. & Steele, D (2020). What should the city sound like? Why the pursuit of quiet isn’t working.  '
   publications:
     - url: 'https://www.mdpi.com/1660-4601/18/11/5877'
-      name: 'Steele, D., & Guastavino, C. (2021). Quieted city sounds during the Covid-19 pandemic in Montreal. International Journal of Environmental Research and Public Health, 18(11), 5877.  '
+      name: 'Steele, D., & Guastavino, C. (2021). Quieted city sounds during the Covid-19 pandemic in Montreal. <i>International Journal of Environmental Research and Public Health</i>, 18(11), 5877.  '
     - url: 'https://www.mdpi.com/2071-1050/14/8/4559'
-      name: 'Bild, E., Steele, D., & Guastavino, C. (2022) Festivals and Events as Everyday Life in Montreal’s Entertainment District. Sustainability 14.8: 4559.  '
+      name: 'Bild, E., Steele, D., & Guastavino, C. (2022) Festivals and Events as Everyday Life in Montreal’s Entertainment District. <i>Sustainability</i> 14.8: 4559.  '
     - url: 'https://www.degruyter.com/document/doi/10.1515/noise-2022-0169/html'
-      name: 'Trudeau, C., Tarlao, C., & Guastavino, C. (2023). Montreal soundscapes during the COVID-19 pandemic: A spatial analysis of noise complaints and residents’ surveys. Noise Mapping, 10(1), 20220169. https://doi.org/10.1515/noise-2022-0169 '
+      name: 'Trudeau, C., Tarlao, C., & Guastavino, C. (2023). Montreal soundscapes during the COVID-19 pandemic: A spatial analysis of noise complaints and residents’ surveys. <i>Noise Mapping</i>, 10(1), 20220169. https://doi.org/10.1515/noise-2022-0169 '
     - url: 'https://www.tandfonline.com/doi/full/10.1080/09640568.2022.2100247'
       name: 'Di Croce, N., Bild, E., Steele, D., & Guastavino, C. (2024). A sonic perspective for the post-pandemic future of entertainment districts: the case of Montreal’s Quartier des Spectacles. Journal of Environmental Planning and Management, 67(1), 131-154, doi.org/10.1080/09640568.2022.2100247 '
     - url: 'https://www.ingentaconnect.com/content/alex/benv/2022/00000048/00000002/art00008'
@@ -412,13 +417,13 @@
     - name: context
       id: 'context'
   before:
-    image: '/assets/images/projects/context_matters/P1060338_CreditCatherineGuastavino.JPG'
-    credits: 'Catherine Guastavino'
-    alt: ""
+    - image: '/assets/images/projects/context_matters/P1060338_CreditCatherineGuastavino.JPG'
+      credits: 'Catherine Guastavino'
+      alt: ""
   after:
-    image: '/assets/images/projects/context_matters/P8020249_CreditLouisGuastavino.JPG'
-    credits: 'Louis Guastavino'
-    alt: ""
+    - image: '/assets/images/projects/context_matters/P8020249_CreditLouisGuastavino.JPG'
+      credits: 'Louis Guastavino'
+      alt: ""
   brief: "Our experience of urban environments is shaped by many factors, from expectations to personality to the specifics of the situation<br><br>The model of contextual influences we have started to build is a first step towards helping urban planners and policy makers create more inclusive urban spaces"
   about: "We all know that context matters: where and who we are matter just as much as what we are doing in any given moment of life. In a series of studies, including modeling of on-site factors and various laboratory experiments, Sounds in the City has investigated the many ways in which context matters, particularly for soundscape evaluations.<br><br>In laboratory experiments, we showed that what we call ‘situational factors’ like location, day, and time of use shape our perceptions of the sound environment regardless of expectations we might have had before using a space. For example, a quieter location is evaluated as more pleasant and less eventful than a noisier location or afternoons are generally evaluated as less calm and more eventful than evenings, while weekends are more eventful than weekdays."
   participation: "Meanwhile, on-site studies hinted at other factors that are not directly related to sound levels, such as social interaction – that is, if a person is alone or with others – and ‘personal factors’ like extraversion, gender, age, and noise sensitivity. People in groups find their soundscape more pleasant and less eventful than solitary users, potentially because they are focusing their attention on the other(s) they are with. And women and younger people find their soundscape more pleasant and less eventful, which can be linked to the fact that they go out in groups more than men and older people, respectively. More extraverted people evaluate their soundscape as less eventful and people who are more sensitive to noise (like women and older people) tend to evaluate their soundscape as less pleasant.<br><br>While we are only beginning to scratch the surface of the complexity of factors that influence how we evaluate soundscapes, it is essential to keep in mind that context matters and that designing spaces must take into account this myriad of experiences."
@@ -467,13 +472,13 @@
     - name: Venice
       id: 'venice'
   before:
-    image: '/assets/images/projects/soninurb/Soninurb.jpg'
-    credits: 'Nicola Di Croce'
-    alt: "Sonic process."
+    - image: '/assets/images/projects/soninurb/Soninurb.jpg'
+      credits: 'Nicola Di Croce'
+      alt: "Sonic process."
   after:
-    image: ''
-    credits: ''
-    alt: ""
+    - image: ''
+      credits: ''
+      alt: ""
   brief: "How can we research and design a lively and inclusive sound environment?"
   about: "The EU-funded SONINURB project studies the sound environment that contributes to the  atmosphere unique to each location, understanding how atmosphere directly impacts the perceived quality of the urban environment:  it can either attract people or drive them away or make them feel comfortable or under threat. The project aims to show how researching the sound  environment can support novel approaches to urban policy analysis and policy design. It further explores how experimenting with new sound planning tools to investigate urban areas undergoing transformation can lead to collaborative approaches to urban sound design. Finally, the project shows how the use of participatory sound installations and sonic interventions can promote social inclusion and sustainable local development."
   participation: "The project addresses these aims by fieldwork in two different geographical locations: Montreal (Canada) – as part of Sounds in the City, and Venice (Italy) – as part of Iuav University of Venice."
@@ -516,13 +521,13 @@
     - name: DRSP
       id: 'drsp'
   before:
-    image: '/assets/images/projects/recreation_v_residence/ListenUp.jpg'
-    credits: 'The City of Montreal'
-    alt: "The ListenUpMTL / ÉcoutezMTL logo"
+    - image: '/assets/images/projects/recreation_v_residence/ListenUp.jpg'
+      credits: 'The City of Montreal'
+      alt: "The ListenUpMTL / ÉcoutezMTL logo"
   after:
-    image: '/assets/images/projects/recreation_v_residence/IMG_1848_QdS_CreditsFXFeron.JPG'
-    credits: 'François-Xavier Féron'
-    alt: ""
+    - image: '/assets/images/projects/recreation_v_residence/IMG_1848_QdS_CreditsFXFeron.JPG'
+      credits: 'François-Xavier Féron'
+      alt: ""
   brief: "The sound of recreational activities is a contentious topic for ideas on urban sonic cohabitations<br><br>The sound of recreational activities is “expected” when living downtown and nightlife is not the main issue of residents, but construction noise and other punctual noise issues"
   about: "The sound of recreational activities is often considered a necessary nuisance of urban economy to be mitigated and while urban life must respond to the needs and expectations of both residents and visitors, its sounds sit at the intersection of concerns on liveability of and vitality and challenges ideas on successful sonic cohabitation. "
   participation: "Sounds in the City collaborated with the City of Montreal and Montreal’s public health department (DRSP) to develop ÉcoutezMTL / ListenUpMTL - a mixed methods study aimed at better understanding the complexity of living in the vicinity of vibrant urban neighborhoods, focusing on two pedestrianized streets and the entertainment district (Quartier des Spectacles) in downtown Montreal. Using sound level measurements, surveys, resident diaries and interviews, we aimed to complement the existing limited, negative portrayal of recreational noise and nightlife in the media, public imagination, and in policy. Our research shows that the sounds from recreational activities (including festivals and events as well as everyday street life) are not always perceived negatively by residents, especially in the context of the COVID-19 pandemic and the challenges of sonic cohabitation lie elsewhere. "
@@ -533,10 +538,10 @@
     - url: 'https://montrealgazette.com/news/local-news/noise-observatory-still-necessary-still-in-the-works-councillors-say'
       name: "Gyulai, L., (2021, Oct. 3). Noise observatory still necessary, still in the works, councillors say. Montreal Gazette."
     - url: ''
-      name: "Canadian Broadcasting Corporation. (2021, Sept. 28). The sounds of downtown [Radio interview with postdoc Daniel Steele and collaborators]. Daybreak."
+      name: "Canadian Broadcasting Corporation. (2021, Sept. 28). The sounds of downtown [Radio interview with postdoc Daniel Steele and collaborators]. <i>Daybreak</i>."
   publications:
     - url: ''
-      name: 'Bild, E., Steele, D., & Guastavino, C. (2024). Supporting the living laboratory: a literature review of Montreal sound-related research. Journal of Planning Literature. '
+      name: 'Bild, E., Steele, D., & Guastavino, C. (2024). Supporting the living laboratory: a literature review of Montreal sound-related research. <i>Journal of Planning Literature.</i>'
   prev_url: "project10"
   next_url: 'project12'
 
@@ -569,23 +574,23 @@
     - name: DRSP
       id: 'drsp'
   before:
-    image: '/assets/images/projects/industry_v_residence/Port-port.jpeg'
-    credits: 'Google Maps'
-    alt: ""
+    - image: '/assets/images/projects/industry_v_residence/Port-port.jpeg'
+      credits: 'Google Maps'
+      alt: ""
   after:
-    image: '/assets/images/projects/industry_v_residence/Port-indstry.jpeg'
-    credits: 'Google Maps'
-    alt: ""
+    - image: '/assets/images/projects/industry_v_residence/Port-indstry.jpeg'
+      credits: 'Google Maps'
+      alt: ""
   brief: "Ports contribute to the vitality and attractiveness of cities but can also generate conflicts around noise<br><br>We investigate soundscape in residential areas in the proximity of the port provide to inform policy making that integrates a sonic dimension"
   about: "Ports are key economic players for their cities, but generate nuisances for their residents, including in the sonic dimension. In Montreal, the Assomption Sud–Longue-Pointe area is especially impacted with issues of sonic cohabitation between port and industries activities and residential uses.<br><br>In the present project, Sounds in the CIty, together with the Observatoire des Milieux de Vie urbains (OMV) from UQAM, documented the situation to better understand the dynamics at play, not only on an acoustic level but also in terms of quality of life of residents Assomption Sud–Longue-Pointe is a complex area that requires a multi-pronged efforts to address current issues of cohabitation and politically tense situations."
   participation: "Residents and workers in the area had a lengthy, readily available list of suggestions on how to make the area more livable. These cover not only technical solutions, but also urban planning and design, communication and community building or governance. These solutions sometimes offer innovative, place-based solutions that demonstrate the crucial nature of the input of locals when both documenting and seeking to transform an area.<br><br>The Sounds in the City team is now collaborating with both the Mercier-Hochelaga-Maisonneuve borough and the Montreal Port authority to implement solutions to sonic cohabitation issues between the industrial and residential uses in the area."
   contact_info: "For details, please contact: Edda Bild, Catherine Guastavino"
   links:
     - url: ''
-      name: 'Le bruit environnemental dans nos actions de planification" (October 6th 2022) workshop, aimed at Montreal urban professionals. Organized by City of Montreal and the Montreal Public Health Agency. (in French)'
+      name: '"Le bruit environnemental dans nos actions de planification" (October 6th 2022) workshop, aimed at Montreal urban professionals. Organized by City of Montreal and the Montreal Public Health Agency. (in French)'
   publications:
     - url: 'http://doi.org/10.3138/cpp.2021-009'
-      name: 'Laplace, J., Bild, E., Trudeau, C., Perna, M., Dupont, T. & Guastavino C. (2022). Encadrement du bruit environnemental au Canada. Canadian Public Policy / Analyse de politiques publiques, 48(1), 49-65.'
+      name: 'Laplace, J., Bild, E., Trudeau, C., Perna, M., Dupont, T. & Guastavino C. (2022). Encadrement du bruit environnemental au Canada. <i>Canadian Public Policy / Analyse de politiques publiques</i>, 48(1), 49-65.'
     - url: 'https://hal.archives-ouvertes.fr/hal-03233770/document'
       name: 'Trudeau, C., Bild, E., Padois, T., Perna, M., Dumoulin, R., Dupont, T., & Guastavino, C. (2020). Municipal noise regulations in Québec. Proceedings of Forum Acusticum. Forum Acusticum, Dec. 7-1, Lyon, France '
     - url: ''
@@ -610,12 +615,12 @@
       id: 'nightlife'
     - name: 'stakeholder'
       id: 'stakeholder'
-    - name: 'noise_pollution'
-      id: 'noise pollution'
-    - name: 'night_noise'
-      id: 'night noise'
-    - name: 'public_policy'
-      id: 'public policy,'
+    - name: 'noise pollution'
+      id: 'noise_pollution'
+    - name: 'night noise'
+      id: 'night_noise'
+    - name: 'public policy'
+      id: 'public_policy'
     - name: 'sonic cohabitation'
       id: 'sonic_cohabitation'
     - name: 'Quartier des Spectacles'
@@ -625,13 +630,13 @@
     - name: 'DRSP'
       id: 'drsp'
   before:
-    image: '/assets/images/projects/nightlife/before.jpg'
-    credits: 'Wikimedia Commons, the free media repository'
-    alt: "Quartier des Spectacles"
+    - image: '/assets/images/projects/nightlife/before.jpg'
+      credits: 'Wikimedia Commons, the free media repository'
+      alt: "Quartier des Spectacles"
   after:
-    image: '/assets/images/projects/nightlife/MITACS_ListenUp_Oct6_2022Workshop.jpg'
-    credits: 'YULISM'
-  alt: "Catherine Guastavino presenting the ListenUpMTL project at the Oct 6th 2022 ('Le bruit environnemental dans nos actions de planification') workshop" 
+    - image: '/assets/images/projects/nightlife/MITACS_ListenUp_Oct6_2022Workshop.jpg'
+      credits: 'YULISM'
+      alt: "Catherine Guastavino presenting the ListenUpMTL project at the Oct 6th 2022 ('Le bruit environnemental dans nos actions de planification') workshop" 
   brief: "Nightlife activities contribute to the vitality and attractiveness of cities but can also generate conflicts around unwanted noise<br><br>We will offer recommendations on Montreal’s development of a nightlife policy that integrates a sonic dimension"
   about: "Many worldwide cities face the challenge of striking a balance between livability and vitality, and this dichotomy is often tested in the sonic dimension. However, no world cities, including Montreal, have expressed a nightlife policy that tackles these challenges head-on."
   participation: "Sounds in the City started a collaboration with the City of Montreal and Montreal’s public health department (DRSP) to investigate and integrate the needs and expectations of different stakeholders for the development of a new nightlife strategy using the soundscape approach document. The project documents situations of sound conflicts and cohabitation in Montreal to better understand/characterize the dynamics at play & issue recommendations to improve public policies from an economic development perspective where the human being is at the center. The first step was a comprehensive review of relevant academic literature as well as public and private reports provided by partners on the status of sound-related knowledge centered on Montreal. The second step was the development of pilot projects: the ListenUpMTL pilot project and the Assomption Sud–Longue-Pointe project.<br><br>This project is a unique opportunity to involve multiple stakeholders around night noise and integrate sound consideration in the new Montreal nightlife policy that is under development."
@@ -643,7 +648,7 @@
       name: '"Le bruit environnemental dans nos actions de planification" (October 6th 2022) workshop, aimed at Montreal urban professionals. Organized by City of Montreal and the Montreal Public Health Agency.'
   publications:
     - url: 'http://doi.org/10.3138/cpp.2021-009'
-      name: 'Laplace, J., Bild, E., Trudeau, C., Perna, M., Dupont, T. & Guastavino C. (2022). Encadrement du bruit environnemental au Canada. Canadian Public Policy / Analyse de politiques publiques, 48(1), 49-65.'
+      name: 'Laplace, J., Bild, E., Trudeau, C., Perna, M., Dupont, T. & Guastavino C. (2022). Encadrement du bruit environnemental au Canada. <i>Canadian Public Policy / Analyse de politiques publiques</i>, 48(1), 49-65.'
     - url: 'https://hal.archives-ouvertes.fr/hal-03233770/document'
       name: 'Trudeau, C., Bild, E., Padois, T., Perna, M., Dumoulin, R., Dupont, T., & Guastavino, C. (2020). Municipal noise regulations in Québec. Proceedings of Forum Acusticum. Forum Acusticum, Dec. 7-1, Lyon, France '
   prev_url: "project12"
@@ -676,27 +681,27 @@
     - name: aging
       id: 'aging'
   before:
-    image: '/assets/images/projects/Quartier des Spectacles/Place_des_arts_08.jpg'
-    credits: 'N/A'
-    alt: "Quartier des Spectacles before the study"
+    - image: '/assets/images/projects/Quartier_des_Spectacles/Place_des_arts_08.jpg'
+      credits: 'Jeangagnon at Wikimedia Commons'
+      alt: "Quartier des Spectacles"
   after:
-    image: '/assets/images/projects/nightlife/QDS.jpg'
-    credits: 'N/A'
-    alt: "Quartier des Spectacles after the study"
+    - image: ''
+      credits: ''
+      alt: ""
   brief: "Montreal’s entertainment district (the Quartier des Spectacles) is facing unique challenges balancing vitality and livability due to the multitude of events and festivals it hosts throughout the year<br><br>Sounds of festivals are not a primary source of annoyance, but rather the sounds of nightlife (pre-COVID-19)<br><br>	Older residents enjoy and take parts in the festivals and events, questioning ideas of retirement and aging in the city "
   about: "The Quartier des Spectacles (QDS – link) is a dense multi-cultural hub for music, art, design and food, with a diverse population and a flair for public events (including large-scale festivals), while also housing a residential population of mixed socio-economic backgrounds, ever-growing due to new high-rise development projects. It has a need to balance its reputation for vitality with its interest in maintaining a livable environment for its current and potential residents."
   participation: "Sounds in the City partnered with the Quartier des Spectacles Partnership (the organization responsible for managing the QDS entertainment district) to conduct on-site research aiming to better grasp the expectations of the various stakeholders (residents, festivalgoers, festival promoters) and to identify useful guidelines for defining the potential future sound management plan active in the area. We found that, pre-COVID-19, sounds of festivals were not a primary source of annoyance, but rather an inspiration for residents to engage with their spaces and their neighborhood. Interestingly, older residents chose to move to QDS because of its accessibility but also due to the festivals and events, raising questions on ideas on who the festivals and events are for. "
   contact_info: "For details, please contact: Edda Bild, Catherine Guastavino"
   links:
     - url: 'https://ici.radio-canada.ca/tele/decouverte/site/episodes/520848/covid-ghgsat-methane-lune-pollution'
-      name: 'Société Radio-Canada (2021, April 28). A l’écoute de la ville – Emission Découverte [TV report with C. Guastavino]'
-    - url: 'https://www.researchcatalogue.net/view/1278472/1278473'
-      name: 'Bild, E., Steele, D. & Guastavino, C. (2021) At Home in Montreal’s Quartier Des Spectacles Festival Neighborhood. Journal of Sonic Studies'
+      name: 'Société Radio-Canada (2021, April 28). A l’écoute de la ville – Emission Découverte [TV report with C. Guastavino]. Retrieved from https://ici.radio-canada.ca/tele/decouverte/site/episodes/520848/covid-ghgsat-methane-lune-pollution (in French)'
   publications:
     - url: 'https://www.mdpi.com/2071-1050/14/8/4559'
-      name: 'Bild, E., Steele, D., & Guastavino, C. (2022). Festivals and Events as Everyday Life in Montreal’s Entertainment District. Sustainability, 14(8), 4559.'
+      name: 'Bild, E., Steele, D., & Guastavino, C. (2022). Festivals and Events as Everyday Life in Montreal’s Entertainment District. <i>Sustainability</i>, 14(8), 4559.'
+    - url: 'https://www.researchcatalogue.net/view/1278472/1278473'
+      name: 'Bild, E., Steele, D. & Guastavino, C. (2021) At Home in Montreal’s Quartier Des Spectacles Festival Neighborhood. <i>Journal of Sonic Studies</i>'
     - url: 'https://www.mdpi.com/1660-4601/18/11/5877'
-      name: 'Steele, D., & Guastavino, C. (2021). Quieted city sounds during the covid-19 pandemic in Montreal. International Journal of Environmental Research and Public Health, 18(11), 5877.'
+      name: 'Steele, D., & Guastavino, C. (2021). Quieted city sounds during the covid-19 pandemic in Montreal. <i>International Journal of Environmental Research and Public Health</i>, 18(11), 5877.'
   prev_url: "project13"
   next_url: 'project15'
 
@@ -706,8 +711,8 @@
   location: "Paris, France"
   date: "2021-ongoing"
   start-date: "2021"
-  end-date: "Ongoing"
-  image: "/assets/images/projects/niches/niches_acoustiques.jpg"
+  end-date: "2025"
+  image: "/assets/images/projects/Niches_acoustiques/XP1_panorama.jpg"
   url: "project15"
   fundings: "SSHRC PDF, McGill’s Graduate Mobility Award"
   collaborators: "Institut de Recherche et Coordination Acoustique/Musique (IRCAM), Nadine Schütz, (((echora))), Nicolas Misdariis, Coralie Vincent, Marcelo Wanderley, City of Paris, Bruitparif, CIRMMT"
@@ -724,25 +729,28 @@
     - name: Paris
       id: 'paris'
   before:
-    image: '/assets/images/projects/niches/before.png'
-    credits: 'Nicolas Misdariis'
-    alt: "Niches Acoustiques before the study"
+    - image: '/assets/images/projects/Niches_acoustiques/XP1_panorama.jpg'
+      credits: 'Valérian Fraisse'
+      alt: "Parvis du Tribunal de Grande Instance, Paris"
   after:
-    image: '/assets/images/projects/niches/after.png'
-    credits: 'Nicolas Misdariis'
-    alt: "Niches Acoustiques after the study"
+    - image: '/assets/images/projects/Niches_acoustiques/collab_Niches_Acoustiques.png'
+      credits: 'Nicolas Misdariis'
+      alt: "During the planning of the field recordings."
+    - image: '/assets/images/projects/Niches_acoustiques/Capture d’écran 2022-05-17 à 19.27.13.png'
+      credits: 'Nicolas Misdariis'
+      alt: "Listening session, at IRCAM’s Studio 4 listening room with Valérian Fraisse, Nicolas Misdariis and sound artist Nadine Schütz."
   brief: "A sound installation will be deployed in a Parisian public space to create an appeasing and varied soundscape<br><br>A research-creation collaboration seeks to inform the composition of the sound installation by testing different prototypes through soundscape simulations based on in-situ recordings"
-  about: "While recent studies in soundscape suggest that sound art installations can have a positive influence on public space evaluations, there is no scientific method to date to inform sound art composition in public space. Hosted partially in Paris, at the Institut de Recherche et Coordination Acoustique/Musique (IRCAM), the project is a research-creation collaboration around the permanent integration of a sound installation in the forecourt of Paris’ Judicial Courthouse: Nadine Schütz’s Niches Acoustiques. The sound installation’s goal is to create an appeasing and varied auditory foreground and to better connect the public space to its surrounding. In the first phase of the project, we are conducting a series of listening tests involving High-Order Ambisonic soundscape simulations of prototypes relying on different composition strategies, to inform the sound artist’s composition of the sound installation with space users’ feedback.<br><br> We are developing a method that can support the design of a site-specific, permanent sound art installation. This research-creation project entails an in-depth collaboration between researchers and artists towards a better integration of the sound installation to its surroundings. The provided soundscape simulations are beneficial to the composition process, as they allow the artist to have a realistic model of the resulting sound environment. The controlled listening tests will yield critical information to the composer in linking compositional parameters with their effect on soundscape perception."
+  about: "While recent studies in soundscape suggest that sound art installations can have a positive influence on public space evaluations, there is no scientific method to date to inform sound art composition in public space. Hosted partially in Paris, at the Institut de Recherche et Coordination Acoustique/Musique (IRCAM), the project is a research-creation collaboration around the permanent integration of a sound installation in the forecourt of Paris’ Judicial Courthouse: Nadine Schütz’s Niches Acoustiques. The sound installation’s goal is to create an appeasing and varied auditory foreground and to better connect the public space to its surrounding. In the first phase of the project, we are conducting a series of listening tests involving High-Order Ambisonic soundscape simulations of prototypes relying on different composition strategies, to inform the sound artist’s composition of the sound installation with space users’ feedback."
   participation: "We are developing a method that can support the design of a site-specific, permanent sound art installation. This research-creation project entails an in-depth collaboration between researchers and artists towards a better integration of the sound installation to its surroundings. The provided soundscape simulations are beneficial to the composition process, as they allow the artist to have a realistic model of the resulting sound environment. The controlled listening tests will yield critical information to the composer in linking compositional parameters with their effect on soundscape perception."
   contact_info: "For details, please contact: Valérian Fraisse, Catherine Guastavino"
   links:
     - url: ''
-      name: 'Acoustic Simulations at IRCAM'
+      name: ''
   publications:
     - url: ''
-      name: 'Fraisse, V., Nicolas, E., Schütz, N., Ribeiro, C., & Misdariis, N. (2022). Évaluer l’impact d’installations sonores sur la perception du paysage sonore urbain: Cas d’étude d’une place publique parisienne. 16e Congrès Français d’Acoustique, Marseille, Paris.'
+      name: 'Fraisse, V., Nicolas, E., Schütz, N., Ribeiro, C., & Misdariis, N. (2022). Évaluer l’impact d’installations sonores sur la perception du paysage sonore urbain: Cas d’étude d’une place publique parisienne. <i>16e Congrès Français d’Acoustique, Marseille, Paris.</i>'
     - url: ''
-      name: 'Fraisse, V., Schütz, N., Wanderley, M., Guastavino, C., & Misdariis, N. (2022). Informing sound art design in public space through soundscape simulation. Proceedings of INTERNOISE, Glasgow, UK.'
+      name: 'Fraisse, V., Schütz, N., Wanderley, M., Guastavino, C., & Misdariis, N. (2022). Informing sound art design in public space through soundscape simulation. <i>Proceedings of INTERNOISE</i>, Glasgow, UK.'
   prev_url: "project14"
   next_url: 'project16'
 
@@ -752,8 +760,8 @@
   location: "Montreal, QC"
   date: "2023-ongoing"
   start-date: "2023"
-  end-date: "Ongoing"
-  image: "/assets/images/projects/les_madelinennes/les_madelinennes.jpg"
+  end-date: "2025"
+  image: "/assets/images/projects/les_madelinennes/230711_Parc-Madelinots_006.jpg"
   url: "project16"
   fundings: "SSHRC"
   collaborators: "Institut de Recherche et Coordination Acoustique/Musique (IRCAM), Paysages studio, Charles Montambault, Marcelo Wanderley, CIRMMT"
@@ -772,23 +780,26 @@
     - name: cultural heritage
       id: 'cultural_heritage'
   before:
-    image: '/assets/images/projects/les_madelinennes/before.jpg'
-    credits: 'paysages~'
-    alt: "Field recording session at the Parc des Madelinots."
+    - image: '/assets/images/projects/les_madelinennes/230711_Parc-Madelinots_006.jpg'
+      credits: 'paysages~'
+      alt: "Parc des Madelinots. A speaker of <i>Les Madelinéennes</i> is in the middle."
   after:
-    image: '/assets/images/projects/les_madelinennes/after.jpg'
-    credits: 'paysages~'
-    alt: "Listening session at the PeRL Laboratory at CIRMMT with sound artist Charles Montambault"
+    - image: '/assets/images/projects/les_madelinennes/230705_Parc-Madelinots_011.jpg'
+      credits: 'paysages~'
+      alt: "Field recording session at the Parc des Madelinots."
+    - image: '/assets/images/projects/les_madelinennes/230705_McGill_001.jpg'
+      credits: 'paysages~'
+      alt: "Listening session at the PeRL Laboratory at CIRMMT with sound artist Charles Montambault."
   brief: "A sound installation was deployed to highlight the cultural heritage of a small public space in Montreal.<br><br>A research-creation collaboration seeks to inform the composition of the sound installation, including field recordings and soundscape simulations to in-situ surveys."
-  about: "This research-creation collaboration is about the design and evaluation of the permanent public space sound installation Les Madelinéennes by Charles Montambault, deployed since 2023 in a pocket park (Parc-des-Madelinots) in the Montreal borough of Verdun. Verdun was a major emigration destination from the Magdalen Islands (Îles-de-la-Madeleine) and now has the largest community of Madelinots outside of the islands. The Parc-des-Madelinots is a small public space honoring the Madelinots diaspora. However, it is exposed to high levels of traffic noise, sparsely used by residents, and mostly perceived as a transit space. The goal of Les Madelinéennes is to provide a more soothing and pleasant sound environment to this public space while highlighting the community’s cultural heritage through compositions using field recordings from the Magdalen Islands."
-  participation: "This research project builds on the methods developed as per the collaboration surrounding the Niches Acoustiques installation . It involves field recordings and laboratory evaluations of prototypes of the sound installation with residents familiar to the space. Specifically, we investigate how the dominance of different coastal sound sources (e.g. birds, water, wind) can affect the public space’s soundscape. Design recommendations will be made from the results of the study to inform the composition of a new iteration of the sound installation. "
+  about: "This research-creation collaboration is about the design and evaluation of the permanent public space sound installation <i>Les Madelinéennes</i> by Charles Montambault, deployed since 2023 in a pocket park (Parc-des-Madelinots) in the Montreal borough of Verdun. Verdun was a major emigration destination from the Magdalen Islands (Îles-de-la-Madeleine) and now has the largest community of Madelinots outside of the islands. The Parc-des-Madelinots is a small public space honoring the Madelinots diaspora. However, it is exposed to high levels of traffic noise, sparsely used by residents, and mostly perceived as a transit space. The goal of Les Madelinéennes is to provide a more soothing and pleasant sound environment to this public space while highlighting the community’s cultural heritage through compositions using field recordings from the Magdalen Islands."
+  participation: "This research project builds on the methods developed as per the collaboration surrounding the Niches Acoustiques installation. It involves field recordings and laboratory evaluations of prototypes of the sound installation with residents familiar to the space. Specifically, we investigate how the dominance of different coastal sound sources (e.g. birds, water, wind) can affect the public space’s soundscape. Design recommendations will be made from the results of the study to inform the composition of a new iteration of the sound installation."
   contact_info: "For details, please contact: Valérian Fraisse, Catherine Guastavino"
   links:
-    - url: 'https://journalmetro.com/culture/rencontres/2915990/sons-iles-madeleine-berceront-verdun/'
-      name: 'Journal Métro - Les sons des Îles-de-la-Madeleine berceront Verdun'
-  publications:
     - url: ''
       name: ''
+  publications:
+    - url: 'https://journalmetro.com/culture/rencontres/2915990/sons-iles-madeleine-berceront-verdun/'
+      name: '(not academic) https://journalmetro.com/culture/rencontres/2915990/sons-iles-madeleine-berceront-verdun/'
   prev_url: "project15"
   next_url: 'project17'
 
@@ -799,7 +810,7 @@
   date: "Fall 2020-Fall 2022"
   start-date: "2020"
   end-date: "2022"
-  image: "/assets/images/projects/Church Restoration/ChurchRestor_RussianOrth_IMG_1865.JPG"
+  image: "/assets/images/projects/Church_Restoration/ChurchRestor_MAIN_SPA_IMG_1920.JPG"
   url: "project17"
   fundings: "Fonds de recherche du Québec – Société et culture (FRQSC), Postdoctoral Fellowship"
   collaborators: "Parish of Saint-Pierre-Apôtre, St. Peter and St. Paul Russian Orthodox Cathedral (Centre Sud), Parishes of Très-Saint-Nom-de-Jésus and La Nativité-de-la-Sainte-Vierge d’Hochelaga, diocesan officials for the church of Très-Saint-Rédempteur (Hochelaga-Maisonneuve)"
@@ -820,27 +831,30 @@
     - name: Montréal
       id: 'montreal'
   before:
-    image: '/assets/images/projects/Church Restoration/ChurchRestor_HOMA_TSNJ_IMG_2482.JPG'
-    credits: 'Josée Laplace'
-    alt: "Churches before the project"
+    - image: '/assets/images/projects/Church_Restoration/ChurchRestor_MAIN_SPA_IMG_1920.JPG'
+      credits: 'Josée Laplace'
+      alt: "Church of Saint-Pierre-Apôtre."
   after:
-    image: '/assets/images/projects/Church Restoration/ChurchRestor_MAIN_SPA_IMG_1920.JPG'
-    credits: 'Josée Laplace'
-    alt: "Churches after the project"
-  brief: "•	Church buildings have particular sensory qualities, especially sonic qualities, which may bring positive outcomes even in the context of secularization<br><br>The research project explores the restorative potential of church buildings and how they could be used as “quiet places” in the city."
-  about: "While church attendance has drastically decreased during the past decades, especially in Northern Europe and North America, the preservation of religious buildings has become a pressing question, as secularization has left many church buildings vacant or underused. In Montreal only, the Québec council of religious heritage reported that 22% of the places of worship across denominations listed in its inventory dating from 2003 have been demolished, closed or converted to other uses.<br><br> The project investigates the role the specific sensory qualities of churches could play with regards to today’s more secular sensibilities. As a very different environment from everyday life, the ambiance of churches can foster a singular mode of attention and sensing. In terms of acoustics, the long reverberation times and the relative isolation from exterior city noise can lead to restorative benefits, like stress reduction.<br><br> We conducted soundwalks and interviews in five churches of the Centre Sud and Hochelaga-Maisonneuve in Montréal, with participants from these neighbourhoods. Preliminary results show that churches are perceived as places “out of time and out of space”, which is in line with previous investigations of church ambiances and further highlights the role that sound plays in shaping the experiences."
+    - image: '/assets/images/projects/Church_Restoration/ChurchRestor_RussianOrth_IMG_1865.JPG'
+      credits: 'Josée Laplace'
+      alt: ""
+    - image: '/assets/images/projects/Church_Restoration/ChurchRestor_HOMA_TSNJ_IMG_2482.JPG'
+      credits: 'Josée Laplace'
+      alt: ""
+  brief: "Church buildings have particular sensory qualities, especially sonic qualities, which may bring positive outcomes even in the context of secularization<br><br>The research project explores the restorative potential of church buildings and how they could be used as “quiet places” in the city."
+  about: 'While church attendance has drastically decreased during the past decades, especially in Northern Europe and North America, the preservation of religious buildings has become a pressing question, as secularization has left many church buildings vacant or underused. In Montreal only, the <a href="https://www.patrimoine-religieux.qc.ca/" target="_blank">Québec council of religious heritage</a> reported that 22% of the places of worship across denominations listed in its inventory dating from 2003 have been demolished, closed or converted to other uses.<br><br>The project investigates the role the specific sensory qualities of churches could play with regards to today’s more secular sensibilities. As a very different environment from everyday life, the ambiance of churches can foster a singular mode of attention and sensing. In terms of acoustics, the long reverberation times and the relative isolation from exterior city noise can lead to restorative benefits, like stress reduction.'
   participation: "We conducted soundwalks and interviews in five churches of the Centre Sud and Hochelaga-Maisonneuve in Montréal, with participants from these neighbourhoods. Preliminary results show that churches are perceived as places “out of time and out of space”, which is in line with previous investigations of church ambiances and further highlights the role that sound plays in shaping the experiences."
   contact_info: "For details, please contact: Josée Laplace"
   links:
     - url: 'https://www.magazinecontinuite.com/les-echos-de-nos-eglises/'
-      name: 'Valérie Gaudreau (2023). Les échos de nos églises, Magazine Continuité, Special Issue Patrimoine sonore. Tendre l’oreille. Fall2023, No. 178. '
+      name: 'Valérie Gaudreau (2023). Les échos de nos églises, <i>Magazine Continuité</i>, Special Issue Patrimoine sonore. Tendre l’oreille. Fall2023, No. 178. https://www.magazinecontinuite.com/les-echos-de-nos-eglises/'
   publications:
     - url: 'https://www.tandfonline.com/eprint/3YJXVGEBHSSWXTCZ2U2R/full?target=10.1080/17458927.2022.2139134'
-      name: 'Laplace, Josée and Catherine Guastavino. (2022). Exploring sonic experiences in church spaces: a psycholinguistic analysis. The Senses and Society, 17(3), DOI: '
+      name: 'Laplace, Josée and Catherine Guastavino. (2022). Exploring sonic experiences in church spaces: a psycholinguistic analysis. The Senses and Society, 17(3), DOI: 10.1080/17458927.2022.2139134 '
     - url: ''
       name: 'Laplace, Josée and Catherine Guastavino. (2022). Evaluation of the restorative potential of church buildings. Proceedings Internoise 2022, 21-24 août 2022, Glasgow.'
     - url: 'https://www.taylorfrancis.com/chapters/edit/10.4324/9780429279782-10/church-beyond-worship-jos%C3%A9e-laplace'
-      name: 'Laplace, Josée. (2019). « The church beyond worship: Experiencing monumental soundscapes in the Roman Catholic churches of Montréal (Québec, Canada) ». Dans Catherine Lavandier et Christine Guillebaud (dir.). Worship Sound Space. A Multidisiplinary Approach. London: Routledge, collection Research in Architecture, p. 141-177.'
+      name: 'Laplace, Josée. (2019). « The church beyond worship: Experiencing monumental soundscapes in the Roman Catholic churches of Montréal (Québec, Canada) ». Dans Catherine Lavandier et Christine Guillebaud (dir.). <i>Worship Sound Space. A Multidisiplinary Approach</i>. London: Routledge, collection Research in Architecture, p. 141-177.'
   prev_url: "project16"
   next_url: 'project18'
 
@@ -854,7 +868,7 @@
   image: "/assets/images/projects/Musikiosk/MusikioskAd.png"
   url: "project18"
   fundings: "McGill Dean of Arts Development Fund"
-  collaborators: "Romain Dumoulin, Jeremie Voix, McGill University, ÉTS, Plateau Mont-Royal borough"
+  collaborators: "Romain Dumoulin, Jeremie Voix"
   name: "MUSIKIOSK"
   tags:
     - name: public space
@@ -864,34 +878,36 @@
     - name: sound installation
       id: 'sound_installation'
   before:
-    image: '/assets/images/projects/Musikiosk/Musikiosk_PduPortugal.jpg'
-    credits: 'N/A'
-    alt: "Musikiosk before installation"
+    - image: '/assets/images/projects/Musikiosk/Musikiosk_PduPortugal.jpg'
+      credits: 'Cynthia Tarlao'
+      alt: ""
   after:
-    image: '/assets/images/projects/Musikiosk/Musikiosk Picture6 blurred.jpg'
-    credits: 'N/A'
-    alt: "Musikiosk after installation"
-  brief: "•	A semi-permanent speaker system (Musikiosk) was installed in the gazebo of a public park (Parc du Portugal) and users could connect and play whatever content they wanted
-<br><br>Musikiosk increased the perceived pleasantness of the soundscape of the park and improved moods for park visitors, whether or not they were directly engaging with Musikiosk<br><br>Musikiosk added a new layer of activity into the park without displacing existing users"
-  about: "In 2015, researchers from McGill University and ÉTS worked together with the Plateau Mont-Royal borough to install Musikiosk in the gazebo of Parc du Portugal, a small public park in Montreal. Musikiosk was a speaker system through which park users, with the help of an audio jack, could connect their personal devices to a small array of freely provided speakers installed in the gazebo and thus to share their own music with others.<br><br>Documenting their experiences through interviews and surveys, Musikiosk users expressed excitement in engaging with an urban park in novel ways by taking over their space acoustically and offering them an unconventional opportunity to interact with other park users. Through community outreach efforts and extensive planning, the Musikiosk team minimized the displacement of existing park users and managed the expectations and annoyance of neighbors."
-  participation: "This study kickstarted as a long series of projects in collaboration with Montreal city officials and other stakeholders."
+    - image: '/assets/images/projects/Musikiosk/Musikiosk_Picture6_blurred.jpg'
+      credits: 'Catherine Guastavino'
+      alt: ""
+    - image: ''
+      credits: 'Milyausha Gabdrakhmanova'
+      alt: "Musikiosk logo"
+  brief: "A semi-permanent speaker system (Musikiosk) was installed in the gazebo of a public park (Parc du Portugal) and users could connect and play whatever content they wanted<br><br>Musikiosk increased the perceived pleasantness of the soundscape of the park and improved moods for park visitors, whether or not they were directly engaging with Musikiosk<br><br>Musikiosk added a new layer of activity into the park without displacing existing users"
+  about: "In 2015, researchers from McGill University and ÉTS worked together with the Plateau Mont-Royal borough to install Musikiosk in the gazebo of Parc du Portugal, a small public park in Montreal. Musikiosk was a speaker system through which park users, with the help of an audio jack, could connect their personal devices to a small array of freely provided speakers installed in the gazebo and thus to share their own music with others."
+  participation: "Documenting their experiences through interviews and surveys, Musikiosk users expressed excitement in engaging with an urban park in novel ways by taking over their space acoustically and offering them an unconventional opportunity to interact with other park users. Through community outreach efforts and extensive planning, the Musikiosk team minimized the displacement of existing park users and managed the expectations and annoyance of neighbors.<br><br>This study kickstarted as a long series of projects in collaboration with Montreal city officials and other stakeholders."
   contact_info: "For details, please contact: Daniel Steele, Catherine Guastavino"
   links:
-    - url: 'https://journalmetro.com/culture/rencontres/2915990/sons-iles-madeleine-berceront-verdun/'
-      name: 'Journal Métro - Les échos de nos églises'
+    - url: ''
+      name: ''
   publications:
     - url: 'https://www.sciencedirect.com/science/article/pii/S0003682X21000037?'
-      name: 'Steele, D., Fraisse, V., Bild, E., & Guastavino, C. (2021). Bringing music to the park: The effect of Musikiosk on the quality of public experience. Applied Acoustics, 177, 107910.'
+      name: 'Steele, D., Fraisse, V., Bild, E., & Guastavino, C. (2021). Bringing music to the park: The effect of Musikiosk on the quality of public experience. <i>Applied Acoustics</i>, 177, 107910.'
     - url: 'https://www.mdpi.com/469272'
-      name: 'Steele, D., Bild, E., Tarlao, C., & Guastavino, C. (2019). Soundtracking the public space: outcomes of the Musikiosk soundscape intervention. International journal of environmental research and public health, 16(10), 1865.'
+      name: 'Steele, D., Bild, E., Tarlao, C., & Guastavino, C. (2019). Soundtracking the public space: outcomes of the Musikiosk soundscape intervention. I<i>nternational journal of environmental research and public health</i>, 16(10), 1865.'
     - url: 'https://www.igi-global.com/chapter/activity-as-a-mediator-between-users-and-their-auditory-environment-in-an-urban-pocket-park/198158'
-      name: 'Bild, E., Steele, D., Pfeffer, K., Bertolini, L., & Guastavino, C. (2018). Activity as a mediator between users and their auditory environment in an urban pocket park: a case study of Parc du Portugal (Montreal, Canada). In Handbook of Research on Perception-Driven Approaches to Urban Assessment and Design (pp. 100-125). IGI Global.'
+      name: 'Bild, E., Steele, D., Pfeffer, K., Bertolini, L., & Guastavino, C. (2018). Activity as a mediator between users and their auditory environment in an urban pocket park: a case study of Parc du Portugal (Montreal, Canada). In <i>Handbook of Research on Perception-Driven Approaches to Urban Assessment and Design</i> (pp. 100-125). IGI Global.'
     - url: 'https://www.ingentaconnect.com/content/ince/incecp/2016/00000253/00000005/art00093'
-      name: 'Bild, E., Tarlao, C., Guastavino, C., & Coler, M. (2016, August). Sharing music in public spaces: social insights from the Musikiosk project (Montreal, CA). In Inter-Noise and Noise-Con Congress and Conference Proceedings (Vol. 253, No. 5, pp. 3657-3666). Institute of Noise Control Engineering.'
+      name: 'Bild, E., Tarlao, C., Guastavino, C., & Coler, M. (2016, August). Sharing music in public spaces: social insights from the Musikiosk project (Montreal, CA). In <i>Inter-Noise and Noise-Con Congress and Conference Proceedings</i> (Vol. 253, No. 5, pp. 3657-3666). Institute of Noise Control Engineering.'
     - url: 'https://asa.scitation.org/doi/pdf/10.1121/1.4987775'
-      name: 'Steele, D., Bild, E., & Guastavino, C. (2016, August). Evaluation of an urban soundscape intervention with music: quantitative results from questionnaires. In Inter-Noise and Noise-Con Congress and Conference Proceedings (Vol. 253, No. 4, pp. 4627-4637). Institute of Noise Control Engineering.'
+      name: 'Steele, D., Bild, E., & Guastavino, C. (2016, August). Evaluation of an urban soundscape intervention with music: quantitative results from questionnaires. In <i>Inter-Noise and Noise-Con Congress and Conference Proceedings</i> (Vol. 253, No. 4, pp. 4627-4637). Institute of Noise Control Engineering.'
     - url: 'https://www.ingentaconnect.com/contentone/ince/incecp/2016/00000253/00000004/art00093'
-      name: 'Tarlao, C., Fernandez, P., & Guastavino, C. (2016, August). Comparing soundscape evaluations in French and English across three studies in Montreal. In INTER-NOISE and NOISE-CON Congress and Conference Proceedings (Vol. 253, No. 4, pp. 4701-4707). Institute of Noise Control Engineering.'
+      name: 'Tarlao, C., Fernandez, P., & Guastavino, C. (2016, August). Comparing soundscape evaluations in French and English across three studies in Montreal. In <i>INTER-NOISE and NOISE-CON Congress and Conference Proceedings</i> (Vol. 253, No. 4, pp. 4701-4707). Institute of Noise Control Engineering.'
   prev_url: "project17"
   next_url: 'project19'
 
@@ -902,7 +918,7 @@
   date: "Summer 2018 - ongoing"
   start-date: "2018"
   end-date: "Ongoing"
-  image: "/assets/images/projects/Fleurs de Macadam sound art/Place_Fleurs_des_Macadam_8.jpg"
+  image: "/assets/images/projects/Fleurs_de_Macadam_sound_art/speaker_ZOOM.jpg"
   url: "project19"
   fundings: "SSHRC"
   collaborators: "Audiotopie, City of Montreal (Arrondissement Plateau Mont-Royal)"
@@ -917,25 +933,34 @@
     - name: pocket park
       id: 'pocket_park'
   before:
-    image: '/assets/images/projects/Fleurs de Macadam sound art/Place_Fleurs_des_Macadam_7.jpg'
-    credits: 'N/A'
-    alt: "Fleurs-de-Macadam before installation"
+    - image: '/assets/images/projects/Fleurs_de_Macadam_sound_art/Place_Fleurs_des_Macadam_8.jpg'
+      credits: 'Ville de Montréal'
+      alt: "Fleurs-de-Macadam square in 2018."
   after:
-    image: '/assets/images/projects/Fleurs de Macadam sound art/Val_IMG_20190726_183158.jpg'
-    credits: 'N/A'
-    alt: "Fleurs-de-Macadam after installation"
-  brief: "The project experimented with a novel interdisciplinary collaboration between researchers, sound artists, and the City. The presence of sound installations enhances the experience of the public space and reinforces spatial design goals."
-  about: "The Plateau-Mont-Royal borough took a different approach to determining how a new public space – Fleurs-de-Macadam – could look and sound. In a first stage, over the course of the summer of 2018, the borough installed 3 separate prototype designs and allowed the public to evaluate each site. Partners from the Audiotopie artist collective developed and deployed 3 sound installations in these temporary designs. Sounds in the City evaluated the resulting soundscapes and helped the borough shape the future space for users, as well as inform the composition of a fourth sound installation, deployed in the summer of 2019.<br><br>Through an iterative process of design, deployment and evaluation, we documented the impact of the different sound installations over two years in a new public square."
-  participation: "Using questionnaires with passers-by and sound level measurements, we identified patterns of use and main activities conducted in the square. These results informed the compositional process of sound installations that “resonate” with the desired ambiances throughout the day. The analysis of questionnaires indicated that the experiences of public space users were enhanced in the presence of all four sound installations, with positive effects on the perceived pleasantness, calmness, and ability to take a break. These results highlight the potential of intentional sound design in a public space context as well as the specific role of research creation collaborations to shape urban soundscapes."
+    - image: '/assets/images/projects/Fleurs_de_Macadam_sound_art/Val_IMG_20190726_183158.jpg'
+      credits: 'Valérian Fraisse'
+      alt: "Fleurs-de-Macadam square, 2019, with Audiotopie’s sound installation."
+    - image: '/assets/images/projects/Fleurs_de_Macadam_sound_art/speaker_ZOOM.jpg'
+      credits: 'Valérian Fraisse'
+      alt: "Zoom on a speaker of the sound installation, 2019."
+    - image: '/assets/images/projects/Fleurs_de_Macadam_sound_art/Place_Fleurs_des_Macadam_8.jpg'
+      credits: 'Ville de Montréal'
+      alt: "Vacant lot before the inauguration of Fleurs-de-Macadam square."
+    - image: '/assets/images/projects/Fleurs_de_Macadam_sound_art/Place_Fleurs_des_Macadam_7.jpg'
+      credits: 'Ville de Montréal'
+      alt: "Vacant lot before the inauguration of Fleurs-de-Macadam square."
+  brief: "The project experimented with a novel interdisciplinary collaboration between researchers, sound artists, and the City.<br><br>The presence of sound installations enhances the experience of the public space and reinforces spatial design goals."
+  about: "The Plateau-Mont-Royal borough took a different approach to determining how a new public space – Fleurs-de-Macadam – could look and sound. In a first stage, over the course of the summer of 2018, the borough installed 3 separate prototype designs and allowed the public to evaluate each site. Partners from the Audiotopie artist collective developed and deployed 3 sound installations in these temporary designs. Sounds in the City evaluated the resulting soundscapes and helped the borough shape the future space for users, as well as inform the composition of a fourth sound installation, deployed in the summer of 2019."
+  participation: "Through an iterative process of design, deployment and evaluation, we documented the impact of the different sound installations over two years in a new public square.<br><br>Using questionnaires with passers-by and sound level measurements, we identified patterns of use and main activities conducted in the square. These results informed the compositional process of sound installations that “resonate” with the desired ambiances throughout the day. The analysis of questionnaires indicated that the experiences of public space users were enhanced in the presence of all four sound installations, with positive effects on the perceived pleasantness, calmness, and ability to take a break. These results highlight the potential of intentional sound design in a public space context as well as the specific role of research creation collaborations to shape urban soundscapes."
   contact_info: "For details, please contact: Valérian Fraisse, Cynthia Tarlao, Catherine Guastavino"
   links:
     - url: 'https://journalmetro.com/culture/rencontres/2915990/sons-iles-madeleine-berceront-verdun/'
       name: 'Journal Métro - Les échos de nos églises'
   publications:
     - url: 'https://doi.org/10.1016/j.landurbplan.2024.105173'
-    - name: '•	Fraisse, V., Tarlao, C., & Guastavino, C. (In press). Shaping City Soundscapes: In-Situ Evaluation of Four Sound Installations in an Urban Public Space. Landscape and Urban Planning.'
+    - name: 'Fraisse, V., Tarlao, C., & Guastavino, C. (In press). Shaping City Soundscapes: In-Situ Evaluation of Four Sound Installations in an Urban Public Space. <i>Landscape and Urban Planning</i>.'
     - url: 'https://www.taylorfrancis.com/chapters/edit/10.4324/9781003140535-5/designing-sound-installations-public-spaces-catherine-guastavino-val%C3%A9rian-fraisse-simone-ambrosio-etienne-legast-maryse-lavoie'
-      name: 'Guastavino, C., Fraisse, V., D’Ambrosio, S, Legast, E, & Lavoie, M. (2022). Designing sound installations in public spaces: A collaborative research creation approach. In Filimowicz, M. (Ed)., Designing Interaction for Music and Sound. Routledge, Abingdon, UK.'
+      name: 'Guastavino, C., Fraisse, V., D’Ambrosio, S, Legast, E, & Lavoie, M. (2022). Designing sound installations in public spaces: A collaborative research creation approach. In Filimowicz, M. (Ed)., <i>Designing Interaction for Music and Sound</i>. Routledge, Abingdon, UK.'
     - url: 'https://www.researchgate.net/publication/333058798_Sounds_in_the_City_Improving_the_soundscape_of_a_public_square_through_sound_art'
       name: 'Steele D., Legast, E., Trudeau C., Fraisse, V., Guastavino, C. (2019). Sounds in the city: Improving the soundscape of a public square through sound art. Invited paper, Proceedings of the 26th International Congress on Sound and Vibration (ICSV26), Montréal, QC, July 7–11 (8 pages).'
     - url: 'https://hal.archives-ouvertes.fr/HAID2020/hal-02901201v1'
@@ -949,7 +974,7 @@
   location: "Boston, Montreal, Amsterdam"
   date: "2013 - ongoing"
   start-date: "2013"
-  end-date: "Ongoing"
+  end-date: "-"
   image: "/assets/images/projects/Soundwalks/DSC_0142.jpg"
   url: "project20"
   fundings: ""
@@ -966,17 +991,23 @@
       id: 'education'
     - name: knowledge mobilization
       id: 'knowledge_mobilization'
+    - name: Boston
+      id: 'boston'
+    - name: Montreal
+      id: 'montreal'
+    - name: Amsterdam
+      id: 'amsterdam'
   before:
-    image: '/assets/images/projects/soundwalks/DSC_0142.jpg'
-    credits: 'N/A'
-    alt: "Participants during a soundwalk before the project started"
+    - image: '/assets/images/projects/soundwalks/soundwalks2018_CTa.jpeg'
+      credits: 'Cynthia Tarlao'
+      alt: "Participants during a soundwalk before the project started"
   after:
-    image: '/assets/images/projects/soundwalks/soundwalks2018_CTa.jpeg'
-    credits: 'N/A'
-    alt: "Participants during a soundwalk after the project implementation"
-  brief: "Immersive strategies like soundwalks encourage sound awareness and show how many distinct and diverse environments there are in the city. Soundwalks can take many forms and can be excellent educational tools for professionals and the broader community alike."
-  about: "A soundwalk, is, as the name implies, a walk destined to help you listen to and reflect on the soundscapes in which you are embedded. Soundwalks are very site-specific and can take multiple forms: they can be self-guided (think walking around with a map) or guided; they can also be focused on observation (staying quiet while listening) or they can be interactive (for example, clapping in space). Finally, soundwalks can serve a broad array of goals, most of them with an educational component, from teaching children about the sounds of their neighborhoods to highlight to urban professionals the role of sound in urban planning and design.<br><br>Our own offer of soundwalks is diverse. Our most successful soundwalk, destined for a wide audience of urban practitioners and the public alike, will guide you through a variety of urban soundscapes. We point out some of the urban planning and design strategies that have shaped them as well as sharing some of the research that could contribute to making them respond even better to the needs and expectations of their users. We have offered iterations of this soundwalk with urban professionals in 3 cities (Montreal, Amsterdam, and Boston). If you are in one of these cities and would like to join us for a soundwalk, please contact us. The walks are from 2 to 3 hours but can be given in shorter versions if necessary."
-  participation: "Also, we are always developing new walks! Do you want to teach children how to be sound aware in fun ways? Or show teenagers how to engage with their sonic spaces using their smart devices? Reach out! We are open to working together to develop new tools that are specific to your needs. "
+    - image: '/assets/images/projects/soundwalks/DSC_0142.jpg'
+      credits: 'Cynthia Tarlao'
+      alt: "Participants during a soundwalk after the project implementation"
+  brief: "Immersive strategies like soundwalks encourage sound awareness and show how many distinct and diverse environments there are in the city.<br><br>Soundwalks can take many forms and can be excellent educational tools for professionals and the broader community alike."
+  about: "A soundwalk, is, as the name implies, a walk destined to help you listen to and reflect on the soundscapes in which you are embedded. Soundwalks are very site-specific and can take multiple forms: they can be self-guided (think walking around with a map) or guided; they can also be focused on observation (staying quiet while listening) or they can be interactive (for example, clapping in space). Finally, soundwalks can serve a broad array of goals, most of them with an educational component, from teaching children about the sounds of their neighborhoods to highlight to urban professionals the role of sound in urban planning and design."
+  participation: "Our own offer of soundwalks is diverse. Our most successful soundwalk, destined for a wide audience of urban practitioners and the public alike, will guide you through a variety of urban soundscapes. We point out some of the urban planning and design strategies that have shaped them as well as sharing some of the research that could contribute to making them respond even better to the needs and expectations of their users. We have offered iterations of this soundwalk with urban professionals in 3 cities (Montreal, Amsterdam, and Boston). If you are in one of these cities and would like to join us for a soundwalk, please contact us. The walks are from 2 to 3 hours but can be given in shorter versions if necessary.<br><br>Also, we are always developing new walks! Do you want to teach children how to be sound aware in fun ways? Or show teenagers how to engage with their sonic spaces using their smart devices? Reach out! We are open to working together to develop new tools that are specific to your needs."
   contact_info: "For details, please contact: Daniel Steele, Edda Bild, Catherine Guastavino"
   links:
     - url: ''
@@ -1000,8 +1031,8 @@
   location: ""
   date: "2013 - ongoing"
   start-date: "2013"
-  end-date: "ongoing"
-  image: "/assets/images/projects/Engaging professionals/DSC_0204 (1).jpg"
+  end-date: "-"
+  image: "/assets/images/projects/Engaging_professionals/IMG_8504.JPG"
   url: "project21"
   fundings: ""
   collaborators: "University of Amsterdam, City of Montreal, Goethe Institute, CIRMMT, Trames Audio, Audiotopie"
@@ -1018,31 +1049,33 @@
     - name: knowledge mobilization
       id: 'knowledge_mobilization'
   before:
-    image: '/assets/images/projects/Engaging professionals/DSC_0204 (1).jpg'
-    credits: 'N/A'
-    alt: "Participants engaging in a sound-related workshop before the project"
+    - image: '/assets/images/projects/Engaging_professionals/IMG_8504.JPG'
+      credits: 'Christine Kerrigan'
+      alt: "Urban professionals discussing sound considerations at our 2019 workshop."
   after:
-    image: '/assets/images/projects/Engaging professionals/IMG_8504.JPG'
-    credits: 'Christine Kerrigan'
-    alt: " Urban professionals discussing sound considerations at our 2019 workshop. Photo "
-  brief: "We mobilize sound knowledge with professionals and the public through an array of activities. Different strategies create sound awareness in different ways, with different levels of participation and immersion."
-  about: "Our team has been conducting workshops and soundwalks, giving demonstrations and presentations in schools, workplaces, festivals, and community centers. We also participate in public consultation activities, working groups, and professional training, and disseminate our research findings in the media (press, TV, radio, blogs, social media) through videos, pamphlets, and comic books. Additionally, we develop soundscape simulation tools for different users (general public and professionals of the built environment)."
-  participation: "Workshops, soundwalks, demonstrations, public consultations, professional training, media dissemination"
+    - image: '/assets/images/projects/Engaging_professionals/DSC_0204_.jpg'
+      credits: 'Cynthia Tarlao'
+      alt: ""
+  brief: "We mobilize sound knowledge with professionals and the public through an array of activities.<br><br>Different strategies create sound awareness in different ways, with different levels of participation and immersion."
+  about: "Our team has been conducting workshops and soundwalks, giving demonstrations and presentations in schools, workplaces, festivals, and community centers."
+  participation: "We also participate in public consultations activities, working groups, professional training and disseminate our research findings in the media (press, TV, radio, blogs, social media) through videos, pamphlets and comic books. We also develop soundscape simulation tools for different users (general public and professional of the built environment). "
   contact_info: "For details, please contact: Daniel Steele, Catherine Guastavino"
   links:
-    - url: 'http://paysages-sonores.ca/'
-      name: 'Web-documentaries presented at Montreal International Documentary Festival'
+    - url: ''
+      name: ''
   publications:
+    - url: ''
+      name: 'Web-documentaries were presented at Montreal International Documentary Festival in November 2019 and are available online at http://paysages-sonores.ca/.'
     - url: 'https://doi.org/10.3390/app13031611'
       name: 'Yanaky, R., Tyler, D., & Guastavino, C. (2023). City Ditty: An Immersive Soundscape Sketchpad for Professionals of the Built Environment. Applied Sciences, 13, 1611.'
     - url: 'https://doi.org/10.1016/j.landurbplan.2022.104642'
-      name: 'Tarlao, C. Steele, D., Blanc, G., & Guastavino, C. (2023). Interactive soundscape simulation as a co-design tool for urban professionals. Landscape and Urban Planning, 231, 104642.'
-    - url: 'https://jcaa.caaaca.ca/index.php/jcaa/article/view/4064'
-      name: 'Yanaky, R., & Guastavino, C. (2023). Bridging the gap between sound and non-sound professionals with virtual reality. Proceedings of Acoustics Week in Canada 2023. Canadian Acoustics, 51(3):192-3.'
+      name: 'Tarlao, C. Steele, D., Blanc, G., & Guastavino, C. (2023). Interactive soundscape simulation as a co-design tool for urban professionals. Landscape and Urban Planning, 231, 104642. doi.org/10.1016/j.landurbplan.2022.104642 '
     - url: ''
       name: 'Fraisse, V., Wanderley M., Misdariis N., & Guastavino C. (2024). Designing Sound for Public Spaces Through a Research-Creation Collaboration Framework. Proceedings of the Design Research Society Conference. Boston, Massachusetts, June 2024.'
+    - url: 'https://jcaa.caaaca.ca/index.php/jcaa/article/view/4064'
+      name: 'Yanaky, R., & Guastavino, C. (2023). Bridging the gap between sound and nonsound professionals with virtual reality. Proceedings of Acoustics Week in Canada 2023. Canadian Acoustics, 51(3):192-3. Available from: https://jcaa.caaaca.ca/index.php/jcaa/article/view/4064'
     - url: 'https://www.tandfonline.com/doi/abs/10.1080/13574809.2019.1699399'
-      name: 'Steele, D., Kerrigan, C., & Guastavino, C. (2020). Sounds in the city: Bridging the gaps from research to practice through soundscape workshops. Journal of urban design, 25(5), 646-664.'
+      name: 'Steele, D., Kerrigan, C., & Guastavino, C. (2020). Sounds in the city: Bridging the gaps from research to practice through soundscape workshops. <i>Journal of urban design</i>, 25(5), 646-664.'
   prev_url: "project20"
   next_url: 'project22'
 
@@ -1052,7 +1085,7 @@
   location: ""
   date: "2020 - Ongoing"
   start-date: "2020"
-  end-date: "Ongoing"
+  end-date: "2024"
   image: "/assets/images/projects/sonic injustice/Railyards.jpg"
   url: "project22"
   fundings: "FRQSC doctoral fellowship"
@@ -1066,13 +1099,13 @@
     - name: equity
       id: 'equity'
   before:
-    image: '/assets/images/projects/sonic injustice/Railyards.jpg'
-    credits: 'N/A'
-    alt: "A low-income neighborhood affected by noise pollution"
+    - image: '/assets/images/projects/sonic_injustice/Railyards.jpg'
+      credits: 'Christopher Trudeau'
+      alt: ""
   after:
-    image: '/assets/images/projects/sonic injustice/'
-    credits: 'N/A'
-    alt: "An outdoor space providing respite from urban noise"
+    - image: ''
+      credits: ''
+      alt: ""
   brief: "Low income and racialized groups are often overexposed to noise in their homes.<br><br>They may also have less access to outdoor spaces where they can escape from noise.<br><br>Children are often less exposed to noise than adults.<br><br>They may also have less access to outdoor spaces where they can escape from noise."
   about: "The sounds that fill our everyday lives matter for our health and wellbeing. Undesirable sounds, which we refer to as noise, can have negative auditory and non-auditory health effects, as well as reducing our overall quality of life. Spaces with desirable sounds, such as nature or festivals, can reduce stress levels, helping to improve overall health and wellbeing. Some people are more vulnerable to the effects of environmental problems like noise than others because of who they are, including children, people with low income and racialized people."
   participation: "We’re studying the inequalities faced by these groups in two areas: 1) exposure to noise and 2) access to health-promoting sonic environments. In many cities and regions around the world, low-income and racialized groups are often overexposed to noise in their homes. Early evidence suggests that they may have less access to sonic environments that enable them to de-stress."
@@ -1082,7 +1115,7 @@
       name: ''
   publications:
     - url: 'https://doi.org/10.1016/j.socscimed.2023.115919'
-      name: 'Trudeau, C., King, N., & Guastavino, C. (2023). Investigating sonic injustice: A review of published research. Social Science & Medicine, 326, 115919.'
+      name: 'Trudeau, C., King, N., & Guastavino, C. (2023). Investigating sonic injustice: A review of published research. Social Science & Medicine, 326, 115919. https://doi.org/10.1016/j.socscimed.2023.115919'
   prev_url: "project21"
   next_url: 'project23'
 
@@ -1093,72 +1126,80 @@
   date: "2018 - ongoing"
   start-date: "2018"
   end-date: "Ongoing"
-  image: "/assets/images/projects/City Ditty/CityDitty-Cafe.png"
+  image: "/assets/images/projects/City_Ditty/City_Ditty_Day_in_the_Park.png"
   url: "project23"
-  fundings: "This project has been supported in some form by all three sectors of 
-<a href='https://frq.gouv.qc.ca/en/'>Fonds de recherche du Québec</a>: (Society & Culture, Nature and technologies, and Health); the <a href='https://www.cirmmt.org/'>Centre for Interdisciplinary Research in Music Media and Technology (CIRMMT)<a/>; and a <a href='https://www.mcgill.ca/wolfechair/wolfe-fellows'> Wolfe Graduate Fellowship in Scientific and Technological Literacy.</a>"
+  fundings: 'This project has been supported in some form by all three sectors of <a href="https://frq.gouv.qc.ca/en/" target="_blank">Fonds de recherche du Québec</a>: (Society & Culture, Nature and technologies, and Health); the <a href="https://www.cirmmt.org/" target="blank">Centre for Interdisciplinary Research in Music Media and Technology (CIRMMT)<a/>; and a <a href="https://www.mcgill.ca/wolfechair/wolfe-fellows" target="_blank"> Wolfe Graduate Fellowship in Scientific and Technological Literacy.</a>'
   collaborators: "Ying-Ying Zhang and Gianluca Grazioli (McGill Sound Recording PhD candidates); Darcy Tyler (Cognitive Sciences undergraduate research assistant)"
   name: "Richard Yanaky"
   tags:
     - name: "Simulation"
       id: "simulation"
     - name: "Sound Awareness"
-      id: "sound-awareness"
+      id: "sound_awareness"
     - name: "Human-Computer Interaction"
       id: "hci"
     - name: "User-Centered Design"
-      id: "user-centered-design"
+      id: "user_centered_design"
     - name: "Professionals of the Built Environment"
       id: "pbe"
     - name: "Rapid Prototyping"
-      id: "rapid-prototyping"
+      id: "rapid_prototyping"
     - name: "Emerging Technologies"
-      id: "emerging-technologies"
+      id: "emerging_technologies"
   before:
-    image: '/assets/images/projects/City Ditty/CityDitty-Cafe.png'
-    credits: 'N/A'
-    alt: "Before project image"
+    - image: '/assets/images/projects/City_Ditty/CityDitty-Cafe.png'
+      credits: 'Richard Yanaky'
+      alt: "City Ditty Cafe"
   after:
-    image: '/assets/images/projects/City Ditty/after.jpg'
-    credits: 'N/A'
-    alt: "After project image"
+    - image: '/assets/images/projects/City_Ditty/City_Ditty_Day_in_the_Park.png'
+      credits: 'Richard Yanaky'
+      alt: "City Ditty Day in the Park"
+    - image: '/assets/images/projects/City_Ditty/City_Ditty_Food_Hall.png'
+      credits: 'Richard Yanaky'
+      alt: "City Ditty Food Hall"
+    - image: '/assets/images/projects/City_Ditty/City_Ditty_fountain_square.png'
+      credits: 'Richard Yanaky'
+      alt: "City Ditty fountain square"
+    - image: '/assets/images/projects/City_Ditty/City_Ditty_Busy_City.png'
+      credits: 'Richard Yanaky'
+      alt: "City Ditty Busy City"
   brief: "An ongoing user-centered design process to provide accessible audio-visual sound planning tools.<br<br>Designed to help raise sound-awareness through interactive lessons on soundscape principles and design.<br<br>Supports rapid prototyping of soundscapes through simple manipulation of sound sources, time of day, weather conditions.<br<br>Provides different methods visualization and auralization for sound.<br<br>Prioritizes ease of use for non-sound experts.<br<br>Includes built-in data collection methods including questionnaires, user-action logs (both what was interacted with, and user pathway tracking)."
-  about: "Soundscape simulators make it possible to quickly iterate through many different possibilities to both raise sound-awareness, support exploratory designs, and help non-sound experts make informed decisions. Furthermore, as the focus is on creating positive auditory experiences amongst stakeholders, an emphasis should be placed on fast, informative, and fun exploratory experiences to encourage active and meaningful participation that retains interest overtime.<br><br>In its earliest phase, it examined how Professionals of the Built Environment (PBEs) (e.g. Urban planners, designers, and policy makers) would like to interact with sound. As they current didn’t interact with sound much if at all, a user-centered design process began, with a user needs assessment with PBEs as part of a workshop which included focus groups, tech demos, and a collaborative soundscape design exercise. Although PBEs could not directly say what they needed, this study helped identify what kind of functionalities such a tool would have, and how they could interact with virtual soundscapes, as non-experts.  These results funneled into the development of City Ditty – an immersive soundscape that supports the rapid audio-visual prototyping of urban soundscapes. Its first usability study found that people could learn about soundscapes and prototype their own simple designs with City Ditty, all in under an hour."
+  about: "Soundscape simulators make it possible to quickly iterate through many different possibilities to both raise sound-awareness, support exploratory designs, and help non-sound experts make informed decisions. Furthermore, as the focus is on creating positive auditory experiences amongst stakeholders, an emphasis should be placed on fast, informative, and fun exploratory experiences to encourage active and meaningful participation that retains interest overtime.<br><br>In its earliest phase, it examined how Professionals of the Built Environment (PBEs) (e.g. Urban planners, designers, and policy makers) would like to interact with sound. As they current didn’t interact with sound much if at all, a user-centered design process began, with a user needs assessment with PBEs as part of a workshop which included focus groups, tech demos, and a collaborative soundscape design exercise. Although PBEs could not directly say what they needed, this study helped identify what kind of functionalities such a tool would have, and how they could interact with virtual soundscapes, as non-experts.  These results funneled into the development of City Ditty – an immersive soundscape that supports the rapid audio-visual prototyping of urban soundscapes. Its first usability study found that people could learn about soundscapes and prototype their own simple designs with City Ditty, <i>all in under an hour</i>."
   participation: "As the project continued, it further explored how such emerging technologies could be used to support more people in considering the auditory experience, new and useful ways to model the dynamic nature of people in a city, and how such tools could fit into a PBEs existing workflow. Today, it is being put into use in collaboration of cities the City of Montreal to help auralize existing sound-related issues and help simulate potential sound interventions. It is also being used by other PhD students for their own experiment design and data collection, with future experiments and works in development.<br><br>Are you interested in using City Ditty for a city project? A fellow researcher interested in using City Ditty for a research project? Please contact us directly (contact details below)."
   contact_info: "For details, please contact: Richard Yanaky or Catherine Guastavino"
   links:
     - url: 'https://www.youtube.com/playlist?list=PLIlbMTlgR90J2stZScpJ-oqi1_5Hj4RzY'
-      name: 'YouTube playlist of demos and several past talks.   '
-    - url: 'https://doi.org/10.3390/app13031611'
-      name: 'The original paper that describes the longer user-centered design and evaluation process of City Ditty:
-Yanaky, R., Tyler, D., & Guastavino, C. (2023). City Ditty: An Immersive Soundscape Sketchpad for Professionals of the Built Environment. Applied Sciences, 13(3), 1611. https://doi.org/10.3390/app13031611   
-'
-    - url: ' '
-      name: 'A paper in Canadian Acoustics, discuss three lenses for soundscape simulator design and stakeholder engagement:'
-    - url: 'https://jcaa.caa-aca.ca/index.php/jcaa/article/view/4180'
-      name: 'Yanaky, R., & Guastavino, C. (2024). Realistic Enough? Design Considerations for Soundscape Simulators. Canadian Acoustics, 52(1).'
-    - url: 'https://jcaa.caa-aca.ca/index.php/jcaa/article/view/4180'
-      name: 'Fraisse, V., Tarlao, C., Yanaky, R., & Guastavino, C. (2024). One Size Doesnt Fit All: Three Tools For Soundscape Simulation. Canadian Acoustics, 52(1).'
+      name: 'YouTube playlist of demos and several past talks.'
   publications:
+    - url: 'https://doi.org/10.3390/app13031611'
+      name: 'Yanaky, R., Tyler, D., & Guastavino, C. (2023). City Ditty: An Immersive Soundscape Sketchpad for Professionals of the Built Environment. <i>Applied Sciences</i>, 13(3), 1611. https://doi.org/10.3390/app13031611'
+      before: 'The original paper that describes the longer user-centered design and evaluation process of City Ditty:'
+    - url: 'https://jcaa.caa-aca.ca/index.php/jcaa/article/view/4180'
+      name: 'Yanaky, R., & Guastavino, C. (2024). Realistic Enough? Design Considerations for Soundscape Simulators. <i>Canadian Acoustics</i>, 52(1). https://jcaa.caa-aca.ca/index.php/jcaa/article/view/4183'
+      before: 'A paper in Canadian Acoustics, discuss three lenses for soundscape simulator design and stakeholder engagement:'
+    - url: 'https://jcaa.caa-aca.ca/index.php/jcaa/article/view/4180'
+      name: "Fraisse, V., Tarlao, C., Yanaky, R., & Guastavino, C. (2024). One Size Doesn't Fit All: Three Tools For Soundscape Simulation. <i>Canadian Acoustics</i>, 52(1). https://jcaa.caa-aca.ca/index.php/jcaa/article/view/4180"
+      before: 'Another in Canadian Acoustics that that discusses City Ditty in relation with our two other in-house soundscape simulators for stakeholder engagement and prototyping sound art installations: '
     - url: 'https://www.researchgate.net/publication/374750772_Exploring_the_use_of_soundscape_sketchpads_with_professionals'
       name: 'Yanaky, R., Grazioli, G., Zhang, Y.-Y., & Guastavino, C. (2023). Exploring the use of soundscape sketchpads with professionals. INTER-NOISE and NOISE-CON Congress and Conference Proceedings, Chiba, Japan, August 20-23, 2023. '
+      before: 'From Internoise 2023, a paper that discusses how emerging technologies can help challenge the status quo...if we get more support:'
     - url: ''
-      name: 'A Human-Computer Interaction (HCI) chapter that discusses using soundscape simulators, interactive sound installations, and digital musical instruments (DMIs).'
-    - url: ''
-      name: 'Yanaky, R., Reimer, P. J. C., Fraisse, V., Wanderley, M., & Guastavino, C. (2024). Sound-Based Interaction. In C. Stephanidis & G. Salvendy (Eds.), Human Computer Interaction: Interaction Technologies and Techniques. CRC Press.'
+      name: 'Yanaky, R., Reimer, P. J. C., Fraisse, V., Wanderley, M., & Guastavino, C. (2024). Sound-Based Interaction. In C. Stephanidis & G. Salvendy (Eds.), <i>Human Computer Interaction: Interaction Technologies and Techniques</i>. CRC Press.'
+      before: 'A Human-Computer Interaction (HCI) chapter that discusses using soundscape simulators, interactive sound installations, and digital musical instruments (DMIs).'
     - url: 'https://hal.science/hal-02901211/'
-      name: 'Yanaky, R., Tarlao, C., & Guastavino, C. (2020). An Interactive Soundscape Simulator for Professionals of the Built Environment International Workshop on Haptic and Audio Interaction Design, HAID 2020, Montreal, Canada.'
+      name: 'Yanaky, R., Tarlao, C., & Guastavino, C. (2020). <i>An Interactive Soundscape Simulator for Professionals of the Built Environment</i> International Workshop on Haptic and Audio Interaction Design, HAID 2020, Montreal, Canada. https://hal.science/hal-02901211/'
+      before: 'Yanaky, R., Tarlao, C., & Guastavino, C. (2020). An Interactive Soundscape Simulator for Professionals of the Built Environment International Workshop on Haptic and Audio Interaction Design, HAID 2020, Montreal, Canada. https://hal.science/hal-02901211/'
   prev_url: "project22"
   next_url: 'project24'
 
 
-- title: "Illustrating Soundscape: Fantastique Acoustique"
+- title: "Soundscape illustrated: Fantastique Acoustique"
   description: "Contextualizing urban sound issues for the general public through comics."
   location: "Montreal"
   date: "Fall 2023 - Spring 2024"
   start-date: "2023"
   end-date: "2024"
-  image: "/assets/images/projects/illustrating soundscape/IMG_1367.jpeg"
+  image: "/assets/images/projects/illustrating_soundscape/IMG_1367.jpeg"
   url: "project24"
   fundings: "FRQ Dialogue"
   collaborators: "Olivier Robin, Tamara Krpic, Madeleine Guastavino, Marina León"
@@ -1173,29 +1214,42 @@ Yanaky, R., Tyler, D., & Guastavino, C. (2023). City Ditty: An Immersive Soundsc
     - name: "Education"
       id: "education"
   before:
-    image: '/assets/images/projects/illustrating soundscape/'
-    credits: 'N/A'
-    alt: ""
+    - image: '/assets/images/projects/illustrating_soundscape/IMG_1367.jpeg'
+      credits: 'N/A'
+      alt: ""
   after:
-    image: '/assets/images/projects/illustrating soundscape/'
-    credits: 'N/A'
-    alt: ""
-  brief: "Creation of graphic novels with illustrators. Presented at the Montreal Comic Arts Festival 2024. Graphic novels available below (Creative Commons CC-XXX)"
-  about: "Sharing our research with the public has always been a core tenet of the Sounds in the City project raising the awareness of citizens with soundwalks and sound installations. this is now further aided by the addition of : two beautiful comics, thanks to the gorgeous art of<a href='https://www.instagram.com/marinaladeanteojos/'>Marina León</a> and <a href='https://www.instagram.com/tournesoliloque/'> Madeleine Guastavino</a>.<br><br>Background noise that speaks volumes: Tales of sonic inequalities tells the story of three people exposed to different amounts and types of noise, and who have different opportunities to cope with it, across their daily activities."
-  participation: "What if we rethink our cities through sound? Sketching a sound environment is a quietly magic and utopic story of putting human experiences and needs at the center of urban design.<br><br>Happy reading!<br><br>Interested in learning more or using these comics in your own educational efforts? Contact us directly for more information.<br><br>For details, please contact:"
+    - image: '/assets/images/projects/illustrating_soundscape/EquipeH_ENG_p1.jpg'
+      credits: 'art by Marina León'
+      alt: "Background noise that speaks volumes: Tales of sonic inequalities"
+    - image: '/assets/images/projects/illustrating_soundscape/EquipeH_ENG_p2.jpg'
+      credits: 'art by Marina León'
+      alt: "Background noise that speaks volumes: Tales of sonic inequalities"
+    - image: '/assets/images/projects/illustrating_soundscape/EquipeH_ENG_p3.jpg'
+      credits: 'art by Marina León'
+      alt: "Background noise that speaks volumes: Tales of sonic inequalities"
+    - image: '/assets/images/projects/illustrating_soundscape/EquipeG_ENG_p1.jpg'
+      credits: 'art by Madeleine Guastavino'
+      alt: "What if we rethink our cities through sound? Sketching a sound environment"
+    - image: '/assets/images/projects/illustrating_soundscape/EquipeG_ENG_p2.jpg'
+      credits: 'art by Madeleine Guastavino'
+      alt: "What if we rethink our cities through sound? Sketching a sound environment"
+    - image: '/assets/images/projects/illustrating_soundscape/EquipeG_ENG_p3.jpg'
+      credits: 'art by Madeleine Guastavino'
+      alt: "What if we rethink our cities through sound? Sketching a sound environment"
+  brief: "Creation of graphic novels with illustrators<br><br>Presentatedion at the Montreal Comic Arts Festival 2024<br><br>Graphic novels available below (Creative Commons CC-XXX)"
+  about: 'Sharing our research with the public has always been a core tenet of the Sounds in the City project through raising the awareness of citizens with soundwalks and sound installations. This is now further aided by the addition of : two beautiful comics, thanks to the gorgeous art of Marina León <a href="https://www.instagram.com/marinaladeanteojos/" target="_blank">(https://www.instagram.com/marinaladeanteojos/)</a> and Madeleine Guastavino <a href="https://www.instagram.com/tournesoliloque/" target="_blank">(https://www.instagram.com/tournesoliloque/)</a>.'
+  participation: "Background noise that speaks volumes: Tales of sonic inequalities tells the story of three people exposed to different amounts and types of noise, and who have different opportunities to cope with it, across their daily activities. What if we rethink our cities through sound? Sketching a sound environment is a quietly magic and utopic story of putting human experiences and needs at the center of urban design.<br><br>Happy reading!"
   contact_info: "For details, please contact: Catherine Guastavino"
   links:
     - url: 'https://ici.radio-canada.ca/ohdio/premiere/emissions/moteur-de-recherche/episodes/704917/rattrapage-mercredi-17-mai-2023'
-      name: 'C. Trudeau on the Radio '
+      name: 'C. Trudeau on the radio (https://ici.radio-canada.ca/ohdio/premiere/emissions/moteur-de-recherche/episodes/704917/rattrapage-mercredi-17-mai-2023) '
     - url: 'https://www.fbdm-mcaf.ca/en/comic-arts-festival/find-them/exhibitors/#universite-de-sherbrooke'
-      name: '"Montreal Comic Arts Festival 2024'
+      name: 'Montreal Comic Arts Festival 2024 (https://www.fbdm-mcaf.ca/en/comic-arts-festival/find-them/exhibitors/#universite-de-sherbrooke) '
   publications:
     - url: ''
-      name: '-	Robin, O., Krpic, T., Carrion, A., Proulx, F., Demuynck, M., Gallerand, L., Fraisse, V., Trudeau, C., Tarlao, C., Perrier de la Bathie, C., Bernier-Breton, C., Dupont, T., Doutres, O.; Voix, J., Cauchy, P., St-Onge, G. and Guastavino, C (2024). Fantastic acoustics: A magazine describing the importance and the scope of acoustics research in Québec. The Journal of the Acoustical Society of America, 155(3_Supplement), A194-A194.'
+      name: 'Robin, O., Krpic, T., Carrion, A., Proulx, F., Demuynck, M., Gallerand, L., Fraisse, V., Trudeau, C., Tarlao, C., Perrier de la Bathie, C., Bernier-Breton, C., Dupont, T., Doutres, O.; Voix, J., Cauchy, P., St-Onge, G. and Guastavino, C (2024). Fantastic acoustics: A magazine describing the importance and the scope of acoustics research in Québec. <i>The Journal of the Acoustical Society of America, 155</i>(3_Supplement), A194-A194. '
     - url: ''
-      name: '-	See also Robin, O., & Plante, C. (2022). An illustrated tutorial for logarithmic scales and decibels in acoustics. The Journal of the Acoustical Society of America, 152(5), 2880-2892.'
-    
-
+      name: 'See also Robin, O., & Plante, C. (2022). An illustrated tutorial for logarithmic scales and decibels in acoustics. <i>The Journal of the Acoustical Society of America, 152</i>(5), 2880-2892. '
   prev_url: "project23"
   next_url: "project25"
 
@@ -1204,7 +1258,12 @@ Yanaky, R., Tyler, D., & Guastavino, C. (2023). City Ditty: An Immersive Soundsc
   description: "Soundscape of Green Spaces Walking Access, A Participatory Mapping Approach"
   date: "2023 - Ongoing"
   start-date: "2023"
-  end-date: "Ongoing"
+  end-date: "2027"
+  image: "/assets/images/projects/GreenSpaceWalkingAccess/GreenSpaceNoiseNeighbourhood.jpeg"
+  url: "project25"
+  fundings: ""
+  collaborators: ""
+  name: ""
   tags: 
     - name: "soundscape"
       id: "soundscape"
@@ -1220,50 +1279,68 @@ Yanaky, R., Tyler, D., & Guastavino, C. (2023). City Ditty: An Immersive Soundsc
       id: "participatory_planning"
     - name: "mapping"
       id: "mapping"
+  before: 
+    - image: '/assets/images/projects/GreenSpaceWalkingAccess/GreenSpaceNoiseNeighbourhood.jpeg'
+      credits: 'Negar Imani'
+      alt: ""
+  after:
+    - image: '/assets/images/projects/GreenSpaceWalkingAccess/LargeScale.jpeg'
+      credits: 'Negar Imani'
+      alt: ""
+    - image: '/assets/images/projects/GreenSpaceWalkingAccess/PinkTree.jpeg'
+      credits: 'Catherine Guastavino'
+      alt: ""
   brief: "What are the relationships between having walkable paths to green spaces and residents’ everyday soundscapes?<br><br>Does walkability around green spaces impact residents’ everyday soundscape?<br><br>Is having a more positive sonic environment in the neighborhood promoting the walkability of green spaces?"
   about: "Would you walk on a visually pleasant sidewalk if you were annoyed with the noise of cars passing by? Sounds are an important element of our everyday life; however, they have rarely been studied in the context of walking environments. While the aim of walking in green spaces is to provide a restorative experience for people, the quality of the walking path and its soundscape has not been studied around the parks. This project aims to (1) understand if more walkable areas around green spaces result in a better experience while residents walk to them. To do so, we use maps of the sidewalk width, trees, points of interest, etc. -which are the walkability indicators- on a large scale and will measure walkability in GIS software."
-  participation: " We will see if the higher walkability of the neighborhood promotes people’s overall sound experience of their walk to the green space of people living in different neighborhoods in Montreal. Moreover, in the second phase (2) we will focus on people’s everyday experiences on a small scale in their neighborhood. Using participatory mapping, the relationship between the paths residents choose and the sound environment will be studied. This study paves the way to understanding the relationships between walkability and urban soundscapes."
-  before:
-    image: '/assets/images/projects/local green space/Picture1.jpg'
-    credits: ''
-    alt: "Before project image"
-  after:
-    image: '/assets/images/projects/local green space/Picture2.jpg'
-    credits: ''
-    alt: "After project image"
-  collaborators: ""
-  funding: ""
-  publications: ""
+  participation: "We will see if the higher walkability of the neighborhood promotes people’s overall sound experience of their walk to the green space of people living in different neighborhoods in Montreal. Moreover, in the second phase (2) we will focus on people’s everyday experiences on a small scale in their neighborhood. Using participatory mapping, the relationship between the paths residents choose and the sound environment will be studied. This study paves the way to understanding the relationships between walkability and urban soundscapes."
   contact_info: "For details, please contact: Negar Imani, Catherine Guastavino"
-  url: "project25"
+  links: 
+    - url: ""
+      name: "" 
+  publications: 
+    - url: ""
+      name: ""  
   prev_url: "project24"
   next_url: "project26"
 
+
 - title: "Street Performances and the Quality of Urban Public Space"
-  description: "a project to use City Ditty to explore the effects of street performances on Quality of Urban Public Space"
-  url: "project26"
+  description: "A project to use City Ditty to explore the effects of street performances on Quality of Urban Public Space"
   date: "Fall 2023-ongoing"
   start-date: "2023"
-  end-date: "Ongoing"
+  end-date: "2024"
+  image: "/assets/images/projects/Street_Performances/Musician_in_the_park.png"
+  url: "project26"
+  fundings: ""
   collaborators: "Richard Yanaky, Catherine Guastavino"
-  contact_info: "For more details contact : Chang Miao, Catherine Guastavino"
+  name: ""
   tags: 
     - name: "sound-related evaluation"
-      id: "sound-related_evaluation"
+      id: "sound_related_evaluation"
     - name: "psychological outcomes"
       id: "psychological_outcomes"
     - name: "behavior maps"
       id: "behavior_maps"
-    
-  brief: "What are the relationships between the presence of street performance and the quality of urban public spaces?<br><br>Does the street performance impact people’s perceptions of urban space?<br><br>How do street performance impact space utilization and user behaviors?"
-  about: "Steet performances, or busking, encompass various entertainment acts that take place in urban public spaces. These performances add significant cultural and artistic value to public spaces, offering free entertainment that captures the attention of passerby. This study investigates how street performances influence the perception and behavior of people in urban public space using virtual reality technology.
-<br><br>The research focuses on understanding if and how street performances alter sound-related evaluations in virtual urban environment, comparing different settings such as street and park. The psychological outcomes of street music performances, including their potential to provide restorative experiences or change their mood. Additionally, the study investigates how the performance affects the way people use these spaces, specifically their choices of where to stay and their interest areas."
-  participation: "Using a 3D virtual environment called “City Ditty”, the study simulates different soundscapes and scenarios to provide controlled experimental conditions. Participants experience various settings with live performance music, music played through speakers, and baseline environments without music. The data will offer insight into how sound environments influence urban public experiences."
   before:
-    image: '/assets/images/projects /Street Performances and the Quality of Urban Public Space /ChangCityDittyScreenshot2.png'
-    credits: 'N/A'
-    alt: ""
+    - image: '/assets/images/projects/Street_Performances/ChangCityDittyScreenshot1.png'
+      credits: 'Chang Miao'
+      alt: ""
   after:
-    image: '/assets/images/projects/Street Performances and the Quality of Urban Public Space/Musician in the park.png'
-    credits: 'N/A'
-    alt: ""
+    - image: '/assets/images/projects/Street_Performances/ChangCityDittyScreenshot2.png'
+      credits: 'Chang Miao'
+      alt: ""
+    - image: '/assets/images/projects/Street_Performances/Musician_in_the_park.png'
+      credits: 'Richard Yanaky'
+      alt: ""
+  brief: "What are the relationships between the presence of street performance and the quality of urban public spaces?<br><br>Does the street performance impact people’s perceptions of urban space?<br><br>How do street performance impact space utilization and user behaviors?"
+  about: "Street performances, or busking, encompass various entertainment acts that take place in urban public spaces. These performances add significant cultural and artistic value to public spaces, offering free entertainment that captures the attention of passerby. This study investigates how street performances influence the perception and behavior of people in urban public space using virtual reality technology.<br><br>The research focuses on understanding if and how street performances alter sound-related evaluations in virtual urban environment, comparing different settings such as street and park. The psychological outcomes of street music performances, including their potential to provide restorative experiences or change their mood. Additionally, the study investigates how the performance affects the way people use these spaces, specifically their choices of where to stay and their interest areas."
+  participation: "Using a 3D virtual environment called “City Ditty”, the study simulates different soundscapes and scenarios to provide controlled experimental conditions. Participants experience various settings with live performance music, music played through speakers, and baseline environments without music. The data will offer insight into how sound environments influence urban public experiences."
+  contact_info: "For more details contact : Chang Miao, Catherine Guastavino"
+  links: 
+    - url: ""
+      name: "" 
+  publications: 
+    - url: ""
+      name: ""  
+  prev_url: "project25"
+  next_url: ""
