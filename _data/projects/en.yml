@@ -489,22 +489,24 @@
   prev_url: "project9"
   next_url: 'project11'
 
-- title: "Recreation vs. Residence: Sonic Cohabitation in downtown Montreal (ListenUpMTL / ÉcoutezMTL)"
-  description: "researching sonic cohabitation on pedestrianized streets during COVID-19"
+- title: "Recreation vs. Residence: Sonic Cohabitation in downtown Montreal (ListenUpMTL / ÉcoutezMTL) "
+  description: "Researching sonic cohabitation on pedestrianized streets during COVID-19"
   location: ""
   date: "Spring 2021 – Spring 2022"
-  image: "/assets/images/projects/recreation v residence/IMG_1848_QdS_CreditsFXFeron.JPG"
+  start-date: "2021"
+  end-date: "2022"
+  image: "/assets/images/projects/recreation_v_residence/IMG_1848_QdS_CreditsFXFeron.JPG"
   url: "project11"
   fundings: "MITACS Accelerate program with the City of Montreal"
-  collaborators: "City of Montreal (Service of Economic Development) and Montreal’s Public Health Agency (DRSP)"
-  name: ""
+  collaborators: "The City of Montreal (Service of Economic Development) and Montreal’s Public Health Agency (DRSP) "
+  name: "Recreation vs. Residence: Sonic Cohabitation in downtown Montreal (ListenUpMTL / ÉcoutezMTL)"
   tags:
     - name: ListenUpMTL
       id: 'listenupmtl'
     - name: sonic cohabitation
       id: 'sonic_cohabitation'
     - name: pedestrianization
-      id: 'pedestrianization'
+      id: 'pedestrianizationTAGS'
     - name: entertainment district
       id: 'entertainment_district'
     - name: Quartier des Spectacles
@@ -514,27 +516,27 @@
     - name: DRSP
       id: 'drsp'
   before:
-    image: '/assets/images/projects/project1_before.png'
-    credits: ''
-    alt: ""
+    image: '/assets/images/projects/recreation_v_residence/ListenUp.jpg'
+    credits: 'The City of Montreal'
+    alt: "The ListenUpMTL / ÉcoutezMTL logo"
   after:
-    image: '/assets/images/projects/project1.png'
-    credits: ''
+    image: '/assets/images/projects/recreation_v_residence/IMG_1848_QdS_CreditsFXFeron.JPG'
+    credits: 'François-Xavier Féron'
     alt: ""
-  brief: "The sound of recreational activities is a contentious topic for ideas on urban sonic cohabitations. The sound of recreational activities is 'expected' when living downtown, and nightlife is not the main issue of residents, but construction noise and other punctual noise issues."
-  about: "The sound of recreational activities is often considered a necessary nuisance of urban economy to be mitigated, and while urban life must respond to the needs and expectations of both residents and visitors, its sounds sit at the intersection of concerns on liveability and vitality, challenging ideas on successful sonic cohabitation.<br><br> Sounds in the City collaborated with the City of Montreal and Montreal’s public health department (DRSP) to develop ÉcoutezMTL / ListenUpMTL - a mixed methods study aimed at better understanding the complexity of living in the vicinity of vibrant urban neighborhoods, focusing on two pedestrianized streets and the entertainment district (Quartier des Spectacles) in downtown Montreal. Using sound level measurements, surveys, resident diaries, and interviews, we aimed to complement the existing limited, negative portrayal of recreational noise and nightlife in the media, public imagination, and in policy. Our research shows that the sounds from recreational activities (including festivals and events as well as everyday street life) are not always perceived negatively by residents, especially in the context of the COVID-19 pandemic, and the challenges of sonic cohabitation lie elsewhere."
-  participation: "We participated in public consultations and conducted acoustic measurements and audio recordings before and after the pedestrianization. We also administered questionnaires to passers-by to evaluate their experience in the new pedestrian walkway, with an emphasis on soundscape and sonic expectations. We then provided recommendations to the borough on how to reinforce the purpose of this new space through sound."
+  brief: "The sound of recreational activities is a contentious topic for ideas on urban sonic cohabitations<br><br>The sound of recreational activities is “expected” when living downtown and nightlife is not the main issue of residents, but construction noise and other punctual noise issues"
+  about: "The sound of recreational activities is often considered a necessary nuisance of urban economy to be mitigated and while urban life must respond to the needs and expectations of both residents and visitors, its sounds sit at the intersection of concerns on liveability of and vitality and challenges ideas on successful sonic cohabitation. "
+  participation: "Sounds in the City collaborated with the City of Montreal and Montreal’s public health department (DRSP) to develop ÉcoutezMTL / ListenUpMTL - a mixed methods study aimed at better understanding the complexity of living in the vicinity of vibrant urban neighborhoods, focusing on two pedestrianized streets and the entertainment district (Quartier des Spectacles) in downtown Montreal. Using sound level measurements, surveys, resident diaries and interviews, we aimed to complement the existing limited, negative portrayal of recreational noise and nightlife in the media, public imagination, and in policy. Our research shows that the sounds from recreational activities (including festivals and events as well as everyday street life) are not always perceived negatively by residents, especially in the context of the COVID-19 pandemic and the challenges of sonic cohabitation lie elsewhere. "
   contact_info: "For details, please contact: Edda Bild"
   links:
-    - url: 'https://www.ledevoir.com/societe/transports-urbanisme/756802/le-son-cet-oubliedes-villes'
-      name: "Provost A.M. (2022, Sept. 16). Le son, cet oubli. des villes. [Description of MITACS-funded project with Ville de Montreal]. Le devoir."
-    - url: ''
+    - url: 'https://www.ledevoir.com/societe/transports-urbanisme/756802/le-son-cet-oublie-des-villes'
+      name: "Provost A.M. (2022, Sept. 16). Le son, cet oublié des villes. [Description of MITACS-funded project with Ville de Montreal]. Le devoir. Retrieved from https://www.ledevoir.com/societe/transports-urbanisme/756802/le-son-cet-oublie-des-villes (in French) "
+    - url: 'https://montrealgazette.com/news/local-news/noise-observatory-still-necessary-still-in-the-works-councillors-say'
       name: "Gyulai, L., (2021, Oct. 3). Noise observatory still necessary, still in the works, councillors say. Montreal Gazette."
     - url: ''
       name: "Canadian Broadcasting Corporation. (2021, Sept. 28). The sounds of downtown [Radio interview with postdoc Daniel Steele and collaborators]. Daybreak."
   publications:
     - url: ''
-      name: ''
+      name: 'Bild, E., Steele, D., & Guastavino, C. (2024). Supporting the living laboratory: a literature review of Montreal sound-related research. Journal of Planning Literature. '
   prev_url: "project10"
   next_url: 'project12'
 
