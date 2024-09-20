@@ -948,6 +948,8 @@
   description: "Using immersive soundwalks to encourage sound awareness and empathy among practitioners and the broader public"
   location: "Boston, Montreal, Amsterdam"
   date: "2013 - ongoing"
+  start-date: "2013"
+  end-date: "Ongoing"
   image: "/assets/images/projects/Soundwalks/DSC_0142.jpg"
   url: "project20"
   fundings: ""
@@ -965,16 +967,16 @@
     - name: knowledge mobilization
       id: 'knowledge_mobilization'
   before:
-    image: '/assets/images/projects/soundwalks_before.jpg'
-    credits: ''
+    image: '/assets/images/projects/soundwalks/DSC_0142.jpg'
+    credits: 'N/A'
     alt: "Participants during a soundwalk before the project started"
   after:
-    image: '/assets/images/projects/soundwalks_after.jpg'
-    credits: ''
+    image: '/assets/images/projects/soundwalks/soundwalks2018_CTa.jpeg'
+    credits: 'N/A'
     alt: "Participants during a soundwalk after the project implementation"
   brief: "Immersive strategies like soundwalks encourage sound awareness and show how many distinct and diverse environments there are in the city. Soundwalks can take many forms and can be excellent educational tools for professionals and the broader community alike."
-  about: "A soundwalk is, as the name implies, a walk destined to help you listen to and reflect on the soundscapes in which you are embedded. Soundwalks are very site-specific and can take multiple forms: they can be self-guided (think walking around with a map) or guided; they can also be focused on observation (staying quiet while listening) or they can be interactive (for example, clapping in space). Finally, soundwalks can serve a broad array of goals, most of them with an educational component, from teaching children about the sounds of their neighborhoods to highlighting to urban professionals the role of sound in urban planning and design.<br><br> Our own offer of soundwalks is diverse. Our most successful soundwalk, destined for a wide audience of urban practitioners and the public alike, will guide you through a variety of urban soundscapes. We point out some of the urban planning and design strategies that have shaped them as well as sharing some of the research that could contribute to making them respond even better to the needs and expectations of their users. We have offered iterations of this soundwalk with urban professionals in 3 cities (Montreal, Amsterdam, and Boston). If you are in one of these cities and would like to join us for a soundwalk, please contact us. The walks are from 2 to 3 hours but can be given in shorter versions if necessary.<br><br> Also, we are always developing new walks! Do you want to teach children how to be sound aware in fun ways? Or show teenagers how to engage with their sonic spaces using their smart devices? Reach out! We are open to working together to develop new tools that are specific to your needs."
-  participation: "Soundwalks, workshops, community engagement"
+  about: "A soundwalk, is, as the name implies, a walk destined to help you listen to and reflect on the soundscapes in which you are embedded. Soundwalks are very site-specific and can take multiple forms: they can be self-guided (think walking around with a map) or guided; they can also be focused on observation (staying quiet while listening) or they can be interactive (for example, clapping in space). Finally, soundwalks can serve a broad array of goals, most of them with an educational component, from teaching children about the sounds of their neighborhoods to highlight to urban professionals the role of sound in urban planning and design.<br><br>Our own offer of soundwalks is diverse. Our most successful soundwalk, destined for a wide audience of urban practitioners and the public alike, will guide you through a variety of urban soundscapes. We point out some of the urban planning and design strategies that have shaped them as well as sharing some of the research that could contribute to making them respond even better to the needs and expectations of their users. We have offered iterations of this soundwalk with urban professionals in 3 cities (Montreal, Amsterdam, and Boston). If you are in one of these cities and would like to join us for a soundwalk, please contact us. The walks are from 2 to 3 hours but can be given in shorter versions if necessary."
+  participation: "Also, we are always developing new walks! Do you want to teach children how to be sound aware in fun ways? Or show teenagers how to engage with their sonic spaces using their smart devices? Reach out! We are open to working together to develop new tools that are specific to your needs. "
   contact_info: "For details, please contact: Daniel Steele, Edda Bild, Catherine Guastavino"
   links:
     - url: ''
