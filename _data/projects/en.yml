@@ -900,6 +900,8 @@
   description: "Taking a participatory research creation approach to improve the soundscape of an urban public space"
   location: "Plateau-Mont-Royal, Montreal, QC"
   date: "Summer 2018 - ongoing"
+  start-date: "2018"
+  end-date: "Ongoing"
   image: "/assets/images/projects/Fleurs de Macadam sound art/Place_Fleurs_des_Macadam_8.jpg"
   url: "project19"
   fundings: "SSHRC"
@@ -915,26 +917,28 @@
     - name: pocket park
       id: 'pocket_park'
   before:
-    image: '/assets/images/projects/fleurs_de_macadam_before.jpg'
-    credits: ''
+    image: '/assets/images/projects/Fleurs de Macadam sound art/Place_Fleurs_des_Macadam_7.jpg'
+    credits: 'N/A'
     alt: "Fleurs-de-Macadam before installation"
   after:
-    image: '/assets/images/projects/fleurs_de_macadam_after.jpg'
-    credits: ''
+    image: '/assets/images/projects/Fleurs de Macadam sound art/Val_IMG_20190726_183158.jpg'
+    credits: 'N/A'
     alt: "Fleurs-de-Macadam after installation"
   brief: "The project experimented with a novel interdisciplinary collaboration between researchers, sound artists, and the City. The presence of sound installations enhances the experience of the public space and reinforces spatial design goals."
-  about: "The Plateau-Mont-Royal borough took a different approach to determining how a new public space – Fleurs-de-Macadam – could look and sound. In a first stage, over the course of the summer of 2018, the borough installed 3 separate prototype designs and allowed the public to evaluate each site. Partners from the Audiotopie artist collective developed and deployed 3 sound installations in these temporary designs. Sounds in the City evaluated the resulting soundscapes and helped the borough shape the future space for users, as well as inform the composition of a fourth sound installation, deployed in the summer of 2019.<br><br> Through an iterative process of design, deployment and evaluation, we documented the impact of the different sound installations over two years in a new public square. Using questionnaires with passers-by and sound level measurements, we identified patterns of use and main activities conducted in the square. These results informed the compositional process of sound installations that “resonate” with the desired ambiances throughout the day. The analysis of questionnaires indicated that the experiences of public space users were enhanced in the presence of all four sound installations, with positive effects on the perceived pleasantness, calmness, and ability to take a break. These results highlight the potential of intentional sound design in a public space context as well as the specific role of research creation collaborations to shape urban soundscapes."
-  participation: "Questionnaires, sound level measurements, community engagement."
+  about: "The Plateau-Mont-Royal borough took a different approach to determining how a new public space – Fleurs-de-Macadam – could look and sound. In a first stage, over the course of the summer of 2018, the borough installed 3 separate prototype designs and allowed the public to evaluate each site. Partners from the Audiotopie artist collective developed and deployed 3 sound installations in these temporary designs. Sounds in the City evaluated the resulting soundscapes and helped the borough shape the future space for users, as well as inform the composition of a fourth sound installation, deployed in the summer of 2019.<br><br>Through an iterative process of design, deployment and evaluation, we documented the impact of the different sound installations over two years in a new public square."
+  participation: "Using questionnaires with passers-by and sound level measurements, we identified patterns of use and main activities conducted in the square. These results informed the compositional process of sound installations that “resonate” with the desired ambiances throughout the day. The analysis of questionnaires indicated that the experiences of public space users were enhanced in the presence of all four sound installations, with positive effects on the perceived pleasantness, calmness, and ability to take a break. These results highlight the potential of intentional sound design in a public space context as well as the specific role of research creation collaborations to shape urban soundscapes."
   contact_info: "For details, please contact: Valérian Fraisse, Cynthia Tarlao, Catherine Guastavino"
   links:
     - url: 'https://journalmetro.com/culture/rencontres/2915990/sons-iles-madeleine-berceront-verdun/'
       name: 'Journal Métro - Les échos de nos églises'
   publications:
+    - url: 'https://doi.org/10.1016/j.landurbplan.2024.105173'
+    - name: '•	Fraisse, V., Tarlao, C., & Guastavino, C. (In press). Shaping City Soundscapes: In-Situ Evaluation of Four Sound Installations in an Urban Public Space. Landscape and Urban Planning.'
     - url: 'https://www.taylorfrancis.com/chapters/edit/10.4324/9781003140535-5/designing-sound-installations-public-spaces-catherine-guastavino-val%C3%A9rian-fraisse-simone-ambrosio-etienne-legast-maryse-lavoie'
       name: 'Guastavino, C., Fraisse, V., D’Ambrosio, S, Legast, E, & Lavoie, M. (2022). Designing sound installations in public spaces: A collaborative research creation approach. In Filimowicz, M. (Ed)., Designing Interaction for Music and Sound. Routledge, Abingdon, UK.'
     - url: 'https://www.researchgate.net/publication/333058798_Sounds_in_the_City_Improving_the_soundscape_of_a_public_square_through_sound_art'
       name: 'Steele D., Legast, E., Trudeau C., Fraisse, V., Guastavino, C. (2019). Sounds in the city: Improving the soundscape of a public square through sound art. Invited paper, Proceedings of the 26th International Congress on Sound and Vibration (ICSV26), Montréal, QC, July 7–11 (8 pages).'
-    - url: 'https://hal.science/HAID2020/hal-02901201v1'
+    - url: 'https://hal.archives-ouvertes.fr/HAID2020/hal-02901201v1'
       name: 'Fraisse, V., Steele, D., D’Ambrosio, S., & Guastavino, C. (2020). Shaping urban soundscapes through sound art: a case study in a public square exposed to construction noise. In International Workshop on Haptic and Audio Interaction Design, HAID 2020, Montreal, QC, Aug. 21 (5 pages).'
   prev_url: "project18"
   next_url: 'project20'
