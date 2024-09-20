@@ -438,15 +438,15 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   next_url: "project10"
 
 
-- title: "L’enquête sonore dans la recherche urbaine"
-  description: "Faire progresser l'analyse et l’élaboration de politiques grâce à des outils de planification solides"
+- title: "La question sonore dans la recherche urbaine"
+  description: "Faire progresser l'analyse et l’élaboration de politiques grâce à des outils de planification sonores"
   location: "Montréal, Canada; Venise, Italie"
-  date: "2021 - En cours"
+  date: "2021 - 2022"
   start-date: '2021'
-  end-date: 'En cours'
+  end-date: '2022'
   image: "/assets/images/projects/soninurb/Soninurb.jpg"
   url: "project10"
-  fundings: "Horizon Europe 2020 Programme européen pour la recherche et l’innovation - Bourse Marie Sklodowska-Curie"
+  fundings: "Programme européen pour la recherche et l’innovation Horizon Europe 2020 –  Bourse Marie Sklodowska-Curie "
   collaborators: "City of Montreal (Arrondissement Plateau-Mont-Royal), Università Iuav di Venezia"
   name: ""
   tags:
@@ -466,22 +466,24 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
       id: 'policy_and_planning'
   before:
     image: '/assets/images/projects/project1_before.png'
-    credits: ''
-    alt: ""
+    credits: 'Nicola Di Croce'
+    alt: "Processus sonore"
   after:
     image: '/assets/images/projects/project1.png'
     credits: ''
     alt: ""
-  brief: "Comment étudier et concevoir un environnement sonore vivant et inclusif ? Le projet SONINURB explore les moyens par lesquels la recherche sur l'environnement sonore peut soutenir de nouvelles approches en matière d'analyse et d’élaboration des politiques urbaines. <br><br> Le projet examine comment les outils de planification sonore peuvent mener à des approches collaboratives pour la conception sonore urbaine, avec un focus sur l'inclusion sociale et le développement local durable."
-  about: "Le projet SONINURB, financé par l'Union Européenne, étudie l'environnement sonore qui contribue à l’ambiance propre de chaque lieu, en cherchant à comprendre comment cette ambiance influe directement sur la qualité perçue de l'environnement urbain : elle peut soit attirer les gens, soit les faire fuir, ou encore les faire se sentir à l'aise ou menacés. Le projet vise également à montrer comment le recours à des installations et interventions sonores participatives peut encourager l'inclusion sociale et le développement local durable."
-  participation: "Le projet aborde ses objectifs par un travail de terrain à Montréal (Canada) dans le cadre de Ville sonore, et à Venise (Italie) dans le cadre de l'Université IUAV de Venise. Ce projet combine la recherche théorique et l’expérimentation pratique de nouveaux outils de planification sonore dans des zones urbaines en transformation."
+  brief: "Comment étudier et concevoir un environnement sonore vivant et inclusif ? "
+  about: "Le projet SONINURB, financé par l'Union Européenne, étudie l'environnement sonore qui contribue à l’ambiance propre de chaque lieu, en cherchant à comprendre comment l’ambiance influence la qualité perçue de l'environnement urbain : elle peut soit attirer les gens, soit les repousser ou les exclure, ou encore les faire se sentir à l'aise ou en danger. <br><br> Ce projet vise à montrer comment la recherche sur l'environnement sonore peut apporter de nouvelles approches en matière d'analyse et d’élaboration des politiques urbaines. Il explore également la manière dont l'expérimentation de nouveaux outils de planification sonore pour étudier les zones urbaines en cours de transformation peut conduire à des approches collaboratives en termes de conception sonore urbaine. Enfin, le projet montre comment le recours à des installations et interventions sonores participatives peut encourager l'inclusion sociale et le développement local durable."
+  participation: "Le projet aborde ces objectifs par un travail de terrain dans deux lieux géographiques différents : Montréal (Canada) – dans le cadre de Ville Sonore, et Venise (Italie) – dans le cadre de l'Université Iuav de Venise."
   contact_info: "Pour plus de détails, contactez: Nicola di Croce"
   links:
+    - url: 'https://www.youtube.com/watch?app=desktop&v=ZYmpKyCrsOs'
+      name: 'Containing multitude https://www.youtube.com/watch?app=desktop&v=ZYmpKyCrsOs'
     - url: 'https://nicoladicroce.cargo.site/Research-menu'
-      name: 'Site Internet de Nicole Di Croce'
+      name: 'Site Internet de Nicole Di Croce https://nicoladicroce.cargo.site/Research-menu'
   publications:
     - url: 'https://www.researchgate.net/project/Sonic-inquiry-in-urban-research'
-      name: 'Sonic inquiry in urban research'
+      name: 'Sonic inquiry in urban research https://cordis.europa.eu/project/id/881822'
   prev_url: "project9"
   next_url: "project11"
 
