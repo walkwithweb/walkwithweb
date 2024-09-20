@@ -407,28 +407,33 @@
       id: 'context'
   before:
     image: '/assets/images/projects/project1_before.png'
-    credits: ''
+    credits: 'Catherine Guastavino'
     alt: ""
   after:
     image: '/assets/images/projects/project1.png'
-    credits: ''
+    credits: 'Louis Guastavino'
     alt: ""
   brief: "Notre expérience des environnements urbains est façonnée par de nombreux facteurs, de nos attentes à notre personnalité, en passant par les spécificités de la situation.<br><br> Le modèle des influences contextuelles que nous avons commencé à construire est un premier pas pour aider les urbanistes et les décideur·euses politiques à créer des espaces urbains plus inclusifs."
-  about: "Nous savons tous que le contexte est important : l'endroit où nous nous trouvons et qui nous sommes comptent tout autant que ce que nous faisons à un moment donné. Dans une série d'études, y compris la modélisation des facteurs du terrain et diverses expériences en laboratoire, l’équipe de la Ville Sonore a examiné les nombreuses façons dont le contexte compte, en particulier pour les évaluations de l’ambiance sonore."
-  participation: "Nous avons mené des expériences en laboratoire et des études de terrain pour examiner les facteurs situationnels et personnels qui influencent les perceptions de l'environnement sonore. Par exemple, les après-midis sont généralement jugées moins calmes que les soirées, et les femmes trouvent souvent l'environnement sonore plus agréable que les hommes."
+  about: "Nous savons tous que le contexte est important : l'endroit où nous nous trouvons et qui nous sommes comptent tout autant que ce que nous faisons à un moment donné. Dans une série d'études, y compris la modélisation des facteurs du terrain et diverses expériences en laboratoire, l’équipe de la Ville Sonore a examiné les nombreuses façons dont le contexte compte, en particulier pour les évaluations de l’ambiance sonore.<br><br>Lors d'expériences en laboratoire, nous avons montré que ce que nous appelons les « facteurs situationnels », tels que le lieu, le jour, et l'heure d'utilisation, influencent nos perceptions de l'environnement sonore, quelles que soient les attentes que nous pouvions avoir avant d'utiliser un espace. Par exemple, un endroit du lieu plus calme est jugé plus agréable et moins animé qu'un endroit plus bruyant et les après-midis sont généralement jugées moins calmes et plus animés que les soirées, tandis que les fins de semaine sont plus animées que les jours de semaine.<br><br>D'autre part, des études de terrain ont mis en évidence d'autres facteurs qui ne sont pas directement liés aux niveaux sonores, tels que l'interaction sociale — c'est-à-dire le fait qu'une personne soit seule ou accompagnée — et des « facteurs personnels » tels que l'extraversion, le genre, l'âge et la sensibilité au bruit. Les personnes en groupe trouvent leur environnement sonore plus agréable et moins animé que les personnes seules, peut-être parce qu'elles portent attention aux personnes qui les accompagnent. Les femmes et les jeunes trouvent leur environnement sonore plus agréable et moins animé, du fait qu'iels sortent plus souvent en groupe que les hommes et les personnes plus âgées, respectivement. ."
+  participation: "Les personnes plus extraverties évaluent leur environnement sonore comme moins animé et les personnes plus sensibles au bruit (comme les femmes et les personnes plus âgées) ont tendance à évaluer leur environnement sonore comme moins agréable.   
+Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influencent la façon dont nous évaluons les ambiances sonores, il est essentiel de garder à l'esprit que le contexte est important et que la conception des espaces doit tenir compte de cette myriade d'expériences."
   contact_info: "Pour plus de détails, contactez: Cynthia Tarlao, Catherine Guastavino"
   links:
     - url: 'https://newcities.org/the-big-picturecity-sound-like/'
-      name: 'Guastavino, C. & Steele, D (2020). What should the city sound like? Why the pursuit of quiet isn’t working.'
+      name: 'Guastavino, C. & Steele, D (2020). What should the city sound like? Why the pursuit of quiet isn’t working.https://newcities.org/the-big-picturecity-sound-like/ [en anglais] '
     - url: 'https://bycs.org/sound-as-a-resourcewith-catherine-guastavino/'
-      name: 'BYCS perspective (1er mars 2021). Sound as a resource: with Catherine Guastavino.'
+      name: 'BYCS perspective (1er mars 2021). Sound as a resource: with Catherine Guastavino.[entretien avec C. Guastavino]. https://bycs.org/sound-as-a-resourcewith-catherine-guastavino/ [en anglais] '
+    - url: ''
+      name: 'Trudel, B. (automne 2023). Quand un son vaut mille mots. [entretien avec C. Guastavino]. Continuité, 178 – Patrimoine Sonore, 18-21. '
+    - url: ''
+      name: 'Gagnon, M. (automne 2023). Les archéologues du son. [entretien avec C. Guastavino]. Continuité, 178 – Patrimoine Sonore, 178, 22-24. '
     - url: 'https://ici.radiocanada.ca/tele/decouverte/site/episodes/520848/covid-ghgsat-methane-lune-pollution'
-      name: 'Société Radio-Canada (28 avril 2021). A l’écoute de la ville – Émission Découverte.'
+      name: 'Société Radio-Canada (28 avril 2021). A l’écoute de la ville – Émission Découverte. [spot TV avec C. Guastavino]. https://ici.radiocanada. ca/tele/decouverte/site/episodes/520848/covid-ghgsat-methane-lune-pollution'
   publications:
+    - url: ''
+      name: 'Tarlao, C., Steele, D., & Guastavino, C. (2019). Investigating Factors Influencing Soundscape Evaluations Across Multiple Urban Spaces In Montreal. INTER-NOISE and NOISE-CON Congress and Conference Proceedings, 6888–6899.'
     - url: 'https://doi.org/10.1016/j.buildenv.2020.107490'
-      name: 'Tarlao, C., Steffens, J., & Guastavino, C. (2021). Investigating contextual influences on urban soundscape evaluations with structural equation modeling.'
-    - url: 'https://doi.org/10.1515/noise-2022-0169'
-      name: 'Trudeau, C., Tarlao, C., & Guastavino, C. (2023). Montreal soundscapes during the COVID-19 pandemic: A spatial analysis of noise complaints and residents’ surveys.'
+      name: 'Tarlao, C., Steffens, J., & Guastavino, C. (2021). Investigating contextual influences on urban soundscape evaluations with structural equation modeling. Building and Environment, 188, 107490. https://doi.org/10.1016/j.buildenv.2020.107490'
   prev_url: "project8"
   next_url: "project10"
 
