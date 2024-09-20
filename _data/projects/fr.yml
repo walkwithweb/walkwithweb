@@ -359,30 +359,30 @@
       id: 'quartier_des_spectacles'
   before:
     image: '/assets/images/projects/project1_before.png'
-    credits: ''
-    alt: ""
+    credits: 'Catherine Guastavino'
+    alt: "Enregistrer les sons d'un Quartier des Spectacles vide"
   after:
     image: '/assets/images/projects/project1.png'
-    credits: ''
-    alt: ""
-  brief: "Montréal a connu une réduction temporaire de 6 dB des niveaux sonores dans le centre-ville, qui sont revenus en grande partie à la normale avec le redémarrage de la construction et de la circulation. Les périodes de restriction et de confinement ont fait émerger de nouvelles associations à l'espace public et au domicile en raison des changements radicaux dans leurs environnements sonores."
-  about: "La pandémie de COVID-19 a modifié l’orientation des projets de recherche dans le monde entier, et Ville Sonore n'a pas dérogé à la règle. Ceux qui travaillent sur le son ont eu l'occasion d'étudier ce qui s'est passé pendant que le monde était sur pause et la planète silencieuse. Depuis un siècle, le calme est au cœur des politiques modernes en matière de bruit, mais une fois que nous en avons fait l'expérience, nous nous sommes rendu compte que ce n'était pas si simple. L’équipe de la Ville Sonore s'est livrée à une étude multi-méthodes et pluriannuelle d'observation de l'expérience auditive durant la COVID-19, comprenant des entretiens, des journaux de bord, des questionnaires et des mesures du niveau sonore. Les résultats montrent une baisse temporaire de 6 dB des niveaux sonores au cours de la première restriction, suivie d'un retour à la normale avec la reprise de la construction et de la circulation. L'utilisation de l'espace public a été transformée et a connu de nombreux nouveaux usages, tandis que les personnes travaillant à domicile ont dû faire face à de nouveaux défis sonores."
-  participation: "L’équipe a mené des entretiens, des journaux de bord, des questionnaires, et des mesures du niveau sonore pour comprendre les impacts sonores de la COVID-19 à Montréal. Ce changement a particulièrement affecté les familles avec enfants qui ont dû s'adapter à de nouveaux environnements sonores."
+    credits: 'Catherine Guastavino'
+    alt: "Enregistrer les sons d'un Quartier des Spectacles vide"
+  brief: "Montréal a connu une réduction temporaire de 6 dB des niveaux sonores dans le centre-ville, qui sont revenus en grande partie à la normale avec le redémarrage de la construction et de la circulation.<br><br>Les périodes de restriction et de confinement ont fait émerger de nouvelles associations à l'espace public et au domicile en raison des changements radicaux dans leurs environnements sonores."
+  about: "La pandémie de COVID-19 a modifié l’orientation des projets de recherche dans le monde entier, et Ville Sonore n'a pas dérogé à la règle. Ceux qui travaillent sur le son ont eu l'occasion d'étudier ce qui s'est passé pendant que le monde était sur pause et la planète silencieuse. Depuis un siècle, le calme est au cœur des politiques modernes en matière de bruit, mais une fois que nous en avons fait l'expérience, nous nous sommes rendu compte que ce n'était pas si simple.<br><br>L’équipe de la Ville Sonore s'est livrée à une étude multi-méthodes et pluriannuelle d'observation de l'expérience auditive durant la COVID-19, comprenant comprenant : <br>•	Entretiens (2020 et 2021) <br>•	Journaux de bord <br>•	Questionnaires <br>•	Mesures du niveau sonore"
+  participation: "Les résultats concernant la première année de la pandémie nous ont montré une baisse très temporaire de 6 dB des niveaux sonores au cours de la première restriction. Les niveaux sonores sont largement revenus à la normale avec le retour de la construction et de la circulation, mais la vie publique a souffert et les gens étaient très conscients des sons qui leur manquaient. L'utilisation de l'espace public a été transformée à bien des égards et a connu de nombreux nouveaux usages, tandis que les personnes qui travaillaient à domicile ont dû faire face à de nouveaux environnements sonores et à de nouveaux défis au cours de leur journée de travail. Ce changement a été particulièrement difficile pour les familles avec enfants."
   contact_info: "Pour plus de détails, contactez: Daniel Steele, Edda Bild, Nicola di Croce"
   links:
     - url: 'https://www.cbc.ca/listen/live-radio/1-15-daybreak-montreal/clip/15869524-the-sounds-downtown'
-      name: 'Canadian Broadcasting Corporation. (2021, Sept. 28). The sounds of downtown'
+      name: 'Canadian Broadcasting Corporation. (2021, Sept. 28). The sounds of downtown [Radio interview with Daniel Steele and collaborators] https://www.cbc.ca/listen/live-radio/1-15-daybreak-montreal/clip/15869524-the-sounds-downtown'
     - url: 'http://www.radio-canada.ca/util/postier/suggerer-go.asp?nID=4523621'
-      name: 'Leblanc, E. (30 mai 2020). L’après-COVID-19: tirer les leçons de ce printemps silencieux'
+      name: 'Leblanc, E. (30 mai 2020). L’après-COVID-19: tirer les leçons de ce printemps silencieux[entretien avec C. Guastavino]. Radio-Canada'
     - url: 'http://www.radio-canada.ca/util/postier/suggerer-go.asp?nID=4523622'
-      name: 'Société Radio-Canada (28 mai 2020). Le silence, une conséquence positive du confinement'
+      name: 'Société Radio-Canada (28 mai 2020). Le silence, une conséquence positive du confinement: Reportage d’E. Leblanc – L’heure du monde [entretien avec C. Guastavino]'
   publications:
     - url: 'https://www.mdpi.com/1660-4601/18/11/5877'
       name: 'Steele, D., & Guastavino, C. (2021). Quieted city sounds during the Covid-19 pandemic in Montreal. International Journal of Environmental Research and Public Health, 18(11), 5877.'
     - url: 'https://www.mdpi.com/2071-1050/14/8/4559'
       name: 'Bild, E., Steele, D., & Guastavino, C. (2022) Festivals and Events as Everyday Life in Montreal’s Entertainment District. Sustainability 14.8: 4559.'
     - url: 'https://doi.org/10.1515/noise-2022-0169'
-      name: 'Trudeau, C., Tarlao, C., & Guastavino, C. (2023). Montreal soundscapes during the COVID-19 pandemic: A spatial analysis of noise complaints and residents’ surveys. Noise Mapping, 10(1), 20220169.'
+      name: 'Trudeau, C., Tarlao, C., & Guastavino, C. (2023). Montreal soundscapes during the COVID-19 pandemic: A spatial analysis of noise complaints and residents’ surveys. Noise Mapping, 10(1), 20220169.https://doi.org/10.1515/noise-2022-0169'
   prev_url: "project7"
   next_url: 'project9'
 
