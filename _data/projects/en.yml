@@ -631,7 +631,7 @@
   after:
     image: '/assets/images/projects/nightlife/MITACS_ListenUp_Oct6_2022Workshop.jpg'
     credits: 'YULISM'
-    alt: "Catherine Guastavino presenting the ListenUpMTL project at the Oct 6th 2022 ("Le bruit environnemental dans nos actions de planification") workshop."
+  alt: "Catherine Guastavino presenting the ListenUpMTL project at the Oct 6th 2022 ('Le bruit environnemental dans nos actions de planification') workshop" 
   brief: "Nightlife activities contribute to the vitality and attractiveness of cities but can also generate conflicts around unwanted noise<br><br>We will offer recommendations on Montreal’s development of a nightlife policy that integrates a sonic dimension"
   about: "Many worldwide cities face the challenge of striking a balance between livability and vitality, and this dichotomy is often tested in the sonic dimension. However, no world cities, including Montreal, have expressed a nightlife policy that tackles these challenges head-on."
   participation: "Sounds in the City started a collaboration with the City of Montreal and Montreal’s public health department (DRSP) to investigate and integrate the needs and expectations of different stakeholders for the development of a new nightlife strategy using the soundscape approach document. The project documents situations of sound conflicts and cohabitation in Montreal to better understand/characterize the dynamics at play & issue recommendations to improve public policies from an economic development perspective where the human being is at the center. The first step was a comprehensive review of relevant academic literature as well as public and private reports provided by partners on the status of sound-related knowledge centered on Montreal. The second step was the development of pilot projects: the ListenUpMTL pilot project and the Assomption Sud–Longue-Pointe project.<br><br>This project is a unique opportunity to involve multiple stakeholders around night noise and integrate sound consideration in the new Montreal nightlife policy that is under development."
@@ -653,6 +653,8 @@
   description: "Understanding Montreal festival soundscapes"
   location: "Montreal, QC"
   date: "Winter 2020 – Winter 2021"
+  start-date: "2020"
+  end-date: "2021"
   image: "/assets/images/projects/nightlife/QDS.jpg"
   url: "project14"
   fundings: "MITACS- Accelerate program with the Quartier des Spectacles Partnership, SSHRC Partnership development grant"
@@ -674,11 +676,11 @@
     - name: aging
       id: 'aging'
   before:
-    image: '/assets/images/projects/QDS_before.jpg'
+    image: '/assets/images/projects/Quartier des Spectacles/Place_des_arts_08.jpg'
     credits: ''
     alt: "Quartier des Spectacles before the study"
   after:
-    image: '/assets/images/projects/QDS_after.jpg'
+    image: '/assets/images/projects/nightlife/QDS.jpg'
     credits: ''
     alt: "Quartier des Spectacles after the study"
   brief: "Montreal’s entertainment district (the Quartier des Spectacles) is facing unique challenges balancing vitality and livability due to the multitude of events and festivals it hosts throughout the year. Sounds of festivals are not a primary source of annoyance, but rather the sounds of nightlife (pre-COVID-19). Older residents enjoy and take parts in the festivals and events, questioning ideas of retirement and aging in the city."
