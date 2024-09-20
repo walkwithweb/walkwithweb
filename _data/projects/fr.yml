@@ -329,14 +329,12 @@
   contact_info: "Pour plus de détails, contactez : Cynthia Tarlao, Catherine Guastavino"
   links:
     - url: 'https://www.youtube.com/watch?v=i4fLhBGuAi8'
-      name: 'Retrouvez une courte démonstration en binaural ici'
+      name: 'Retrouvez une courte démonstration en binaural ici : : https://www.youtube.com/watch?v=i4fLhBGuAi8'
   publications:
     - url: 'https://doi.org/10.3390/app13031611'
       name: 'Yanaky, R., Tyler, D., & Guastavino, C. (2023). City Ditty: An Immersive Soundscape Sketchpad for Professionals of the Built Environment. Applied Sciences, 13, 1611.doi.org/10.3390/app13031611'
     - url: 'https://doi.org/10.1016/j.landurbplan.2022.104642'
       name: 'Tarlao, C., Steele, D, Blanc, G., & Guastavino, C. (2023). Interactive soundscape simulation as a co-design tool for urban professionals. Landscape and Urban Planning, 231, 104642.Doi.org/10.1016/j.landurbplan.2022.104642'
-    - url: 'https://www.youtube.com/watch?v=i4fLhBGuAi8'
-      name: 'Retrouvez une courte démonstration en binaural ici : https://www.youtube.com/watch?v=i4fLhBGuAi8'
   prev_url: "project6"
   next_url: "project8"
 
