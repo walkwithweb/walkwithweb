@@ -1137,9 +1137,8 @@ Yanaky, R., Tyler, D., & Guastavino, C. (2023). City Ditty: An Immersive Soundsc
       name: 'A paper in Canadian Acoustics, discuss three lenses for soundscape simulator design and stakeholder engagement:'
     - url: 'https://jcaa.caa-aca.ca/index.php/jcaa/article/view/4180'
       name: 'Yanaky, R., & Guastavino, C. (2024). Realistic Enough? Design Considerations for Soundscape Simulators. Canadian Acoustics, 52(1).'
- 
     - url: 'https://jcaa.caa-aca.ca/index.php/jcaa/article/view/4180'
-      name: 'Fraisse, V., Tarlao, C., Yanaky, R., & Guastavino, C. (2024). One Size Doesn'"t Fit All:" Three Tools For Soundscape Simulation. Canadian Acoustics, 52(1).'
+      name: 'Fraisse, V., Tarlao, C., Yanaky, R., & Guastavino, C. (2024). One Size Doesnt Fit All: Three Tools For Soundscape Simulation. Canadian Acoustics, 52(1).'
   publications:
     - url: 'https://www.researchgate.net/publication/374750772_Exploring_the_use_of_soundscape_sketchpads_with_professionals'
       name: 'Yanaky, R., Grazioli, G., Zhang, Y.-Y., & Guastavino, C. (2023). Exploring the use of soundscape sketchpads with professionals. INTER-NOISE and NOISE-CON Congress and Conference Proceedings, Chiba, Japan, August 20-23, 2023. '
@@ -1157,6 +1156,8 @@ Yanaky, R., Tyler, D., & Guastavino, C. (2023). City Ditty: An Immersive Soundsc
   description: "Contextualizing urban sound issues for the general public through comics."
   location: "Montreal"
   date: "Fall 2023 - Spring 2024"
+  start-date: "2023"
+  end-date: "2024"
   image: "/assets/images/projects/illustrating soundscape/IMG_1367.jpeg"
   url: "project24"
   fundings: "FRQ Dialogue"
@@ -1164,7 +1165,7 @@ Yanaky, R., Tyler, D., & Guastavino, C. (2023). City Ditty: An Immersive Soundsc
   name: "Catherine Guastavino"
   tags:
     - name: "Knowledge Mobilization"
-      id: "knowledge-mobilization"
+      id: "knowledge_mobilization"
     - name: "Montreal"
       id: "montreal"
     - name: "Comics"
@@ -1172,27 +1173,27 @@ Yanaky, R., Tyler, D., & Guastavino, C. (2023). City Ditty: An Immersive Soundsc
     - name: "Education"
       id: "education"
   before:
-    image: '/assets/images/projects//before_fantastique_acoustique.jpg'
-    credits: ''
-    alt: "Before project image"
+    image: '/assets/images/projects/illustrating soundscape/'
+    credits: 'N/A'
+    alt: ""
   after:
-    image: '/assets/images/projects//after_fantastique_acoustique.jpg'
-    credits: ''
-    alt: "After project image"
+    image: '/assets/images/projects/illustrating soundscape/'
+    credits: 'N/A'
+    alt: ""
   brief: "Creation of graphic novels with illustrators. Presented at the Montreal Comic Arts Festival 2024. Graphic novels available below (Creative Commons CC-XXX)"
-  about: "Sharing research with the public has always been a core tenet of the Sounds in the City project, through raising awareness with soundwalks and sound installations. This effort is now furthered by the addition of two beautiful comics, thanks to the art of Marina León and Madeleine Guastavino. The comics tell stories of sonic inequalities and rethinking urban sound environments, aiming to engage and educate the public on these critical issues."
-  participation: "Interested in learning more or using these comics in your own educational efforts? Contact us directly for more information."
+  about: "Sharing our research with the public has always been a core tenet of the Sounds in the City project raising the awareness of citizens with soundwalks and sound installations. this is now further aided by the addition of : two beautiful comics, thanks to the gorgeous art of<a href='https://www.instagram.com/marinaladeanteojos/'>Marina León</a> and <a href='https://www.instagram.com/tournesoliloque/'> Madeleine Guastavino</a>.<br><br>Background noise that speaks volumes: Tales of sonic inequalities tells the story of three people exposed to different amounts and types of noise, and who have different opportunities to cope with it, across their daily activities."
+  participation: "What if we rethink our cities through sound? Sketching a sound environment is a quietly magic and utopic story of putting human experiences and needs at the center of urban design.<br><br>Happy reading!<br><br>Interested in learning more or using these comics in your own educational efforts? Contact us directly for more information."
   contact_info: "Catherine Guastavino"
   links:
     - url: 'https://ici.radio-canada.ca/ohdio/premiere/emissions/moteur-de-recherche/episodes/704917/rattrapage-mercredi-17-mai-2023'
-      name: 'C. Trudeau on the Radio'
+      name: 'C. Trudeau on the Radio '
     - url: 'https://www.fbdm-mcaf.ca/en/comic-arts-festival/find-them/exhibitors/#universite-de-sherbrooke'
-      name: 'Montreal Comic Arts Festival 2024'
+      name: '"Montreal Comic Arts Festival 2024'
   publications:
-    - url: 'https://doi.org/10.1121/10.0011942'
-      name: 'Fantastic Acoustics: A Magazine Describing the Importance and Scope of Acoustics Research in Québec'
-    - url: 'https://doi.org/10.1121/10.0012112'
-      name: 'An Illustrated Tutorial for Logarithmic Scales and Decibels in Acoustics'
+    - url: ''
+      name: '-	Robin, O., Krpic, T., Carrion, A., Proulx, F., Demuynck, M., Gallerand, L., Fraisse, V., Trudeau, C., Tarlao, C., Perrier de la Bathie, C., Bernier-Breton, C., Dupont, T., Doutres, O.; Voix, J., Cauchy, P., St-Onge, G. and Guastavino, C (2024). Fantastic acoustics: A magazine describing the importance and the scope of acoustics research in Québec. The Journal of the Acoustical Society of America, 155(3_Supplement), A194-A194.'
+    - url: ''
+      name: '-	See also Robin, O., & Plante, C. (2022). An illustrated tutorial for logarithmic scales and decibels in acoustics. The Journal of the Acoustical Society of America, 152(5), 2880-2892.'
     
 
   prev_url: "project23"
