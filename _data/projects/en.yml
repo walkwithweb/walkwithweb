@@ -1051,6 +1051,8 @@
   description: "Long-term noise exposure differs between socioeconomic groups"
   location: ""
   date: "2020 - Ongoing"
+  start-date: "2020"
+  end-date: "Ongoing"
   image: "/assets/images/projects/sonic injustice/Railyards.jpg"
   url: "project22"
   fundings: "FRQSC doctoral fellowship"
@@ -1064,20 +1066,20 @@
     - name: equity
       id: 'equity'
   before:
-    image: '/assets/images/projects/sonic_injustice_before.jpg'
-    credits: ''
+    image: '/assets/images/projects/sonic injustice/Railyards.jpg'
+    credits: 'N/A'
     alt: "A low-income neighborhood affected by noise pollution"
   after:
-    image: '/assets/images/projects/sonic_injustice_after.jpg'
-    credits: ''
+    image: '/assets/images/projects/sonic injustice/'
+    credits: 'N/A'
     alt: "An outdoor space providing respite from urban noise"
-  brief: "Low income and racialized groups are often overexposed to noise in their homes. They may also have less access to outdoor spaces where they can escape from noise."
-  about: "The sounds that fill our everyday lives matter for our health and wellbeing. Undesirable sounds, which we refer to as noise, can have negative auditory and non-auditory health effects, as well as reducing our overall quality of life. Spaces with desirable sounds, such as nature or festivals, can reduce stress levels, helping to improve overall health and wellbeing. Some people are more vulnerable to the effects of environmental problems like noise than others because of who they are, including children, people with low income and racialized people. We’re studying the inequalities faced by these groups in two areas: 1) exposure to noise and 2) access to health-promoting sonic environments. In many cities and regions around the world, low-income and racialized groups are often overexposed to noise in their homes. Early evidence suggests that they may have less access to sonic environments that enable them to de-stress."
-  participation: "Research, public outreach"
-  contact_info: "For details, please contact: [Contact Person]"
+  brief: "Low income and racialized groups are often overexposed to noise in their homes.<br><br>They may also have less access to outdoor spaces where they can escape from noise.<br><br>Children are often less exposed to noise than adults.<br><br>They may also have less access to outdoor spaces where they can escape from noise."
+  about: "The sounds that fill our everyday lives matter for our health and wellbeing. Undesirable sounds, which we refer to as noise, can have negative auditory and non-auditory health effects, as well as reducing our overall quality of life. Spaces with desirable sounds, such as nature or festivals, can reduce stress levels, helping to improve overall health and wellbeing. Some people are more vulnerable to the effects of environmental problems like noise than others because of who they are, including children, people with low income and racialized people."
+  participation: "We’re studying the inequalities faced by these groups in two areas: 1) exposure to noise and 2) access to health-promoting sonic environments. In many cities and regions around the world, low-income and racialized groups are often overexposed to noise in their homes. Early evidence suggests that they may have less access to sonic environments that enable them to de-stress."
+  contact_info: ""
   links:
-    - url: 'https://doi.org/10.1016/j.socscimed.2023.115919'
-      name: 'Trudeau, C., King, N., & Guastavino, C. (2023). Investigating sonic injustice: A review of published research. Social Science & Medicine, 326, 115919.'
+    - url: ''
+      name: ''
   publications:
     - url: 'https://doi.org/10.1016/j.socscimed.2023.115919'
       name: 'Trudeau, C., King, N., & Guastavino, C. (2023). Investigating sonic injustice: A review of published research. Social Science & Medicine, 326, 115919.'
