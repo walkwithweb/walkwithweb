@@ -1023,8 +1023,8 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
 
 
 
-- title: "Engagement des professionels de l’environnement bâti et du secteur public dans le domaine sonore"
-  description: "Les stratégies visant à mobiliser les connaissances liées au sonore dans la pratique et le discours public"
+- title: "Intéresser les professionnel·les en urbanisme et le grand public au sonore "
+  description: "Des stratégies pour mobiliser les connaissances liées au sonore dans la pratique et le discours public "
   location: ""
   date: "2013 - en cours"
   start-date: '2013'
@@ -1043,34 +1043,32 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
       id: 'workshop'
     - name: mobilisation des connaissances
       id: 'knowledge_mobilization'
-    - name: Sensibilisation du public
-      id: 'public_awareness'
   before:
    - image: '/assets/images/projects/Engaging_professionals/IMG_8504.JPG'
      credits: 'Christine Kerrigan'
-     alt: "Participants engagés dans un atelier sonore "
+     alt: "Des professionnels en urbanisme discutent de considérations sonores lors de notre atelier de 2019"
   after:
    - image: '/assets/images/projects/Engaging_professionals/DSC_0204_.jpg'
      credits: 'Cynthia Tarlao'
-     alt: "Participants engagés dans un atelier sonore après le projet"
-  brief: "Nous utilisons différentes stratégies interactives pour mobiliser des connaissances sonores auprès des professionnels de l'environnement bâti et du grand public. Les stratégies immersives telles que les balades sonores encouragent la sensibilisation au sonore et démontrent le nombre d'environnements distincts et diversifiés qu'il y a dans la ville."
-  about: "Notre équipe organise des ateliers, des balades sonores, des présentations (dans les écoles, les festivals, les centres communautaires, les activités de sensibilisation du public) et participe à diverses activités de consultation publique. Nous développons également des outils de simulation du paysage sonore pour différents usager·ères."
+     alt: "Des professionnels en urbanisme discutent de considérations sonores lors de notre atelier de 2019"
+  brief: "Nous utilisons un éventail de stratégies interactives pour mobiliser les connaissances sonores des professionnel·les en urbanisme et du grand public.<br><br>Des stratégies différentes sensibilisent au sonore de différentes manières à différents degrés de participation et d’immersion"
+  about: "Notre équipe organise des ateliers, des balades sonores, des présentations (dans des écoles, festivals, centres communautaires, activités de rayonnement public) et participe à diverses activités de consultation publique. Nous développons également des outils de simulation des ambiances sonores pour différent·es utilisateur·rices (grand public et professionnel·les)."
   participation: "Ateliers, balades sonores, démonstrations, consultations publiques, formation professionnelle, diffusion médiatique"
   contact_info: "Pour plus de détails, contactez: Daniel Steele, Richard Yanaky, Catherine Guastavino"
   links:
     - url: 'http://paysages-sonores.ca/'
-      name: 'Web-documentaires présentés au Festival international du documentaire de Montréal'
+      name: 'Webdocumentaires présentés au Festival international du documentaire de Montréal en novembre 2019 et disponibles en ligne sur http://paysages-sonores.ca/.'
   publications:
     - url: 'https://doi.org/10.3390/app13031611'
-      name: 'Yanaky, R., Tyler, D., & Guastavino, C. (2023). City Ditty: An Immersive Soundscape Sketchpad for Professionals of the Built Environment. Applied Sciences, 13, 1611.'
+      name: 'Yanaky, R., Tyler, D., & Guastavino, C. (2023). City Ditty: An Immersive Soundscape Sketchpad for Professionals of the Built Environment. Applied Sciences, 13, 1611.doi.org/10.3390/app13031611'
     - url: 'https://doi.org/10.1016/j.landurbplan.2022.104642'
-      name: 'Tarlao, C., Steele, D., Blanc, G., & Guastavino, C. (2023). Interactive soundscape simulation as a co-design tool for urban professionals. Landscape and Urban Planning, 231, 104642.'
+      name: 'Tarlao, C., Steele, D., Blanc, G., & Guastavino, C. (2023). Interactive soundscape simulation as a co-design tool for urban professionals. Landscape and Urban Planning, 231, 104642.doi.org/10.1016/j.landurbplan.2022.104642'
     - url: 'https://jcaa.caaaca.ca/index.php/jcaa/article/view/4064'
-      name: 'Yanaky, R., & Guastavino, C. (2023). Bridging the gap between sound and non-sound professionals with virtual reality. Proceedings of Acoustics Week in Canada 2023. Canadian Acoustics, 51(3):192-3.'
+      name: 'Yanaky, R., & Guastavino, C. (2023). Bridging the gap between sound and non-sound professionals with virtual reality. Proceedings of Acoustics Week in Canada 2023. Canadian Acoustics, 51(3):192-3.Available from: https://jcaa.caaaca.ca/index.php/jcaa/article/view/4064'
     - url: ''
       name: 'Fraisse, V., Wanderley M., Misdariis N., & Guastavino, C. (2024). Designing Sound for Public Spaces Through a Research-Creation Collaboration Framework. Proceedings of the Design Research Society Conference. Boston, Massachusetts, June 2024.'
     - url: 'https://www.tandfonline.com/doi/abs/10.1080/13574809.2019.1699399'
-      name: 'Steele, D., Kerrigan, C., & Guastavino, C. (2020). Sounds in the city: Bridging the gaps from research to practice through soundscape workshops. Journal of Urban Design, 25(5), 646-664.'
+      name: 'Steele, D., Kerrigan, C., & Guastavino, C. (2020). Sounds in the city: Bridging the gaps from research to practice through soundscape workshops.<i>Journal of Urban Design</i>, 25(5), 646-664.'
   prev_url: "project20"
   next_url: 'project22'
 
