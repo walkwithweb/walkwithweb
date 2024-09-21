@@ -1327,32 +1327,44 @@ Bonne lecture !"
   next_url: "project26"
   
 
-- title: ""
-  description: ""
+- title: "Les spectacles de rue et la qualité de l'espace public urbain"
+  description: "un projet visant à utiliser City Ditty pour explorer les effets des spectacles de rue sur la qualité de l'espace public urbain"
   location: ""
-  date: ""
-  start-date: ""
-  end-date: ""
-  image: ""
+  date: "Automne 2023 - En cours"
+  start-date: "2023"
+  end-date: "En cours"
+  image: "/assets/images/projects/Street_Performances/Musician_in_the_park.png"
   url: "project26"
   fundings: ""
-  collaborators: ""
+  collaborators: "Richard Yanaky, Catherine Guastavino"
   name: ""
   tags:
-    - name: ""
-      id: ''
+    - name: évaluation liée au sonore
+      id: "sound_related_evaluation"
+    - name: résultats psychologiques
+      id: "psychological_outcomes"
+    - name: cartes de comportement
+      id: "behavior_maps"
   before:
-    - image: ''
-      credits: ''
+    - image: '/assets/images/projects/Street_Performances/ChangCityDittyScreenshot1.png'
+      credits: 'Chang Miao'
       alt: ""
   after:
-    - image: ''
-      credits: ''
+    - image: '/assets/images/projects/Street_Performances/ChangCityDittyScreenshot2.png'
+      credits: 'Chang Miao'
       alt: ""
-  brief: ""
-  about: ""
-  participation: ""
-  contact_info: ""
+    - image: '/assets/images/projects/Street_Performances/Musician_in_the_park.png'
+      credits: 'Richard Yanaky'
+      alt: ""
+  brief: "Quelles sont les relations entre la présence de spectacles de rue et la qualité des espaces publics urbains ?
+<br><br>Les spectacles de rue ont-ils un impact sur la perception de l'espace urbain ?
+<br><br>Comment les spectacles de rues influencent-ils l'utilisation de l'espace et les comportements des usager·ères ?
+"
+  about: "Les spectacles de rue, ou busking, englobent divers actes de divertissement qui se déroulent dans les espaces publics urbains. Ces spectacles ajoutent une valeur culturelle et artistique importante aux espaces publics, en offrant un divertissement gratuit qui capte l'attention des passants. Cette étude examine comment les spectacles de rue influencent la perception et le comportement des personnes dans l'espace public urbain en utilisant la technologie de la réalité virtuelle.
+<br><br>La recherche vise à comprendre si et comment les spectacles de rue modifient les évaluations liées au sonore dans un environnement urbain virtuel, en comparant différents contextes tels que la rue et un parc. Les résultats psychologiques des spectacles de musique de rue, y compris leur potentiel à fournir des expériences ressourçantes ou à changer l’humeur. De plus, l'étude examine comment les spectacles affectent la façon dont les gens utilisent ces espaces, en particulier leurs lieux qui les intéressent et où ils s’attardent ou s’arrêtent.
+"
+  participation: "À l'aide d'un environnement virtuel en 3D appelé « City Ditty », l'étude simule différentes ambiances sonores et scénarios afin de créer des conditions expérimentales contrôlées. Les participant·es font l'expérience de différents environnements avec de la musique en public, de la musique diffusée par des haut-parleurs et des environnements de référence sans musique. Les données recueillies permettront de mieux comprendre comment les environnements sonores influencent les expériences publiques en milieu urbain."
+  contact_info: "Chang Miao, Catherine Guastavino"
   links:
     - url: ''
       name: ''
