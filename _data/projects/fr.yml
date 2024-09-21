@@ -593,7 +593,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   next_url: "project13"
 
 
-- title: "Quelle est la prochaine étape pour la vie nocturne et le tapage nocturne à Montréal ?"
+- title: "Quelle est la prochaine étape pour la vie et le bruit nocturne à Montréal ?"
   description: "Prendre en compte le sonore dans la politique de la vie nocturne à Montréal"
   location: ""
   date: "Printemps 2021 – Printemps 2023"
@@ -627,28 +627,28 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
       id: 'policy_and_planning'
   before:
    - image: '/assets/images/projects/nightlife/before.jpg'
-     credits: 'Wikimedia Commons, the free media repository'
-     alt: "Catherine Guastavino présente le projet ÉcoutezMontréal lors de l’atelier du 6 octobre 2022 ('Le bruit environnemental dans nos actions de planification'). Crédit photo: YULISM."
+     credits: 'Wikimedia Commons'
+     alt: "Quartier des spectacles"
   after:
    - image: '/assets/images/projects/nightlife/MITACS_ListenUp_Oct6_2022Workshop.jpg'
      credits: 'YULISM'
-     alt: "Quartier des spectacles. Source: Wikimedia Commons, the free media repository."
-  brief: "Les activités nocturnes contribuent à la vitalité et à l'attractivité des villes mais peuvent aussi générer des conflits de cohabitation sonore. Nous proposerons des recommandations pour prendre en compte la dimension sonore dans l’élaboration d'une politique de vie nocturne à Montréal."
+     alt: "Catherine Guastavino présente le projet ÉcoutezMontréal lors de l’atelier du 6 octobre 2022 ("Le bruit environnemental dans nos actions de planification")."
+  brief: "Les activités nocturnes contribuent à la vitalité et à l'attractivité des villes mais peuvent aussi générer des conflits de cohabitation sonore.<br><br>Nous proposerons des recommandations pour prendre en compte la dimension sonore dans l’élaboration d'une politique de vie nocturne à Montréal."
   about: "De nombreuses villes du monde sont confrontées au défi de trouver un équilibre entre qualité de vie et vitalité, et cette dichotomie est souvent mise à l'épreuve à travers la dimension sonore. Cependant, aucune ville du monde, y compris Montréal, n'a mis de l’avant une politique de vie nocturne qui s'attaque de front à ces défis. <br><br>
 
-Ville sonore a entamé une collaboration avec la Ville de Montréal et la Direction régionale de santé publique de Montréal (DRSP) afin d'étudier et d'intégrer les besoins et les attentes des différents acteurs dans le développement d'une nouvelle stratégie de la vie nocturne en utilisant le document d'approche du paysage sonore. Le projet documente des situations de conflits de cohabitation sonore à Montréal afin de mieux comprendre/caractériser les dynamiques en jeu et d'émettre des recommandations pour améliorer les politiques publiques dans une perspective de développement économique qui place l'être humain au centre. La première étape a consisté en une revue exhaustive de la littérature universitaire pertinente ainsi que des rapports publics et privés fournis par les partenaires afin de dresser un état des connaissances en matière de son à Montréal. La deuxième étape a été le développement de projets pilotes : le projet étant ÉcoutezMontréal, alors qu’un second projet est actuellement en préparation."
-  participation: "Ce projet est une occasion unique d'impliquer de multiples acteurs autour de la question du bruit nocturne et d'intégrer la prise en compte du son dans la nouvelle politique de la vie nocturne montréalaise en cours d'élaboration."
+Ville sonore a entamé une collaboration avec la Ville de Montréal et la Direction régionale de santé publique de Montréal (DRSP) afin d'étudier et d'intégrer les besoins et les attentes des différents acteurs dans le développement d'une nouvelle stratégie de la vie nocturne en utilisant l'approche du paysage sonore. Le projet documente des situations de conflits et de cohabitation sonores à Montréal afin de mieux comprendre/caractériser les dynamiques en jeu et d'émettre des recommandations pour améliorer les politiques publiques dans une perspective de développement économique centré sur l’humain. La première étape a consisté en une revue exhaustive de la littérature universitaire pertinente ainsi que des rapports publics et privés fournis par les partenaires afin de dresser un état des connaissances en matière de sonore à Montréal."
+  participation: "La deuxième étape a été le développement de projets pilotes : le projet pilote ÉcoutezMontréal [LIEN VERS PROJET <a href='http://walkwithweb.github.io/fr/projects/project11'>ECOUTEZ MONTREAL</a>], et le projet Assomption Sud–Longue-Pointe [LIEN VERS PROJET <a href='http://walkwithweb.github.io/fr/projects/project12'>ASLP</a>]. <br><br>Ce projet apporte une occasion unique d'impliquer de multiples acteurs autour de la question du bruit nocturne et d'intégrer la prise en compte du son dans la nouvelle politique de la vie nocturne montréalaise en cours d'élaboration."
   contact_info: "Pour plus de détails, contactez : Edda Bild, Catherine Guastavino"
   links:
     - url: ''
-      name: 'Canadian Broadcasting Corporation. (28 septembre 2021). The sounds of downtown [entretien radio avec Daniel Steele et collaborateurs]. Daybreak.'
+      name: 'Canadian Broadcasting Corporation. (28 septembre 2021). The sounds of downtown [entretien radio avec Daniel Steele et collaborateurs].<i> Daybreak</i>.'
     - url: ''
-      name: '"Le bruit environnemental dans nos actions de planification" (6 octobre 2022) atelier destiné aux professionnels de l’urbanisme à Montréal. Organisé par la Ville de Montréal et la Direction de Santé publique de Montréal.'
+      name: '"Le bruit environemental dans nos actions de planification" (6 october 2022) atelié destiné aux professionnels en urbanisme à Montréal. Organisé par la Ville de Montréal et la Direction de Santé publique de Montréal.'
     - url: ''
       name: ''
   publications:
-    - url: 'https://utpjournals.press/doi/10.3138/cpp.2021-009'
-      name: 'Laplace, J., Bild, E., Trudeau, C., Perna, M., Dupont, T. & Guastavino C. (2022). Encadrement du bruit environnemental au Canada. Canadian Public Policy / Analyse de politiques publiques, 48(1), 49-65. '
+    - url: 'http://doi.org/10.3138/cpp.2021-009'
+      name: 'Laplace, J., Bild, E., Trudeau, C., Perna, M., Dupont, T. & Guastavino C. (2022). Encadrement du bruit environnemental au Canada. Canadian Public Policy / Analyse de politiques publiques, 48(1), 49-65.'
     - url: 'https://hal.archives-ouvertes.fr/hal-03233770/document'
       name: 'Trudeau, C., Bild, E., Padois, T., Perna, M., Dumoulin, R., Dupont, T., & Guastavino, C. (2020). Municipal noise regulations in Québec. Proceedings of Forum Acusticum. Forum Acusticum, Dec. 7-1, Lyon, France'
   prev_url: "project12"
