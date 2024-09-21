@@ -454,6 +454,45 @@ Using the template text below, copy and paste the section between the ``` tags i
 Each -title item represents a project, to add more projects add more -title items and their corresponding lists
 
 #### Project Details Update
+Project key-valiu pairs list 
+```
+- title: ""
+  description: ""
+  location: ""
+  date: ""
+  start-date: ""
+  end-date: ""
+  image: ""
+  url: ""
+  fundings: ""
+  collaborators: ""
+  name: ""
+  tags:
+    - name: ""
+      id: ''
+  before:
+    - image: ''
+      credits: ''
+      alt: ""
+  after:
+    - image: ''
+      credits: ''
+      alt: ""
+  brief: ""
+  about: ""
+  participation: ""
+  contact_info: ""
+  links:
+    - url: ''
+      name: ''
+  publications:
+    - url: ''
+      name: ''
+  prev_url: ""
+  next_url: ''
+```
+
+Example below: 
 ```
 - title: "--enter the project's title e.g Terrasses Roy: creating a new public space --"
   description: "--enter a short description of the project e.g. A pedestrianization in the heart of the Plateau-Mont-Royal --"

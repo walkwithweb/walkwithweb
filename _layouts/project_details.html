@@ -56,35 +56,41 @@
                         </div>
                     </div>
                 </div>
-                <div class="card">
-                    <div class="media">
-                        <img src="{{ page.before.image }}" alt="{{ page.before.alt | default: page.before.credits }}" />
-                    </div>
-                    <div class="footer">
-                        {% if {{page.before.alt}} != "" %}
-                            <h3>{{ page.before.alt }}</h3>
-                        {% endif %}
-                        <p>{{ content.credits }}: {{ page.before.credits }}</p>
-                    </div>
-                </div>
+                {% for bimg in page.before %}
+                    {% if bimg.image != "" %}
+                        <div class="card">
+                            <div class="media">
+                                <img src="{{ bimg.image }}" alt="{{ bimg.alt | default: bimg.credits }}" />
+                            </div>
+                            <div class="footer">
+                                {% if bimg.alt != "" %}
+                                    <h3>{{ bimg.alt }}</h3>
+                                {% endif %}
+                                <p>{{ content.credits }}: {{ bimg.credits }}</p>
+                            </div>
+                        </div>
+                    {% else %}
+                        <div class="no-card"></div>
+                    {% endif %}
+                {% endfor %}
                 <div class="brief">
                     <p>{{ page.brief | safe }}</p>
                 </div>
-                {% if {{page.after.image}} != "" %}
-                <div class="card">
-                    <div class="media">
-                        <img src="{{ page.after.image }}" alt="{{ page.after.alt | default: page.after.credits }}" />
-                    </div>
-                    <div class="footer">
-                        {% if {{page.after.alt}} != "" %}
-                            <h3>{{ page.after.alt }}</h3>
-                        {% endif %}
-                        <p>{{ content.credits }}: {{ page.after.credits }}</p>
-                    </div>
-                </div>
-                {% else %}
-                <div class="no-card"></div>
-                {% endif %}
+                {% for aimg in page.after %}
+                    {% if aimg.image != "" %}
+                        <div class="card">
+                            <div class="media">
+                                <img src="{{ aimg.image }}" alt="{{ aimg.alt | default: aimg.credits }}" />
+                            </div>
+                            <div class="footer">
+                                <h3>{{ aimg.alt }}</h3>
+                                <p>{{ content.credits }}: {{ aimg.credits }}</p>
+                            </div>
+                        </div>
+                    {% else %}
+                        <div class="no-card"></div>
+                    {% endif %}
+                {% endfor %}
                 <h4 class="about-title">{{ content.about_this_project }}</h4>
                 <div class="about">
                     <div class="col">
@@ -113,7 +119,7 @@
                             <br />
                             <br />
                             {% for link in page.publications %}
-                                {% if {{link.url}} == "" %}
+                                {% if link.url == "" %}
                                     <span>{{ link.name }}</span>
                                 {% else %}
                                     <a class="list-links" href="{{ link.url }}" target="_blank">{{ link.name }}</a>

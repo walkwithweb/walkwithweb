@@ -1,2 +1,8 @@
 Gemfile.lock
 _site
+.DS_Store
+assets/.DS_Store
+assets/images/.DS_Store
+assets/images/projects/Engaging_professionals/.DS_Store
+assets/images/projects/Fleurs_de_Macadam_sound_art/.DS_Store
+assets/images/projects/Quartier_des_Spectacles/.DS_Store
