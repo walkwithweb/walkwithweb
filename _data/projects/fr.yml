@@ -728,26 +728,26 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   before:
    - image: '/assets/images/projects/Niches_acoustiques/XP1_panorama.jpg'
      credits: 'Valérian Fraisse'
-     alt: "Niches Acoustiques avant l'étude"
+     alt: "Parvis du Tribunal de Grande Instance, Paris"
   after:
    - image: '/assets/images/projects/Niches_acoustiques/collab_Niches_Acoustiques.png'
      credits: 'Nicolas Misdariis'
-     alt: "Niches Acoustiques après l'étude"
+     alt: "Durant la planification des mesures sur le terrain"
    - image: '/assets/images/projects/Niches_acoustiques/Capture d’écran 2022-05-17 à 19.27.13.png'
      credits: 'Nicolas Misdariis'
-     alt: ""
-  brief: "Une installation sonore sera déployée dans un espace public parisien pour créer un paysage sonore apaisant et varié. Une collaboration de recherche-création cherche à informer la composition de l'installation sonore en testant différents prototypes à travers des simulations de paysage sonore basées sur des enregistrements in situ."
-  about: "Alors que des études récentes sur le paysage sonore suggèrent que les installations d'art sonore peuvent avoir une influence positive sur l'évaluation de l'espace public, il n'existe à ce jour aucune méthode scientifique pour informer la composition d'art sonore dans l'espace public. Hébergé en partie à Paris, à l'Institut de Recherche Coordination Acoustique/Musique (IRCAM), le projet est une collaboration de recherche-création autour de l'intégration permanente d'une installation sonore dans un espace public urbain à Paris : Les Niches Acoustiques de Nadine Schütz. <br><br> Dans la première phase du projet, nous menons une série de tests d'écoute impliquant des simulations d'ambiances sonores High-Order Ambisonic de prototypes reposant sur différentes stratégies de composition, afin d'informer le travail de l'artiste sonore et d'optimiser la qualité de l'expérience de l'espace public en présence de l'installation sonore. Nous développons une méthode qui peut soutenir la conception d'une installation d'art sonore permanente et spécifique à un site. Ce projet de recherche-création implique une collaboration approfondie entre les chercheurs et les artistes en vue d'une meilleure intégration de l'installation sonore dans son environnement. Les simulations de paysage sonore fournies sont utiles au processus de composition, car elles permettent à l'artiste d'avoir un modèle réaliste de l'environnement sonore qui en résultera. Les tests d'écoute contrôlés fourniront des informations essentielles au compositeur en liant les paramètres de composition à leur effet sur la perception de l'environnement sonore."
-  participation: "Mener des tests d'écoute impliquant des simulations d'ambiances sonores High-Order Ambisonic de prototypes reposant sur différentes stratégies de composition pour informer la composition de l'installation sonore."
+     alt: "Session d’écoute au Studio 4 à l’IRCAM avec Valérian Fraisse, Nicolas Misdariis et l’artiste sonore Nadine Schütz"
+  brief: "Le développement d'installations sonores pour améliorer l'expérience des espaces publics suscite un intérêt croissant<br<br>Nous informons la composition de l'installation sonore dans un processus itératif de test de différents prototypes à travers des simulations d’ambiances sonores."
+  about: "Alors que des études récentes sur le paysage sonore suggèrent que les installations d'art sonore peuvent avoir une influence positive sur l'évaluation de l'espace public, il n'existe à ce jour aucune méthode scientifique pour informer la composition d'art sonore dans l'espace public. Hébergé en partie à Paris, à l'Institut de Recherche Coordination Acoustique / Musique (IRCAM), le projet est une collaboration de recherche-création autour de l'intégration permanente d'une installation sonore dans un espace public urbain à Paris : Niches Acoustiques de Nadine Schütz.<br><br>Dans la première phase du projet, nous menons une série de tests d'écoute impliquant des simulations d'ambiances sonores pour des prototypes reposant sur différentes stratégies de composition, afin d'informer le travail de l'artiste sonore et d'optimiser la qualité de l'expérience de l'espace public en présence de l'installation sonore."
+  participation: "Nous développons une méthode qui peut soutenir la conception d'une installation d'art sonore permanente et spécifique à un site. Ce projet de recherche-création implique une collaboration approfondie entre les chercheur·euses et les artistes en vue d'une meilleure intégration de l'installation sonore dans son environnement. Les simulations de paysage sonore fournies sont utiles au processus de composition, car elles permettent à l'artiste d'avoir un modèle réaliste de l'environnement sonore qui en résultera. Les tests d'écoute contrôlés fourniront des informations essentielles au compositeur en liant les paramètres de composition à leur effet sur la perception de l'environnement sonore."
   contact_info: "Pour plus de détails, contactez : Valérian Fraisse, Catherine Guastavino"
   links:
-    - url: 'https://acoustique-simulations.example.com'
-      name: 'Simulations acoustiques à IRCAM'
+    - url: 'https://ici.radio-canada.ca/tele/decouverte/site/episodes/520848/covid-ghgsat-methane-lune-pollution'
+      name: 'Société Radio-Canada (28 avril 2021). A l’écoute de la ville – Émission Découverte [reportage télévisé avec C. Guastavino]. https://ici.radio-canada.ca/tele/decouverte/site/episodes/520848/covid-ghgsat-methane-lune-pollution'
   publications:
-    - url: 'https://example.com/publication1'
-      name: 'Fraisse, V., Nicolas, E., Schütz, N., Ribeiro, C., & Misdariis, N. (2022). Évaluer l’impact d’installations sonores sur la perception du paysage sonore urbain: Cas d’étude d’une place publique parisienne. 16e Congrès Français d’Acoustique, Marseille, Paris.'
-    - url: 'https://example.com/publication2'
-      name: "Fraisse, V., Schütz, N., Wanderley, M., Guastavino, C., & Misdariis, N. (2022). Informer la conception d'art sonore dans l'espace public grâce à la simulation de paysage sonore. Proceedings of INTERNOISE, Glasgow, UK."
+    - url: ''
+      name: 'Fraisse, V., Nicolas, E., Schütz, N., Ribeiro, C., & Misdariis, N. (2022). Évaluer l’impact d’installations sonores sur la perception du paysage sonore urbain: Cas d’étude d’une place publique parisienne.<i> 16e Congrès Français d’Acoustique</i>, Marseille, Paris.'
+    - url: ''
+      name: "Fraisse, V., Schütz, N., Wanderley, M., Guastavino, C., & Misdariis, N. (2022). Informing sound art design in public space through soundscape simulation.<i>Proceedings of INTERNOISE, Glasgow</i>, UK."
   prev_url: "project14"
   next_url: 'project16'
 
