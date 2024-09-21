@@ -1074,8 +1074,8 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
 
 
 
-- title: "L'injustice sonique"
-  description: "L'exposition au bruit à long terme diffère selon les groupes socio-économiques"
+- title: "L'injustice sonore"
+  description: "Différents groupes socio-économiques sont différemment exposés au bruit à long terme"
   location: ""
   date: "2020 - En cours"
   start-date: '2020'
@@ -1095,21 +1095,25 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   before:
    - image: '/assets/images/projects/sonic_injustice/Railyards.jpg'
      credits: 'Christopher Trudeau'
-     alt: "Un quartier à faible revenu affecté par la pollution sonore"
+     alt: ""
   after:
    - image: ''
      credits: ''
      alt: ""
-  brief: "Les personnes à faible revenu et les groupes racialisés sont souvent surexposés au bruit à leur domicile. Elles peuvent également avoir moins d'accès à des espaces extérieurs où elles peuvent échapper au bruit."
-  about: "Les sons qui remplissent notre quotidien ont une importance pour notre santé et notre bien-être. Les sons indésirables, que nous appelons bruit, peuvent avoir des effets négatifs sur la santé auditive et non auditive, ainsi que réduire notre qualité de vie globale. Les espaces avec des sons désirables, tels que la nature ou les festivals, peuvent réduire les niveaux de stress, contribuant ainsi à améliorer la santé et le bien-être global. Certaines personnes sont plus vulnérables aux effets des problèmes environnementaux comme le bruit en raison de qui elles sont, y compris les enfants, les personnes à faible revenu et les personnes racialisées. Nous étudions les inégalités auxquelles ces groupes sont confrontés dans deux domaines : 1) l'exposition au bruit et 2) l'accès aux environnements sonores favorisant la santé. Dans de nombreuses villes et régions du monde, les groupes à faible revenu et racialisés sont souvent surexposés au bruit à leur domicile. Les premières preuves suggèrent qu'ils pourraient avoir moins accès à des environnements sonores permettant de se détendre."
+  brief: "Les personnes à faible revenu ou racisées sont souvent surexposées au bruit à leur domicile.
+<br><br>Elles peuvent également avoir moins accès à des espaces extérieurs pour échapper au bruit.
+<br><br>	Les enfants sont souvent moins exposé·es au bruit que les adultes.
+<br><br>	Iels peuvent également avoir moins accès à des espaces extérieurs pour échapper au bruit.
+"
+  about: ""
   participation: "Recherche, sensibilisation du public"
   contact_info: "Pour plus de détails, contactez: [Contact Person]"
   links:
-    - url: 'https://doi.org/10.1016/j.socscimed.2023.115919'
-      name: 'Trudeau, C., King, N., & Guastavino, C. (2023). Investigating sonic injustice: A review of published research. Social Science & Medicine, 326, 115919.'
+    - url: ''
+      name: ''
   publications:
-    - url: 'https://doi.org/10.1016/j.socscimed.2023.115919'
-      name: 'Trudeau, C., King, N., & Guastavino, C. (2023). Investigating sonic injustice: A review of published research. Social Science & Medicine, 326, 115919.'
+    - url: 'http://www.icben.org/2021/ICBEN 2021 Papers/full_paper_28936.pdf'
+      name: 'Trudeau, C., & Guastavino, C. (2021). The environmental inequality of urban sound environments: A comparative analysis. Proceedings of the International Commission on the Biological Effects of Noise. International Commission on the Biological Effects of Noise, Stockholm, Sweden 14-17 June.'
   prev_url: "project21"
   next_url: 'project23'
 
