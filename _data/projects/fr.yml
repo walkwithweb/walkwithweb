@@ -805,8 +805,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
 
 
 - title: "Les églises, lieux de restauration"
-  subtitle: "Une exploration des qualités sensorielles des bâtiments d'église en dehors du contexte cultuel"
-  description: "Une exploration des qualités sensorielles des bâtiments d'église en dehors du contexte du culte"
+  description: "Une exploration des qualités sensorielles des bâtiments d'église en dehors du contexte cultuel"
   location: "Montréal, QC"
   date: "Automne 2021 – Automne 2022"
   start-date: '2021'
@@ -914,8 +913,8 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   next_url: 'project19'
 
 
-- title: "L’art sonore dans les espaces publics: Fleurs-de-Macadam"
-  description: "Adopter une approche de création de recherche participative pour améliorer le paysage sonore d'un espace public urbain"
+- title: "L’art sonore dans les espaces publics : Fleurs-de-Macadam"
+  description: "Adopter une approche de recherche-création participative pour améliorer l'ambiance sonore d'un espace public urbain"
   location: "Plateau-Mont-Royal, Montreal, QC"
   date: "Été 2018 – En cours"
   start-date: '2018'
@@ -937,34 +936,34 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   before:
    - image: '/assets/images/projects/Fleurs_de_Macadam_sound_art/Place_Fleurs_des_Macadam_8.jpg'
      credits: 'Ville de Montréal'
-     alt: "Fleurs-de-Macadam avant l'installation"
+     alt: "place des Fleurs-de-Macadam en 2018"
   after:
     - image: '/assets/images/projects/Fleurs_de_Macadam_sound_art/Val_IMG_20190726_183158.jpg'
       credits: 'Valérian Fraisse'
-      alt: "Fleurs-de-Macadam après l'installation"
+      alt: "place des Fleurs-de-Macadam, 2019, avec l’installation sonore d’Audiotopie. "
     - image: '/assets/images/projects/Fleurs_de_Macadam_sound_art/speaker_ZOOM.jpg'
       credits: 'Valérian Fraisse'
-      alt: ""
-    - image: '/assets/images/projects/Fleurs_de_Macadam_sound_art/Place_Fleurs_des_Macadam_8.jpg'
-      credits: 'Ville de Montréal'
-      alt: ""
+      alt: "Zoom sur un haut-parleur de l’installation sonore, 2019"
     - image: '/assets/images/projects/Fleurs_de_Macadam_sound_art/Place_Fleurs_des_Macadam_7.jpg'
       credits: 'Ville de Montréal'
-      alt: ""
-  brief: "Le projet vise à expérimenter une nouvelle collaboration interdisciplinaire entre des chercheurs, des artistes sonores et la ville. La présence d'installations sonores améliore l'expérience de l'espace public et renforce les objectifs de conception spatiale."
-  about: "L'arrondissement du Plateau-Mont-Royal a adopté une approche différente pour déterminer à quoi un nouvel espace public – les Fleurs-de-Macadam - pourrait ressembler et sonner. Dans une première étape, au cours de l'été 2018, l'arrondissement a installé 3 prototypes distincts et a permis au public d'évaluer chaque site. Les partenaires du collectif d'artistes Audiotopie ont développé et déployé 3 installations sonores dans ces designs temporaires. Sounds in the City a évalué les paysages sonores résultants et a aidé l'arrondissement à façonner le futur espace pour les utilisateurs, ainsi qu'à informer la composition d'une quatrième installation sonore, déployée durant l'été 2019. <br><br> Grâce à un processus itératif de conception, de déploiement et d'évaluation, nous avons documenté l'impact des différentes installations sonores pendant deux ans sur une nouvelle place publique. À l'aide de questionnaires donnés aux passants et de mesures du niveau sonore, nous avons identifié les schémas d'utilisation et les principales activités menées sur la place. Ces résultats ont guidé le processus de composition d'installations sonores qui résonnent avec les ambiances souhaitées tout au long de la journée. L'analyse des questionnaires a indiqué que les expériences des utilisateurs de l'espace public étaient améliorées en présence des quatre installations sonores, avec des effets positifs sur la perception de plaisir, du calme et de la capacité à faire une pause. Ces résultats soulignent le potentiel de la conception sonore intentionnelle dans un contexte d'espace public ainsi que le rôle spécifique des collaborations de création de recherche pour façonner les paysages sonores urbains."
-  participation: "Questionnaires, mesures du niveau sonore, engagement communautaire."
+      alt: Friche précédant l’inauguration de la place des Fleurs-de-Macadam""
+  brief: "Le projet vise à expérimenter une nouvelle collaboration interdisciplinaire entre chercheur·euses, artistes sonores et ville <br><br>La présence d'installations sonores améliore l'expérience de l'espace public et renforce les objectifs de conception spatiale."
+  about: "L'arrondissement du Plateau-Mont-Royal a adopté une approche différente pour déterminer à quoi un nouvel espace public – les Fleurs-de-Macadam – et son ambiance sonore pourrait ressembler. Dans une première étape, au cours de l'été 2018, l'arrondissement a installé 3 prototypes d’aménagement distincts et a permis au public d'évaluer chaque site. Nos partenaires du collectif d'artistes Audiotopie ont développé et déployé 3 installations sonores dans ces aménagements temporaires. Ville Sonore a évalué les ambiances sonores de chaque prototype et a aidé l'arrondissement à façonner le futur espace pour les usager·ères, ainsi qu'à informer la composition d'une quatrième installation sonore, déployée durant l'été 2019."
+  participation: "Grâce à un processus itératif de conception, de déploiement et d'évaluation, nous avons documenté l'impact des différentes installations sonores pendant deux ans sur une nouvelle place publique. À l'aide de questionnaires donnés aux passant·es et de mesures du niveau sonore, nous avons identifié les schémas d'utilisation et les principales activités menées sur la place. Ces résultats ont guidé le processus de composition d'installations sonores qui 'résonnent' avec les ambiances souhaitées tout au long de la journée. L'analyse des questionnaires a indiqué que les expériences des usager·ères de l'espace public étaient améliorées en présence des quatre installations sonores, avec des effets positifs sur le caractère agréable, le calme et la capacité à faire une pause. Ces résultats soulignent le potentiel de la conception sonore intentionnelle dans un contexte d'espace public ainsi que le rôle spécifique des collaborations de recherche-création pour façonner les ambiances sonores urbaines. <br><br>Questionnaires, mesures du niveau sonore, engagement communautaire."
   contact_info: "Pour plus de détails, contactez: Valérian Fraisse, Cynthia Tarlao, Catherine Guastavino"
   links:
-    - url: 'https://journalmetro.com/culture/rencontres/2915990/sons-iles-madeleine-berceront-verdun/'
-      name: 'Journal Métro - Les échos de nos églises'
+    - url: ''
+      name: ''
   publications:
-    - url: 'https://www.taylorfrancis.com/chapters/edit/10.4324/9781003140535-5/designing-sound-installations-public-spaces-catherine-guastavino-val%C3%A9rian-fraisse-simone-ambrosio-etienne-legast-maryse-lavoie'
-      name: 'Guastavino, C., Fraisse, V., D’Ambrosio, S, Legast, E, & Lavoie, M. (2022). Designing sound installations in public spaces: A collaborative research creation approach. In Filimowicz, M. (Ed)., Designing Interaction for Music and Sound. Routledge, Abingdon, UK.'
+    - url: 'https://doi.org/10.1016/j.landurbplan.2024.105173'
+      name: 'Fraisse, V., Tarlao, C., & Guastavino, C. (In press). Shaping City Soundscapes: In-Situ Evaluation of Four Sound Installations in an Urban Public Space. <i>Landscape and Urban Planning</i>.'
+    - url: 'https://www.taylorfrancis.com/chapters/edit/10.4324/9781003140535-5/designing-sound-installations-public-spaces-catherine-'
+      name: 'Guastavino, C., Fraisse, V., D’Ambrosio, S, Legast, E, & Lavoie, M. (2022). Designing sound installations in public spaces: A collaborative research creation approach. In Filimowicz, M. (Ed)., <i>Designing Interaction for Music and Sound</i>. Routledge, Abingdon, UK.'
     - url: 'https://www.researchgate.net/publication/333058798_Sounds_in_the_City_Improving_the_soundscape_of_a_public_square_through_sound_art'
-      name: 'Steele D., Legast, E., Trudeau C., Fraisse, V., Guastavino, C. (2019). Sounds in the city: Improving the soundscape of a public square through sound art. Invited paper, Proceedings of the 26th International Congress on Sound and Vibration (ICSV26), Montréal, QC, July 7–11 (8 pages).'
-    - url: 'https://hal.science/HAID2020/hal-02901201v1'
-      name: 'Fraisse, V., Steele, D., D’Ambrosio, S., & Guastavino, C. (2020). Shaping urban soundscapes through sound art: a case study in a public square exposed to construction noise. In International Workshop on Haptic and Audio Interaction Design, HAID 2020, Montreal, QC, Aug. 21 (5 pages).'
+      name: 'Steele D., Legast, E., Trudeau C., Fraisse, V., Guastavino, C. (2019). Sounds in the city: Improving the soundscape of a public square through sound art. Invited paper, Proceedings of the 26th International Congress on Sound and Vibration (<i>ICSV26</i>), Montréal, QC, July 7–11 (8 pages).'
+    - url: 'https://hal.archives-ouvertes.fr/HAID2020/hal-02901201v1'
+      name: 'Fraisse, V., Steele, D., D''Ambrosio, S., & Guastavino, C. (2020). Shaping urban soundscapes through sound art: a case study in a public square exposed to construction noise. In <i>International Workshop on Haptic and Audio Interaction Design</i>, HAID 2020, Montreal, QC, Aug. 21 (5 pages).'
+
   prev_url: "project18"
   next_url: 'project20'
 
