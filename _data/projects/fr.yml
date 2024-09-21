@@ -424,9 +424,9 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
     - url: 'https://bycs.org/sound-as-a-resourcewith-catherine-guastavino/'
       name: 'BYCS perspective (1er mars 2021). Sound as a resource: with Catherine Guastavino.[entretien avec C. Guastavino]. https://bycs.org/sound-as-a-resourcewith-catherine-guastavino/ [en anglais] '
     - url: ''
-      name: 'Trudel, B. (automne 2023). Quand un son vaut mille mots. [entretien avec C. Guastavino]. Continuité, 178 – Patrimoine Sonore, 18-21. '
+      name: 'Trudel, B. (automne 2023). Quand un son vaut mille mots. [entretien avec C. Guastavino]. Continuité, 178 – Patrimoine Sonore, 18-21.'
     - url: ''
-      name: 'Gagnon, M. (automne 2023). Les archéologues du son. [entretien avec C. Guastavino]. Continuité, 178 – Patrimoine Sonore, 178, 22-24. '
+      name: 'Gagnon, M. (automne 2023). Les archéologues du son. [entretien avec C. Guastavino]. Continuité, 178 – Patrimoine Sonore, 178, 22-24.'
     - url: 'https://ici.radiocanada.ca/tele/decouverte/site/episodes/520848/covid-ghgsat-methane-lune-pollution'
       name: 'Société Radio-Canada (28 avril 2021). A l’écoute de la ville – Émission Découverte. [spot TV avec C. Guastavino]. https://ici.radiocanada. ca/tele/decouverte/site/episodes/520848/covid-ghgsat-methane-lune-pollution'
   publications:
@@ -805,7 +805,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
 
 
 - title: "Les églises, lieux de restauration"
-  subtitle: "Une exploration des qualités sensorielles des bâtiments d'église en dehors du contexte du culte"
+  subtitle: "Une exploration des qualités sensorielles des bâtiments d'église en dehors du contexte cultuel"
   description: "Une exploration des qualités sensorielles des bâtiments d'église en dehors du contexte du culte"
   location: "Montréal, QC"
   date: "Automne 2021 – Automne 2022"
@@ -834,28 +834,28 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   before:
    - image: '/assets/images/projects/Church_Restoration/ChurchRestor_MAIN_SPA_IMG_1920.JPG'
      credits: 'Josée Laplace'
-     alt: "Churches before the project"
+     alt: "Église de Saint-Pierre-Apôtret"
   after:
    - image: '/assets/images/projects/Church_Restoration/ChurchRestor_RussianOrth_IMG_1865.JPG'
      credits: 'Josée Laplace'
-     alt: "Churches after the project"
+     alt: "Église de Saint-Pierre-Apôtre"
    - image: '/assets/images/projects/Church_Restoration/ChurchRestor_HOMA_TSNJ_IMG_2482.JPG'
      credits: 'Josée Laplace'
-     alt: ""
-  brief: "Les édifices religieux possèdent des qualités sensorielles particulières, notamment sonores, qui peuvent avoir des effets positifs même dans le contexte de la sécularisation. Le projet de recherche explore le potentiel réparateur des édifices religieux et la manière dont ils pourraient être utilisés comme 'lieux de tranquillité' dans la ville."
-  about: "Alors que la fréquentation des églises a considérablement diminué au cours des dernières décennies, en particulier en Europe du Nord et en Amérique du Nord, la préservation des édifices religieux est devenue une question urgente, car la sécularisation a laissé de nombreux édifices religieux vacants ou sous-utilisés. À Montréal seulement, le Conseil québécois du patrimoine religieux a signalé que 22 % des lieux de culte de toutes confessions figurant dans son inventaire datant de 2003 ont été démolis, fermés ou convertis à d'autres usages. Le projet étudie le rôle que les qualités sensorielles spécifiques des églises pourraient jouer à l'égard des sensibilités plus laïques d'aujourd'hui. En tant qu'environnement très différent de la vie quotidienne, l'ambiance des églises peut favoriser un mode d'attention et de perception singulier. En termes d'acoustique, les longs temps de réverbération et l'isolement relatif par rapport aux bruits extérieurs de la ville peuvent avoir des effets bénéfiques sur la santé, comme la réduction du stress. Nous avons effectué des marches sonores et des entretiens dans cinq églises du Centre Sud et d'Hochelaga-Maisonneuve à Montréal, avec des participants de ces quartiers. Les résultats préliminaires montrent que les églises sont perçues comme des lieux 'hors du temps et de l'espace', ce qui est conforme aux études précédentes sur les ambiances des églises et met en évidence le rôle que joue le son dans l'élaboration des expériences."
-  participation: "Marches sonores, entretiens, évaluations sensorielles et acoustiques."
+     alt: "Église de Saint-Pierre-Apôtre"
+  brief: "Les édifices religieux possèdent des qualités sensorielles particulières, notamment sonores, qui peuvent avoir des effets positifs même dans le contexte de la sécularisation.<br><br>Le projet de recherche explore le potentiel réparateur des édifices religieux et la manière dont ils pourraient être utilisés comme 'lieux de tranquillité' dans la ville."
+  about: "Alors que la fréquentation des églises a considérablement diminué au cours des dernières décennies, en particulier en Europe du Nord et en Amérique du Nord, la préservation des édifices religieux est devenue une question urgente, car la sécularisation a laissé de nombreux édifices religieux vacants ou sous-utilisés. À Montréal seulement, le Conseil québécois du patrimoine religieux a signalé que 22 % des lieux de culte de toutes confessions figurant dans son inventaire datant de 2003 ont été démolis, fermés ou convertis à d'autres usages.<br><br>Le projet étudie le rôle que les qualités sensorielles spécifiques des églises pourraient jouer à l'égard des sensibilités plus laïques d'aujourd'hui. En tant qu'environnement très différent de la vie quotidienne, l'ambiance des églises peut favoriser un mode d'attention et de perception singulier. En termes d'acoustique, les longs temps de réverbération et l'isolement relatif par rapport aux bruits extérieurs de la ville peuvent avoir des effets bénéfiques sur la santé, comme la réduction du stress."
+  participation: "Le projet étudie le rôle que les qualités sensorielles spécifiques des églises pourraient jouer à l'égard des sensibilités plus laïques d'aujourd'hui. En tant qu'environnement très différent de la vie quotidienne, l'ambiance des églises peut favoriser un mode d'attention et de perception singulier. En termes d'acoustique, les longs temps de réverbération et l'isolement relatif par rapport aux bruits extérieurs de la ville peuvent avoir des effets bénéfiques sur la santé, comme la réduction du stress."
   contact_info: "Pour plus de détails, contactez: Josée Laplace"
   links:
-    - url: 'https://www.magazinecontinuite.com/les-echos-de-nos-eglises/'
-      name: 'Magazine Continuité - Les échos de nos églises'
+    - url: ''
+      name: ''
   publications:
     - url: 'https://doi.org/10.1080/17458927.2022.2139134'
-      name: 'Laplace, Josée and Catherine Guastavino. (2022). « Exploring sonic experiences in church spaces: a psycholinguistic analysis ». The Senses and Society, 17(3).'
-    - url: 'https://example.com/publication4'
-      name: 'Laplace, Josée and Catherine Guastavino. (2022). “Evaluation of the restorative potential of church buildings”. Proceedings Internoise 2022, 21-24 août 2022, Glasgow.'
+      name: 'Laplace, Josée and Catherine Guastavino. (2022). « Exploring sonic experiences in church spaces: a psycholinguistic analysis ». The Senses and Society, 17(3), DOI: 10.1080/17458927.2022.2139134'
+    - url: ''
+      name: 'Laplace, Josée and Catherine Guastavino. (2022). “Evaluation of the restorative potential of church buildings”.<i>Proceedings Internoise</i> 2022, 21-24 août 2022, Glasgow.'
     - url: 'https://www.taylorfrancis.com/chapters/edit/10.4324/9780429279782-10/church-beyond-worship-jos%C3%A9e-laplace'
-      name: 'Laplace, Josée. (2019). « The church beyond worship: Experiencing monumental soundscapes in the Roman Catholic churches of Montréal (Québec, Canada) ». Dans Catherine Lavandier et Christine Guillebaud (dir.). Worship Sound Space. A Multidisciplinary Approach. London: Routledge, collection Research in Architecture, p. 141-177.'
+      name: 'Laplace, Josée. (2019). « The church beyond worship: Experiencing monumental soundscapes in the Roman Catholic churches of Montréal (Québec, Canada) ». Dans Catherine Lavandier et Christine Guillebaud (dir.).<i>Worship Sound Space. A Multidisciplinary Approach</i>. London: Routledge, collection Research in Architecture, p. 141-177.'
   prev_url: "project16"
   next_url: 'project18'
 
