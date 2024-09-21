@@ -538,7 +538,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   next_url: "project12"
 
 
-- title: "Industrie vs. résidence : Cohabitation sonore dans Assomption Sud-Longue Pointe"
+- title: "Activités industrielles vs résidentielles : Cohabitation sonore dans Assomption Sud-Longue Pointe"
   description: "Etudier la cohabitation sonore autour du port de Montréal"
   location: "Montréal, Canada"
   date: "Printemps 2022 – Printemps 2023; Printemps 2024 – Printemps 2025"
@@ -550,7 +550,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   collaborators: "Ville de Montréal (Service du développement économique), l'Agence de santé publique de Montréal (DRSP), l'Observatoire des Milieux de Vie urbains (OMV-UQAM), l'Autorité portuaire de Montréal"
   name: ""
   tags:
-    - name: residents
+    - name: Résidents
       id: 'residents'
     - name: promenades sonores
       id: 'promenades_sonores'
@@ -572,19 +572,22 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
    - image: '/assets/images/projects/industry_v_residence/Port-indstry.jpeg'
      credits: 'Google Maps'
      alt: ""
-  brief: "Les ports contribuent à la vitalité et à l'attractivité des villes, mais ils peuvent aussi générer des conflits liés au bruit. Notre étude examine le paysage sonore dans les zones résidentielles autour du port de Montréal pour informer la mise en place de politiques publiques intégrant la dimension sonore."
-  about: "L'Assomption Sud-Longue-Pointe est une région complexe affectée par les cohabitations sonores entre activités industrialo-portuaires et usages résidentiels. En collaboration avec l'OMV-UQAM, nous documentons la situation pour mieux comprendre les dynamiques en jeu et proposer des solutions innovantes, techniques, de design, de communication, et de gouvernance pour améliorer la qualité de vie des résidents."
-  participation: "Nous collaborons avec l'arrondissement Mercier-Hochelaga-Maisonneuve et l'Administration portuaire de Montréal pour proposer et évaluer des interventions visant à améliorer la cohabitation sonore entre les activités industrialo-portuaires et les communautés résidentielles."
+  brief: "Les ports contribuent à la vitalité et à l'attractivité des villes, mais ils peuvent aussi générer des conflits liés au bruit.<br><br>Notre étude examine le paysage sonore dans les zones résidentielles autour du port de Montréal pour informer la mise en place de politiques publiques intégrant la dimension sonore."
+  about: "Les ports sont des acteurs économiques essentiels pour les villes, mais génèrent des nuisances pour leurs résidents, y compris au niveau de la dimension sonore. A Montréal, le quartier d’Assomption Sud-Longue-Pointe est particulièrement affecté par les problèmes de cohabitation sonore entre activités industrialo-portuaires et industrielles et usages résidentiels.
+<br><br>Dans le présent projet, l’équipe Ville Sonore, en collaboration avec l'Observatoire des Milieux de Vie urbains (OMV) de l'UQAM, a documenté la situation afin de mieux comprendre les dynamiques en question, non seulement sur le plan acoustique mais aussi en termes de qualité de vie des résidents. Assomption Sud-Longue-Pointe est un secteur complexe qui nécessite des efforts sur plusieurs fronts pour résoudre les problèmes actuels de cohabitation et les situations politiquement délicates.
+<br><br>Les résidents et les travailleurs du secteur ont proposé une longue liste de suggestions pour rendre leur quartier plus habitable. Ces propositions portent non seulement sur des solutions techniques, mais aussi sur le design et l’aménagement, la communication et le développement communautaire ou la gouvernance. Ces suggestions peuvent permettre de développer des solutions innovantes, en étroite collaborations avec les résidents d’un secteur en transformation. 
+"
+  participation: "Ville sonore collabore maintenant avec l'arrondissement Mercier-Hochelaga-Maisonneuve et l'Administration portuaire de Montréal pour proposer et évaluer des interventions visant à améliorer les enjeux de cohabitation sonore entre les usages industrialo-portuaires et les communautés du secteur."
   contact_info: "Pour plus de détails, contactez: Edda Bild, Catherine Guastavino"
   links:
-    - url: 'https://montreal.ca/atelier/le-bruit-environnemental-dans-nos-actions-de-planification'
-      name: '"Le bruit environnemental dans nos actions de planification" (October 6th 2022) atelier dirigé aux professionnels de la Ville de Montréal'
+    - url: ''
+      name: '"Le bruit environnemental dans nos actions de planification" (6 octobre 2022) atelier, destiné aux professionnel·les en urbanisme de Montréal. Organisé par la Ville de Montréal et  l Agence de santé publique de Montréal.'
   publications:
-    - url: 'https://journals.sagepub.com/doi/10.3138/cpp.2020-001'
-      name: 'Laplace, J., Bild, E., Trudeau, C., Perna, M., Dupont, T. & Guastavino C. (2022). Encadrement du bruit environnemental au Canada. / Analyse de politiques publiques Canadienne, 48(1), 49-65.'
-    - url: 'https://asa.scitation.org/doi/10.1121/2.0001391'
-      name: 'Trudeau, C., Bild, E., Padois, T., Perna, M., Dumoulin, R., Dupont, T., & Guastavino, C. (2020). Municipal noise regulations in Québec. Actes du Forum Acusticum. Forum Acusticum, Dec. 7-11, Lyon, France.'
-    - url: 'https://espace.library.uqac.ca/id/eprint/5276'
+    - url: 'http://doi.org/10.3138/cpp.2021-009'
+      name: 'Laplace, J., Bild, E., Trudeau, C., Perna, M., Dupont, T. & Guastavino C. (2022). Encadrement du bruit environnemental au Canada<i>. Canadian Public Policy / Analyse de politiques publiques Canadienne</i>, 48(1), 49-65.'
+    - url: 'https://hal.archives-ouvertes.fr/hal-03233770/document'
+      name: 'Trudeau, C., Bild, E., Padois, T., Perna, M., Dumoulin, R., Dupont, T., & Guastavino, C. (2020). Municipal noise regulations in Québec. Actes du Forum Acusticum. Forum Acusticum, Dec. 7-1, Lyon, France'
+    - url: ''
       name: 'Bild, E., Fraisse, V. et Guastavino, C. (2023). Intégration des considérations sonores dans la politique de la vie nocturne à Montréal. Rapport pour le Service de développement économique, Ville de Montréal (61 pages).'
   prev_url: "project11"
   next_url: "project13"
