@@ -21,13 +21,13 @@
     - name: Ville de Montréal
       id: 'city_of_montreal'
   before:
-    image: '/assets/images/projects/Roy/Roy1.jpg'
-    credits: 'Maryse Lavoie'
-    alt: "Terrasses Roy - avant - à gauche"
+   - image: '/assets/images/projects/Roy/Roy1.jpg'
+     credits: 'Maryse Lavoie'
+     alt: "Terrasses Roy - avant - à gauche"
   after:
-    image: '/assets/images/projects/Roy/Roy2.jpg'
-    credits: 'Christine Kerrigan'
-    alt: "et après - à droite"
+   - image: '/assets/images/projects/Roy/Roy2.jpg'
+     credits: 'Christine Kerrigan'
+     alt: "et après - à droite"
   brief: "Le projet a permis d'éliminer le bruit de la circulation et de créer une nouvelle voie piétonne et un espace de détente dans un lieu où il n'y avait auparavant qu'une rue.<br><br>Il a également permis la formation d’un nouvel espace de rencontre dans le quartier, souvent utilisé à la fois par les résidents et par les visiteurs, qui en apprécient la verdure, le sentiment accru de sécurité dû à l'absence de voitures et le paysage sonore plus « calme » avec la circulation audible uniquement au loin."
   about: "En collaboration avec la Ville de Montréal, notre équipe a mené un projet de recherche sur l’environnement sonore de la rue Roy, au cœur de l'arrondissement du Plateau-Mont-Royal, lors de sa piétonnisation. Durant l’été 2017, la Ville a fermé à la circulation une section de la rue et mandaté la firme de design Castor et Pollux pour concevoir et installer un aménagement temporaire. Quatre secteurs différents et colorés invitaient les visiteurs à se détendre et à interagir, avec un mobilier urbain coloré, des jardins communautaires et une aire de jeux. Ce projet pilote a très bien été accueilli par la communauté et a été prolongé pendant l'automne et l'hiver 2017. L'espace a maintenant été converti en un espace de rencontre extérieur permanent autour de l'agriculture urbaine."
   participation: "Nous avons participé à des consultations publiques et effectué des mesures acoustiques et des enregistrements audio avant et après la piétonnisation. Nous avons également distribué des questionnaires aux passants afin d'évaluer leur expérience de cette nouvelle voie piétonne, en mettant l'accent sur l’ambiance sonore et les attentes sonores. Nous avons ensuite formulé des recommandations pour la municipalité sur les manières de renforcer la vocation de ce nouvel espace par le biais du son."
@@ -74,13 +74,13 @@
     - name: planification urbaine
       id: 'urban_planning'
   before:
-    image: '/assets/images/projects/ValeursGuide/VG1.png'
-    credits: 'Christopher Trudeau '
-    alt: "Distribution des politiques de bruit étudiées."
+   - image: '/assets/images/projects/ValeursGuide/VG1.png'
+     credits: 'Christopher Trudeau '
+     alt: "Distribution des politiques de bruit étudiées."
   after:
-    image: '/assets/images/projects/ValeursGuide/VG_Bruit chantiers_JL.jpg'
-    credits: 'Josée Laplace'
-    alt: ""
+   - image: '/assets/images/projects/ValeursGuide/VG_Bruit chantiers_JL.jpg'
+     credits: 'Josée Laplace'
+     alt: ""
   brief: "Le bruit est un polluant majeur de notre époque, mais les politiques qui le règlementent sont souvent réactives, rarement harmonisées entre provinces, États et pays, et restent cloisonnées. <br><br> Notre projet propose des recommandations pour une approche intégrée et proactive de la prise en charge du bruit environnemental."
   about: "Les politiques contre le bruit diffèrent d'un pays à l'autre, voire au sein d'un même pays, en fonction des différentes approches de prise en charge du bruit environnemental adoptées par les provinces ou les municipalités d'une même province. Au Québec, les politiques de lutte contre le bruit se concentrent sur des stratégies réactives axées sur des sources sonores spécifiques et leurs niveaux (et sur leur réduction), répartissant les responsabilités à différents niveaux de gouvernement. <br><br> Depuis 2018, l’équipe de la Ville Sonore travaille à l’analyse des approches d’encadrement du bruit environnemental. La première partie de ce projet, en collaboration avec l'École de technologie supérieure, comprenait un examen systématique des politiques de bruit dans le monde afin d'identifier les bonnes pratiques en termes de valeurs limites de bruit, de protocoles de mesure et de stratégies de communication, ainsi qu'un examen de la façon dont les gouvernements au palier municipal abordent les considérations liées au bruit au Québec. La deuxième partie du projet, en collaboration avec l'Université Laval, s'est concentrée sur la manière d'intégrer au mieux les considérations sonores dans les pratiques de conception et de planification urbaines, au travers d’études de cas québécois et internationaux et d’entretiens avec des professionnels en urbanisme."
   participation: "La diversité des niveaux de bruit prescrits par les politiques, les protocoles variés (ou inexistants) pour mesurer ces niveaux ainsi que l'approche souvent cloisonnée axée sur des sources de bruit spécifiques (telles que la circulation automobile, les activités de loisirs ou l'industrie) abordée à différents paliers de gouvernement font de la gestion du bruit environnemental un défi mondial et limitent la transférabilité de certaines bonnes pratiques documentées. Nous avons formulé des recommandations à l'intention de nos partenaires gouvernementaux sur les stratégies d'intégration du son à des stades plus précoces de la planification et de la conception, par exemple, de même que sur des stratégies de prise en charge du bruit qui ne reposent pas exclusivement sur les niveaux de bruit mais plutôt axées sur la communication et l'éducation."
@@ -112,7 +112,7 @@
   date: "Été 2018"
   start-date: '2018'
   end-date: '2018'
-  image: "/assets/images/projects/Fleurs de Macadam sound art/Val_IMG_20190726_183158.jpg"
+  image: "/assets/images/projects/Fleurs_de_Macadam_misters/DSC_0319.jpeg"
   url: "project3"
   fundings: "Bourse CRSH-SDP"
   collaborators: "Ville de Montréal (Arrondissement Plateau-Mont-Royal)"
@@ -127,13 +127,13 @@
     - name: Ville de Montréal
       id: 'city_of_montreal'
   before:
-    image: '/assets/images/projects/Fleurs_De_Macadam_misters/mister_locations.jpeg'
-    credits: 'Castor et Pollux'
-    alt: ""
+   - image: '/assets/images/projects/Fleurs_De_Macadam_misters/mister_locations.jpeg'
+     credits: 'Castor et Pollux'
+     alt: ""
   after:
-    image: '/assets/images/projects/Fleurs_de_Macadam_misters/DSC_0319.jpeg'
-    credits: 'Cynthia Tarlao'
-    alt: ""
+   - image: '/assets/images/projects/Fleurs_de_Macadam_misters/DSC_0319.jpeg'
+     credits: 'Cynthia Tarlao'
+     alt: ""
   brief: "Pendant les mois chauds de l'été, une structure d'eau sur une place publique est attrayante. Mais s'il est mal conçu, ce point d'eau risque tout autant de dissuader les usagers d'utiliser l'espace."
   about: "Nous avons mené une étude pendant tout l'été sur un nouvel espace public expérimental de la ville - la place des Fleurs-de-Macadam, dans lequel trois prototypes, chacun doté d'un dispositif de brumisation d'eau, ont été testés. Nous voulions voir les effets d'éléments aquatiques plus ou moins audibles sur la façon dont les utilisateurs de la place évaluaient l’ambiance sonore et les leçons qui pouvaient en être tirées pour l'avenir. <br><br> Les enquêtes menées sur place ont révélé qu'un dispositif de brumisation n'est pas en soi une garantie d'amélioration de l'environnement sonore. Alors que deux des designs ont été évalués comme étant moins chaotiques et moins bruyants lorsque les brumisateurs étaient en marche, le troisième design a obtenu le résultat inverse, probablement en raison de la façon dont les brumisateurs y ont été intégrés : les brumisateurs du projet 3 étaient situés directement dans les allées de gravier, ce qui laissait souvent un espace boueux et inutilisable. <strong>Leçon n° 1 : comme tous les autres aspects de l’aménagement, l'expérience sonore doit être conçue à dessein.</strong>"
   participation: "Les personnes interrogées qui ont déclaré avoir entendu des bruits d'eau les ont systématiquement qualifiés d'agréables. Le son des brumisateurs a rappelé des souvenirs et des expériences aux utilisateurs de l'espace, comme la sensation de l’eau fraîche pendant une chaude journée d'été. Ces souvenirs ont eu une influence positive sur les évaluations de l'environnement sonore. <strong>Leçon n° 2 : prendre en compte les significations que le son peut évoquer.</strong> <br><br> Le résultat le plus surprenant est que, même lorsqu'il était peu probable que les personnes interrogées puissent entendre les brumisateurs, leur évaluation du caractère chaotique ou bruyant de l'environnement sonore a diminué par rapport à la situation où les brumisateurs n'étaient pas en marche. <strong>Leçon n° 3 : les brumisateurs n'ont pas besoin d'être audibles pour influencer la façon dont les utilisateurs d'un espace public évaluent son ambiance sonore.</strong>"
@@ -168,13 +168,13 @@
     - name: professionnel·les en urbanisme
       id: 'professionnels_urbanisme'
   before:
-    image: '/assets/images/projects/project1_before.png'
-    credits: 'Christine Kerrigan.'
-    alt: "Participante utilisant l’Oculus Go."
+   - image: '/assets/images/projects/project1_before.png'
+     credits: 'Christine Kerrigan.'
+     alt: "Participante utilisant l’Oculus Go."
   after:
-    image: '/assets/images/projects/project1.png'
-    credits: 'Catherine Guastavino.'
-    alt: "Atelier dans la salle multimédia (CIRMMT)."
+   - image: '/assets/images/projects/project1.png'
+     credits: 'Catherine Guastavino.'
+     alt: "Atelier dans la salle multimédia (CIRMMT)."
   brief: "Des professionnel·les en urbanisme ont été invité·es à participer à un atelier avec l'équipe de la Ville Sonore.<br><br> Les activités comprenaient un « terrain de jeu immersif » de différentes technologies, une activité de conception collaborative dans des installations de pointe et des groupes de discussion, qui ont alimenté la conception de nouveaux outils de planification sonore."
   about: "La planification des ambiances sonores demeure une approche peu courante, tout comme les outils qui facilitent une telle planification proactive. Au cours de l'été 2019, nous avons organisé un atelier avec des professionnel·les en urbanisme (notamment des urbanistes et des designers) afin de déterminer les technologies qui pourraient être ajoutées à leur boîte à outils de planification urbaine. <br><br> Pendant l'atelier, nous avons présenté les principes de base de l'approche d’ambiance sonore, ainsi que différentes technologies qui pourraient aider à la planification future d’ambiances sonores, à travers trois activités principales :  <br> 1) un « terrain de jeu immersif » : expérimentation de technologies telles que des outils de réalité virtuelle (HTC Vive Pro, Oculus Go et kits VR pour smartphones) et d'autres simulations sur ordinateur. <br> 2) une séance de conception participative d'ambiances sonores dans la salle multimédia ultramoderne du Centre de recherche interdisciplinaire en musique, médias et technologies (CIRMMT). <br> 3) des groupes de discussion sur les défis actuels des professionnels et leurs potentiels besoins s'ils devaient s'engager dans la conception d’ambiances sonores par eux-mêmes."
   participation: "Nous avons intégré les résultats de ces activités dans la conception d'un prototype d'outil de réalité virtuelle. Le développement est en cours et des essais sont prévus dans les mois à venir."
@@ -216,13 +216,13 @@
     - name: échelles d'évaluation des ambiances sonores
       id: 'echelles_evaluation_ambiances_sonores'
   before:
-    image: '/assets/images/projects/project1_before.png'
-    credits: ''
-    alt: ""
+   - image: '/assets/images/projects/translation/translation.jpg'
+     credits: 'N/A'
+     alt: ""
   after:
-    image: '/assets/images/projects/project1.png'
-    credits: ''
-    alt: ""
+   - image: '/assets/images/projects/translation/TranslationCCommons.jpeg'
+     credits: 'N/A'
+     alt: ""
   brief: "L'élaboration d’une norme universelle pour l’évaluation des ambiances sonores est un défi car les correspondances entre les langues ne sont pas simples."
   about: "Ville Sonore explore depuis ses débuts la question de la traduction des échelles d’évaluation des ambiances sonores, étant donné le contexte bilingue unique qu'offre Montréal. Nous avons étudié le vocabulaire utilisé par les francophones et les anglophones pour décrire les sons et les ambiances sonores de leur quotidien, ainsi que les similitudes et les différences entre eux ; par exemple, la distinction entre « son » et « bruit » diffère entre le français et l'anglais. <br><br> Nous avons également proposé et testé des traductions françaises du Swedish Soundscape Quality Protocol (SSQP), un questionnaire comprenant 8 échelles permettant d'évaluer une ambiance sonore sur son caractère agréable et animé."
   participation: "En outre, nous participons aux efforts mondiaux de normalisation et de traduction des outils d'évaluation du paysage sonore, tels que les groupes de travail de l'ISO et le Soundscape Attributes Translation Project (SATP), un projet de recherche international lancé en 2019."
@@ -255,7 +255,7 @@
   date: "Été 2015 ; Automne 2020 – Hiver 2021"
   start-date: '2015'
   end-date: '2021'
-  image: "/assets/images/projects/restaurant/restaurant-ithq-sherbrooke-montreal-14.jpg"
+  image: '/assets/images/projects/restaurant/restaurant-ithq-sherbrooke-montreal-13.jpg'
   url: "project6"
   fundings: "ITHQ, Saint-Gobain Research"
   collaborators: "Institut de tourisme et d’hôtellerie du Québec (ITHQ), Saint-Gobain Research"
@@ -270,13 +270,13 @@
     - name: ITHQ
       id: 'ITHQ'
   before:
-    image: '/assets/images/projects/project1_before.png'
-    credits: 'Cynthia Tarlao'
-    alt: "Restaurant de l’ITHQ."
+   - image: '/assets/images/projects/restaurant/restaurant-ithq-sherbrooke-montreal-13.jpg'
+     credits: 'ITHQ'
+     alt: "Restaurant de l’ITHQ."
   after:
-    image: '/assets/images/projects/project1.png'
-    credits: ''
-    alt: ""
+   - image: '/assets/images/projects/restaurant/restaurant-ithq-sherbrooke-montreal-14.jpg'
+     credits: 'ITHQ'
+     alt: ""
   brief: "Les consommateur·trices ont passé plus de temps et dépensé plus d'argent dans le restaurant étudié lorsque le niveau sonore était plus élevé. Cependant, des niveaux sonores plus bas favorisent une plus grande satisfaction et un meilleur confort acoustique."
   about: "Le problème du niveau sonore dans les restaurants fait depuis longtemps l'objet d'une grande<a href='https://www.nytimes.com/2020/01/21/dining/restaurant-noise-level-loud.html'> attention</a>. Les niveaux sonores élevés dans les restaurants sont un facteur contribuant à la fatigue, aux difficultés dans les situations sociales, et affectent même le goût des aliments.<br><br>L’équipe de la Ville Sonore a commencé à travailler avec l’<a href='https://www.ithq.qc.ca/expertise-et-recherche/'>Institut de tourisme et d'hôtellerie du Québec (ITHQ)</a> de Montréal en 2015 dans le but de documenter, puis de parfaire l'environnement sonore de son restaurant, afin de favoriser une expérience gastronomique plus agréable. Cette collaboration continue a ouvert la voie à un nouveau projet en 2019 avec <a href='https://www.sgr-paris.saint-gobain.com/fr/node/9'>Saint-Gobain Research</a> pour étudier l'effet des environnements sonores sur l’expérience des convives.<br><br>"
   participation: "Les premiers résultats ont montré que, lorsque les niveaux sonores augmentaient, les convives dépensaient plus d'argent et passaient plus de temps dans le restaurant, mais qu'iels n'étaient pas plus satisfait·es de leur expérience et ne trouvaient pas le restaurant plus convivial. Toutefois, cela ne signifie pas que les convives apprécient un environnement sonore plus fort : le traitement acoustique appliqué par Saint-Gobain dans le même restaurant pendant la pandémie a entraîné une augmentation de la satisfaction, un confort acoustique accru et un niveau sonore jugé plus approprié par les convives, ainsi que des évaluations plus positives de l'environnement sonore et une diminution de l'effort vocal et d'écoute."
@@ -316,13 +316,13 @@
     - name: prototype
       id: 'prototype'
   before:
-    image: '/assets/images/projects/project1_before.png'
-    credits: 'Grégoire Blanc'
-    alt: "Interface du simulateur d’ambiances sonores."
+   - image: "/assets/images/projects/Codesign_sketch_pad/SOUNDSCAPESIMULATOR.png"
+     credits: 'Grégoire Blanc'
+     alt: "Interface du simulateur d’ambiances sonores."
   after:
-    image: ''
-    credits: ''
-    alt: ""
+   - image: "/assets/images/projects/Codesign_sketch_pad/DSC_1272.jpeg"
+     credits: 'Valérian Fraisse'
+     alt: ""
   brief: "L'aspect visuel domine dans la planification urbaine. Nous développons donc de nouveaux outils pour aider les professionnel·les en urbanisme à comprendre également les conséquences sonores de leurs choix de planification.<br><br> La simulation de l'environnement sonore en 3D plonge les professionnel·les en urbanisme dans l'expérience urbaine qu'ils sont en train de créer."
   about: "Chaque projet de développement urbain soulève des questions esthétiques, fonctionnelles et sociodémographiques en fonction du contexte local. Cependant, ses sonorités sont prises en compte dans les phases ultérieures de la conception ou restent simplement une réflexion après coup. Pour sensibiliser les professionnel·les en urbanisme aux impacts sonores de leurs projets et faciliter les processus de concertation, de création et de communication, notre équipe a développé un « espace de travail pour la co-création sonore » interactif et immersif.<br><br> Ce simulateur d’ambiances sonores permet non seulement de reproduire des enregistrements de l’espace dans une salle d'écoute, mais aussi d'ajouter, de positionner et de déplacer des sources individuelles dans l'espace. Ce logiciel permet de (re)produire simplement et efficacement les environnements sonores d’espaces qui n'existent pas encore."
   participation: "Un premier prototype public de cet outil a été dévoilé lors d'un événement d'une journée, organisé par le CIRMMT et proposé par l'équipe de Ville Sonore, en juillet 2019. L'événement s'articulait autour de l'intégration de nouvelles technologies dans le processus de co-conception des ambiances sonores des espaces publics. Dans une salle de concert équipée de 48 haut-parleurs, un public composé principalement de professionnel·les en urbanisme a utilisé le simulateur pour discuter, concevoir et écouter à quoi pourrait ressembler l’ambiance sonore d'un espace public spécifique dans différentes circonstances, tout en tenant compte des contraintes de localisation : Quel serait l'impact d'un ralentissement de la circulation sur l'avenue principale ? Serait-il pertinent d'installer une fontaine au centre de la place ? Le simulateur a permis aux participants d'écouter un rendu sonore de leurs suggestions en temps réel et de comprendre les conséquences des décisions d'aménagement sur l'environnement sonore."
@@ -358,13 +358,13 @@
     - name: Quartier des Spectacles
       id: 'quartier_des_spectacles'
   before:
-    image: '/assets/images/projects/project1_before.png'
-    credits: 'Catherine Guastavino'
-    alt: "Enregistrer les sons d'un Quartier des Spectacles vide"
+   - image: "/assets/images/projects/COVID19/QDSlockdown.jpg"
+     credits: 'Catherine Guastavino'
+     alt: "Enregistrer les sons d'un Quartier des Spectacles vide"
   after:
-    image: '/assets/images/projects/project1.png'
-    credits: 'Catherine Guastavino'
-    alt: "Enregistrer les sons d'un Quartier des Spectacles vide"
+   - image: "/assets/images/projects/COVID19/3_2.jpg"
+     credits: 'Catherine Guastavino'
+     alt: "Enregistrer les sons d'un Quartier des Spectacles vide"
   brief: "Montréal a connu une réduction temporaire de 6 dB des niveaux sonores dans le centre-ville, qui sont revenus en grande partie à la normale avec le redémarrage de la construction et de la circulation.<br><br>Les périodes de restriction et de confinement ont fait émerger de nouvelles associations à l'espace public et au domicile en raison des changements radicaux dans leurs environnements sonores."
   about: "La pandémie de COVID-19 a modifié l’orientation des projets de recherche dans le monde entier, et Ville Sonore n'a pas dérogé à la règle. Ceux qui travaillent sur le son ont eu l'occasion d'étudier ce qui s'est passé pendant que le monde était sur pause et la planète silencieuse. Depuis un siècle, le calme est au cœur des politiques modernes en matière de bruit, mais une fois que nous en avons fait l'expérience, nous nous sommes rendu compte que ce n'était pas si simple.<br><br>L’équipe de la Ville Sonore s'est livrée à une étude multi-méthodes et pluriannuelle d'observation de l'expérience auditive durant la COVID-19, comprenant comprenant : <br>•	Entretiens (2020 et 2021) <br>•	Journaux de bord <br>•	Questionnaires <br>•	Mesures du niveau sonore"
   participation: "Les résultats concernant la première année de la pandémie nous ont montré une baisse très temporaire de 6 dB des niveaux sonores au cours de la première restriction. Les niveaux sonores sont largement revenus à la normale avec le retour de la construction et de la circulation, mais la vie publique a souffert et les gens étaient très conscients des sons qui leur manquaient. L'utilisation de l'espace public a été transformée à bien des égards et a connu de nombreux nouveaux usages, tandis que les personnes qui travaillaient à domicile ont dû faire face à de nouveaux environnements sonores et à de nouveaux défis au cours de leur journée de travail. Ce changement a été particulièrement difficile pour les familles avec enfants."
@@ -406,13 +406,13 @@
     - name: context
       id: 'context'
   before:
-    image: '/assets/images/projects/project1_before.png'
-    credits: 'Catherine Guastavino'
-    alt: ""
+   - image: '/assets/images/projects/context_matters/P1060338_CreditCatherineGuastavino.JPG'
+     credits: 'Catherine Guastavino'
+     alt: ""
   after:
-    image: '/assets/images/projects/project1.png'
-    credits: 'Louis Guastavino'
-    alt: ""
+   - image: '/assets/images/projects/context_matters/P8020249_CreditLouisGuastavino.JPG'
+     credits: 'Louis Guastavino'
+     alt: ""
   brief: "Notre expérience des environnements urbains est façonnée par de nombreux facteurs, de nos attentes à notre personnalité, en passant par les spécificités de la situation.<br><br> Le modèle des influences contextuelles que nous avons commencé à construire est un premier pas pour aider les urbanistes et les décideur·euses politiques à créer des espaces urbains plus inclusifs."
   about: "Nous savons tous que le contexte est important : l'endroit où nous nous trouvons et qui nous sommes comptent tout autant que ce que nous faisons à un moment donné. Dans une série d'études, y compris la modélisation des facteurs du terrain et diverses expériences en laboratoire, l’équipe de la Ville Sonore a examiné les nombreuses façons dont le contexte compte, en particulier pour les évaluations de l’ambiance sonore.<br><br>Lors d'expériences en laboratoire, nous avons montré que ce que nous appelons les « facteurs situationnels », tels que le lieu, le jour, et l'heure d'utilisation, influencent nos perceptions de l'environnement sonore, quelles que soient les attentes que nous pouvions avoir avant d'utiliser un espace. Par exemple, un endroit du lieu plus calme est jugé plus agréable et moins animé qu'un endroit plus bruyant et les après-midis sont généralement jugées moins calmes et plus animés que les soirées, tandis que les fins de semaine sont plus animées que les jours de semaine.<br><br>D'autre part, des études de terrain ont mis en évidence d'autres facteurs qui ne sont pas directement liés aux niveaux sonores, tels que l'interaction sociale — c'est-à-dire le fait qu'une personne soit seule ou accompagnée — et des « facteurs personnels » tels que l'extraversion, le genre, l'âge et la sensibilité au bruit. Les personnes en groupe trouvent leur environnement sonore plus agréable et moins animé que les personnes seules, peut-être parce qu'elles portent attention aux personnes qui les accompagnent. Les femmes et les jeunes trouvent leur environnement sonore plus agréable et moins animé, du fait qu'iels sortent plus souvent en groupe que les hommes et les personnes plus âgées, respectivement. ."
   participation: "Les personnes plus extraverties évaluent leur environnement sonore comme moins animé et les personnes plus sensibles au bruit (comme les femmes et les personnes plus âgées) ont tendance à évaluer leur environnement sonore comme moins agréable.   
@@ -465,13 +465,13 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
     - name: Politique et planification
       id: 'policy_and_planning'
   before:
-    image: '/assets/images/projects/project1_before.png'
-    credits: 'Nicola Di Croce'
-    alt: "Processus sonore"
+   - image: '/assets/images/projects/soninurb/Soninurb.jpg'
+     credits: 'Nicola Di Croce'
+     alt: "Processus sonore"
   after:
-    image: '/assets/images/projects/project1.png'
-    credits: ''
-    alt: ""
+   - image: ''
+     credits: ''
+     alt: ""
   brief: "Comment étudier et concevoir un environnement sonore vivant et inclusif ? "
   about: "Le projet SONINURB, financé par l'Union Européenne, étudie l'environnement sonore qui contribue à l’ambiance propre de chaque lieu, en cherchant à comprendre comment l’ambiance influence la qualité perçue de l'environnement urbain : elle peut soit attirer les gens, soit les repousser ou les exclure, ou encore les faire se sentir à l'aise ou en danger. <br><br> Ce projet vise à montrer comment la recherche sur l'environnement sonore peut apporter de nouvelles approches en matière d'analyse et d’élaboration des politiques urbaines. Il explore également la manière dont l'expérimentation de nouveaux outils de planification sonore pour étudier les zones urbaines en cours de transformation peut conduire à des approches collaboratives en termes de conception sonore urbaine. Enfin, le projet montre comment le recours à des installations et interventions sonores participatives peut encourager l'inclusion sociale et le développement local durable."
   participation: "Le projet aborde ces objectifs par un travail de terrain dans deux lieux géographiques différents : Montréal (Canada) – dans le cadre de Ville Sonore, et Venise (Italie) – dans le cadre de l'Université Iuav de Venise."
@@ -488,7 +488,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   next_url: "project11"
 
 
-- title: "Loisir contre résidence : Cohabitation sonore dans le centre-ville de Montréal (ListenUpMTL / ÉcoutezMTL)"
+- title: "Activités récréatives vs résidentielles : Cohabitation sonore dans le centre-ville de Montréal (ListenUpMTL / ÉcoutezMTL)"
   description: "Recherche sur la cohabitation sonore dans les rues piétonnes durant la COVID-19"
   location: "Montréal, Canada"
   date: "Printemps 2021 – Printemps 2022"
@@ -497,7 +497,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   image: "/assets/images/projects/recreation v residence/IMG_1848_QdS_CreditsFXFeron.JPG"
   url: "project11"
   fundings: "MITACS Programme Accélération avec la Ville de Montréal"
-  collaborators: "Ville de Montréal (Service du développement économique), Direction régionale de santé publique de Montréal (DRSP)"
+  collaborators: "Ville de Montréal (Service du développement économique) et la Direction régionale de santé publique de Montréal (DRSP)"
   name: ""
   tags:
     - name: ListenUpMTL
@@ -513,25 +513,27 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
     - name: Ville de Montréal
       id: 'ville_de_montreal'
   before:
-    image: '/assets/images/projects/project1_before.png'
-    credits: ''
-    alt: ""
+   - image: '/assets/images/projects/recreation_v_residence/ListenUp.jpg'
+     credits: ' Ville de Montréal'
+     alt: "Logo ListenUpMTL / ÉcoutezMTL"
   after:
-    image: '/assets/images/projects/project1.png'
-    credits: ''
-    alt: ""
-  brief: "Le bruit des activités récréatives est un sujet de controverse dans les idées sur les cohabitations sonores urbaines. Notre étude, ÉcoutezMTL / ListenUpMTL, a montré que, contrairement aux idées reçues, les sons des activités récréatives (y compris ceux des festivals et des événements) ne sont pas toujours perçus négativement par les résidents, notamment pendant la pandémie de COVID-19. <br><br> Les véritables défis de la cohabitation sonore résident plutôt dans d'autres aspects de la vie urbaine."
-  about: "Ville sonore a collaboré avec la Ville de Montréal et la Direction de la santé publique de Montréal (DRSP) pour développer ÉcoutezMTL / ListenUpMTL, une étude visant à mieux comprendre la complexité de la vie à proximité de quartiers urbains dynamiques. Grâce à des mesures sonores, des enquêtes, des journaux de bord de résidents et des entretiens, nous avons cherché à reconsidérer la perception des bruits récréatifs dans le contexte urbain, en particulier pendant la pandémie."
-  participation: "Le projet a combiné des méthodes mixtes incluant des mesures sonores, des enquêtes, et des journaux de bord de résidents pour évaluer la perception des bruits récréatifs dans des rues piétonnes et le Quartier des spectacles. L'objectif était d'élargir la compréhension des sons urbains et de réexaminer leur impact sur la cohabitation sonore dans les quartiers urbains."
+   - image: '/assets/images/projects/recreation_v_residence/IMG_1848_QdS_CreditsFXFeron.JPG'
+     credits: 'François-Xavier Féron'
+     alt: ""
+  brief: "Le bruit des activités récréatives est un sujet de controverse dans les discussions de cohabitation urbaine.<br><br>Le bruit des activités récréatives est 'attendu' lorsque l'on vit au centre-ville et la vie nocturne n'est pas le principal enjeu pour les résidents, mais davantage le bruit des chantiers de construction et d'autres nuisances sonores ponctuelles."
+  about: "Le bruit des activités récréatives est souvent considéré comme un mal nécessaire de l'économie urbaine, que l’on ne peut qu’atténuer. Alors que la vie urbaine doit répondre aux besoins et aux attentes des résidents et des visiteurs, ses sonorités se situent à l'intersection des préoccupations sur l'habitabilité et sur la vitalité, et vont à l'encontre des idées reçues sur une cohabitation sonore réussie."
+  participation: "Ville sonore a collaboré avec la Ville de Montréal et la Direction de la santé publique de Montréal (DRSP) pour développer ÉcoutezMTL / ListenUpMTL – une étude à méthodologie mixte visant à mieux comprendre les complexités du vécu dans les quartiers urbains dynamiques, en se concentrant sur deux rues piétonnes et le secteur du Quartier des spectacles au centre-ville de Montréal. À l'aide de mesures du niveau sonore, de questionnaires, de journaux de bord et d'entretiens avec des résidents, nous avons cherché à enrichir la perspective négative et limitée qu’ont les médias, l’imaginaire collectif et les politiques des bruits récréatifs et de la vie nocturne. Notre recherche montre que le bruit des activités récréatives (aussi bien celui des festivals et des événements que celui du quotidien de la rue) n’est pas toujours perçu négativement par les résidents, en particulier dans le contexte de la pandémie de COVID-19, et que les défis de la cohabitation sonore se situent ailleurs."
   contact_info: "Pour plus de détails, contactez: Edda Bild"
   links:
+    - url: "https://www.ledevoir.com/societe/transports-urbanisme/756802/le-son-cet-oublie-des-villes"
+      name: "Provost A.M. (16 septembre 2022). Le son, cet oublié des villes. Le devoir. https://www.ledevoir.com/societe/transports-urbanisme/756802/le-son-cet-oublie-des-villes"
     - url: 'https://www.montrealgazette.com/news/local-news/noise-observatory-still-necessary-still-in-the-works-councillors-say'
-      name: 'Noise observatory still necessary, still in the works, councillors say - Montreal Gazette'
-    - url: 'https://www.cbc.ca/radio/daybreak/the-sounds-of-downtown-1.6194567'
-      name: 'The sounds of downtown - Canadian Broadcasting Corporation'
+      name: 'Gyulai, L., (3 octobre 2021). Noise observatory still necessary, still in the works, councillors say. Montreal Gazette. (en anglais)'
+    - url: ''
+      name: 'Canadian Broadcasting Corporation. (28 septembre 2021). The sounds of downtown [entretien radio avec Daniel Steele et collaborateur·trices]. <i>Daybreak</i>. (en anglais)'
   publications:
     - url: ''
-      name: ''
+      name: 'Bild, E., Steele, D., & Guastavino, C. (2024). Supporting the living laboratory: a literature review of Montreal sound-related research. Journal of Planning Literature.'
   prev_url: "project10"
   next_url: "project12"
 
@@ -563,13 +565,13 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
     - name: Politique et planification
       id: 'policy_and_planning'
   before:
-    image: '/assets/images/projects/project1_before.png'
-    credits: ''
-    alt: ""
+   - image: '/assets/images/projects/industry_v_residence/Port-port.jpeg'
+     credits: 'Google Maps'
+     alt: ""
   after:
-    image: '/assets/images/projects/project1.png'
-    credits: ''
-    alt: ""
+   - image: '/assets/images/projects/industry_v_residence/Port-indstry.jpeg'
+     credits: 'Google Maps'
+     alt: ""
   brief: "Les ports contribuent à la vitalité et à l'attractivité des villes, mais ils peuvent aussi générer des conflits liés au bruit. Notre étude examine le paysage sonore dans les zones résidentielles autour du port de Montréal pour informer la mise en place de politiques publiques intégrant la dimension sonore."
   about: "L'Assomption Sud-Longue-Pointe est une région complexe affectée par les cohabitations sonores entre activités industrialo-portuaires et usages résidentiels. En collaboration avec l'OMV-UQAM, nous documentons la situation pour mieux comprendre les dynamiques en jeu et proposer des solutions innovantes, techniques, de design, de communication, et de gouvernance pour améliorer la qualité de vie des résidents."
   participation: "Nous collaborons avec l'arrondissement Mercier-Hochelaga-Maisonneuve et l'Administration portuaire de Montréal pour proposer et évaluer des interventions visant à améliorer la cohabitation sonore entre les activités industrialo-portuaires et les communautés résidentielles."
@@ -621,13 +623,13 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
     - name: Politique et planification
       id: 'policy_and_planning'
   before:
-    image: '/assets/images/projects/nightlife/MITACS_ListenUp_Oct6_2022Workshop.jpg'
-    credits: ''
-    alt: "Catherine Guastavino présente le projet ÉcoutezMontréal lors de l’atelier du 6 octobre 2022 ('Le bruit environnemental dans nos actions de planification'). Crédit photo: YULISM."
+   - image: '/assets/images/projects/nightlife/before.jpg'
+     credits: 'Wikimedia Commons, the free media repository'
+     alt: "Catherine Guastavino présente le projet ÉcoutezMontréal lors de l’atelier du 6 octobre 2022 ('Le bruit environnemental dans nos actions de planification'). Crédit photo: YULISM."
   after:
-    image: '/assets/images/projects/nightlife/QDS.jpg'
-    credits: ''
-    alt: "Quartier des spectacles. Source: Wikimedia Commons, the free media repository."
+   - image: '/assets/images/projects/nightlife/MITACS_ListenUp_Oct6_2022Workshop.jpg'
+     credits: 'YULISM'
+     alt: "Quartier des spectacles. Source: Wikimedia Commons, the free media repository."
   brief: "Les activités nocturnes contribuent à la vitalité et à l'attractivité des villes mais peuvent aussi générer des conflits de cohabitation sonore. Nous proposerons des recommandations pour prendre en compte la dimension sonore dans l’élaboration d'une politique de vie nocturne à Montréal."
   about: "De nombreuses villes du monde sont confrontées au défi de trouver un équilibre entre qualité de vie et vitalité, et cette dichotomie est souvent mise à l'épreuve à travers la dimension sonore. Cependant, aucune ville du monde, y compris Montréal, n'a mis de l’avant une politique de vie nocturne qui s'attaque de front à ces défis. <br><br>
 
@@ -675,13 +677,13 @@ Ville sonore a entamé une collaboration avec la Ville de Montréal et la Direct
     - name: vieillissement
       id: 'aging'
   before:
-    image: '/assets/images/projects/QDS_before.jpg'
-    credits: ''
-    alt: "Quartier des Spectacles avant l'étude"
+   - image: '/assets/images/projects/Quartier_des_Spectacles/Place_des_arts_08.jpg'
+     credits: 'Jeangagnon at Wikimedia Commons'
+     alt: "Quartier des Spectacles avant l'étude"
   after:
-    image: '/assets/images/projects/QDS_after.jpg'
-    credits: ''
-    alt: "Quartier des Spectacles après l'étude"
+   - image: ''
+     credits: ''
+     alt: "Quartier des Spectacles après l'étude"
   brief: "Le Quartier des spectacles de Montréal est confronté à des défis uniques pour équilibrer la vitalité et l'habitabilité en raison de la multitude d'événements et de festivals qui s'y déroulent tout au long de l'année. Les sons des festivals ne sont pas la principale source de nuisance, mais plutôt les bruits de la vie nocturne (pré-COVID-19). Les résidents plus âgés apprécient les festivals et les événements et y participent, ce qui remet en question les idées reçues sur la retraite et le vieillissement en ville."
   about: "Le Quartier des spectacles (QDS) est un pôle multiculturel dense pour la musique, les arts, le design et la gastronomie, où vit une population diversifiée et un flair pour les événements publics (y compris les festivals à grande échelle). La population résidentielle qu’elle abrite provient de milieux socio-économiques variés, et est en croissance constante en raison du développement de nouveaux projets de tours d'habitation. Le secteur doit préserver un équilibre entre sa réputation de vitalité et son intérêt pour le maintien d'un environnement habitable pour ses résidents actuels et potentiels. <br><br>
 
@@ -725,13 +727,16 @@ Ville sonore s'est associée au Partenariat du Quartier des spectacles (l'organi
     - name: Paris
       id: 'paris'
   before:
-    image: '/assets/images/projects/niches/before.png'
-    credits: 'Nicolas Misdariis'
-    alt: "Niches Acoustiques avant l'étude"
+   - image: '/assets/images/projects/Niches_acoustiques/XP1_panorama.jpg'
+     credits: 'Valérian Fraisse'
+     alt: "Niches Acoustiques avant l'étude"
   after:
-    image: '/assets/images/projects/niches/after.png'
-    credits: 'Nicolas Misdariis'
-    alt: "Niches Acoustiques après l'étude"
+   - image: '/assets/images/projects/Niches_acoustiques/collab_Niches_Acoustiques.png'
+     credits: 'Nicolas Misdariis'
+     alt: "Niches Acoustiques après l'étude"
+   - image: '/assets/images/projects/Niches_acoustiques/Capture d’écran 2022-05-17 à 19.27.13.png'
+     credits: 'Nicolas Misdariis'
+     alt: ""
   brief: "Une installation sonore sera déployée dans un espace public parisien pour créer un paysage sonore apaisant et varié. Une collaboration de recherche-création cherche à informer la composition de l'installation sonore en testant différents prototypes à travers des simulations de paysage sonore basées sur des enregistrements in situ."
   about: "Alors que des études récentes sur le paysage sonore suggèrent que les installations d'art sonore peuvent avoir une influence positive sur l'évaluation de l'espace public, il n'existe à ce jour aucune méthode scientifique pour informer la composition d'art sonore dans l'espace public. Hébergé en partie à Paris, à l'Institut de Recherche Coordination Acoustique/Musique (IRCAM), le projet est une collaboration de recherche-création autour de l'intégration permanente d'une installation sonore dans un espace public urbain à Paris : Les Niches Acoustiques de Nadine Schütz. <br><br> Dans la première phase du projet, nous menons une série de tests d'écoute impliquant des simulations d'ambiances sonores High-Order Ambisonic de prototypes reposant sur différentes stratégies de composition, afin d'informer le travail de l'artiste sonore et d'optimiser la qualité de l'expérience de l'espace public en présence de l'installation sonore. Nous développons une méthode qui peut soutenir la conception d'une installation d'art sonore permanente et spécifique à un site. Ce projet de recherche-création implique une collaboration approfondie entre les chercheurs et les artistes en vue d'une meilleure intégration de l'installation sonore dans son environnement. Les simulations de paysage sonore fournies sont utiles au processus de composition, car elles permettent à l'artiste d'avoir un modèle réaliste de l'environnement sonore qui en résultera. Les tests d'écoute contrôlés fourniront des informations essentielles au compositeur en liant les paramètres de composition à leur effet sur la perception de l'environnement sonore."
   participation: "Mener des tests d'écoute impliquant des simulations d'ambiances sonores High-Order Ambisonic de prototypes reposant sur différentes stratégies de composition pour informer la composition de l'installation sonore."
@@ -779,13 +784,16 @@ Ville sonore s'est associée au Partenariat du Quartier des spectacles (l'organi
     - name: patrimoine culturel
       id: 'patrimoine_culturel'
   before:
-    image: '/assets/images/projects/les_madelinennes/before.jpg'
-    credits: 'paysages~'
-    alt: "Field recording session at the Parc des Madelinots."
+   - image: '/assets/images/projects/les_madelinennes/230711_Parc-Madelinots_006.jpg'
+     credits: 'paysages~'
+     alt: "Field recording session at the Parc des Madelinots."
   after:
-    image: '/assets/images/projects/les_madelinennes/after.jpg'
-    credits: 'paysages~'
-    alt: "Listening session at the PeRL Laboratory at CIRMMT with sound artist Charles Montambault"
+   - image: '/assets/images/projects/les_madelinennes/230705_Parc-Madelinots_011.jpg'
+     credits: 'paysages~'
+     alt: "Listening session at the PeRL Laboratory at CIRMMT with sound artist Charles Montambault"
+   - image: '/assets/images/projects/les_madelinennes/230705_McGill_001.jpg'
+     credits: 'paysages~'
+     alt: ""
   brief: "Une installation sonore a été déployée pour mettre en valeur le patrimoine culturel d'un petit espace public à Montréal. Une collaboration arts-science va permettre d’informer la composition de l'installation sonore, en partant d’enregistrements sur le terrain, de simulations du paysage sonore pour finir avec des enquêtes sur le terrain auprès des résidents."
   about: "Cette collaboration de recherche-création porte sur la conception et l'évaluation de l'installation sonore permanente Les Madelinéennes de Charles Montambault, déployée depuis 2023 dans un petit parc public (Parc des Madelinots) dans l'arrondissement montréalais de Verdun. Verdun a été une importante destination d'émigration des Îles-de-la-Madeleine et compte aujourd'hui la plus grande communauté de Madelinots à l'extérieur des Îles. Le Parc des Madelinots est un espace public qui rend hommage à cette diaspora madelinéenne. Cependant, le parc exposé à des niveaux de bruits de circulations élevés, est peu utilisé par les résidents et est plutôt perçu comme un espace de transit. L'objectif de l’installation Les Madelinéennes est d'offrir un environnement sonore plus apaisant et agréable à cet espace public tout en mettant en valeur l'héritage culturel de la communauté par le biais de compositions utilisant des prises de son faites aux Îles-de-la-Madeleine. Ce projet de recherche s'appuie sur des méthodes développées dans le cadre de la collaboration autour de l'installation Niches Acoustiques. Il comprend des enregistrements sur le terrain et des évaluations en laboratoire de prototypes de l'installation sonore avec des résidents familiers de l'espace. Plus précisément, nous cherchons à comprendre comment la dominance de différentes sources sonores côtières (par exemple les oiseaux, l'eau, le vent) peut affecter le paysage sonore de cet espace. Des recommandations seront faites à terme à partir des résultats de l'étude, dans le but d’informer la composition d'une nouvelle itération de l'installation sonore."
   participation: "Enregistrements sur le terrain, évaluations en laboratoire de prototypes, enquêtes sur le terrain et recommandations de conception."
@@ -828,13 +836,16 @@ Ville sonore s'est associée au Partenariat du Quartier des spectacles (l'organi
     - name: Montréal
       id: 'montreal'
   before:
-    image: '/assets/images/projects/Church Restoration/ChurchRestor_HOMA_TSNJ_IMG_2482.JPG'
-    credits: 'Josée Laplace'
-    alt: "Churches before the project"
+   - image: '/assets/images/projects/Church_Restoration/ChurchRestor_MAIN_SPA_IMG_1920.JPG'
+     credits: 'Josée Laplace'
+     alt: "Churches before the project"
   after:
-    image: '/assets/images/projects/Church Restoration/ChurchRestor_MAIN_SPA_IMG_1920.JPG'
-    credits: 'Josée Laplace'
-    alt: "Churches after the project"
+   - image: '/assets/images/projects/Church_Restoration/ChurchRestor_RussianOrth_IMG_1865.JPG'
+     credits: 'Josée Laplace'
+     alt: "Churches after the project"
+   - image: '/assets/images/projects/Church_Restoration/ChurchRestor_HOMA_TSNJ_IMG_2482.JPG'
+     credits: 'Josée Laplace'
+     alt: ""
   brief: "Les édifices religieux possèdent des qualités sensorielles particulières, notamment sonores, qui peuvent avoir des effets positifs même dans le contexte de la sécularisation. Le projet de recherche explore le potentiel réparateur des édifices religieux et la manière dont ils pourraient être utilisés comme 'lieux de tranquillité' dans la ville."
   about: "Alors que la fréquentation des églises a considérablement diminué au cours des dernières décennies, en particulier en Europe du Nord et en Amérique du Nord, la préservation des édifices religieux est devenue une question urgente, car la sécularisation a laissé de nombreux édifices religieux vacants ou sous-utilisés. À Montréal seulement, le Conseil québécois du patrimoine religieux a signalé que 22 % des lieux de culte de toutes confessions figurant dans son inventaire datant de 2003 ont été démolis, fermés ou convertis à d'autres usages. Le projet étudie le rôle que les qualités sensorielles spécifiques des églises pourraient jouer à l'égard des sensibilités plus laïques d'aujourd'hui. En tant qu'environnement très différent de la vie quotidienne, l'ambiance des églises peut favoriser un mode d'attention et de perception singulier. En termes d'acoustique, les longs temps de réverbération et l'isolement relatif par rapport aux bruits extérieurs de la ville peuvent avoir des effets bénéfiques sur la santé, comme la réduction du stress. Nous avons effectué des marches sonores et des entretiens dans cinq églises du Centre Sud et d'Hochelaga-Maisonneuve à Montréal, avec des participants de ces quartiers. Les résultats préliminaires montrent que les églises sont perçues comme des lieux 'hors du temps et de l'espace', ce qui est conforme aux études précédentes sur les ambiances des églises et met en évidence le rôle que joue le son dans l'élaboration des expériences."
   participation: "Marches sonores, entretiens, évaluations sensorielles et acoustiques."
@@ -872,13 +883,16 @@ Ville sonore s'est associée au Partenariat du Quartier des spectacles (l'organi
     - name: installation sonore
       id: 'sound_installation'
   before:
-    image: '/assets/images/projects/Musikiosk/musikiosk_before.jpg'
-    credits: ''
-    alt: "Musikiosk avant l'installation"
+   - image: '/assets/images/projects/Musikiosk/Musikiosk_PduPortugal.jpg'
+     credits: 'Cynthia Tarlao'
+     alt: "Musikiosk avant l'installation"
   after:
-    image: '/assets/images/projects/Musikiosk/Musikiosk Picture6 blurred.jpg'
-    credits: ''
-    alt: "Musikiosk après l'installation"
+   - image: '/assets/images/projects/Musikiosk/Musikiosk_Picture6_blurred.jpg'
+     credits: 'Catherine Guastavino'
+     alt: "Musikiosk après l'installation"
+   - image: ''
+     credits: 'Milyausha Gabdrakhmanova'
+     alt: "Musikiosk logo"
   brief: "Un système de haut-parleurs semi-permanent (Musikiosk) a été installé dans le belvédère d'un parc public (Parc du Portugal). Les utilisateurs pouvaient s'y connecter et diffuser le contenu de leur choix. Musikiosk a amélioré la perception du caractère agréable de l'environnement sonore du parc ainsi que l'humeur des visiteurs du parc, qu'ils soient ou non en contact direct avec Musikiosk. Musikiosk a ajouté une nouvelle activité dans le parc sans déplacer les utilisateurs existants."
   about:
     "En 2015, des chercheurs de l'Université McGill et de l'ÉTS ont collaboré avec l'arrondissement du Plateau Mont-Royal pour installer Musikiosk dans le gazebo du Parc du Portugal, un petit parc public de Montréal. Musikiosk est un système de haut-parleurs grâce auquel les usagers du parc peuvent, à l'aide d'une prise audio, connecter leurs appareils personnels à un petit ensemble de haut-parleurs installés gratuitement dans le belvédère, et ainsi partager leur propre musique avec d'autres. 
@@ -929,13 +943,22 @@ Ville sonore s'est associée au Partenariat du Quartier des spectacles (l'organi
     - name: parc de poche
       id: 'pocket_park'
   before:
-    image: '/assets/images/projects/fleurs_de_macadam_before.jpg'
-    credits: ''
-    alt: "Fleurs-de-Macadam avant l'installation"
+   - image: '/assets/images/projects/Fleurs_de_Macadam_sound_art/Place_Fleurs_des_Macadam_8.jpg'
+     credits: 'Ville de Montréal'
+     alt: "Fleurs-de-Macadam avant l'installation"
   after:
-    image: '/assets/images/projects/fleurs_de_macadam_after.jpg'
-    credits: ''
-    alt: "Fleurs-de-Macadam après l'installation"
+    - image: '/assets/images/projects/Fleurs_de_Macadam_sound_art/Val_IMG_20190726_183158.jpg'
+      credits: 'Valérian Fraisse'
+      alt: "Fleurs-de-Macadam après l'installation"
+    - image: '/assets/images/projects/Fleurs_de_Macadam_sound_art/speaker_ZOOM.jpg'
+      credits: 'Valérian Fraisse'
+      alt: ""
+    - image: '/assets/images/projects/Fleurs_de_Macadam_sound_art/Place_Fleurs_des_Macadam_8.jpg'
+      credits: 'Ville de Montréal'
+      alt: ""
+    - image: '/assets/images/projects/Fleurs_de_Macadam_sound_art/Place_Fleurs_des_Macadam_7.jpg'
+      credits: 'Ville de Montréal'
+      alt: ""
   brief: "Le projet vise à expérimenter une nouvelle collaboration interdisciplinaire entre des chercheurs, des artistes sonores et la ville. La présence d'installations sonores améliore l'expérience de l'espace public et renforce les objectifs de conception spatiale."
   about: "L'arrondissement du Plateau-Mont-Royal a adopté une approche différente pour déterminer à quoi un nouvel espace public – les Fleurs-de-Macadam - pourrait ressembler et sonner. Dans une première étape, au cours de l'été 2018, l'arrondissement a installé 3 prototypes distincts et a permis au public d'évaluer chaque site. Les partenaires du collectif d'artistes Audiotopie ont développé et déployé 3 installations sonores dans ces designs temporaires. Sounds in the City a évalué les paysages sonores résultants et a aidé l'arrondissement à façonner le futur espace pour les utilisateurs, ainsi qu'à informer la composition d'une quatrième installation sonore, déployée durant l'été 2019. <br><br> Grâce à un processus itératif de conception, de déploiement et d'évaluation, nous avons documenté l'impact des différentes installations sonores pendant deux ans sur une nouvelle place publique. À l'aide de questionnaires donnés aux passants et de mesures du niveau sonore, nous avons identifié les schémas d'utilisation et les principales activités menées sur la place. Ces résultats ont guidé le processus de composition d'installations sonores qui résonnent avec les ambiances souhaitées tout au long de la journée. L'analyse des questionnaires a indiqué que les expériences des utilisateurs de l'espace public étaient améliorées en présence des quatre installations sonores, avec des effets positifs sur la perception de plaisir, du calme et de la capacité à faire une pause. Ces résultats soulignent le potentiel de la conception sonore intentionnelle dans un contexte d'espace public ainsi que le rôle spécifique des collaborations de création de recherche pour façonner les paysages sonores urbains."
   participation: "Questionnaires, mesures du niveau sonore, engagement communautaire."
@@ -977,13 +1000,13 @@ Ville sonore s'est associée au Partenariat du Quartier des spectacles (l'organi
     - name: Sensibilisation du public
       id: 'public_awareness'
   before:
-    image: '/assets/images/projects/soundwalks_before.jpg'
-    credits: ''
-    alt: "Participants lors d'une promenade sonore avant le début du projet"
+   - image: '/assets/images/projects/soundwalks/soundwalks2018_CTa.jpeg'
+     credits: 'Cynthia Tarlao'
+     alt: "Participants lors d'une promenade sonore avant le début du projet"
   after:
-    image: '/assets/images/projects/soundwalks_after.jpg'
-    credits: ''
-    alt: "Participants lors d'une promenade sonore après la mise en œuvre du projet"
+   - image: '/assets/images/projects/soundwalks/DSC_0142.jpg'
+     credits: 'Cynthia Tarlao'
+     alt: "Participants lors d'une promenade sonore après la mise en œuvre du projet"
   brief: "Les stratégies immersives telles que les promenades sonores encouragent la sensibilisation au son et indiquent le nombre d'environnements distincts et diversifiés qu'il y a dans la ville. Les promenades sonores peuvent prendre de nombreuses formes et constituer d'excellents outils pédagogiques pour les professionnels et la communauté au sens large."
   about: "Une promenade sonore est, comme son nom l'indique, une promenade destinée à vous aider à écouter et à réfléchir sur les paysages sonores dans lesquels vous vous trouvez. Les promenades sonores sont très spécifiques à un site et peuvent prendre de multiples formes : elles peuvent être autoguidées (pensez à une promenade avec une carte) ou guidées ; elles peuvent également être axées sur l'observation (rester silencieux tout en écoutant) ou elles peuvent être interactives (par exemple, applaudir dans l'espace). Enfin, les promenades sonores peuvent contribuer à un large éventail d'objectifs, dont la plupart avec une composante éducative, qu'il s'agisse d'enseigner aux enfants les sons de leur quartier ou de souligner aux professionnels de l'urbanisme le rôle du son dans la planification et la conception urbaine.<br><br> Notre propre offre de promenades sonores est variée. Notre promenade sonore la plus réussie, destinée à un large public de professionels de l'urbanisme et au grand public, vous guidera à travers une variété de paysages sonores urbains. Nous soulignons certaines des stratégies d'urbanisme et de conception qui les ont façonnés et nous partageons certaines des recherches qui pourraient contribuer à mieux répondre aux besoins et aux attentes de leurs utilisateurs. Nous avons proposé des versions de cette promenade sonore à des professionnels de l'urbanisme dans trois villes (Montréal, Amsterdam et Boston). Si vous vous trouvez dans l'une de ces villes et que vous souhaitez vous joindre à nous pour une promenade sonore, veuillez nous contacter. Les promenades durent de 2 à 3 heures, mais peuvent être raccourcies si nécessaire.<br><br> De plus, nous sommes toujours en train de développer de nouvelles promenades ! Vous voulez apprendre aux enfants à être attentifs au son de manière ludique ? Ou montrer aux adolescents comment intéragir avec leurs espaces sonores à l'aide de leurs appareils intelligents ? N'hésitez pas à nous contacter ! Nous sommes prêts à travailler ensemble pour développer de nouveaux outils spécifiques à vos besoins."
   participation: "Promenades sonores, ateliers, engagement communautaire"
@@ -1028,13 +1051,13 @@ Ville sonore s'est associée au Partenariat du Quartier des spectacles (l'organi
     - name: Sensibilisation du public
       id: 'public_awareness'
   before:
-    image: '/assets/images/projects/engaging_sound_before.jpg'
-    credits: ''
-    alt: "Participants engagés dans un atelier sonore avant le projet"
+   - image: '/assets/images/projects/Engaging_professionals/IMG_8504.JPG'
+     credits: 'Christine Kerrigan'
+     alt: "Participants engagés dans un atelier sonore "
   after:
-    image: '/assets/images/projects/engaging_sound_after.jpg'
-    credits: ''
-    alt: "Participants engagés dans un atelier sonore après le projet"
+   - image: '/assets/images/projects/Engaging_professionals/DSC_0204_.jpg'
+     credits: 'Cynthia Tarlao'
+     alt: "Participants engagés dans un atelier sonore après le projet"
   brief: "Nous utilisons différentes stratégies interactives pour mobiliser des connaissances sonores auprès des professionnels de l'environnement bâti et du grand public. Les stratégies immersives telles que les balades sonores encouragent la sensibilisation au sonore et démontrent le nombre d'environnements distincts et diversifiés qu'il y a dans la ville."
   about: "Notre équipe organise des ateliers, des balades sonores, des présentations (dans les écoles, les festivals, les centres communautaires, les activités de sensibilisation du public) et participe à diverses activités de consultation publique. Nous développons également des outils de simulation du paysage sonore pour différents usager·ères."
   participation: "Ateliers, balades sonores, démonstrations, consultations publiques, formation professionnelle, diffusion médiatique"
@@ -1077,13 +1100,13 @@ Ville sonore s'est associée au Partenariat du Quartier des spectacles (l'organi
     - name: équité
       id: 'equity'
   before:
-    image: '/assets/images/projects/sonic_injustice_before.jpg'
-    credits: ''
-    alt: "Un quartier à faible revenu affecté par la pollution sonore"
+   - image: '/assets/images/projects/sonic_injustice/Railyards.jpg'
+     credits: 'Christopher Trudeau'
+     alt: "Un quartier à faible revenu affecté par la pollution sonore"
   after:
-    image: '/assets/images/projects/sonic_injustice_after.jpg'
-    credits: ''
-    alt: "Un espace extérieur offrant un répit du bruit urbain"
+   - image: ''
+     credits: ''
+     alt: ""
   brief: "Les personnes à faible revenu et les groupes racialisés sont souvent surexposés au bruit à leur domicile. Elles peuvent également avoir moins d'accès à des espaces extérieurs où elles peuvent échapper au bruit."
   about: "Les sons qui remplissent notre quotidien ont une importance pour notre santé et notre bien-être. Les sons indésirables, que nous appelons bruit, peuvent avoir des effets négatifs sur la santé auditive et non auditive, ainsi que réduire notre qualité de vie globale. Les espaces avec des sons désirables, tels que la nature ou les festivals, peuvent réduire les niveaux de stress, contribuant ainsi à améliorer la santé et le bien-être global. Certaines personnes sont plus vulnérables aux effets des problèmes environnementaux comme le bruit en raison de qui elles sont, y compris les enfants, les personnes à faible revenu et les personnes racialisées. Nous étudions les inégalités auxquelles ces groupes sont confrontés dans deux domaines : 1) l'exposition au bruit et 2) l'accès aux environnements sonores favorisant la santé. Dans de nombreuses villes et régions du monde, les groupes à faible revenu et racialisés sont souvent surexposés au bruit à leur domicile. Les premières preuves suggèrent qu'ils pourraient avoir moins accès à des environnements sonores permettant de se détendre."
   participation: "Recherche, sensibilisation du public"
@@ -1134,13 +1157,22 @@ Ville sonore s'est associée au Partenariat du Quartier des spectacles (l'organi
     - name: Technologies émergentes
       id: emerging-technologies
   before:
-    image: /assets/images/projects/City Ditty/before.jpg
-    credits: 
-    alt: Avant le projet
+   - image: '/assets/images/projects/City_Ditty/CityDitty-Cafe.png'
+     credits: 'Richard Yanaky'
+     alt: 
   after:
-    image: /assets/images/projects/City Ditty/after.jpg
-    credits: 
-    alt: Après le projet
+    - image: '/assets/images/projects/City_Ditty/City_Ditty_Day_in_the_Park.png'
+      credits: 'Richard Yanaky'
+      alt: Après le projet
+    - image: '/assets/images/projects/City_Ditty/City_Ditty_Food_Hall.png'
+      credits: 'Richard Yanaky'
+      alt: ""
+    - image: '/assets/images/projects/City_Ditty/City_Ditty_fountain_square.png'
+      credits: 'Richard Yanaky'
+      alt: ""
+    - image: '/assets/images/projects/City_Ditty/City_Ditty_Busy_City.png'
+      credits: 'Richard Yanaky'
+      alt: ""
   brief: City Ditty est un projet en cours de design centré sur l'usager·ères qui
     fournit des outils audio-visuels de planification sonore accessibles,
     sensibilisant au sonore et soutenant les designs exploratoires.
@@ -1236,13 +1268,28 @@ Ville sonore s'est associée au Partenariat du Quartier des spectacles (l'organi
     - name: "Éducation"
       id: "education"
   before:
-    image: '/assets/images/projects//before_fantastique_acoustique.jpg'
-    credits: ''
-    alt: "Avant le projet"
+    - image: '/assets/images/projects/illustrating_soundscape/IMG_1367.jpeg'
+      credits: 'N/A'
+      alt: ""
   after:
-    image: '/assets/images/projects//after_fantastique_acoustique.jpg'
-    credits: ''
-    alt: "Après le projet"
+    - image: '/assets/images/projects/illustrating_soundscape/EquipeH_ENG_p1.jpg'
+      credits: 'art by Marina León'
+      alt: ""
+    - image: '/assets/images/projects/illustrating_soundscape/EquipeH_ENG_p2.jpg'
+      credits: 'art by Marina León'
+      alt: ""
+    - image: '/assets/images/projects/illustrating_soundscape/EquipeH_ENG_p3.jpg'
+      credits: 'art by Marina León'
+      alt: ""
+    - image: '/assets/images/projects/illustrating_soundscape/EquipeG_ENG_p1.jpg'
+      credits: 'art by Madeleine Guastavino'
+      alt: ""
+    - image: '/assets/images/projects/illustrating_soundscape/EquipeG_ENG_p2.jpg'
+      credits: 'art by Madeleine Guastavino'
+      alt: ""
+    - image: '/assets/images/projects/illustrating_soundscape/EquipeG_ENG_p3.jpg'
+      credits: 'art by Madeleine Guastavino'
+      alt: ""
   brief: "Création de romans graphiques avec des illustrateurs. Présenté au Festival de la bande dessinée de Montréal 2024. Romans graphiques disponibles ci-dessous (Creative Commons CC-XXX)"
   about: "Partager nos recherches avec le public a toujours été un principe fondamental du projet Ville sonore, qui consiste à sensibiliser les citoyens à travers des balades et installations sonores. Cette démarche est à présent renforcée par l'ajout de deux superbes illustratrices, grâce à l'art magnifique de Marina León et de Madeleine Guastavino. Les bandes dessinées racontent des histoires d'inégalités sonores et de reconsidération des environnements sonores urbains, visant à engager et éduquer le public sur ces enjeux critiques. Un bruit de fond qui en dit long : Tales of sonic inequalities raconte l'histoire de trois personnes exposées à des quantités et des types de bruit différents, et qui ont des possibilités différentes à gérer, au cours de leurs activités quotidiennes. Et si nous reconsidérions nos villes à travers la sonorité ? Dessiner un environnement sonore est une histoire utopique et doucement magique qui place les expériences et les besoins humains au centre de la conception urbaine. Bonne lecture !"
   participation: "Intéressé·e par en savoir plus ou par l'utilisation de ces bandes dessinées dans vos propres efforts éducatifs ? Contactez-nous directement pour plus d'informations."
@@ -1267,6 +1314,10 @@ Ville sonore s'est associée au Partenariat du Quartier des spectacles (l'organi
 
 - title: "De chez vous à votre espace vert local ; Qu'entendez-vous en chemin ?"
   description: "Paysage sonore de l'accès piéton aux espaces verts, Une approche de cartographie participative"
+  location: ""
+  image: ""
+  url: "project25"
+  name: ""
   date: "2023 - en cours"
   start-date: '2023'
   end-date: 'En cours'
@@ -1290,18 +1341,58 @@ Ville sonore s'est associée au Partenariat du Quartier des spectacles (l'organi
     - "La marchabilité autour des espaces verts influence-t-elle le paysage sonore quotidien des résidents ?"
     - "Un environnement sonore plus positif dans le quartier favorise-t-il la marchabilité des espaces verts ?"
   about: "Marcheriez-vous sur un trottoir visuellement agréable si le bruit des voitures vous dérangeait ? Les sons sont un élément important de notre vie quotidienne ; cependant, ils ont rarement été étudiés dans le contexte des environnements piétonniers. Alors que l'objectif de marcher dans les espaces verts est de fournir une expérience réparatrice aux gens, la qualité du chemin piétonnier et son paysage sonore n'ont pas été étudiés autour des parcs. Ce projet vise à (1) comprendre si des zones plus marchables autour des espaces verts offrent une meilleure expérience aux résidents lors de leurs trajets. Pour ce faire, nous utilisons des cartes de la largeur des trottoirs, des arbres, des points d'intérêt, etc. - qui sont les indicateurs de marchabilité - à grande échelle et nous mesurerons la marchabilité dans un logiciel SIG. Nous verrons si la plus grande marchabilité du quartier améliore l'expérience sonore globale des personnes se rendant à l'espace vert dans différents quartiers de Montréal. De plus, dans la deuxième phase (2), nous nous concentrerons sur les expériences quotidiennes des habitants à petite échelle dans leur quartier. En utilisant la cartographie participative, la relation entre les chemins choisis par les résidents et l'environnement sonore sera étudiée. Cette étude ouvre la voie à une meilleure compréhension des relations entre la marchabilité et les paysages sonores urbains."
-  dates: "2023 - En cours"
   before:
-    image: '/assets/images/projects/local green space/Picture1.jpg'
-    credits: ''
-    alt: "Image avant projet"
+   - image: '/assets/images/projects/GreenSpaceWalkingAccess/GreenSpaceNoiseNeighbourhood.jpeg'
+     credits: 'Negar Imani'
+     alt: ""
   after:
-    image: '/assets/images/projects/local green space/Picture2.jpg'
-    credits: ''
-    alt: "Image après projet"
+   - image: '/assets/images/projects/GreenSpaceWalkingAccess/LargeScale.jpeg'
+     credits: 'Negar Imani'
+     alt: ""
+   - image: '/assets/images/projects/GreenSpaceWalkingAccess/PinkTree.jpeg'
+     credits: 'Catherine Guastavino'
+     alt: ""
   collaborators: ""
   funding: ""
+  links: ""
   publications: ""
   contact_info: "Negar Imani, Catherine Guastavino"
-  url: "projet25"
-  prev_url: "projet24"
+  prev_url: "project24"
+  next_url: "project26"
+  
+
+- title: ""
+  description: ""
+  location: ""
+  date: ""
+  start-date: ""
+  end-date: ""
+  image: ""
+  url: "project26"
+  fundings: ""
+  collaborators: ""
+  name: ""
+  tags:
+    - name: ""
+      id: ''
+  before:
+    - image: ''
+      credits: ''
+      alt: ""
+  after:
+    - image: ''
+      credits: ''
+      alt: ""
+  brief: ""
+  about: ""
+  participation: ""
+  contact_info: ""
+  links:
+    - url: ''
+      name: ''
+  publications:
+    - url: ''
+      name: ''
+  prev_url: ""
+  next_url: ""
+
