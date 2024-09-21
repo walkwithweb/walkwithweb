@@ -325,6 +325,9 @@
         p {
             font-size: 16px;
             line-height: 26px;
+            @media (max-width: 768px){
+                display: none;
+            }
         }
 
         @media (min-width: $mobile_screen) {
