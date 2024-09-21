@@ -1119,40 +1119,38 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
 
 
 
-- title: "City Ditty: Un simulateur de paysage sonore en réalité virtuelle"
-  description: Un projet visant à créer des outils de planification sonore
-    accessibles qui tiennent compte de l'expérience auditive plus large des
-    usager·ères de la ville
+- title: "City Ditty : Un simulateur d'ambiances sonores en réalité virtuelle"
+  description: "un projet visant à créer des outils de planification sonore accessibles qui tiennent compte de l'expérience auditive au sens large des usager·ères de la ville"
   location: ""
-  date: 2018 - en cours
+  date: "2018 - en cours"
   start-date: '2018'
   end-date: 'En cours'
-  image: /assets/images/projects/City Ditty/CityDitty-Cafe.png
-  url: project23
+  image: "/assets/images/projects/City Ditty/CityDitty-Cafe.png"
+  url: "project23"
   fundings: "Ce projet a été soutenu d'une manière ou d'une autre par les trois
-    secteurs de Fonds de recherche du Québec: (Society & Culture, Nature and
-    technologies, and Health); le Centre for Interdisciplinary Research in Music
-    Media and Technology (CIRMMT); et une Wolfe Graduate Fellowship in
-    Scientific and Technological Literacy."
-  collaborators: Ying-Ying Zhang et Gianluca Grazioli (doctorants en
+    secteurs de<a href ='https://frq.gouv.qc.ca/en/'</a> Fonds de recherche du Québec</a>: (Society & Culture, Nature and
+    technologies, and Health); le <a href='https://www.cirmmt.org/'>Centre for Interdisciplinary Research in Music
+    Media and Technology (CIRMMT)</a>; et une <a href='https://www.mcgill.ca/wolfechair/wolfe-fellows'>Wolfe Graduate Fellowship in
+    Scientific and Technological Literacy</a>."
+  collaborators: "Ying-Ying Zhang et Gianluca Grazioli (doctorants en
     enregistrement sonore à McGill) ; Darcy Tyler (assistante de recherche de
-    premier cycle en sciences cognitives)
-  name: Richard Yanaky
+    premier cycle en sciences cognitives)"
+  name: "Richard Yanaky"
   tags:
     - name: Simulation
-      id: simulation
+      id: 'simulation'
     - name: Sensibilisation au sonore
-      id: sound-awareness
+      id: 'sound_awareness'
     - name: Interaction Homme-Machine
-      id: hci
+      id: 'hci'
     - name: Design centré sur l'usager·ères
-      id: user-centered-design
+      id: 'user_centered_design'
     - name: Professionnels de l'environnement bâti
-      id: pbe
+      id: 'pbe'
     - name: Prototypage rapide
-      id: rapid-prototyping
+      id: 'rapid_prototyping'
     - name: Technologies émergentes
-      id: emerging-technologies
+      id: 'emerging_technologies'
   before:
    - image: '/assets/images/projects/City_Ditty/CityDitty-Cafe.png'
      credits: 'Richard Yanaky'
@@ -1170,76 +1168,42 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
     - image: '/assets/images/projects/City_Ditty/City_Ditty_Busy_City.png'
       credits: 'Richard Yanaky'
       alt: ""
-  brief: City Ditty est un projet en cours de design centré sur l'usager·ères qui
-    fournit des outils audio-visuels de planification sonore accessibles,
-    sensibilisant au sonore et soutenant les designs exploratoires.
-  about: Les simulateurs de paysages sonores permettent d'itérer rapidement à
-    travers de nombreuses possibilités différentes afin de sensibiliser au
-    sonore, de soutenir les designs exploratoires et d'aider les
-    non-spécialistes du sonore à prendre des décisions informées. De plus, comme
-    il s'agit de créer des expériences auditives positives parmi les parties
-    prenantes, il convient de mettre l'accent sur des expériences exploratoires
-    rapides, informatives et amusantes afin d'encourager une participation
-    active et pertinente qui maintienne l'intérêt au fil du temps. Dans sa phase
-    initiale, le projet a examiné comment les professionnels en urbanisme (par
-    exemple, les urbanistes, les concepteurs et les décideurs politiques)
-    aimeraient interagir avec le son. Comme ils n'interagissaient pas beaucoup,
-    voire pas du tout, avec le son, un processus de design centré sur
-    l'utilisateur a été mis en place, avec une évaluation des besoins des
-    usager·ères avec les professionnels en urbanisme comme partie prenante d'un
-    atelier qui comprenait des groupes de discussion, des démonstrations
-    techniques et un exercice collaboratif de conception d'un paysage sonore.
-    Même si les professionnels en urbanisme ne pouvaient pas dire directement ce
-    dont ils avaient besoin, cette étude a permis d'identifier le type de
-    fonctionnalités d'un tel outil et la manière dont ils pourraient interagir
-    avec les paysages sonores virtuels, en tant que non-experts. Ces résultats
-    ont contribué au développement de City Ditty, un paysage sonore immersif qui
-    permet le prototypage audio-visuel rapide de paysages sonores urbains. Sa
-    première étude d'utilisation a révélé que les gens pouvaient s'informer sur
-    les paysages sonores et prototyper leurs propres designs simples avec City
-    Ditty, tout cela en moins d'une heure. Au cours de sa réalisation, le projet
-    a exploré comment ces technologies émergentes pouvaient être utilisées pour
-    aider un plus grand nombre de personnes à prendre en compte l'expérience
-    auditive, de nouvelles façons utiles de représenter la nature dynamique des
-    personnes dans une ville, et comment de tels outils pourraient s'intégrer
-    dans le flux de travail existant d'un professionnel en urbanisme.
-    Aujourd'hui, le projet est utilisé en collaboration avec la ville de
-    Montréal pour aider à sonoriser les problèmes liés au sonore et à simuler
-    des interventions sonores potentielles. Il est également utilisé par
-    d'autres doctorants pour la conception de leurs propres expériences et la
-    collection des données, avec des projets et de travaux futurs en cours de
-    développement.
-  participation: Souhaitez-vous utiliser City Ditty pour un projet urbain ? Un
-    collègue chercheur souhaitant utiliser City Ditty dans un projet de
-    recherche ? N'hésitez pas à nous contacter directement (coordonnées
-    ci-dessous).
+  brief: "Processus continu de design centré sur l'utilisateur·rice pour fournir des outils audio-visuels de planification sonore accessibles.
+<br><br>Conçu pour aider à sensibiliser au sonore grâce à des leçons interactives sur les principes et la conception des ambiances sonores.
+<br><br>Permet le prototypage rapide d’ambiances sonores par une simple manipulation des sources sonores, de l'heure de la journée et des conditions météorologiques.
+<br><br>Fournit différentes méthodes de visualisation et d'auralisation.
+<br><br>Facilite l'utilisation pour les non-spécialistes du sonore 
+<br><br>Inclut des méthodes de collecte de données intégrées, y compris des questionnaires, des historiques des actions des utilisateur·rices (que ce soit leurs interactions ou leur parcours).  
+"
+  about: "Les simulateurs d'ambiances sonores permettent d'itérer rapidement à travers de nombreuses possibilités différentes afin de sensibiliser au sonore, de permettre le design exploratoire et d'aider les non-spécialistes du sonore à prendre des décisions informées. De plus, comme il s'agit de créer des expériences auditives positives pour les parties prenantes, il convient de mettre l'accent sur des expériences exploratoires rapides, informatives et amusantes afin d'encourager une participation active et effective qui maintienne l'intérêt au fil du temps.<br><br>Dans sa phase initiale, le projet a examiné comment les professionnel·les en urbanisme (par exemple, les urbanistes, les concepteur·rices et les décideur·euses politiques) aimeraient interagir avec le sonore. Comme ils n'interagissaient pas beaucoup, voire pas du tout, un processus de design centré sur l'utilisateur·rice a été mis en place, avec une évaluation des besoins des professionnel·les en urbanisme lors d'un atelier qui comprenait des groupes de discussion, des démonstrations techniques et un exercice collaboratif de conception d'ambiances sonores. Même si les professionnel·les en urbanisme ne pouvaient pas dire directement ce dont iels avaient besoin, cette étude a permis d'identifier le type de fonctionnalités qu'un tel outil devrait offrir et la manière dont iels pourraient interagir avec les ambiances sonores virtuelles, en tant que non-spécialistes. Ces résultats ont contribué au développement de City Ditty, un simulateur sonore immersif qui permet le prototypage audio-visuel rapide d’ambiances sonores urbaines. Sa première étude d'utilisation a révélé que les gens pouvaient découvrir le concept d’ambiances sonores et prototyper leurs propres designs simples avec City Ditty, tout cela en moins d'une heure."
+  participation: "Au cours de sa réalisation, le projet a exploré comment ces technologies émergentes pouvaient être utilisées pour aider un plus grand nombre de personnes à prendre en compte l'expérience auditive, de nouvelles façons utiles de représenter la nature dynamique des personnes dans une ville, et comment de tels outils pourraient s'intégrer au flux de travail existant des professionnel·les en urbanisme. Aujourd'hui, le projet est utilisé en collaboration avec la ville de Montréal pour aider à auraliser les problèmes liés au sonore et à simuler de potentielles interventions sonores. Il est également utilisé par d'autres doctorants pour la conception et la collecte des données pour leurs propres expériences, avec de futurs projets et de travaux en cours de développement.
+<br><br>Souhaitez-vous utiliser City Ditty pour un projet urbain ? Pour un projet de recherche ? N'hésitez pas à nous contacter directement (coordonnées ci-dessous)."
   contact_info: Richard Yanaky ou Catherine Guastavino
   links:
-    - url: https://www.youtube.com/playlist?list=PLIlbMTlgR90J2stZScpJ-oqi1_5Hj4RzY
-      name: YouTube Demos
-    - url: https://doi.org/10.3390/app13031611
-      name: Article sur les sciences appliquées
-    - url: https://jcaa.caa-aca.ca/index.php/jcaa/article/view/4183
-      name: Article sur l'acoustique canadienne
-    - url: https://jcaa.caa-aca.ca/index.php/jcaa/article/view/4180
-      name: Trois outils pour la simulation de paysages sonores
-    - url: https://hal.science/hal-02901211/
-      name: Résultats de l'atelier HAID 2020
+    - url: 'https://www.youtube.com/playlist?list=PLIlbMTlgR90J2stZScpJ-oqi1_5Hj4RzY  '
+      name: "YouTube playlist of demos and several past talks."
   publications:
-    - url: https://doi.org/10.3390/app13031611
-      name: "City Ditty: An Immersive Soundscape Sketchpad for Professionals of the
-        Built Environment"
+    - url: 'https://doi.org/10.3390/app13031611'
+      name: "L'article original qui décrit la conception centrée sur l'utilisateur·rice et le processus d'évaluation de City Ditty :
+      <br>Yanaky, R., Tyler, D., & Guastavino, C. (2023). City Ditty: An Immersive Soundscape Sketchpad for Professionals of the Built Environment.<i> Applied Sciences</i>, 13(3), 1611. https://doi.org/10.3390/app13031611"
     - url: https://jcaa.caa-aca.ca/index.php/jcaa/article/view/4183
       name: Realistic Enough? Design Considerations for Soundscape Simulators
-    - url: https://jcaa.caa-aca.ca/index.php/jcaa/article/view/4180
-      name: "One Size Doesnt Fit All: Three Tools For Soundscape Simulation"
-    - url: https://internoise2023.paper.link
-      name: Exploring the use of soundscape sketchpads with professionals
-    - url: https://crcpress.com/hci-interaction-technologies
-      name: Sound-Based Interaction in Human Computer Interaction
-    - url: https://hal.science/hal-02901211/
-      name: An Interactive Soundscape Simulator for Professionals of the Built
-        Environment
+    - url: "https://jcaa.caa-aca.ca/index.php/jcaa/article/view/4183"
+      name: "Un article paru dans Canadian Acoustics, présentant trois approches à la conception de simulateurs d'ambiances sonores et à l'engagement des parties prenantes :
+      <br>Yanaky, R., & Guastavino, C. (2024). Realistic Enough? Design Considerations for Soundscape Simulators.<i>Canadian Acoustics</i>, 52(1). https://jcaa.caa-aca.ca/index.php/jcaa/article/view/4183"
+    - url: "https://jcaa.caa-aca.ca/index.php/jcaa/article/view/4180"
+      name: "Un autre article dans Canadian Acoustics qui traite de City Ditty en relation avec nos deux autres simulateurs d'ambiances sonores par rapport à l'implication des parties prenantes et le prototypage d'installations d'art sonore :
+      <br>Fraisse, V., Tarlao, C., Yanaky, R., & Guastavino, C. (2024). One Size Doesn't Fit All: Three Tools For Soundscape Simulation.<i>Canadian Acoustics</i>, 52(1). https://jcaa.caa-aca.ca/index.php/jcaa/article/view/4180"
+    - url: "https://www.researchgate.net/publication/374750772_Exploring_the_use_of_soundscape_sketchpads_with_professionals"
+      name: "L’article suivant, présenté à Internoise 2023, explique comment les technologies émergentes peuvent contribuer à défier le statu quo... à condition que nous soyons mieux soutenus :
+      <br<br>Yanaky, R., Grazioli, G., Zhang, Y.-Y., & Guastavino, C. (2023). Exploring the use of soundscape sketchpads with professionals. INTER-NOISE and NOISE-CON Congress and Conference Proceedings, Chiba, Japan, August 20-23, 2023. Link to paper"
+    - url: ""
+      name: "Un chapitre sur l'interaction homme-machine (IHM) qui traite de l'utilisation de simulateurs d’ambiances sonores, d'installations sonores interactives et d'instruments de musique numériques (DMI).
+      <br><br>Yanaky, R., Reimer, P. J. C., Fraisse, V., Wanderley, M., & Guastavino, C. (2024). Sound-Based Interaction. In C. Stephanidis & G. Salvendy (Eds.),<i>Human Computer Interaction: Interaction Technologies and Techniques</i>. CRC Press."
+    - url: "https://hal.science/hal-02901211/"
+      name: "Un premier rapport sur les résultats de notre atelier sur les simulateurs d'ambiances sonores et les besoins des utilisateur·ices.
+<br>Yanaky, R., Tarlao, C., & Guastavino, C. (2020).<i> An Interactive Soundscape Simulator for Professionals of the Built Environment</i> International Workshop on Haptic and Audio Interaction Design, HAID 2020, Montreal, Canada. https://hal.science/hal-02901211/ 
+"
   prev_url: project22
   next_url: project24
 
