@@ -755,9 +755,6 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
 
 - title: "L’art sonore dans les espaces publics : Les Madelinéennes"
   description: "Son et patrimoine culturel dans l'espace public : évaluation d'une installation sonore avec la communauté locale"
-  highlights:
-    - "Une installation sonore a été déployée pour mettre en valeur le patrimoine culturel d'un petit espace public à Montréal."
-    - "Une collaboration arts-science va permettre d’informer la composition de l'installation sonore, en partant d’enregistrements sur le terrain, de simulations du paysage sonore pour finir avec des enquêtes sur le terrain auprès des résidents."
   location: "Montreal, QC"
   date: "2023-en cours"
   start-date: '2023'
@@ -785,24 +782,24 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   before:
    - image: '/assets/images/projects/les_madelinennes/230711_Parc-Madelinots_006.jpg'
      credits: 'paysages~'
-     alt: "Field recording session at the Parc des Madelinots."
+     alt: "Parc des Madelinots. Un haut-parleur de l’installation Les Madelinéennes se trouve au milieu"
   after:
    - image: '/assets/images/projects/les_madelinennes/230705_Parc-Madelinots_011.jpg'
      credits: 'paysages~'
-     alt: "Listening session at the PeRL Laboratory at CIRMMT with sound artist Charles Montambault"
+     alt: "Session de prises de son au Parc des Madelinots"
    - image: '/assets/images/projects/les_madelinennes/230705_McGill_001.jpg'
      credits: 'paysages~'
-     alt: ""
-  brief: "Une installation sonore a été déployée pour mettre en valeur le patrimoine culturel d'un petit espace public à Montréal. Une collaboration arts-science va permettre d’informer la composition de l'installation sonore, en partant d’enregistrements sur le terrain, de simulations du paysage sonore pour finir avec des enquêtes sur le terrain auprès des résidents."
-  about: "Cette collaboration de recherche-création porte sur la conception et l'évaluation de l'installation sonore permanente Les Madelinéennes de Charles Montambault, déployée depuis 2023 dans un petit parc public (Parc des Madelinots) dans l'arrondissement montréalais de Verdun. Verdun a été une importante destination d'émigration des Îles-de-la-Madeleine et compte aujourd'hui la plus grande communauté de Madelinots à l'extérieur des Îles. Le Parc des Madelinots est un espace public qui rend hommage à cette diaspora madelinéenne. Cependant, le parc exposé à des niveaux de bruits de circulations élevés, est peu utilisé par les résidents et est plutôt perçu comme un espace de transit. L'objectif de l’installation Les Madelinéennes est d'offrir un environnement sonore plus apaisant et agréable à cet espace public tout en mettant en valeur l'héritage culturel de la communauté par le biais de compositions utilisant des prises de son faites aux Îles-de-la-Madeleine. Ce projet de recherche s'appuie sur des méthodes développées dans le cadre de la collaboration autour de l'installation Niches Acoustiques. Il comprend des enregistrements sur le terrain et des évaluations en laboratoire de prototypes de l'installation sonore avec des résidents familiers de l'espace. Plus précisément, nous cherchons à comprendre comment la dominance de différentes sources sonores côtières (par exemple les oiseaux, l'eau, le vent) peut affecter le paysage sonore de cet espace. Des recommandations seront faites à terme à partir des résultats de l'étude, dans le but d’informer la composition d'une nouvelle itération de l'installation sonore."
-  participation: "Enregistrements sur le terrain, évaluations en laboratoire de prototypes, enquêtes sur le terrain et recommandations de conception."
+     alt: "Session d’écoute au laboratoire PeRL du CIRMMT avec Valérian Fraisse et Charles Montambault"
+  brief: "Une installation sonore a été déployée pour mettre en valeur le patrimoine culturel d'un petit espace public à Montréal<br><br>Une collaboration recherche-création va permettre d’informer la composition de l'installation sonore, en partant d’enregistrements sur le terrain, de simulations d’ambiances sonores pour finir avec des enquêtes sur le terrain auprès des résident·es."
+  about: "Cette collaboration de recherche-création porte sur la conception et l'évaluation de l'installation sonore permanente Les Madelinéennes de Charles Montambault, déployée depuis 2023 dans un petit parc public (Parc des Madelinots) dans l'arrondissement montréalais de Verdun. Verdun a été une importante destination d'émigration des Îles-de-la-Madeleine et compte aujourd'hui la plus grande communauté de Madelinots à l'extérieur des Îles. Le Parc des Madelinots est un espace public qui rend hommage à cette diaspora madelinienne. Cependant, le parc, exposé à des niveaux de bruits de circulations élevés, est peu utilisé par les résident·es et est plutôt perçu comme un espace de transit. L'objectif de l’installation Les Madelinéennes est d'offrir un environnement sonore plus apaisant et agréable à cet espace public tout en mettant en valeur l'héritage culturel de la communauté par le biais de compositions utilisant des prises de son faites aux Îles-de-la-Madeleine."
+  participation: "Ce projet de recherche s'appuie sur des méthodes développées dans le cadre de la collaboration autour de l'installation Niches Acoustiques. Il comprend des enregistrements sur le terrain et des évaluations en laboratoire de prototypes de l'installation sonore avec des résident·es familier·ères de l'espace. Plus précisément, nous cherchons à comprendre comment la dominance de différentes sources sonores côtières (par exemple les oiseaux, l'eau, le vent) peut affecter le paysage sonore de cet espace. Des recommandations seront faites à terme à partir des résultats de l'étude, dans le but d’informer la composition d'une nouvelle itération de l'installation sonore."
   contact_info: "Pour plus de détails, veuillez contacter : Valérian Fraisse, Catherine Guastavino"
   links:
     - url: 'https://journalmetro.com/culture/rencontres/2915990/sons-iles-madeleine-berceront-verdun/'
-      name: 'Journal Métro - Les sons des Îles-de-la-Madeleine berceront Verdun'
+      name: 'https://journalmetro.com/culture/rencontres/2915990/sons-iles-madeleine-berceront-verdun/'
   publications:
-    - url: 'https://example.com/publication3'
-      name: 'Fraisse, V., Schütz, N., Wanderley, M., Guastavino, C., & Misdariis, N. (2022). Informing sound art design in public space through soundscape simulation. Proceedings of INTERNOISE, Glasgow, UK.'
+    - url: ''
+      name: ''
   prev_url: "project15"
   next_url: 'project17'
 
