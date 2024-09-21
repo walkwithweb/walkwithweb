@@ -632,11 +632,9 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   after:
    - image: '/assets/images/projects/nightlife/MITACS_ListenUp_Oct6_2022Workshop.jpg'
      credits: 'YULISM'
-     alt: "Catherine Guastavino présente le projet ÉcoutezMontréal lors de l’atelier du 6 octobre 2022 ("Le bruit environnemental dans nos actions de planification")."
+     alt: "Catherine Guastavino présente le projet ÉcoutezMontréal lors de l atelier du 6 octobre 2022 (Le bruit environnemental dans nos actions de planification')."
   brief: "Les activités nocturnes contribuent à la vitalité et à l'attractivité des villes mais peuvent aussi générer des conflits de cohabitation sonore.<br><br>Nous proposerons des recommandations pour prendre en compte la dimension sonore dans l’élaboration d'une politique de vie nocturne à Montréal."
-  about: "De nombreuses villes du monde sont confrontées au défi de trouver un équilibre entre qualité de vie et vitalité, et cette dichotomie est souvent mise à l'épreuve à travers la dimension sonore. Cependant, aucune ville du monde, y compris Montréal, n'a mis de l’avant une politique de vie nocturne qui s'attaque de front à ces défis. <br><br>
-
-Ville sonore a entamé une collaboration avec la Ville de Montréal et la Direction régionale de santé publique de Montréal (DRSP) afin d'étudier et d'intégrer les besoins et les attentes des différents acteurs dans le développement d'une nouvelle stratégie de la vie nocturne en utilisant l'approche du paysage sonore. Le projet documente des situations de conflits et de cohabitation sonores à Montréal afin de mieux comprendre/caractériser les dynamiques en jeu et d'émettre des recommandations pour améliorer les politiques publiques dans une perspective de développement économique centré sur l’humain. La première étape a consisté en une revue exhaustive de la littérature universitaire pertinente ainsi que des rapports publics et privés fournis par les partenaires afin de dresser un état des connaissances en matière de sonore à Montréal."
+  about: "De nombreuses villes du monde sont confrontées au défi de trouver un équilibre entre qualité de vie et vitalité, et cette dichotomie est souvent mise à l'épreuve à travers la dimension sonore. Cependant, aucune ville du monde, y compris Montréal, n'a mis de l’avant une politique de vie nocturne qui s'attaque de front à ces défis.<br><br>Ville sonore a entamé une collaboration avec la Ville de Montréal et la Direction régionale de santé publique de Montréal (DRSP) afin d'étudier et d'intégrer les besoins et les attentes des différents acteurs dans le développement d'une nouvelle stratégie de la vie nocturne en utilisant l'approche du paysage sonore. Le projet documente des situations de conflits et de cohabitation sonores à Montréal afin de mieux comprendre/caractériser les dynamiques en jeu et d'émettre des recommandations pour améliorer les politiques publiques dans une perspective de développement économique centré sur l’humain."
   participation: "La deuxième étape a été le développement de projets pilotes : le projet pilote ÉcoutezMontréal [LIEN VERS PROJET <a href='http://walkwithweb.github.io/fr/projects/project11'>ECOUTEZ MONTREAL</a>], et le projet Assomption Sud–Longue-Pointe [LIEN VERS PROJET <a href='http://walkwithweb.github.io/fr/projects/project12'>ASLP</a>]. <br><br>Ce projet apporte une occasion unique d'impliquer de multiples acteurs autour de la question du bruit nocturne et d'intégrer la prise en compte du son dans la nouvelle politique de la vie nocturne montréalaise en cours d'élaboration."
   contact_info: "Pour plus de détails, contactez : Edda Bild, Catherine Guastavino"
   links:
@@ -656,7 +654,7 @@ Ville sonore a entamé une collaboration avec la Ville de Montréal et la Direct
 
 
 - title: "Les sons du Quartier des spectacles"
-  description: "Comprendre les paysages sonores des festivals montréalais"
+  description: "Comprendre les ambiances sonores des festivals  montréalais"
   location: "Montréal, QC"
   date: "Hiver 2020 – Hiver 2021"
   start-date: '2020'
@@ -682,27 +680,25 @@ Ville sonore a entamé une collaboration avec la Ville de Montréal et la Direct
   before:
    - image: '/assets/images/projects/Quartier_des_Spectacles/Place_des_arts_08.jpg'
      credits: 'Jeangagnon at Wikimedia Commons'
-     alt: "Quartier des Spectacles avant l'étude"
+     alt: "Quartier des spectacles"
   after:
    - image: ''
      credits: ''
-     alt: "Quartier des Spectacles après l'étude"
-  brief: "Le Quartier des spectacles de Montréal est confronté à des défis uniques pour équilibrer la vitalité et l'habitabilité en raison de la multitude d'événements et de festivals qui s'y déroulent tout au long de l'année. Les sons des festivals ne sont pas la principale source de nuisance, mais plutôt les bruits de la vie nocturne (pré-COVID-19). Les résidents plus âgés apprécient les festivals et les événements et y participent, ce qui remet en question les idées reçues sur la retraite et le vieillissement en ville."
-  about: "Le Quartier des spectacles (QDS) est un pôle multiculturel dense pour la musique, les arts, le design et la gastronomie, où vit une population diversifiée et un flair pour les événements publics (y compris les festivals à grande échelle). La population résidentielle qu’elle abrite provient de milieux socio-économiques variés, et est en croissance constante en raison du développement de nouveaux projets de tours d'habitation. Le secteur doit préserver un équilibre entre sa réputation de vitalité et son intérêt pour le maintien d'un environnement habitable pour ses résidents actuels et potentiels. <br><br>
-
-Ville sonore s'est associée au Partenariat du Quartier des spectacles (l'organisation responsable de la gestion du secteur du QDS) afin de mener une recherche terrain visant à mieux comprendre les attentes des différentes parties prenantes (résidents, festivaliers, promoteurs de festivals) et à identifier des lignes directrices utiles pour définir le futur plan de gestion sonore de la zone. Nous avons constaté qu'avant la pandémie de COVID-19, les sons des festivals n'étaient pas la source principale de gêne, mais plutôt une source d'inspiration pour les résidents qui souhaitaient s’approprier leurs espaces et leur quartier. Il est intéressant de noter que les résidents plus âgés ont choisi de s'installer dans le QDS en raison de son accessibilité, mais aussi en raison des festivals et des événements, ce qui soulève des questions sur les idées que l’on se fait des personnes à qui s'adressent les festivals et les événements."
-  participation: "Ville sonore a mené une recherche terrain pour mieux comprendre les attentes des différentes parties prenantes (résidents, festivaliers, promoteurs de festivals) et identifier des lignes directrices pour un futur plan de gestion sonore."
+     alt: "Quartier des spectacles"
+  brief: "Le Quartier des spectacles de Montréal est confronté à des défis uniques pour équilibrer qualité de vie et vitalité en raison de la multitude d'événements et de festivals qui s'y déroulent tout au long de l'année<br><br>Les sons des festivals ne sont pas la principale source de nuisance, mais plutôt les bruits de la vie nocturne (pré-COVID-19) <br><br>Les résident·es plus âgé·es apprécient les festivals et les événements et y participent, ce qui remet en question les idées reçues sur la retraite et le vieillissement en ville"
+  participation: "Ville sonore s'est associée au Partenariat du Quartier des spectacles (l'organisation responsable de la gestion du QDS) afin de mener une recherche sur le terrain visant à mieux comprendre les attentes des différentes parties prenantes (résident·es, festivalier·ères, promoteur·rices de festivals) et à identifier des lignes directrices pour définir un futur plan proactif de gestion sonore. Nous avons constaté qu'avant la pandémie de COVID-19, les sons des festivals n'étaient pas la source principale de gêne, mais plutôt une source d'inspiration pour les résident·es qui souhaitaient s’approprier leurs espaces et leur quartier. Il est intéressant de noter que les résident·es plus âgé·es ont choisi de s'installer dans le QDS en raison de son accessibilité, mais aussi en raison des festivals et des événements, ce qui remet en question les idées reçues sur les personnes à qui s'adressent les festivals et les événements."
+  about: "Le Quartier des spectacles (QDS) est un pôle multiculturel de musique, d’art, de design et de gastronomie, connu pour sa population diversifiée et son flair pour les événements publics (y compris les festivals à grande échelle). La population résidentielle qu’elle abrite provient de milieux socio-économiques variés, et est en croissance constante en raison du développement de nouveaux projets de tours d'habitation. Le secteur doit préserver un équilibre entre sa réputation de vitalité et son intérêt pour le maintien d'un environnement habitable pour ses résidents actuels et potentiels."
   contact_info: "Pour plus de détails, contactez : Edda Bild, Catherine Guastavino"
   links:
     - url: 'https://ici.radio-canada.ca/tele/decouverte/site/episodes/520848/covid-ghgsat-methane-lune-pollution'
-      name: 'Société Radio-Canada (avril 2021). A l’écoute de la ville – Émission Découverte [reportage télévisé avec C. Guastavino].'
-    - url: 'https://www.researchcatalogue.net/view/1278472/1278473'
-      name: 'Bild, E., Steele, D. & Guastavino, C. (2021). At Home in Montreal’s Quartier Des Spectacles Festival Neighborhood. Journal of Sonic Studies.'
+      name: 'Société Radio-Canada (avril 2021). A l’écoute de la ville – Émission Découverte [reportage télévisé avec C. Guastavino]. https://ici.radio-canada.ca/tele/decouverte/site/episodes/520848/covid-ghgsat-methane-lune-pollution'
   publications:
     - url: 'https://www.mdpi.com/2071-1050/14/8/4559'
-      name: 'Bild, E., Steele, D., & Guastavino, C. (2022). Festivals and Events as Everyday Life in Montreal’s Entertainment District. Sustainability, 14(8), 4559.'
+      name: 'Bild, E., Steele, D., & Guastavino, C. (2022). Festivals and Events as Everyday Life in Montreal’s Entertainment District. <i>Sustainability</i>, 14(8), 4559.'
+    - url: 'https://www.researchcatalogue.net/view/1278472/1278473'
+      name: 'Bild, E., Steele, D. & Guastavino, C. (2021). At Home in Montreal’s Quartier Des Spectacles Festival Neighborhood https://www.researchcatalogue.net/view/1278472/1278473.<i>Journal of Sonic Studies</i>.'
     - url: 'https://www.mdpi.com/1660-4601/18/11/5877'
-      name: 'Steele, D., & Guastavino, C. (2021). Quieted city sounds during the covid-19 pandemic in Montreal. International Journal of Environmental Research and Public Health, 18(11), 5877.'
+      name: 'Steele, D., & Guastavino, C. (2021). Quieted city sounds during the covid-19 pandemic in Montreal.<i> International Journal of Environmental Research and Public Health, 18(11), 5877.</i>'
   prev_url: "project13"
   next_url: 'project15'
 
