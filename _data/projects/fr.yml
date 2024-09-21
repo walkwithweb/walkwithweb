@@ -860,7 +860,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   next_url: 'project18'
 
 
-- title: "Partager la musique dans les espaces publics: Musikiosk"
+- title: "Partage de musique dans les espaces publics : Musikiosk"
   description: "Intégrer la musique dans l'espace public grâce à un système sonore interactif"
   location: "Parc du Portugal, Montreal, QC"
   date: "2014 - Été 2015"
@@ -881,39 +881,35 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   before:
    - image: '/assets/images/projects/Musikiosk/Musikiosk_PduPortugal.jpg'
      credits: 'Cynthia Tarlao'
-     alt: "Musikiosk avant l'installation"
+     alt: ""
   after:
    - image: '/assets/images/projects/Musikiosk/Musikiosk_Picture6_blurred.jpg'
      credits: 'Catherine Guastavino'
-     alt: "Musikiosk après l'installation"
+     alt: ""
    - image: ''
      credits: 'Milyausha Gabdrakhmanova'
-     alt: "Musikiosk logo"
-  brief: "Un système de haut-parleurs semi-permanent (Musikiosk) a été installé dans le belvédère d'un parc public (Parc du Portugal). Les utilisateurs pouvaient s'y connecter et diffuser le contenu de leur choix. Musikiosk a amélioré la perception du caractère agréable de l'environnement sonore du parc ainsi que l'humeur des visiteurs du parc, qu'ils soient ou non en contact direct avec Musikiosk. Musikiosk a ajouté une nouvelle activité dans le parc sans déplacer les utilisateurs existants."
-  about:
-    "En 2015, des chercheurs de l'Université McGill et de l'ÉTS ont collaboré avec l'arrondissement du Plateau Mont-Royal pour installer Musikiosk dans le gazebo du Parc du Portugal, un petit parc public de Montréal. Musikiosk est un système de haut-parleurs grâce auquel les usagers du parc peuvent, à l'aide d'une prise audio, connecter leurs appareils personnels à un petit ensemble de haut-parleurs installés gratuitement dans le belvédère, et ainsi partager leur propre musique avec d'autres. 
-
-    Les utilisateurs du Musikiosk, qui ont fait part de leur expérience lors d'entretiens et d'enquêtes, se sont montrés enthousiastes à l'idée de s'engager dans un parc urbain d'une manière nouvelle, en s'appropriant leur espace sur le plan acoustique et en leur offrant une occasion non conventionnelle d'interagir avec d'autres utilisateurs du parc. Grâce à des efforts de sensibilisation de la communauté et à une planification approfondie, l'équipe de Musikiosk a minimisé le déplacement des utilisateurs existants du parc et a géré les attentes et l'agacement des voisins. 
-
-    Cette étude a donné le coup d'envoi d'une longue série de projets en collaboration avec les autorités de la ville de Montréal et d'autres parties prenantes.
-  participation: 'Interviews, enquêtes, sensibilisation communautaire.'"
+     alt: "Logo Musikiosk"
+  brief: "Un système de haut-parleurs semi-permanent (Musikiosk) a été installé dans le belvédère d'un parc public (Parc du Portugal). Les utilisateur·rices pouvaient s'y connecter et diffuser le contenu de leur choix.<br><br>Musikiosk a amélioré la perception du caractère agréable de l'environnement sonore du parc ainsi que l'humeur des visiteur·rices du parc, qu'iels soient ou non en contact direct avec Musikiosk.<br><br>Musikiosk a ajouté de nouvelles activités musicales dans le parc sans déplacer les usages existants."
+  about: "En 2015, des chercheur·euses de l'Université McGill et de l'ÉTS ont collaboré avec l'arrondissement du Plateau Mont-Royal pour installer Musikiosk dans le belvédère du Parc du Portugal, un petit parc public de Montréal. Musikiosk est un système de haut-parleurs grâce auquel les usager·ères du parc peuvent, à l'aide d'une prise audio, connecter leurs appareils personnels à un petit ensemble de haut-parleurs installés gratuitement dans le belvédère, et ainsi partager leur propre musique avec les autres. <br><br>Les utilisateur·rices du Musikiosk, qui ont fait part de leur expérience lors d'entretiens et d'enquêtes, se sont montré·es enthousiastes à l'idée de se réapproprier leur espace public de façon innovante, sur le plan acoustique et en intéragissant avec d’autres usager·ères du parc. Grâce à des efforts de sensibilisation de la communauté et à une planification approfondie, l'équipe de Musikiosk a minimisé le déplacement des usager·ères  existant·es du parc et a géré les attentes et la gêne du voisinage."
+  participation: "Cette étude a donné le coup d'envoi d'une longue série de projets en collaboration avec les autorités de la ville de Montréal et d'autres parties prenantes."
   contact_info: "Pour plus de détails, contactez : Daniel Steele, Catherine Guastavino"
   links:
-    - url: 'https://journalmetro.com/culture/rencontres/2915990/sons-iles-madeleine-berceront-verdun/'
-      name: 'Journal Métro - Les échos de nos églises'
+    - url: ''
+      name: ''
   publications:
-    - url: 'https://doi.org/10.1016/j.apacoust.2020.107910'
-      name: 'Steele, D., Fraisse, V., Bild, E., & Guastavino, C. (2021). Bringing music to the park: The effect of Musikiosk on the quality of public experience. Applied Acoustics, 177, 107910.'
-    - url: 'https://doi.org/10.3390/ijerph16101865'
-      name: 'Steele, D., Bild, E., Tarlao, C., & Guastavino, C. (2019). Soundtracking the public space: outcomes of the Musikiosk soundscape intervention. International journal of environmental research and public health, 16(10), 1865.'
-    - url: 'https://doi.org/10.4018/978-1-5225-3805-6.ch005'
-      name: 'Bild, E., Steele, D., Pfeffer, K., Bertolini, L., & Guastavino, C. (2018). Activity as a mediator between users and their auditory environment in an urban pocket park: a case study of Parc du Portugal (Montreal, Canada). In Handbook of Research on Perception-Driven Approaches to Urban Assessment and Design (pp. 100-125). IGI Global.'
-    - url: 'https://doi.org/10.3397/IN-2016-3694'
-      name: 'Bild, E., Tarlao, C., Guastavino, C., & Coler, M. (2016, August). Sharing music in public spaces: social insights from the Musikiosk project (Montreal, CA). In Inter-Noise and Noise-Con Congress and Conference Proceedings (Vol. 253, No. 5, pp. 3657-3666). Institute of Noise Control Engineering.'
-    - url: 'https://doi.org/10.3397/IN-2016-3690'
-      name: 'Steele, D., Bild, E., & Guastavino, C. (2016, August). Evaluation of an urban soundscape intervention with music: quantitative results from questionnaires. In Inter-Noise and Noise-Con Congress and Conference Proceedings (Vol. 253, No. 4, pp. 4627-4637). Institute of Noise Control Engineering.'
-    - url: 'https://doi.org/10.3397/IN-2016-3698'
-      name: 'Tarlao, C., Fernandez, P., & Guastavino, C. (2016, August). Comparing soundscape evaluations in French and English across three studies in Montreal. In INTER-NOISE and NOISE-CON Congress and Conference Proceedings (Vol. 253, No. 4, pp. 4701-4707). Institute of Noise Control Engineering.'
+    - url: 'https://www.sciencedirect.com/science/article/pii/S0003682X21000037?'
+      name: 'Steele, D., Fraisse, V., Bild, E., & Guastavino, C. (2021). Bringing music to the park: The effect of Musikiosk on the quality of public experience. <i>Applied Acoustics</i>, 177, 107910.'
+    - url: 'https://www.mdpi.com/469272'
+      name: 'Steele, D., Bild, E., Tarlao, C., & Guastavino, C. (2019). Soundtracking the public space: outcomes of the Musikiosk soundscape intervention. <i>International journal of environmental research and public health</i>, 16(10), 1865.'
+    - url: 'https://www.igi-global.com/chapter/activity-as-a-mediator-between-users-and-their-auditory-environment-in-an-urban-'
+      name: 'Bild, E., Steele, D., Pfeffer, K., Bertolini, L., & Guastavino, C. (2018). Activity as a mediator between users and their auditory environment in an urban pocket park: a case study of Parc du Portugal (Montreal, Canada). In <i>Handbook of Research on Perception-Driven Approaches to Urban Assessment and Design</i> (pp. 100-125). IGI Global.'
+    - url: 'https://www.ingentaconnect.com/content/ince/incecp/2016/00000253/00000005/art00093'
+      name: 'Bild, E., Tarlao, C., Guastavino, C., & Coler, M. (2016, August). Sharing music in public spaces: social insights from the Musikiosk project (Montreal, CA). In <i>Inter-Noise and Noise-Con Congress and Conference Proceedings</i> (Vol. 253, No. 5, pp. 3657-3666). Institute of Noise Control Engineering.'
+    - url: 'https://asa.scitation.org/doi/pdf/10.1121/1.4987775'
+      name: 'Steele, D., Bild, E., & Guastavino, C. (2016, August). Evaluation of an urban soundscape intervention with music: quantitative results from questionnaires. In <i>Inter-Noise and Noise-Con Congress and Conference Proceedings</i> (Vol. 253, No. 4, pp. 4627-4637). Institute of Noise Control Engineering.'
+    - url: 'https://www.ingentaconnect.com/contentone/ince/incecp/2016/00000253/00000004/art00093'
+      name: 'Tarlao, C., Fernandez, P., & Guastavino, C. (2016, August). Comparing soundscape evaluations in French and English across three studies in Montreal. In <i>INTER-NOISE and NOISE-CON Congress and Conference Proceedings</i> (Vol. 253, No. 4, pp. 4701-4707). Institute of Noise Control Engineering.'
+
   prev_url: "project17"
   next_url: 'project19'
 
