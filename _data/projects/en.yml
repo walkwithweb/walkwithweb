@@ -28,7 +28,6 @@
       alt: "Terasses Roy - after"
   brief: "The project removed traffic noise and created a new pedestrian walkway / seating area in a space where previously there was only a road.<br><br> It also created a new neighborhood space of meeting, often used by residents and visitors alike, who appreciate the greenery, increased sense of safety due to lack of cars, and the ‘quieter’ soundscape where cars are only audible in the distance."
   about: "We collaborated with Ville de Montreal around the pedestrianization of rue Roy, in the heart of the Plateau-Mont-Royal borough. To create the Terrasses Roy, a section of the street was closed off to traffic and a temporary design was installed by design firm Castor et Pollux in the summer 2017. Four sections were created to invite visitors to relax and interact, including colourful street furniture, communal gardens, and a play area. This pilot project was very well received by the community and extended into the fall and winter of 2017. The space is currently being converted into a permanent outdoor meeting space around urban agriculture."
-
   participation: "We participated in public consultations and conducted acoustic measurements and audio recordings before and after the pedestrianization. We also administered questionnaires to passers-by to evaluate their experience in the new pedestrian walkway, with an emphasis on soundscape and sonic expectations. We then provided recommendations to the borough on how to reinforce the purpose of this new space through sound. "
   contact_info: "For details, please contact: Daniel Steele, Catherine Guastavino"
   links:
@@ -186,7 +185,7 @@
 - title: "Translating soundscape scales"
   description: "Local and global projects to improve the way we measure soundscape across languages"
   location: ""
-  date: "2015 – ongoing"
+  date: "2015 – 2023"
   start-date: "2015"
   end-date: "2023"
   image: "/assets/images/projects/translation/TranslationCCommons.jpeg"
@@ -285,6 +284,8 @@
   description: "Developing technologies with and for professionals of the built environment"
   location: ""
   date: 'Spring 2019 – Summer 2019'
+  start-date: "2019"
+  end-date: "2019"
   image: '/assets/images/projects/Codesign_sketch_pad/DSC_1272.jpeg'
   url: project7
   fundings: 'SSHRC, FRQSC doctoral fellowship'
@@ -915,9 +916,9 @@
 - title: "Sound art in public spaces: Fleurs-de-Macadam"
   description: "Taking a participatory research creation approach to improve the soundscape of an urban public space"
   location: "Plateau-Mont-Royal, Montreal, QC"
-  date: "Summer 2018 - ongoing"
+  date: "Summer 2018 - 2019"
   start-date: "2018"
-  end-date: "Ongoing"
+  end-date: "2019"
   image: "/assets/images/projects/Fleurs_de_Macadam_sound_art/speaker_ZOOM.jpg"
   url: "project19"
   fundings: "SSHRC"
@@ -974,7 +975,7 @@
   location: "Boston, Montreal, Amsterdam"
   date: "2013 - ongoing"
   start-date: "2013"
-  end-date: "-"
+  end-date: "3000"
   image: "/assets/images/projects/Soundwalks/DSC_0142.jpg"
   url: "project20"
   fundings: ""
@@ -1031,7 +1032,7 @@
   location: ""
   date: "2013 - ongoing"
   start-date: "2013"
-  end-date: "-"
+  end-date: "3000"
   image: "/assets/images/projects/Engaging_professionals/IMG_8504.JPG"
   url: "project21"
   fundings: ""
@@ -1086,7 +1087,7 @@
   date: "2020 - Ongoing"
   start-date: "2020"
   end-date: "2024"
-  image: "/assets/images/projects/sonic injustice/Railyards.jpg"
+  image: "/assets/images/projects/sonic_injustice/Railyards.jpg"
   url: "project22"
   fundings: "FRQSC doctoral fellowship"
   collaborators: "Direction régionale de la santé publique de Montréal"
@@ -1125,7 +1126,7 @@
   location: ""
   date: "2018 - ongoing"
   start-date: "2018"
-  end-date: "Ongoing"
+  end-date: "2025"
   image: "/assets/images/projects/City_Ditty/City_Ditty_Day_in_the_Park.png"
   url: "project23"
   fundings: 'This project has been supported in some form by all three sectors of <a href="https://frq.gouv.qc.ca/en/" target="_blank">Fonds de recherche du Québec</a>: (Society & Culture, Nature and technologies, and Health); the <a href="https://www.cirmmt.org/" target="blank">Centre for Interdisciplinary Research in Music Media and Technology (CIRMMT)<a/>; and a <a href="https://www.mcgill.ca/wolfechair/wolfe-fellows" target="_blank"> Wolfe Graduate Fellowship in Scientific and Technological Literacy.</a>'

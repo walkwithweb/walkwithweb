@@ -30,7 +30,9 @@
     {% assign lang = page.lang %}
     {% assign key = 'navigation_' | append: lang %}
     {% assign navigation = site.data[key] %}
-    {% assign projects = site.data.projects[lang] | sort:'title' %}
+    <!--Sort by end date, then group by end-date, then sort again by start date-->
+    {% assign sortedprojects = site.data.projects[lang] | sort: "end-date" | reverse %}
+    {% assign projectgroups = sortedprojects | group_by: "end-date" %}
     {% for item in navigation %}
     <li class="menu-item item-main">
       <a href="/{{ lang }}{{ item.url }}" class="heading menu-link menu-hover">
@@ -42,16 +44,20 @@
       </a>
       {% if item.url contains '/projects/' %}
         <ul class="sub-menu">
-          {% for project in projects %}
-          <li class="menu-item">
-            <a href="/{{ lang }}/projects/{{ project.url }}" class="text-link menu-link-2 menu-hover">
-              <span class="menu-item-long-2">
-                {{ project.title }}
-                <img alt="arrow" class="icon-white" src="/assets/images/icons/arrow-tilt-white.svg" />
-                <img alt="arrow" class="icon-black" src="/assets/images/icons/arrow-tilt.svg" />
-              </span>
-            </a>
-          </li>
+          <!--Loop the sorted projects-->
+          {% for p in projectgroups %} <!--project groups-->
+            {% assign p_innergroup = p.items | sort: "start-date" | reverse %}
+            {% for project in p_innergroup %}
+              <li class="menu-item">
+                <a href="/{{ lang }}/projects/{{ project.url }}" class="text-link menu-link-2 menu-hover">
+                  <span class="menu-item-long-2">
+                    {{ project.title }}
+                    <img alt="arrow" class="icon-white" src="/assets/images/icons/arrow-tilt-white.svg" />
+                    <img alt="arrow" class="icon-black" src="/assets/images/icons/arrow-tilt.svg" />
+                  </span>
+                </a>
+              </li>
+            {% endfor %}
           {% endfor %}
         </ul>
       {% elsif item.submenu %}
