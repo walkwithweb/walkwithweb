@@ -968,8 +968,8 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   next_url: 'project20'
 
 
-- title: "Utiliser les promenades sonores pour impliquer les professionels et le grand public dans le domaine du son"
-  description: "Utiliser les promenades sonores immersives pour encourager la sensibilisation au son et l'empathie parmi les professionels et le grand public"
+- title: "Des balades sonores pour intéresser les professionnel·les et le grand public aux questions sonores"
+  description: "Utiliser les balades sonores immersives pour sensibiliser au sonore et cultiver l'empathie parmi les professionnel·les et le grand public"
   location: "Boston, Montréal, Amsterdam"
   date: "2013 – En cours"
   start-date: '2013'
@@ -988,8 +988,12 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
       id: 'education'
     - name: mobilisation des connaissances
       id: 'knowledge_mobilization'
-    - name: Sensibilisation du public
-      id: 'public_awareness'
+    - name: Boston
+      id: 'boston'
+    - name: Montréal
+      id: 'montreal'
+    - name: Amsterdam
+      id: 'amsterdam'
   before:
    - image: '/assets/images/projects/soundwalks/soundwalks2018_CTa.jpeg'
      credits: 'Cynthia Tarlao'
@@ -998,10 +1002,10 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
    - image: '/assets/images/projects/soundwalks/DSC_0142.jpg'
      credits: 'Cynthia Tarlao'
      alt: "Participants lors d'une promenade sonore après la mise en œuvre du projet"
-  brief: "Les stratégies immersives telles que les promenades sonores encouragent la sensibilisation au son et indiquent le nombre d'environnements distincts et diversifiés qu'il y a dans la ville. Les promenades sonores peuvent prendre de nombreuses formes et constituer d'excellents outils pédagogiques pour les professionnels et la communauté au sens large."
-  about: "Une promenade sonore est, comme son nom l'indique, une promenade destinée à vous aider à écouter et à réfléchir sur les paysages sonores dans lesquels vous vous trouvez. Les promenades sonores sont très spécifiques à un site et peuvent prendre de multiples formes : elles peuvent être autoguidées (pensez à une promenade avec une carte) ou guidées ; elles peuvent également être axées sur l'observation (rester silencieux tout en écoutant) ou elles peuvent être interactives (par exemple, applaudir dans l'espace). Enfin, les promenades sonores peuvent contribuer à un large éventail d'objectifs, dont la plupart avec une composante éducative, qu'il s'agisse d'enseigner aux enfants les sons de leur quartier ou de souligner aux professionnels de l'urbanisme le rôle du son dans la planification et la conception urbaine.<br><br> Notre propre offre de promenades sonores est variée. Notre promenade sonore la plus réussie, destinée à un large public de professionels de l'urbanisme et au grand public, vous guidera à travers une variété de paysages sonores urbains. Nous soulignons certaines des stratégies d'urbanisme et de conception qui les ont façonnés et nous partageons certaines des recherches qui pourraient contribuer à mieux répondre aux besoins et aux attentes de leurs utilisateurs. Nous avons proposé des versions de cette promenade sonore à des professionnels de l'urbanisme dans trois villes (Montréal, Amsterdam et Boston). Si vous vous trouvez dans l'une de ces villes et que vous souhaitez vous joindre à nous pour une promenade sonore, veuillez nous contacter. Les promenades durent de 2 à 3 heures, mais peuvent être raccourcies si nécessaire.<br><br> De plus, nous sommes toujours en train de développer de nouvelles promenades ! Vous voulez apprendre aux enfants à être attentifs au son de manière ludique ? Ou montrer aux adolescents comment intéragir avec leurs espaces sonores à l'aide de leurs appareils intelligents ? N'hésitez pas à nous contacter ! Nous sommes prêts à travailler ensemble pour développer de nouveaux outils spécifiques à vos besoins."
+  brief: "Les stratégies immersives telles que les balades sonores encouragent la sensibilisation au sonore et révèlent la diversité d'environnements dans la ville.<br><br>Les balades sonores peuvent prendre de nombreuses formes et constituer d'excellents outils pédagogiques pour les professionnel·les et la communauté."
+  about: "Une balade sonore est, comme son nom l'indique, une balade destinée à vous aider à écouter et à réfléchir sur les environnements sonores dans lesquels vous vous trouvez. Les balades sonores sont très spécifiques à un site et peuvent prendre de multiples formes : elles peuvent être autoguidées (pensez à une balade avec une carte) ou guidées ; elles peuvent également être axées sur l'observation (rester silencieux tout en écoutant) ou elles peuvent être interactives (par exemple, taper dans ses mains pour ressentir l'espace). Enfin, les balades sonores peuvent contribuer à un large éventail d'objectifs, la plupart éducatifs, qu'il s'agisse d'enseigner aux enfants les sonorités de leur quartier ou de souligner aux professionnel·les en urbanisme le rôle du sonore dans la planification et la conception urbaine.<br><br>Notre propre offre de balades sonores est variée. Notre balade sonore la plus réussie, destinée à un large public de professionnel·les en urbanisme et au grand public, vous guidera à travers une variété d’ambiances sonores urbains. Nous soulignons certaines des stratégies d'urbanisme et de conception qui les ont façonnées et nous partageons certaines des recherches qui pourraient contribuer à mieux répondre aux besoins et aux attentes de leurs usager·ères. Nous avons proposé des versions de cette promenade sonore à des professionnel·les en urbanisme dans trois villes (Montréal, Amsterdam et Boston). Si vous vous trouvez dans l'une de ces villes et que vous souhaitez vous joindre à nous pour une balade sonore, veuillez nous contacter. Les balades durent de 2 à 3 heures, mais peuvent être raccourcies si nécessaire.  "
   participation: "Promenades sonores, ateliers, engagement communautaire"
-  contact_info: "Pour plus de détails, contactez: Daniel Steele, Edda Bild, Catherine Guastavino"
+  contact_info: "De plus, nous sommes développons régulièrement de nouvelles balades ! Vous voulez apprendre aux enfants à être attentif·ves au sonore de manière ludique ? Ou montrer aux adolescent·es comment interagir avec leurs environnements sonores à l'aide de leurs appareils intelligents ? N'hésitez pas à nous contacter ! Nous sommes prêt·es à travailler ensemble pour développer de nouveaux outils spécifiques à vos besoins.<br><br>Pour plus de détails, contactez: Daniel Steele, Edda Bild, Catherine Guastavino"
   links:
     - url: ''
       name: ''
