@@ -1208,7 +1208,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   next_url: project24
 
 
-- title: "Soundscape illustré : Fantastique Acoustique"
+- title: "Illustrer le concept d’ambiance sonore : Fantastique Acoustique"
   description: "Contextualiser les enjeux sonores urbains pour le grand public à travers des bandes dessinées"
   location: "Montréal"
   date: "Automne 2023 - Printemps 2024"
@@ -1221,7 +1221,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   name: "Catherine Guastavino"
   tags:
     - name: "Mobilisation des connaissances"
-      id: "knowledge-mobilization"
+      id: "knowledge_mobilization"
     - name: "Montréal"
       id: "montreal"
     - name: "Bandes dessinées"
@@ -1251,30 +1251,34 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
     - image: '/assets/images/projects/illustrating_soundscape/EquipeG_ENG_p3.jpg'
       credits: 'art by Madeleine Guastavino'
       alt: ""
-  brief: "Création de romans graphiques avec des illustrateurs. Présenté au Festival de la bande dessinée de Montréal 2024. Romans graphiques disponibles ci-dessous (Creative Commons CC-XXX)"
-  about: "Partager nos recherches avec le public a toujours été un principe fondamental du projet Ville sonore, qui consiste à sensibiliser les citoyens à travers des balades et installations sonores. Cette démarche est à présent renforcée par l'ajout de deux superbes illustratrices, grâce à l'art magnifique de Marina León et de Madeleine Guastavino. Les bandes dessinées racontent des histoires d'inégalités sonores et de reconsidération des environnements sonores urbains, visant à engager et éduquer le public sur ces enjeux critiques. Un bruit de fond qui en dit long : Tales of sonic inequalities raconte l'histoire de trois personnes exposées à des quantités et des types de bruit différents, et qui ont des possibilités différentes à gérer, au cours de leurs activités quotidiennes. Et si nous reconsidérions nos villes à travers la sonorité ? Dessiner un environnement sonore est une histoire utopique et doucement magique qui place les expériences et les besoins humains au centre de la conception urbaine. Bonne lecture !"
-  participation: "Intéressé·e par en savoir plus ou par l'utilisation de ces bandes dessinées dans vos propres efforts éducatifs ? Contactez-nous directement pour plus d'informations."
+  brief: "Création de bandes dessinées avec des illustratrices.
+<br><br>Présenté au Festival de la bande dessinée de Montréal 2024.
+<br><br>Bandes dessinées disponibles ci-dessous (Creative Commons).
+"
+  about: "Partager nos recherches avec le public a toujours été un principe fondamental du projet Ville sonore, qui consiste à sensibiliser les citoyens à travers des balades et installations sonores. Cette démarche est à présent renforcée par l'ajout de deux superbes bandes dessinées, grâce à l'art magnifique de Marina León et de Madeleine Guastavino."
+  participation: "Un bruit de fond qui en dit long : Histoires d’inégalités sonores raconte l'histoire de trois personnes exposées à des quantités et des types de bruit différents, et qui ont des possibilités différentes de se ressourcer, au cours de leurs activités quotidiennes. Et si on repensait nos villes par le son ? Esquisses d’une ambiance sonore est une histoire utopique, douce et magique qui place les expériences et les besoins humains au centre de la conception urbaine.<br><br>
+Bonne lecture !"
   contact_info: "Catherine Guastavino"
   links:
     - url: 'https://ici.radio-canada.ca/ohdio/premiere/emissions/moteur-de-recherche/episodes/704917/rattrapage-mercredi-17-mai-2023'
-      name: 'C. Trudeau à la radio'
+      name: 'C. Trudeau on the radio (https://ici.radio-canada.ca/ohdio/premiere/emissions/moteur-de-recherche/episodes/704917/rattrapage-mercredi-17-mai-2023)'
     - url: 'https://www.fbdm-mcaf.ca/en/comic-arts-festival/find-them/exhibitors/#universite-de-sherbrooke'
-      name: 'Festival de la bande dessinée de Montréal 2024'
-    - url: '[PUT LOWER RES IMAGES] Download PDF here [LINK]'
-      name: 'Un bruit de fond qui en dit long : Tales of sonic inequalities – art de Marina León'
-    - url: '[PUT LOWER RES IMAGES] Download PDF here [LINK]'
-      name: 'Et si nous reconsidérions nos villes à travers la sonorité ? Dessiner un environnement sonore – art de Madeleine Guastavino'
+      name: 'Montreal Comic Arts Festival 2024 (https://www.fbdm-mcaf.ca/en/comic-arts-festival/find-them/exhibitors/#universite-de-sherbrooke)'
+    # - url: '[PUT LOWER RES IMAGES] Download PDF here [LINK]'
+    #   name: 'Un bruit de fond qui en dit long : Tales of sonic inequalities – art de Marina León'
+    # - url: '[PUT LOWER RES IMAGES] Download PDF here [LINK]'
+    #   name: 'Et si nous reconsidérions nos villes à travers la sonorité ? Dessiner un environnement sonore – art de Madeleine Guastavino'
   publications:
-    - url: 'https://doi.org/10.1121/10.0011942'
-      name: 'Fantastic Acoustics: A Magazine Describing the Importance and Scope of Acoustics Research in Québec'
-    - url: 'https://doi.org/10.1121/10.0012112'
-      name: 'An Illustrated Tutorial for Logarithmic Scales and Decibels in Acoustics'
+    - url: 'https://doi.org/10.1121/10.0027276'
+      name: 'Robin, O., Krpic, T., Carrion, A., Proulx, F., Demuynck, M., Gallerand, L., Fraisse, V., Trudeau, C., Tarlao, C., Perrier de la Bathie, C., Bernier-Breton, C., Dupont, T., Doutres, O., Voix, J., Cauchy, P., St-Onge, G., & Guastavino, C. (2024). Fantastic acoustics: A magazine describing the importance and the scope of acoustics research in Québec. The Journal of the Acoustical Society of America, 155(3_Supplement), A194. https://doi.org/10.1121/10.0027276'
+    - url: 'https://doi.org/10.1121/10.0026445'
+      name: 'Robin, O., Simard, M., Potel, C., & Bruneau, M. (2024). History and variations of Lindsay’s wheel of acoustics: From a nested pie chart including words to a drawn acoustics world. The Journal of the Acoustical Society of America, 156(1), 1–11. https://doi.org/10.1121/10.0026445'
   prev_url: "project23"
   next_url: "project25"
 
 
-- title: "De chez vous à votre espace vert local ; Qu'entendez-vous en chemin ?"
-  description: "Paysage sonore de l'accès piéton aux espaces verts, Une approche de cartographie participative"
+- title: "De votre domicile à votre espace vert local ; Ce que vous entendez entre les deux ?"
+  description: "Ambiance sonore des espaces verts accessibles à pied, une approche cartographique participative"
   location: ""
   image: ""
   url: "project25"
@@ -1297,11 +1301,12 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
       id: "cartographie"
     - name: Sensibilisation du public
       id: 'public_awareness'
-  brief: 
-    - "Quelles sont les relations entre la présence de chemins piétonniers vers les espaces verts et les paysages sonores quotidiens des résidents ?"
-    - "La marchabilité autour des espaces verts influence-t-elle le paysage sonore quotidien des résidents ?"
-    - "Un environnement sonore plus positif dans le quartier favorise-t-il la marchabilité des espaces verts ?"
-  about: "Marcheriez-vous sur un trottoir visuellement agréable si le bruit des voitures vous dérangeait ? Les sons sont un élément important de notre vie quotidienne ; cependant, ils ont rarement été étudiés dans le contexte des environnements piétonniers. Alors que l'objectif de marcher dans les espaces verts est de fournir une expérience réparatrice aux gens, la qualité du chemin piétonnier et son paysage sonore n'ont pas été étudiés autour des parcs. Ce projet vise à (1) comprendre si des zones plus marchables autour des espaces verts offrent une meilleure expérience aux résidents lors de leurs trajets. Pour ce faire, nous utilisons des cartes de la largeur des trottoirs, des arbres, des points d'intérêt, etc. - qui sont les indicateurs de marchabilité - à grande échelle et nous mesurerons la marchabilité dans un logiciel SIG. Nous verrons si la plus grande marchabilité du quartier améliore l'expérience sonore globale des personnes se rendant à l'espace vert dans différents quartiers de Montréal. De plus, dans la deuxième phase (2), nous nous concentrerons sur les expériences quotidiennes des habitants à petite échelle dans leur quartier. En utilisant la cartographie participative, la relation entre les chemins choisis par les résidents et l'environnement sonore sera étudiée. Cette étude ouvre la voie à une meilleure compréhension des relations entre la marchabilité et les paysages sonores urbains."
+  brief: "Quelles sont les relations entre l'existence de chemins piétonniers menant aux espaces verts et les ambiances sonores quotidiennes des résident·es ?
+<br><br>La possibilité de se promener autour des espaces verts a-t-elle un impact sur les ambiances sonores quotidiennes des résident·es ?
+<br><br>Le fait d'avoir un environnement sonore plus positif dans le quartier favorise-t-il la marchabilité dans les espaces verts ? "
+  about: "Marcheriez-vous sur un trottoir visuellement agréable si vous étiez gêné par le bruit des voitures qui passent ? Les sonorités sont un élément important de notre vie quotidienne, mais elles ont rarement été étudiées dans le contexte des environnements de marche. Alors que l'objectif de la marchabilité dans les espaces verts est de fournir une expérience ressourçante pour les gens, la qualité du parcours de marche et de son ambiance sonore n'a pas été étudiée autour des parcs.
+<br><br>Ce projet vise à (1) comprendre si des zones plus « marchables » autour des espaces verts se traduisent par une meilleure expérience lorsque les résidents s'y rendent à pied. Pour cela, nous utilisons des cartes de la largeur des trottoirs, des arbres, des points d'intérêt, etc. -qui sont des indicateurs de marchabilité- à grande échelle et mesurerons la marchabilité à l'aide d'un logiciel SIG."
+  participation: "Nous verrons si la plus grande marchabilité du quartier améliore l'expérience sonore globale de la marche vers l'espace vert des personnes vivant dans différents quartiers de Montréal. De plus, dans la deuxième phase (2), nous allons nous concentrer sur les expériences quotidiennes des gens à petite échelle dans leur quartier. En utilisant l’approche de cartographie participative, la relation entre les chemins choisis par les résidents et l'environnement sonore sera étudiée. Cette étude ouvre la voie pour comprendre les relations entre la marchabilité et les amsonores urbaines. "
   before:
    - image: '/assets/images/projects/GreenSpaceWalkingAccess/GreenSpaceNoiseNeighbourhood.jpeg'
      credits: 'Negar Imani'
