@@ -122,7 +122,7 @@
     - name: pocket park
       id: 'pocket_park'
   before:
-    - image: '/assets/images/projects/Fleurs_De_Macadam_misters/mister_locations.jpeg'
+    - image: '/assets/images/projects/Fleurs_de_Macadam_misters/mister_locations.jpeg'
       credits: 'Castor et Pollux'
       alt: ""
   after:
