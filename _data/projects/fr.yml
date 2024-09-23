@@ -297,7 +297,7 @@
   date: "Printemps 2019 – Été 2019"
   start-date: '2019'
   end-date: '2019'
-  image: "/assets/images/projects/Codesign sketch pad/DSC_1272.jpeg"
+  image: '/assets/images/projects/Codesign_sketch_pad/DSC_1272.jpeg'
   url: "project7"
   fundings: "CRSH, bourse doctorale FRQSC"
   collaborators: "CIRMMT, Ville de Montréal"
@@ -345,7 +345,7 @@
   date: "2020 - 2023"
   start-date: '2020'
   end-date: '2023'
-  image: "/assets/images/projects/COVID19/QDSlockdown.jpg"
+  image: "/assets/images/projects/COVID19/3_2.jpg"
   url: "project8"
   fundings: "Programme MITACS Accélération avec le Quartier des spectacles"
   collaborators: "Quartier des spectacles"
@@ -393,7 +393,7 @@
   date: "2015 – 2021"
   start-date: '2015'
   end-date: '2021'
-  image: "/assets/images/projects/context matters/962-Mont-Royal-intervention.jpg"
+  image: "/assets/images/projects/context_matters/962-Mont-Royal-intervention.jpg"
   url: "project9"
   fundings: "CRSH"
   collaborators: ""
@@ -494,7 +494,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   date: "Printemps 2021 – Printemps 2022"
   start-date: '2021'
   end-date: '2022'
-  image: "/assets/images/projects/recreation v residence/IMG_1848_QdS_CreditsFXFeron.JPG"
+  image: "/assets/images/projects/recreation_v_residence/IMG_1848_QdS_CreditsFXFeron.JPG"
   url: "project11"
   fundings: "MITACS Programme Accélération avec la Ville de Montréal"
   collaborators: "Ville de Montréal (Service du développement économique) et la Direction régionale de santé publique de Montréal (DRSP)"
@@ -544,7 +544,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   date: "Printemps 2022 – Printemps 2023; Printemps 2024 – Printemps 2025"
   start-date: '2022'
   end-date: '2025'
-  image: "/assets/images/projects/industry v residence/Port-port.jpeg"
+  image: "/assets/images/projects/industry_v_residence/Port-port.jpeg"
   url: "project12"
   fundings: "2 Programmes d'accélération de MITACS avec la Ville de Montréal"
   collaborators: "Ville de Montréal (Service du développement économique), l'Agence de santé publique de Montréal (DRSP), l'Observatoire des Milieux de Vie urbains (OMV-UQAM), l'Autorité portuaire de Montréal"
@@ -599,7 +599,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   date: "Printemps 2021 – Printemps 2023"
   start-date: '2021'
   end-date: '2023'
-  image: "/assets/images/projects/nightlife/MITACS_ListenUp_Oct6_2022Workshop.jpg"
+  image: "/assets/images/projects/nightlife/before.jpg"
   url: "project13"
   fundings: "MITACS Programme Accélération avec la Ville de Montréal"
   collaborators: "Ville de Montréal (Service du développement économique), Direction régionale de santé publique de Montréal (DRSP), École de technologie supérieure, Partenariat du Quartier des Spectacles, autres collaborateurs"
@@ -708,8 +708,8 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   location: "Paris, France"
   date: "2021 – En cours"
   start-date: '2021'
-  end-date: 'En cours'
-  image: "/assets/images/projects/niches/niches_acoustiques.jpg"
+  end-date: '2025'
+  image: "/assets/images/projects/Niches_acoustiques/XP1_panorama.jpg"
   url: "project15"
   fundings: "SSHRC PDF, McGill’s Graduate Mobility Award"
   collaborators: "Institut de Recherche et Coordination Acoustique/Musique (IRCAM), Nadine Schütz, (((echora))), Nicolas Misdariis, Coralie Vincent, Marcelo Wanderley, Ville de Paris, Bruitparif, CIRMMT"
@@ -758,8 +758,8 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   location: "Montreal, QC"
   date: "2023-en cours"
   start-date: '2023'
-  end-date: 'En cours'
-  image: "/assets/images/projects/les_madelinennes/les_madelinennes.jpg"
+  end-date: '2025'
+  image: "/assets/images/projects/les_madelinennes/230711_Parc-Madelinots_006.jpg"
   url: "project16"
   fundings: "SSHRC"
   collaborators: "Institut de Recherche et Coordination Acoustique/Musique (IRCAM), Paysages studio, Charles Montambault, Marcelo Wanderley, CIRMMT"
@@ -810,7 +810,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   date: "Automne 2021 – Automne 2022"
   start-date: '2021'
   end-date: '2022'
-  image: "/assets/images/projects/Church Restoration/ChurchRestor_RussianOrth_IMG_1865.JPG"
+  image: "/assets/images/projects/Church_Restoration/ChurchRestor_MAIN_SPA_IMG_1920.JPG"
   url: "project17"
   fundings: "Fonds de recherche du Québec – Société et culture (FRQSC), Postdoctoral Fellowship"
   collaborators: "Paroisse de Saint-Pierre-Apôtre, St. Peter et St. Paul Russian Orthodox Cathedral (Centre Sud). Parishes du Très-Saint-Nom-de-Jésus et La Nativité-de-la-Sainte-Vierge d’Hochelaga, et les responsables diocésains de l'église de Très-Saint-Rédempteur (Hochelaga-Maisonneuve)."
@@ -916,10 +916,10 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
 - title: "L’art sonore dans les espaces publics : Fleurs-de-Macadam"
   description: "Adopter une approche de recherche-création participative pour améliorer l'ambiance sonore d'un espace public urbain"
   location: "Plateau-Mont-Royal, Montreal, QC"
-  date: "Été 2018 – En cours"
+  date: "Été 2018 – 2019"
   start-date: '2018'
-  end-date: 'En cours'
-  image: "/assets/images/projects/Fleurs de Macadam sound art/Place_Fleurs_des_Macadam_8.jpg"
+  end-date: '2019'
+  image: "/assets/images/projects/Fleurs_de_Macadam_sound_art/speaker_ZOOM.jpg"
   url: "project19"
   fundings: "SSHRC"
   collaborators: "Audiotopie, Ville de Montreal (Arrondissement Plateau Mont-Royal)"
@@ -973,7 +973,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   location: "Boston, Montréal, Amsterdam"
   date: "2013 – En cours"
   start-date: '2013'
-  end-date: 'En cours'
+  end-date: '3000'
   image: "/assets/images/projects/Soundwalks/DSC_0142.jpg"
   url: "project20"
   fundings: ""
@@ -1028,8 +1028,8 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   location: ""
   date: "2013 - en cours"
   start-date: '2013'
-  end-date: 'En cours'
-  image: "/assets/images/projects/Engaging professionals/DSC_0204 (1).jpg"
+  end-date: '3000'
+  image: "/assets/images/projects/Engaging_professionals/IMG_8504.JPG"
   url: "project21"
   fundings: ""
   collaborators: "Université d'Amsterdam, Ville de Montréal, Goethe Institute, CIRMMT, Trames Audio, Audiotopie"
@@ -1079,8 +1079,8 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   location: ""
   date: "2020 - En cours"
   start-date: '2020'
-  end-date: 'En cours'
-  image: "/assets/images/projects/sonic injustice/Railyards.jpg"
+  end-date: '2024'
+  image: "/assets/images/projects/sonic_injustice/Railyards.jpg"
   url: "project22"
   fundings: "Bourse doctorale du FRQSC"
   collaborators: "Direction régionale de la santé publique de Montréal"
@@ -1124,8 +1124,8 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   location: ""
   date: "2018 - en cours"
   start-date: '2018'
-  end-date: 'En cours'
-  image: "/assets/images/projects/City Ditty/CityDitty-Cafe.png"
+  end-date: '2025'
+  image: "/assets/images/projects/City_Ditty/City_Ditty_Day_in_the_Park.png"
   url: "project23"
   fundings: "Ce projet a été soutenu d'une manière ou d'une autre par les trois
     secteurs de<a href ='https://frq.gouv.qc.ca/en/'</a> Fonds de recherche du Québec</a>: (Society & Culture, Nature and
@@ -1214,7 +1214,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   date: "Automne 2023 - Printemps 2024"
   start-date: '2023'
   end-date: '2024'
-  image: "/assets/images/projects/illustrating soundscape/IMG_1367.jpeg"
+  image: "/assets/images/projects/illustrating_soundscape/IMG_1367.jpeg"
   url: "project24"
   fundings: "Dialogue FRQ"
   collaborators: "Olivier Robin, Tamara Krpic, Madeleine Guastavino, Marina León"
@@ -1280,12 +1280,12 @@ Bonne lecture !"
 - title: "De votre domicile à votre espace vert local ; Ce que vous entendez entre les deux ?"
   description: "Ambiance sonore des espaces verts accessibles à pied, une approche cartographique participative"
   location: ""
-  image: ""
+  image: "/assets/images/projects/GreenSpaceWalkingAccess/GreenSpaceNoiseNeighbourhood.jpeg"
   url: "project25"
   name: ""
   date: "2023 - en cours"
   start-date: '2023'
-  end-date: 'En cours'
+  end-date: '2027'
   tags: 
     - name: "paysage sonore"
       id: "paysage_sonore"
@@ -1332,7 +1332,7 @@ Bonne lecture !"
   location: ""
   date: "Automne 2023 - En cours"
   start-date: "2023"
-  end-date: "En cours"
+  end-date: "2024"
   image: "/assets/images/projects/Street_Performances/Musician_in_the_park.png"
   url: "project26"
   fundings: ""
@@ -1371,6 +1371,6 @@ Bonne lecture !"
   publications:
     - url: ''
       name: ''
-  prev_url: ""
+  prev_url: "project25"
   next_url: ""
 
