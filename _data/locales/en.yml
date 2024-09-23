@@ -249,7 +249,7 @@ blogs:
 events:
   title: "EVENTS ARCHIVES"
   placeholder: Search
-  description: "This archive has French and English content and may not be available in both languages."
+  description: "This is an archive of previous Sounds in the City events."
   time: 'TIME'
   location: 'LOCATION'
   language: 'LANGUAGE'

@@ -999,11 +999,11 @@
     - name: Amsterdam
       id: 'amsterdam'
   before:
-    - image: '/assets/images/projects/soundwalks/soundwalks2018_CTa.jpeg'
+    - image: '/assets/images/projects/Soundwalks/soundwalks2018_CTa.jpeg'
       credits: 'Cynthia Tarlao'
       alt: "Participants during a soundwalk before the project started"
   after:
-    - image: '/assets/images/projects/soundwalks/DSC_0142.jpg'
+    - image: '/assets/images/projects/Soundwalks/DSC_0142.jpg'
       credits: 'Cynthia Tarlao'
       alt: "Participants during a soundwalk after the project implementation"
   brief: "Immersive strategies like soundwalks encourage sound awareness and show how many distinct and diverse environments there are in the city.<br><br>Soundwalks can take many forms and can be excellent educational tools for professionals and the broader community alike."

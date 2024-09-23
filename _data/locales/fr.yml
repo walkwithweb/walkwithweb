@@ -244,9 +244,9 @@ blogs:
  
 
 events:
-  title: "EVENTS ARCHIVES"
+  title: "ARCHIVES DES ÉVÉNEMENTS"
   placeholder: "Recherche"
-  description: "This archive has French and English content and may not be available in both languages."
+  description: "Ceci est une archive des événements précédents de Sounds in the City."
   time: 'TIME'
   location: 'LOCATION'
   language: 'LANGUAGE'
