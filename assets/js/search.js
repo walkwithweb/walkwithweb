@@ -49,17 +49,17 @@ document.addEventListener("DOMContentLoaded", function () {
   const language = checkLanguage();
 
   if (language == "en") {
-    addTag("Indoor spaces", "disabled", "permanent");
+    addTag("Indoor space", "disabled", "permanent");
     addTag("Policy and planning", "disabled", "permanent");
     addTag("Public outreach", "disabled", "permanent");
-    addTag("Public spaces", "disabled", "permanent");
+    addTag("Public space", "disabled", "permanent");
     addTag("Simulation", "disabled", "permanent");
     addTag("Sound art", "disabled", "permanent");
   } else if (language == "fr") {
-    addTag("Espaces intérieurs", "disabled", "permanent");
+    addTag("Espace intérieur", "disabled", "permanent");
     addTag("Politique et planification", "disabled", "permanent");
     addTag("Sensibilisation du public", "disabled", "permanent");
-    addTag("Espaces publics", "disabled", "permanent");
+    addTag("Espace public", "disabled", "permanent");
     addTag("Simulation", "disabled", "permanent");
     addTag("Art sonore", "disabled", "permanent");
   }
@@ -68,7 +68,7 @@ document.addEventListener("DOMContentLoaded", function () {
     form.addEventListener("submit", handleKeyPress);
   }
   if (icon) {
-    icon.addEventListener("click", handeSearhInput);
+    icon.addEventListener("click", handleSearchInput);
   }
   if (input) {
     input.addEventListener("keypress", handleKeyPress);
@@ -76,11 +76,11 @@ document.addEventListener("DOMContentLoaded", function () {
   function handleKeyPress(event) {
     if (event.key === "Enter") {
       event.preventDefault(); // Prevent form submission if form tag exists
-      handeSearhInput();
+      handleSearchInput();
     }
   }
 
-  function handeSearhInput() {
+  function handleSearchInput() {
     const input = document.getElementById("searchInput");
     const value = input.value.trim();
     if (value) {
