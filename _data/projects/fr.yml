@@ -40,7 +40,7 @@
     - url: 'https://montreal.ca/articles/les-terrasses-roy-6507'
       name: 'https://montreal.ca/articles/les-terrasses-roy-6507'
   publications:
-    - url: ''
+    - url: 'https://www.researchgate.net/publication/337290268_Forever_Young_is_age_of_importance_in_urban_soundscape_design'
       name: 'Bockstael A., Steele D. Trudeau C., Guastavino, C. (2019). Forever young: Is age of importance in urban soundscape design? Invited paper, Proceedings of the 26th International Congress on Sound and Vibration (ICSV26), Montréal, QC, July 7–11'
   prev_url: "project1"
   next_url: 'project2'
@@ -84,17 +84,19 @@
   brief: "Le bruit est un polluant majeur de notre époque, mais les politiques qui le règlementent sont souvent réactives, rarement harmonisées entre provinces, États et pays, et restent cloisonnées. <br><br> Notre projet propose des recommandations pour une approche intégrée et proactive de la prise en charge du bruit environnemental."
   about: "Les politiques contre le bruit diffèrent d'un pays à l'autre, voire au sein d'un même pays, en fonction des différentes approches de prise en charge du bruit environnemental adoptées par les provinces ou les municipalités d'une même province. Au Québec, les politiques de lutte contre le bruit se concentrent sur des stratégies réactives axées sur des sources sonores spécifiques et leurs niveaux (et sur leur réduction), répartissant les responsabilités à différents niveaux de gouvernement. <br><br> Depuis 2018, l’équipe de la Ville Sonore travaille à l’analyse des approches d’encadrement du bruit environnemental. La première partie de ce projet, en collaboration avec l'École de technologie supérieure, comprenait un examen systématique des politiques de bruit dans le monde afin d'identifier les bonnes pratiques en termes de valeurs limites de bruit, de protocoles de mesure et de stratégies de communication, ainsi qu'un examen de la façon dont les gouvernements au palier municipal abordent les considérations liées au bruit au Québec. La deuxième partie du projet, en collaboration avec l'Université Laval, s'est concentrée sur la manière d'intégrer au mieux les considérations sonores dans les pratiques de conception et de planification urbaines, au travers d’études de cas québécois et internationaux et d’entretiens avec des professionnels en urbanisme."
   participation: "La diversité des niveaux de bruit prescrits par les politiques, les protocoles variés (ou inexistants) pour mesurer ces niveaux ainsi que l'approche souvent cloisonnée axée sur des sources de bruit spécifiques (telles que la circulation automobile, les activités de loisirs ou l'industrie) abordée à différents paliers de gouvernement font de la gestion du bruit environnemental un défi mondial et limitent la transférabilité de certaines bonnes pratiques documentées. Nous avons formulé des recommandations à l'intention de nos partenaires gouvernementaux sur les stratégies d'intégration du son à des stades plus précoces de la planification et de la conception, par exemple, de même que sur des stratégies de prise en charge du bruit qui ne reposent pas exclusivement sur les niveaux de bruit mais plutôt axées sur la communication et l'éducation."
-  contact_info: "Pour plus de détails, veuillez contacter : Josee Laplace (email), Edda Bild (email)"
+  contact_info: "Pour plus de détails, veuillez contacter : Josee Laplace (Courrieljosee.laplace@gmail.com), Edda Bild (edda.bild@mcgill.ca)"
   links:
-    - url: 'https://ici.radiocanada.ca/tele/decouverte/site/episodes/520848/covid-ghgsat-methane-lune-pollution'
-      name: 'Société Radio-Canada (2021, April 28). A l’écoute de la ville – Emission Découverte [TV report with C. Guastavino]. Retrieved from https://ici.radiocanada.ca/tele/decouverte/site/episodes/520848/covid-ghgsat-methane-lune-pollution<br><br>'
+    - url: 'https://ici.radio-canada.ca/tele/decouverte/site/episodes/520848/covid-ghgsat-methane-lune-pollution'
+      name: 'Société Radio-Canada (2021, April 28). A l’écoute de la ville – Emission Découverte [TV report with C. Guastavino].<br><br>'
+    # - url: 'https://ici.radio-canada.ca/ohdio/premiere/emissions/lesannees-lumiere/segments/reportage/390982/bruit-sante-pollution-nuit-paysageenvironnement-maladie'
+    #   name: 'Société Radio-Canada (2022, Feb. 18). Les effets néfastes du bruit sur la santé : les détails avec C. Srivastava – Emission Les années lumière [radio interview with C. Guastavino](in French).'
 
   publications:
-    - url: ''
+    - url: 'https://www.sciencedirect.com/science/article/pii/S0048969724029735'
       name: 'Tarlao, C., Leclerc, F., Brochu, J., & Guastavino, C. (2024). Current approaches to planning (with) sound. Science of The Total Environment, 931, 172826. <br><br>'
     - url: ''
       name: 'Laplace, J., E. Bild, C. Trudeau, M. Perna,T. Dupont & C. Guastavino (2022). Encadrement du bruit environnemental au Canada. Canadian Public Policy / Analyses de politiques, 48(1), March, p. 74-90. DOI: 10.3138/cpp.2021-009'
-    - url: ''
+    - url: 'https://www.tandfonline.com/doi/full/10.1080/17535069.2024.2401326?src=exp-la'
       name: 'Trudeau, C, Bild, E., Guastavino, C. (accepted). Noise regulations and practices: A survey of Quebec municipalities. Urban Research and Practice.'
     - url: 'http://doi.org/10.3390/ijerph19010173'
       name: 'Perna, M., Padois, T., Trudeau, C., Bild, E., Laplace, J.*, Dupont, T., & Guastavino, C. (2022). Comparison of road noise policies across Australia, Europe, and North America. International Journal of Environmental Research and Public Health, 19(1), 173'
@@ -224,8 +226,8 @@
      credits: 'N/A'
      alt: ""
   brief: "L'élaboration d’une norme universelle pour l’évaluation des ambiances sonores est un défi car les correspondances entre les langues ne sont pas simples."
-  about: "Ville Sonore explore depuis ses débuts la question de la traduction des échelles d’évaluation des ambiances sonores, étant donné le contexte bilingue unique qu'offre Montréal. Nous avons étudié le vocabulaire utilisé par les francophones et les anglophones pour décrire les sons et les ambiances sonores de leur quotidien, ainsi que les similitudes et les différences entre eux ; par exemple, la distinction entre « son » et « bruit » diffère entre le français et l'anglais. <br><br> Nous avons également proposé et testé des traductions françaises du Swedish Soundscape Quality Protocol (SSQP), un questionnaire comprenant 8 échelles permettant d'évaluer une ambiance sonore sur son caractère agréable et animé."
-  participation: "En outre, nous participons aux efforts mondiaux de normalisation et de traduction des outils d'évaluation du paysage sonore, tels que les groupes de travail de l'ISO et le Soundscape Attributes Translation Project (SATP), un projet de recherche international lancé en 2019."
+  about: "Ville Sonore explore depuis ses débuts la question de la traduction des échelles d’évaluation des ambiances sonores, étant donné le contexte bilingue unique qu'offre Montréal. Nous avons étudié le vocabulaire utilisé par les francophones et les anglophones pour décrire les sons et les ambiances sonores de leur quotidien, ainsi que les similitudes et les différences entre eux ; par exemple, la distinction entre « son » et « bruit » diffère entre le français et l'anglais. <br><br> Nous avons également proposé et testé des traductions françaises du <a href='https://asa.scitation.org/doi/full/10.1121/1.3493436' target='_blank'>Swedish Soundscape Quality Protocol</a>(SSQP), un questionnaire comprenant 8 échelles permettant d'évaluer une ambiance sonore sur son caractère agréable et animé."
+  participation: "En outre, nous participons aux efforts mondiaux de normalisation et de traduction des outils d'évaluation du paysage sonore, tels que les groupes de travail de l'<a href='https://www.iso.org/committee/48474.html' target='_blank'>ISO</a> et le <a href='https://www.researchgate.net/project/Soundscape-Attributes-Translation-Project-SATP'>Soundscape AttributesTranslation</a><a href='https://www.researchgate.net/project/Soundscape-Attributes-Translation-Project-SATP'>Project (SATP)</a>, un projet de recherche international lancé en 2019."
   contact_info: "Pour plus de détails, veuillez contacter : Daniel Steele, Catherine Guastavino"
   links:
     - url: ''
@@ -239,11 +241,11 @@
       name: 'Tarlao, C., Aumond. P., Lavandier, C., & Guastavino, C. (2023). Converging towards a French translation of soundscape attributes: Insights from Quebec and France. Applied Acoustics, 211: 109572, doi.org/10.1016/j.apacoust.2023.109572 '
     - url: ''
       name: 'Dubois, D., Cance, C., Coler, M., Paté., A. & Guastavino, C. eds (2021). Sensory Experiences: Exploring meaning and the senses. Benjamins, Amsterdam, NL. doi.org/10.1075/celcr.24'
-    - url: ''
+    - url: 'https://www.ingentaconnect.com/content/ince/incecp/2020/00000261/00000003/art00018'
       name: 'Aletta, F., Oberman, T., Axelsson, ., Xie, H., Zhang, Y., Lau S-K., Tan, S-K, Jambrošić, K., De Coensel, B., van den Bosch, K., Aumond, P., Guastavino, C., Lavandier, C., Fiebig, A., Schulte-Fortkamp, B., Sarwono, J., Sudarsono, A., Astolfi, A., Nagahata, K., Jeon J-Y, Jo, H-I., Chieng, J., Gan, W-S., Hong J-H., Lam, B., Ong, Z-T., Kogan, P., Su.rez Silva, E., Vida Manzano, J., D.kmeci Y.rükoğlu, P. N., Nguyen, T. L., Kang, J. (2020). Soundscape assessment: towards a validated translation of perceptual attributes in different languages. Invited paper. Proceedings of the 49th International Congress and Exposition on Noise Control Engineerin (Internoise 2020), Seoul, Korea, August 23-26, 2020'
     - url: 'http://dx.doi.org/10.1121/1.3654926'
       name: 'Cance, C., Guastavino, C., & Dubois, D. (2011). Languages and conceptualizations of soundscapes: A cross-linguistic analysis. Proceedings of the 162nd meeting of the Acoustical Society of America, Oct. 31- Nov. 4, San Diego, CA, USA. Abstract published in Journal of the Acoustical Society of America, 130(4), 2495, http://dx.doi.org/10.1121/1.3654926'
-    - url: ''
+    - url: 'https://pubs.aip.org/asa/jasa/article/123/5_Supplement/3674/713517/Noise-s-and-sound-s-comparing-various'
       name: 'Dubois, D. & Guastavino, C. (2008). Noise(s) and sound(s): comparing various conceptualizations of acoustic phenomena across languages. Invited paper at Acoustics’08 (joint meeting of the 155th meeting of the Acoustical Society of America, 5th Forum Acusticum, and 9th Congr.s Francais d’Acoustique), June 29 to July 4, 2008, Paris, France, abstract published in Journal of the Acoustical Society of America, 123, 3674 (2008).'
   prev_url: "project4"
   next_url: "project6"
@@ -283,7 +285,7 @@
   contact_info: "Pour plus de détails, contactez : Cynthia Tarlao, Catherine Guastavino"
   links: []
   publications:
-    - url: 'https://jcaa.caaaca.ca/index.php/jcaa/article/view/4115'
+    - url: 'https://jcaa.caa-aca.ca/index.php/jcaa/article/view/4115'
       name: 'Tarlao, C., Bild, E., & Guastavino, C. (2023). Effect of acoustic treatment and table dividers on diners’ experience in a Montreal restaurant. Proceedings of Acoustics Week in Canada 2023. Canadian Acoustics, 51(3):50-1. Available from: https://jcaa.caaaca.Ca/index.php/jcaa/article/view/4115'
     - url: 'https://doi.org/10.1016/j.apacoust.2020.107772'
       name: 'Tarlao, C., Fernandez, P., Frissen, I., & Guastavino, C. (2021). Influence of Sound Level on Diners’ Perceptions and Behavior in a Montreal Restaurant. Applied Acoustics. 174: 107772.doi.org/10.1016/j.apacoust.2020.107772'
@@ -365,17 +367,28 @@
    - image: "/assets/images/projects/COVID19/3_2.jpg"
      credits: 'Catherine Guastavino'
      alt: "Enregistrer les sons d'un Quartier des Spectacles vide"
+   - image: "/assets/images/projects/COVID19/MesuresQdS2.jpeg"
+     credits: 'Catherine Guastavino'
+     alt: "Enregistrer les sons d'un Quartier des Spectacles vide"
   brief: "Montréal a connu une réduction temporaire de 6 dB des niveaux sonores dans le centre-ville, qui sont revenus en grande partie à la normale avec le redémarrage de la construction et de la circulation.<br><br>Les périodes de restriction et de confinement ont fait émerger de nouvelles associations à l'espace public et au domicile en raison des changements radicaux dans leurs environnements sonores."
   about: "La pandémie de COVID-19 a modifié l’orientation des projets de recherche dans le monde entier, et Ville Sonore n'a pas dérogé à la règle. Ceux qui travaillent sur le son ont eu l'occasion d'étudier ce qui s'est passé pendant que le monde était sur pause et la planète silencieuse. Depuis un siècle, le calme est au cœur des politiques modernes en matière de bruit, mais une fois que nous en avons fait l'expérience, nous nous sommes rendu compte que ce n'était pas si simple.<br><br>L’équipe de la Ville Sonore s'est livrée à une étude multi-méthodes et pluriannuelle d'observation de l'expérience auditive durant la COVID-19, comprenant comprenant : <br>•	Entretiens (2020 et 2021) <br>•	Journaux de bord <br>•	Questionnaires <br>•	Mesures du niveau sonore"
   participation: "Les résultats concernant la première année de la pandémie nous ont montré une baisse très temporaire de 6 dB des niveaux sonores au cours de la première restriction. Les niveaux sonores sont largement revenus à la normale avec le retour de la construction et de la circulation, mais la vie publique a souffert et les gens étaient très conscients des sons qui leur manquaient. L'utilisation de l'espace public a été transformée à bien des égards et a connu de nombreux nouveaux usages, tandis que les personnes qui travaillaient à domicile ont dû faire face à de nouveaux environnements sonores et à de nouveaux défis au cours de leur journée de travail. Ce changement a été particulièrement difficile pour les familles avec enfants."
   contact_info: "Pour plus de détails, contactez: Daniel Steele, Edda Bild, Nicola di Croce"
   links:
     - url: 'https://www.cbc.ca/listen/live-radio/1-15-daybreak-montreal/clip/15869524-the-sounds-downtown'
-      name: 'Canadian Broadcasting Corporation. (2021, Sept. 28). The sounds of downtown [Radio interview with Daniel Steele and collaborators] https://www.cbc.ca/listen/live-radio/1-15-daybreak-montreal/clip/15869524-the-sounds-downtown'
-    - url: 'http://www.radio-canada.ca/util/postier/suggerer-go.asp?nID=4523621'
+      name: 'Canadian Broadcasting Corporation. (2021, Sept. 28). The sounds of downtown [Radio interview with Daniel Steele and collaborators]'
+    - url: 'https://ici.radio-canada.ca/nouvelle/1706900/apres-covid-19-coronavirus-silence-villes-lecons-bruit-pollution-sonore-printemps-silencieux'
       name: 'Leblanc, E. (30 mai 2020). L’après-COVID-19: tirer les leçons de ce printemps silencieux[entretien avec C. Guastavino]. Radio-Canada'
-    - url: 'http://www.radio-canada.ca/util/postier/suggerer-go.asp?nID=4523622'
+    - url: 'https://ici.radio-canada.ca/ohdio/premiere/emissions/l-heure-du-monde/segments/rattrapage/1616864/silence-une-consequence-positive-confinement-reportage-e-leblanc'
       name: 'Société Radio-Canada (28 mai 2020). Le silence, une conséquence positive du confinement: Reportage d’E. Leblanc – L’heure du monde [entretien avec C. Guastavino]'
+    - url: 'https://ici.radio-canada.ca/ohdio/premiere/emissions/le-15-18/episodes/462806/rattrapage-du-jeudi-7-mai-2020'
+      name: 'Société Radio-Canada (10 mai 2020). Confinement et reduction du bruit en ville – Du côté de chez Catherine [entretien radio avec C. Guastavino et R. Dumoulin]Société Radio-Canada (7 mai 2020). Sons de la Ville en confinement : Entrevue avec Catherine Guastavino, professeure – Le 15-18 [entretien radio avec C. Guastavino].  http://www.radio-canada.ca/util/postier/suggerer-go.asp?nID=4511818'
+    - url: 'https://ici.radio-canada.ca/ohdio/premiere/emissions/tout-un-matin/episodes/506007/rattrapage-du-jeudi-14-janvier-2021'
+      name: 'Société Radio-Canada (14 janvier 2021). Absence de bruit pendant le couvre-feu– Émission Tout un matin [entretien radio avec C. Guastavino] '
+    - url: 'https://ici.radio-canada.ca/ohdio/premiere/emissions/moteur-de-recherche/episodes/591221/rattrapage-du-mercredi-15-decembre-2021'
+      name: 'Société Radio-Canada (15 décembre 2021). Pourquoi l’être humain a-t-il si peur du silence – Émission Moteur de Recherche [entretien radio avec C. Guastavino]'
+    - url: 'https://newcities.org/the-big-picture-city-sound-like/'
+      name: '·	Guastavino, C. & Steele, D. (2020). What should the city sound like? Why the pursuit of quiet isn’t working. [article en anglais]'
   publications:
     - url: 'https://www.mdpi.com/1660-4601/18/11/5877'
       name: 'Steele, D., & Guastavino, C. (2021). Quieted city sounds during the Covid-19 pandemic in Montreal. International Journal of Environmental Research and Public Health, 18(11), 5877.'
@@ -419,15 +432,15 @@
 Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influencent la façon dont nous évaluons les ambiances sonores, il est essentiel de garder à l'esprit que le contexte est important et que la conception des espaces doit tenir compte de cette myriade d'expériences."
   contact_info: "Pour plus de détails, contactez: Cynthia Tarlao, Catherine Guastavino"
   links:
-    - url: 'https://newcities.org/the-big-picturecity-sound-like/'
-      name: 'Guastavino, C. & Steele, D (2020). What should the city sound like? Why the pursuit of quiet isn’t working.https://newcities.org/the-big-picturecity-sound-like/ [en anglais] '
-    - url: 'https://bycs.org/sound-as-a-resourcewith-catherine-guastavino/'
+    - url: 'https://newcities.org/the-big-picture-city-sound-like/'
+      name: 'Guastavino, C. & Steele, D (2020). What should the city sound like? Why the pursuit of quiet isn’t working.[en anglais] '
+    - url: 'https://bycs.org/sound-as-a-resource-with-catherine-guastavino/'
       name: 'BYCS perspective (1er mars 2021). Sound as a resource: with Catherine Guastavino.[entretien avec C. Guastavino]. https://bycs.org/sound-as-a-resourcewith-catherine-guastavino/ [en anglais] '
     - url: ''
       name: 'Trudel, B. (automne 2023). Quand un son vaut mille mots. [entretien avec C. Guastavino]. Continuité, 178 – Patrimoine Sonore, 18-21.'
     - url: ''
       name: 'Gagnon, M. (automne 2023). Les archéologues du son. [entretien avec C. Guastavino]. Continuité, 178 – Patrimoine Sonore, 178, 22-24.'
-    - url: 'https://ici.radiocanada.ca/tele/decouverte/site/episodes/520848/covid-ghgsat-methane-lune-pollution'
+    - url: 'https://ici.radio-canada.ca/tele/decouverte/site/episodes/520848/covid-ghgsat-methane-lune-pollution'
       name: 'Société Radio-Canada (28 avril 2021). A l’écoute de la ville – Émission Découverte. [spot TV avec C. Guastavino]. https://ici.radiocanada. ca/tele/decouverte/site/episodes/520848/covid-ghgsat-methane-lune-pollution'
   publications:
     - url: ''
@@ -478,12 +491,12 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   contact_info: "Pour plus de détails, contactez: Nicola di Croce"
   links:
     - url: 'https://www.youtube.com/watch?app=desktop&v=ZYmpKyCrsOs'
-      name: 'Containing multitude https://www.youtube.com/watch?app=desktop&v=ZYmpKyCrsOs'
-    - url: 'https://nicoladicroce.cargo.site/Research-menu'
-      name: 'Site Internet de Nicole Di Croce https://nicoladicroce.cargo.site/Research-menu'
+      name: 'Containing multitude'
+    - url: 'https://nicoladicroce.cargo.site/soninurb'
+      name: '<br><br>Site Internet de Nicole Di Croce'
   publications:
-    - url: 'https://www.researchgate.net/project/Sonic-inquiry-in-urban-research'
-      name: 'Sonic inquiry in urban research https://cordis.europa.eu/project/id/881822'
+    - url: 'https://cordis.europa.eu/project/id/881822'
+      name: 'Sonic inquiry in urban research'
   prev_url: "project9"
   next_url: "project11"
 
@@ -526,14 +539,14 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   contact_info: "Pour plus de détails, contactez: Edda Bild"
   links:
     - url: "https://www.ledevoir.com/societe/transports-urbanisme/756802/le-son-cet-oublie-des-villes"
-      name: "Provost A.M. (16 septembre 2022). Le son, cet oublié des villes. Le devoir. https://www.ledevoir.com/societe/transports-urbanisme/756802/le-son-cet-oublie-des-villes"
+      name: "Provost A.M. (16 septembre 2022). Le son, cet oublié des villes. Le devoir."
     - url: 'https://www.montrealgazette.com/news/local-news/noise-observatory-still-necessary-still-in-the-works-councillors-say'
       name: 'Gyulai, L., (3 octobre 2021). Noise observatory still necessary, still in the works, councillors say. Montreal Gazette. (en anglais)'
     - url: ''
       name: 'Canadian Broadcasting Corporation. (28 septembre 2021). The sounds of downtown [entretien radio avec Daniel Steele et collaborateur·trices]. <i>Daybreak</i>. (en anglais)'
   publications:
-    - url: ''
-      name: 'Bild, E., Steele, D., & Guastavino, C. (2024). Supporting the living laboratory: a literature review of Montreal sound-related research. Journal of Planning Literature.'
+    - url: 'https://www.researchgate.net/publication/383144883_Supporting_the_Living_Laboratory_A_Literature_Review_of_Montreal_Sound-Related_Research'
+      name: 'Bild, E., Steele, D., & Guastavino, C. (2024). Supporting the living laboratory: a literature review of Montreal sound-related research.<i> Journal of Planning Literature</i>.'
   prev_url: "project10"
   next_url: "project12"
 
@@ -587,7 +600,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
       name: 'Laplace, J., Bild, E., Trudeau, C., Perna, M., Dupont, T. & Guastavino C. (2022). Encadrement du bruit environnemental au Canada<i>. Canadian Public Policy / Analyse de politiques publiques Canadienne</i>, 48(1), 49-65.'
     - url: 'https://hal.archives-ouvertes.fr/hal-03233770/document'
       name: 'Trudeau, C., Bild, E., Padois, T., Perna, M., Dumoulin, R., Dupont, T., & Guastavino, C. (2020). Municipal noise regulations in Québec. Actes du Forum Acusticum. Forum Acusticum, Dec. 7-1, Lyon, France'
-    - url: ''
+    - url: 'project13'
       name: 'Bild, E., Fraisse, V. et Guastavino, C. (2023). Intégration des considérations sonores dans la politique de la vie nocturne à Montréal. Rapport pour le Service de développement économique, Ville de Montréal (61 pages).'
   prev_url: "project11"
   next_url: "project13"
@@ -635,7 +648,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
      alt: "Catherine Guastavino présente le projet ÉcoutezMontréal lors de l atelier du 6 octobre 2022 (Le bruit environnemental dans nos actions de planification')."
   brief: "Les activités nocturnes contribuent à la vitalité et à l'attractivité des villes mais peuvent aussi générer des conflits de cohabitation sonore.<br><br>Nous proposerons des recommandations pour prendre en compte la dimension sonore dans l’élaboration d'une politique de vie nocturne à Montréal."
   about: "De nombreuses villes du monde sont confrontées au défi de trouver un équilibre entre qualité de vie et vitalité, et cette dichotomie est souvent mise à l'épreuve à travers la dimension sonore. Cependant, aucune ville du monde, y compris Montréal, n'a mis de l’avant une politique de vie nocturne qui s'attaque de front à ces défis.<br><br>Ville sonore a entamé une collaboration avec la Ville de Montréal et la Direction régionale de santé publique de Montréal (DRSP) afin d'étudier et d'intégrer les besoins et les attentes des différents acteurs dans le développement d'une nouvelle stratégie de la vie nocturne en utilisant l'approche du paysage sonore. Le projet documente des situations de conflits et de cohabitation sonores à Montréal afin de mieux comprendre/caractériser les dynamiques en jeu et d'émettre des recommandations pour améliorer les politiques publiques dans une perspective de développement économique centré sur l’humain."
-  participation: "La deuxième étape a été le développement de projets pilotes : le projet pilote ÉcoutezMontréal [LIEN VERS PROJET <a href='http://walkwithweb.github.io/fr/projects/project11'>ECOUTEZ MONTREAL</a>], et le projet Assomption Sud–Longue-Pointe [LIEN VERS PROJET <a href='http://walkwithweb.github.io/fr/projects/project12'>ASLP</a>]. <br><br>Ce projet apporte une occasion unique d'impliquer de multiples acteurs autour de la question du bruit nocturne et d'intégrer la prise en compte du son dans la nouvelle politique de la vie nocturne montréalaise en cours d'élaboration."
+  participation: "La deuxième étape a été le développement de projets pilotes : le projet pilote ÉcoutezMontréal [LIEN VERS PROJET <a href='project11'>ECOUTEZ MONTREAL</a>], et le projet Assomption Sud–Longue-Pointe [LIEN VERS PROJET <a href='project12'>ASLP</a>]. <br><br>Ce projet apporte une occasion unique d'impliquer de multiples acteurs autour de la question du bruit nocturne et d'intégrer la prise en compte du son dans la nouvelle politique de la vie nocturne montréalaise en cours d'élaboration."
   contact_info: "Pour plus de détails, contactez : Edda Bild, Catherine Guastavino"
   links:
     - url: ''
@@ -691,7 +704,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   contact_info: "Pour plus de détails, contactez : Edda Bild, Catherine Guastavino"
   links:
     - url: 'https://ici.radio-canada.ca/tele/decouverte/site/episodes/520848/covid-ghgsat-methane-lune-pollution'
-      name: 'Société Radio-Canada (avril 2021). A l’écoute de la ville – Émission Découverte [reportage télévisé avec C. Guastavino]. https://ici.radio-canada.ca/tele/decouverte/site/episodes/520848/covid-ghgsat-methane-lune-pollution'
+      name: 'Société Radio-Canada (avril 2021). A l’écoute de la ville – Émission Découverte [reportage télévisé avec C. Guastavino].'
   publications:
     - url: 'https://www.mdpi.com/2071-1050/14/8/4559'
       name: 'Bild, E., Steele, D., & Guastavino, C. (2022). Festivals and Events as Everyday Life in Montreal’s Entertainment District. <i>Sustainability</i>, 14(8), 4559.'
@@ -744,9 +757,9 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
     - url: 'https://ici.radio-canada.ca/tele/decouverte/site/episodes/520848/covid-ghgsat-methane-lune-pollution'
       name: 'Société Radio-Canada (28 avril 2021). A l’écoute de la ville – Émission Découverte [reportage télévisé avec C. Guastavino]. https://ici.radio-canada.ca/tele/decouverte/site/episodes/520848/covid-ghgsat-methane-lune-pollution'
   publications:
-    - url: ''
+    - url: "https://www.researchgate.net/publication/360017339_Evaluer_l'impact_d'installations_sonores_sur_la_perception_du_paysage_sonore_urbain_cas_d'etude_d'une_place_publique_parisienne"
       name: 'Fraisse, V., Nicolas, E., Schütz, N., Ribeiro, C., & Misdariis, N. (2022). Évaluer l’impact d’installations sonores sur la perception du paysage sonore urbain: Cas d’étude d’une place publique parisienne.<i> 16e Congrès Français d’Acoustique</i>, Marseille, Paris.'
-    - url: ''
+    - url: 'https://www.researchgate.net/publication/363031146_Informing_sound_art_design_in_public_space_through_soundscape_simulation'
       name: "Fraisse, V., Schütz, N., Wanderley, M., Guastavino, C., & Misdariis, N. (2022). Informing sound art design in public space through soundscape simulation.<i>Proceedings of INTERNOISE, Glasgow</i>, UK."
   prev_url: "project14"
   next_url: 'project16'
@@ -795,11 +808,11 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   participation: "Ce projet de recherche s'appuie sur des méthodes développées dans le cadre de la collaboration autour de l'installation Niches Acoustiques. Il comprend des enregistrements sur le terrain et des évaluations en laboratoire de prototypes de l'installation sonore avec des résident·es familier·ères de l'espace. Plus précisément, nous cherchons à comprendre comment la dominance de différentes sources sonores côtières (par exemple les oiseaux, l'eau, le vent) peut affecter le paysage sonore de cet espace. Des recommandations seront faites à terme à partir des résultats de l'étude, dans le but d’informer la composition d'une nouvelle itération de l'installation sonore."
   contact_info: "Pour plus de détails, veuillez contacter : Valérian Fraisse, Catherine Guastavino"
   links:
-    - url: 'https://journalmetro.com/culture/rencontres/2915990/sons-iles-madeleine-berceront-verdun/'
-      name: 'https://journalmetro.com/culture/rencontres/2915990/sons-iles-madeleine-berceront-verdun/'
-  publications:
     - url: ''
       name: ''
+  publications:
+    - url: 'https://journalmetro.com/culture/rencontres/2915990/sons-iles-madeleine-berceront-verdun/'
+      name: 'Journal Metro (2022, September 28). Les sons des Îles-de-la-Madeleine berceront Verdun. [Interview with Charles Montambault](in French).'
   prev_url: "project15"
   next_url: 'project17'
 
@@ -851,7 +864,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   publications:
     - url: 'https://doi.org/10.1080/17458927.2022.2139134'
       name: 'Laplace, Josée and Catherine Guastavino. (2022). « Exploring sonic experiences in church spaces: a psycholinguistic analysis ». The Senses and Society, 17(3), DOI: 10.1080/17458927.2022.2139134'
-    - url: ''
+    - url: 'https://www.ingentaconnect.com/content/ince/incecp/2023/00000265/00000002/art00027'
       name: 'Laplace, Josée and Catherine Guastavino. (2022). “Evaluation of the restorative potential of church buildings”.<i>Proceedings Internoise</i> 2022, 21-24 août 2022, Glasgow.'
     - url: 'https://www.taylorfrancis.com/chapters/edit/10.4324/9780429279782-10/church-beyond-worship-jos%C3%A9e-laplace'
       name: 'Laplace, Josée. (2019). « The church beyond worship: Experiencing monumental soundscapes in the Roman Catholic churches of Montréal (Québec, Canada) ». Dans Catherine Lavandier et Christine Guillebaud (dir.).<i>Worship Sound Space. A Multidisciplinary Approach</i>. London: Routledge, collection Research in Architecture, p. 141-177.'
@@ -904,7 +917,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
       name: 'Bild, E., Steele, D., Pfeffer, K., Bertolini, L., & Guastavino, C. (2018). Activity as a mediator between users and their auditory environment in an urban pocket park: a case study of Parc du Portugal (Montreal, Canada). In <i>Handbook of Research on Perception-Driven Approaches to Urban Assessment and Design</i> (pp. 100-125). IGI Global.'
     - url: 'https://www.ingentaconnect.com/content/ince/incecp/2016/00000253/00000005/art00093'
       name: 'Bild, E., Tarlao, C., Guastavino, C., & Coler, M. (2016, August). Sharing music in public spaces: social insights from the Musikiosk project (Montreal, CA). In <i>Inter-Noise and Noise-Con Congress and Conference Proceedings</i> (Vol. 253, No. 5, pp. 3657-3666). Institute of Noise Control Engineering.'
-    - url: 'https://asa.scitation.org/doi/pdf/10.1121/1.4987775'
+    - url: 'https://www.researchgate.net/publication/307855831_Evaluation_of_an_urban_soundscape_intervention_with_music_quantitative_results_from_questionnaires'
       name: 'Steele, D., Bild, E., & Guastavino, C. (2016, August). Evaluation of an urban soundscape intervention with music: quantitative results from questionnaires. In <i>Inter-Noise and Noise-Con Congress and Conference Proceedings</i> (Vol. 253, No. 4, pp. 4627-4637). Institute of Noise Control Engineering.'
     - url: 'https://www.ingentaconnect.com/contentone/ince/incecp/2016/00000253/00000004/art00093'
       name: 'Tarlao, C., Fernandez, P., & Guastavino, C. (2016, August). Comparing soundscape evaluations in French and English across three studies in Montreal. In <i>INTER-NOISE and NOISE-CON Congress and Conference Proceedings</i> (Vol. 253, No. 4, pp. 4701-4707). Institute of Noise Control Engineering.'
@@ -955,7 +968,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
     - url: ''
       name: ''
   publications:
-    - url: 'https://doi.org/10.1016/j.landurbplan.2024.105173'
+    - url: 'https://www.sciencedirect.com/science/article/pii/S0169204624001725?via%3Dihub'
       name: 'Fraisse, V., Tarlao, C., & Guastavino, C. (In press). Shaping City Soundscapes: In-Situ Evaluation of Four Sound Installations in an Urban Public Space. <i>Landscape and Urban Planning</i>.'
     - url: 'https://www.taylorfrancis.com/chapters/edit/10.4324/9781003140535-5/designing-sound-installations-public-spaces-catherine-'
       name: 'Guastavino, C., Fraisse, V., D’Ambrosio, S, Legast, E, & Lavoie, M. (2022). Designing sound installations in public spaces: A collaborative research creation approach. In Filimowicz, M. (Ed)., <i>Designing Interaction for Music and Sound</i>. Routledge, Abingdon, UK.'
@@ -1063,9 +1076,9 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
       name: 'Yanaky, R., Tyler, D., & Guastavino, C. (2023). City Ditty: An Immersive Soundscape Sketchpad for Professionals of the Built Environment. Applied Sciences, 13, 1611.doi.org/10.3390/app13031611'
     - url: 'https://doi.org/10.1016/j.landurbplan.2022.104642'
       name: 'Tarlao, C., Steele, D., Blanc, G., & Guastavino, C. (2023). Interactive soundscape simulation as a co-design tool for urban professionals. Landscape and Urban Planning, 231, 104642.doi.org/10.1016/j.landurbplan.2022.104642'
-    - url: 'https://jcaa.caaaca.ca/index.php/jcaa/article/view/4064'
-      name: 'Yanaky, R., & Guastavino, C. (2023). Bridging the gap between sound and non-sound professionals with virtual reality. Proceedings of Acoustics Week in Canada 2023. Canadian Acoustics, 51(3):192-3.Available from: https://jcaa.caaaca.ca/index.php/jcaa/article/view/4064'
-    - url: ''
+    - url: 'https://jcaa.caa-aca.ca/index.php/jcaa/article/view/4064'
+      name: 'Yanaky, R., & Guastavino, C. (2023). Bridging the gap between sound and non-sound professionals with virtual reality. Proceedings of Acoustics Week in Canada 2023. Canadian Acoustics, 51(3):192-3.'
+    - url: 'https://www.researchgate.net/publication/381649260_Designing_Sound_for_Public_Spaces_Through_a_Research-Creation_Collaboration_Framework'
       name: 'Fraisse, V., Wanderley M., Misdariis N., & Guastavino, C. (2024). Designing Sound for Public Spaces Through a Research-Creation Collaboration Framework. Proceedings of the Design Research Society Conference. Boston, Massachusetts, June 2024.'
     - url: 'https://www.tandfonline.com/doi/abs/10.1080/13574809.2019.1699399'
       name: 'Steele, D., Kerrigan, C., & Guastavino, C. (2020). Sounds in the city: Bridging the gaps from research to practice through soundscape workshops.<i>Journal of Urban Design</i>, 25(5), 646-664.'
@@ -1112,8 +1125,8 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
     - url: ''
       name: ''
   publications:
-    - url: 'http://www.icben.org/2021/ICBEN 2021 Papers/full_paper_28936.pdf'
-      name: 'Trudeau, C., & Guastavino, C. (2021). The environmental inequality of urban sound environments: A comparative analysis. Proceedings of the International Commission on the Biological Effects of Noise. International Commission on the Biological Effects of Noise, Stockholm, Sweden 14-17 June.'
+    - url: ''
+      name: "Trudeau, C., & Guastavino, C. (2021).<a href='http://www.icben.org/2021/ICBEN 2021 Papers/full_paper_28936.pdf'> The environmental inequality </a><a href='http://www.icben.org/2021/ICBEN 2021 Papers/full_paper_28936.pdf'> of urban sound environments: A comparative analysis</a>. Proceedings of the International Commission on the Biological Effects of Noise. International Commission on the Biological Effects of Noise, Stockholm, Sweden 14-17 June."
   prev_url: "project21"
   next_url: 'project23'
 
@@ -1183,26 +1196,24 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
     - url: 'https://www.youtube.com/playlist?list=PLIlbMTlgR90J2stZScpJ-oqi1_5Hj4RzY  '
       name: "YouTube playlist of demos and several past talks."
   publications:
-    - url: 'https://doi.org/10.3390/app13031611'
+    - url: ''
       name: "L'article original qui décrit la conception centrée sur l'utilisateur·rice et le processus d'évaluation de City Ditty :
-      <br>Yanaky, R., Tyler, D., & Guastavino, C. (2023). City Ditty: An Immersive Soundscape Sketchpad for Professionals of the Built Environment.<i> Applied Sciences</i>, 13(3), 1611. https://doi.org/10.3390/app13031611"
-    - url: https://jcaa.caa-aca.ca/index.php/jcaa/article/view/4183
-      name: Realistic Enough? Design Considerations for Soundscape Simulators
-    - url: "https://jcaa.caa-aca.ca/index.php/jcaa/article/view/4183"
+      <br>Yanaky, R., Tyler, D., & Guastavino, C. (2023). City Ditty: An Immersive Soundscape Sketchpad for Professionals of the Built Environment.<i> Applied Sciences</i>, 13(3), 1611.<a href='https://doi.org/10.3390/app13031611'> https://doi.org/10.3390/app13031611</a>"
+    - url: ""
       name: "Un article paru dans Canadian Acoustics, présentant trois approches à la conception de simulateurs d'ambiances sonores et à l'engagement des parties prenantes :
-      <br>Yanaky, R., & Guastavino, C. (2024). Realistic Enough? Design Considerations for Soundscape Simulators.<i>Canadian Acoustics</i>, 52(1). https://jcaa.caa-aca.ca/index.php/jcaa/article/view/4183"
-    - url: "https://jcaa.caa-aca.ca/index.php/jcaa/article/view/4180"
+      <br>Yanaky, R., & Guastavino, C. (2024). Realistic Enough? Design Considerations for Soundscape Simulators.<i>Canadian Acoustics</i>, 52(1).<a href='https://jcaa.caa-aca.ca/index.php/jcaa/article/view/4183'> https://jcaa.caa-aca.ca/index.php/jcaa/article/view/4183</a>"
+    - url: ""
       name: "Un autre article dans Canadian Acoustics qui traite de City Ditty en relation avec nos deux autres simulateurs d'ambiances sonores par rapport à l'implication des parties prenantes et le prototypage d'installations d'art sonore :
-      <br>Fraisse, V., Tarlao, C., Yanaky, R., & Guastavino, C. (2024). One Size Doesn't Fit All: Three Tools For Soundscape Simulation.<i>Canadian Acoustics</i>, 52(1). https://jcaa.caa-aca.ca/index.php/jcaa/article/view/4180"
-    - url: "https://www.researchgate.net/publication/374750772_Exploring_the_use_of_soundscape_sketchpads_with_professionals"
+      <br>Fraisse, V., Tarlao, C., Yanaky, R., & Guastavino, C. (2024). One Size Doesn't Fit All: Three Tools For Soundscape Simulation.<i>Canadian Acoustics</i>, 52(1).<a href='https://jcaa.caa-aca.ca/index.php/jcaa/article/view/4180'> https://jcaa.caa-aca.ca/index.php/jcaa/article/view/4180<a>"
+    - url: ""
       name: "L’article suivant, présenté à Internoise 2023, explique comment les technologies émergentes peuvent contribuer à défier le statu quo... à condition que nous soyons mieux soutenus :
-      <br<br>Yanaky, R., Grazioli, G., Zhang, Y.-Y., & Guastavino, C. (2023). Exploring the use of soundscape sketchpads with professionals. INTER-NOISE and NOISE-CON Congress and Conference Proceedings, Chiba, Japan, August 20-23, 2023. Link to paper"
+      <br<br>Yanaky, R., Grazioli, G., Zhang, Y.-Y., & Guastavino, C. (2023). Exploring the use of soundscape sketchpads with professionals. INTER-NOISE and NOISE-CON Congress and Conference Proceedings, Chiba, Japan, August 20-23, 2023.<a href='https://www.researchgate.net/publication/374750772_Exploring_the_use_of_soundscape_sketchpads_with_professionals'> Link to paper</a>"
     - url: ""
       name: "Un chapitre sur l'interaction homme-machine (IHM) qui traite de l'utilisation de simulateurs d’ambiances sonores, d'installations sonores interactives et d'instruments de musique numériques (DMI).
       <br><br>Yanaky, R., Reimer, P. J. C., Fraisse, V., Wanderley, M., & Guastavino, C. (2024). Sound-Based Interaction. In C. Stephanidis & G. Salvendy (Eds.),<i>Human Computer Interaction: Interaction Technologies and Techniques</i>. CRC Press."
     - url: "https://hal.science/hal-02901211/"
       name: "Un premier rapport sur les résultats de notre atelier sur les simulateurs d'ambiances sonores et les besoins des utilisateur·ices.
-<br>Yanaky, R., Tarlao, C., & Guastavino, C. (2020).<i> An Interactive Soundscape Simulator for Professionals of the Built Environment</i> International Workshop on Haptic and Audio Interaction Design, HAID 2020, Montreal, Canada. https://hal.science/hal-02901211/ 
+<br>Yanaky, R., Tarlao, C., & Guastavino, C. (2020).<i> An Interactive Soundscape Simulator for Professionals of the Built Environment</i> International Workshop on Haptic and Audio Interaction Design, HAID 2020, Montreal, Canada.<a href='https://hal.science/hal-02901211/'> https://hal.science/hal-02901211/ </a>
 "
   prev_url: project22
   next_url: project24
@@ -1269,9 +1280,9 @@ Bonne lecture !"
     # - url: '[PUT LOWER RES IMAGES] Download PDF here [LINK]'
     #   name: 'Et si nous reconsidérions nos villes à travers la sonorité ? Dessiner un environnement sonore – art de Madeleine Guastavino'
   publications:
-    - url: 'https://doi.org/10.1121/10.0027276'
-      name: 'Robin, O., Krpic, T., Carrion, A., Proulx, F., Demuynck, M., Gallerand, L., Fraisse, V., Trudeau, C., Tarlao, C., Perrier de la Bathie, C., Bernier-Breton, C., Dupont, T., Doutres, O., Voix, J., Cauchy, P., St-Onge, G., & Guastavino, C. (2024). Fantastic acoustics: A magazine describing the importance and the scope of acoustics research in Québec. The Journal of the Acoustical Society of America, 155(3_Supplement), A194. https://doi.org/10.1121/10.0027276'
-    - url: 'https://doi.org/10.1121/10.0026445'
+    - url: 'https://pubs.aip.org/asa/jasa/article/155/3_Supplement/A194/3301000/Fantastic-acoustics-A-magazine-describing-the'
+      name: 'Robin, O., Krpic, T., Carrion, A., Proulx, F., Demuynck, M., Gallerand, L., Fraisse, V., Trudeau, C., Tarlao, C., Perrier de la Bathie, C., Bernier-Breton, C., Dupont, T., Doutres, O., Voix, J., Cauchy, P., St-Onge, G., & Guastavino, C. (2024). Fantastic acoustics: A magazine describing the importance and the scope of acoustics research in Québec. The Journal of the Acoustical Society of America, 155(3_Supplement), A194.'
+    - url: 'https://pubs.aip.org/asa/jasa/article-abstract/152/5/2880/2839816/An-illustrated-tutorial-for-logarithmic-scales-and?redirectedFrom=fulltext'
       name: 'Robin, O., Simard, M., Potel, C., & Bruneau, M. (2024). History and variations of Lindsay’s wheel of acoustics: From a nested pie chart including words to a drawn acoustics world. The Journal of the Acoustical Society of America, 156(1), 1–11. https://doi.org/10.1121/10.0026445'
   prev_url: "project23"
   next_url: "project25"
