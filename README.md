@@ -69,23 +69,8 @@ Using the template text below, copy and paste the section between the ``` tags i
 
 #### Home Page [Back to top](#quick-links)
 ##### Slider Content 
-To update the slider on the homepage, in the "locales" folder, find the "slides" list in the "index" item and update the "slides" item . Each  -title (description, image) list represents a single slide, to create more slides, repeat the list for each additional slide item
+The slider uses the project content - title: image: url: and description and updates dynamically based on the end-date listed for the project. It randomly displays 5 of the latest projects 
 
-```
-index: 
-    .
-    .
-    .
-    slides:
-        - title: "--enter a title for the image here --"
-          description: "--enter the short caption for the image here --"
-          image: "--enter the path to the image e.g /assets/images/slides/slide1.png ... here slide1.png is the image and has been saved in the "slides" folder in the images which is in the "assets" folder --"
-          url: "--enter the path to project e.g 'project/project1' --"
-        - title: " "
-          description: " "
-          image: " "
-          url: " "
-```
 
 ##### Accordion Content 
 To update the accordion section on the homepage, in the "locales" folder, find the "accordions" list in the "index" item and update the "title" list. Each  -title (description, image) list represents a single accordion, to create more accordions, repeat the list for each additional accordion
@@ -454,7 +439,7 @@ Using the template text below, copy and paste the section between the ``` tags i
 Each -title item represents a project, to add more projects add more -title items and their corresponding lists
 
 #### Project Details Update
-Project key-valiu pairs list 
+Project key-value pairs list 
 ```
 - title: ""
   description: ""

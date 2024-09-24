@@ -4,20 +4,23 @@
   </div>
   <div class="slider">
     <div class="slider1" id="slider1">
-      {% for slide in t.slides %}
-      <div class="slide">
-        <a href="{{slide.url}}">
-          <img src="{{slide.image}}" alt="{{slide.title}}" />
-        </a>
-        <div class="slide-content">
-          <a class="slider-links" href="{{slide.url}}">
-            <h2>{{slide.title}}</h2>
-            <p>{{slide.description}}</p>
+      {% assign lang = page.lang %}
+      {% assign random_projects = site.data.projects[lang] | sort: 'end-date' | reverse | slice: 0,5 %}
+      {% for slide in random_projects %}
+        <div class="slide">
+          <a href="projects/{{slide.url}}">
+            <img src="{{slide.image}}" alt="{{slide.title}}" />
           </a>
+          <div class="slide-content">
+            <a class="slider-links" href="projects/{{slide.url}}">
+              <h2>{{slide.title}}</h2>
+              <p>{{slide.description}}</p>
+            </a>
+          </div>
         </div>
-      </div>
-      {%endfor%}
+      {% endfor %}
     </div>
+
     <div class="slick-prev">
       <img
         src="/assets/images/icons/arrow-left-black.svg"
