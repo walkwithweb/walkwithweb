@@ -15,16 +15,12 @@
 
     p {
         text-align: center;
-        font-size: 20px;
-        line-height: 32px;
     }
 
     @media (min-width: $mobile_screen) {
         max-width: 100%;
         width: 100%;
         flex-wrap: nowrap;
-        font-size: 20px;
-        line-height: 32px;
 
         p {
             padding: 0 36px;
@@ -83,11 +79,7 @@
             }
 
             p {
-                font-weight: 700;
-                font-size: 16px;
-                line-height: 24px;
                 color: $white;
-                letter-spacing: 2px;
             }
         }
 
@@ -102,18 +94,6 @@
             flex-direction: column;
             justify-content: center;
             padding: 0 30px;
-
-            h2 {
-                font-weight: 700;
-                font-size: 14px;
-                line-height: 18px;
-                letter-spacing: 2px;
-            }
-
-            p {
-                font-size: 16px;
-                line-height: 26px;
-            }
         }
     }
 
@@ -250,38 +230,15 @@
             text-transform: uppercase;
         }
 
-        h4 {
-            font-size: 16px;
-            font-weight: 700;
-            line-height: 18px;
-            letter-spacing: 2px;
-            text-transform: uppercase;
-        }
-
-        p {
-            font-size: 16px;
-            font-weight: 400;
-            line-height: 24px;
-        }
-
         @media (min-width: $mobile_screen) {
             gap: 80px;
 
             h2 {
-                font-size: 116px;
-                line-height: 120px;
+                font-size: $heading-font-size;
+                line-height: $heading-line-height;
 
             }
 
-            h4 {
-                font-size: 30px;
-                line-height: 40px;
-            }
-
-            p {
-                font-size: 32px;
-                line-height: 50px;
-            }
         }
     }
 }
@@ -314,17 +271,7 @@
         border-top: 2px solid $black;
         border-bottom: 2px solid $black;
 
-        h2 {
-            font-size: 14px;
-            text-transform: uppercase;
-            line-height: 18px;
-            letter-spacing: 2px;
-            font-weight: 700;
-        }
-
         p {
-            font-size: 16px;
-            line-height: 26px;
             @media (max-width: 768px){
                 display: none;
             }
@@ -333,16 +280,6 @@
         @media (min-width: $mobile_screen) {
             padding-left: 160px;
             padding-right: 160px;
-
-            h2 {
-                font-size: 16px;
-                line-height: 24px;
-            }
-
-            p {
-                font-size: 20px;
-                line-height: 32px;
-            }
         }
     }
 }
@@ -422,166 +359,14 @@
             margin: 30px 0;
         }
 
-        p {
-            font-size: 16px;
-            line-height: 26px;
-        }
-
         @media (min-width: $mobile_screen) {
             h2 {
                 margin: 80px 0;
             }
 
-            p {
-                font-size: 20px;
-                line-height: 40px;
-            }
         }
 
     }
-
-    // .cards {
-    //     .card {
-    //         display: flex;
-    //         flex-direction: column;
-    //         border: 2px solid $black;
-
-    //         .media {
-    //             width: 100%;
-    //             display: flex;
-    //             flex-direction: column;
-
-    //             img {
-    //                 height: 254px;
-    //                 width: 100%;
-    //                 object-fit: cover;
-    //             }
-
-    //             .media-footer {
-    //                 height: 120px;
-    //                 display: flex;
-    //                 justify-content: center;
-    //                 flex-direction: column;
-    //                 padding: 10px 30px;
-    //                 border-top: 2px solid $black;
-
-    //                 h3 {
-    //                     text-transform: uppercase;
-    //                     font-family: $font-family;
-    //                     font-size: 14px;
-    //                     line-height: 18px;
-    //                     letter-spacing: 2px;
-    //                     font-weight: 700;
-    //                 }
-
-    //                 p {
-    //                     font-family: $font-family;
-    //                     font-size: 16px;
-    //                     line-height: 26px;
-    //                 }
-    //             }
-    //         }
-
-    //         .media-content {
-    //             width: 100%;
-    //             height: 312px;
-    //             background-color: $black;
-    //             display: flex;
-    //             align-items: center;
-    //             justify-content: center;
-    //             flex-direction: column;
-    //             color: $white;
-    //             padding: 30px;
-
-    //             h3 {
-    //                 font-size: 44px;
-    //                 font-weight: 500;
-    //                 line-height: 46px;
-    //             }
-
-    //             p {
-    //                 font-size: 14px;
-    //                 font-weight: 700;
-    //                 line-height: 18px;
-    //                 letter-spacing: 2px;
-    //                 max-width: 286px;
-    //                 text-align: center;
-    //                 text-transform: uppercase;
-    //             }
-    //         }
-
-    //         @media (min-width: $mobile_screen) {
-    //             flex-direction: row;
-
-    //             .media {
-    //                 width: 66.66%;
-
-    //                 img {
-    //                     height: 516px;
-    //                 }
-
-    //                 .media-footer {
-    //                     height: 120px;
-    //                     display: flex;
-    //                     padding: 16px 44px;
-
-    //                     h3 {
-    //                         font-size: 16px;
-    //                         line-height: 24px;
-    //                         font-weight: 700;
-    //                     }
-
-    //                     p {
-    //                         font-size: 20px;
-    //                         line-height: 32px;
-    //                     }
-    //                 }
-    //             }
-
-    //             .media-content {
-    //                 width: 33.33%;
-    //                 height: 636px;
-    //                 background-color: $black;
-    //                 display: flex;
-    //                 align-items: center;
-    //                 justify-content: center;
-    //                 flex-direction: column;
-    //                 color: $white;
-
-    //                 h3 {
-    //                     font-size: 44px;
-    //                     font-weight: 500;
-    //                     line-height: 46px;
-    //                 }
-
-    //                 p {
-    //                     font-size: 14px;
-    //                     line-height: 18px;
-    //                 }
-    //             }
-    //         }
-    //     }
-
-    //     .card.reverse {
-    //         @media (min-width: $mobile_screen) {
-    //             .media {
-    //                 order: 2;
-    //             }
-
-    //             .media-content {
-    //                 order: 1;
-
-    //                 h3 {
-    //                     order: 2;
-    //                 }
-
-    //                 p {
-    //                     order: 1;
-    //                 }
-    //             }
-    //         }
-    //     }
-    // }
 
     // Variables for easy customization
     $card-padding: 20px;
@@ -630,27 +415,18 @@
             }
 
             .card-content {
-            padding: 0;
+                padding: 0;
 
-            .card-title {
-                font-size: $title-font-size;
-                font-weight: $title-font-weight;
-                margin-bottom: $card-padding;
-                letter-spacing: 2px;
-                text-transform: uppercase;
-            }
+                .card-title {
+                    margin-bottom: $card-padding;
+                }
 
-            .card-divider {
-                height: $divider-height;
-                background-color: $divider-color;
-                margin: $card-padding 0;
-            }
+                .card-divider {
+                    height: $divider-height;
+                    background-color: $divider-color;
+                    margin: $card-padding 0;
+                }
 
-            .card-text {
-                font-size: $font-size;
-                line-height: $line-height;
-                color: $font-color;
-            }
             }
         }
     }
@@ -748,13 +524,9 @@
                 h3 {
                     border-bottom: 2px solid $black;
                     padding-bottom: 22px;
-                    font-size: 44px;
-                    line-height: 46px;
                 }
 
                 p {
-                    font-size: 16px;
-                    line-height: 26px;
                     margin-top: 12px;
                 }
 
@@ -770,13 +542,9 @@
                 .step {
                     h3 {
                         padding-bottom: 44px;
-                        font-size: 116px;
-                        line-height: 120px;
                     }
 
                     p {
-                        font-size: 20px;
-                        line-height: 32px;
                         margin-top: 30px;
                     }
                 }
@@ -935,11 +703,7 @@
                         }
 
                         p {
-                            font-weight: 700;
-                            font-size: 16px;
-                            line-height: 24px;
                             color: $white;
-                            letter-spacing: 2px;
                         }
                     }
 
@@ -968,18 +732,9 @@
                     min-height: 120px;
 
                     h3 {
-                        font-size: 16px;
-                        font-weight: 700;
-                        text-transform: uppercase;
                         margin-bottom: 16px;
-                        letter-spacing: 2px;
-                        line-height: 18px;
                     }
 
-                    p {
-                        font-size: 16px;
-                        line-height: 26px;
-                    }
                 }
 
                 .info {
@@ -988,18 +743,11 @@
                     display: none;
 
                     p {
-                        font-size: 20px;
                         color: $grey;
                         margin-bottom: 30px;
 
                         span {
                             color: $black;
-                            font-size: 16px;
-                            font-weight: 700;
-                            text-transform: uppercase;
-                            line-height: 24px;
-                            letter-spacing: 4px;
-
                         }
 
                         &:last-child {
@@ -1016,16 +764,8 @@
 
                         h3 {
                             margin-bottom: 30px;
-                            font-size: 16px;
-                            letter-spacing: 1px;
-                            line-height: 40px;
-                            font-weight: bold;
                         }
 
-                        p {
-                            font-size: 20px;
-                            line-height: 32px;
-                        }
                     }
 
                     .info {
@@ -1046,8 +786,6 @@
     padding: 30px 0;
 
     .description {
-        font-size: 18px;
-        line-height: 24px;
         margin-top: 20px;
         margin-bottom: 30px;
         color: $black;
@@ -1074,19 +812,7 @@
                 .content {
                     width: 100%;
 
-                    h3 {
-                        font-size: 14px;
-                        font-weight: 700;
-                        text-transform: uppercase;
-                        line-height: 20px;
-                        letter-spacing: 2px;
-                        color: $black;
-                    }
-
                     p {
-                        font-size: 16px;
-                        font-weight: 400;
-                        line-height: 24px;
                         color: $grey;
                     }
                 }
@@ -1117,28 +843,11 @@
             padding: 16px 20px;
             min-height: 60px;
 
-            h3 {
-                font-size: 14px;
-                font-weight: 700;
-                text-transform: capitalize;
-                line-height: 20px;
-                letter-spacing: 2px;
-                color: $black;
-            }
 
             p {
                 font-style: italic;
-                font-size: 15px;
-                font-weight: 400;
-                line-height: 22px;
-                color: $black;
             }
         }
-    }
-
-    .brief {
-        font-size: 18px;
-        line-height: 28px;
     }
 
     .about {
@@ -1157,8 +866,6 @@
     }
 
     p.text {
-        font-size: 16px;
-        line-height: 24px;
         color: $black;
 
         a {
@@ -1193,10 +900,7 @@
 
         .description {
             margin-top: 60px;
-            margin-bottom: 80px;
-            font-size: 18px;
-            line-height: 160%;
-
+            margin-bottom: 40px;
         }
 
         .info-wrapper {
@@ -1211,17 +915,6 @@
                     flex-wrap: nowrap;
                     gap: 44px;
 
-                    .content {
-                        h3 {
-                            font-size: 18px;
-                            line-height: 160%;
-                        }
-
-                        p {
-                            font-size: 18px;
-                            line-height: 160%;
-                        }
-                    }
                 }
             }
         }
@@ -1236,26 +929,10 @@
             .footer {
                 padding: 40px;
                 min-height: 120px;
-
-                h3 {
-                    font-size: 18px;
-                    line-height: 160%;
-                    text-transform: uppercase;
-                }
-
-                p {
-                    font-size: 18px;
-                    line-height: 160%;
-                }
             }
         }
         .no-card {
             margin-top: 80px;
-        }
-
-        .brief {
-            font-size: 18px;
-            line-height: 160%;
         }
 
         h4.about-title {
@@ -1270,11 +947,6 @@
             gap: 80px;
             margin-top: 40px;
             margin-bottom: 80px;
-        }
-
-        p.text {
-            font-size: 18px;
-            line-height: 160%;
         }
 
     }
@@ -1394,17 +1066,10 @@
         top: -2px;
 
         h3 {
-            font-size: 14px;
-            font-weight: 700;
-            line-height: 20px;
-            letter-spacing: 2px;
-            text-transform: uppercase;
             max-width: 100%;
         }
 
         p {
-            font-size: 16px;
-            line-height: 24px;
             font-style: italic;
             max-width: 100%;
         }
@@ -1415,15 +1080,11 @@
             padding: 40px;
 
             h3 {
-                font-size: 16px;
-                line-height: 24px;
-                max-width: 60%;
+                max-width: 50%;
             }
 
             p {
-                font-size: 18px;
-                line-height: 28px;
-                max-width: 60%;
+                max-width: 50%;
             }
         }
 
@@ -1446,23 +1107,11 @@
     .content {
         padding: 16px 0 10px;
 
-        h3 {
-            font-size: 14px;
-            font-weight: 700;
-            line-height: 20px;
-            letter-spacing: 2px;
-            text-transform: uppercase;
-        }
-
         p {
-            font-size: 16px;
-            line-height: 24px;
 
             a {
                 color: $black;
                 text-transform: uppercase;
-                font-size: 14px;
-                line-height: 24px;
                 font-style: normal;
             }
         }
@@ -1477,17 +1126,7 @@
         flex-wrap: wrap;
         min-width: 100%;
 
-        h4 {
-            font-size: 12px;
-            font-weight: 700;
-            line-height: 20px;
-            letter-spacing: 2px;
-            text-transform: uppercase;
-        }
-
         p {
-            font-size: 14px;
-            line-height: 22px;
             font-style: italic;
             color: $grey;
         }
@@ -1495,10 +1134,6 @@
 
     .readmore {
         color: $black;
-        text-transform: uppercase;
-        font-weight: 700;
-        font-size: 14px;
-        line-height: 24px;
     }
 
     @media (min-width:$mobile_screen) {
@@ -1507,42 +1142,12 @@
 
         .content {
             padding: 40px 0;
-
-            h3 {
-                font-size: 16px;
-                line-height: 24px;
-            }
-
-            p {
-                font-size: 20px;
-                line-height: 32px;
-
-                a {
-                    font-size: 20px;
-                    line-height: 32px;
-                }
-            }
         }
 
         .info {
             gap: 40px;
             padding: 40px 0;
             min-width: 26%;
-
-            h4 {
-                font-size: 14px;
-                line-height: 20px;
-            }
-
-            p {
-                font-size: 16px;
-                line-height: 24px;
-            }
-        }
-
-        .readmore {
-            font-size: 16px;
-            line-height: 24px;
         }
 
     }
@@ -1592,18 +1197,10 @@
                 width: 100%;
 
                 h3 {
-                    font-size: 14px;
-                    font-weight: 700;
-                    text-transform: uppercase;
-                    line-height: 20px;
-                    letter-spacing: 2px;
                     color: $black;
                 }
 
                 p {
-                    font-size: 16px;
-                    font-weight: 400;
-                    line-height: 24px;
                     color: $grey;
                 }
             }
@@ -1612,8 +1209,6 @@
     }
 
     p.text {
-        font-size: 16px;
-        line-height: 24px;
         color: $black;
 
         a {
@@ -1634,24 +1229,7 @@
             .col {
                 flex-wrap: nowrap;
                 gap: 44px;
-
-                .content {
-                    h3 {
-                        font-size: 16px;
-                        line-height: 24px;
-                    }
-
-                    p {
-                        font-size: 20px;
-                        line-height: 32px;
-                    }
-                }
             }
-        }
-
-        p.text {
-            font-size: 20px;
-            line-height: 32px;
         }
     }
 
@@ -1709,21 +1287,14 @@
 
     a.member,
     p.member {
-        font-size: 16px;
         color: $black;
         display: block;
         margin-bottom: 16px;
         height: 50px;
-        letter-spacing: 1px;
-        text-transform: uppercase;
-        font-weight: 700;
     }
 
     a.link,
     p.link {
-        font-size: 16px;
-        line-height: 24px;
-        letter-spacing: 1px;
         color: $black;
         height: 50px;
         margin-bottom: 16px;
@@ -1748,18 +1319,9 @@
             text-transform: uppercase;
         }
 
-        h3,
         p {
-            font-size: 24px;
-            font-weight: 700;
-            line-height: 36px;
-            letter-spacing: 0px;
-        }
-
-        p {
-            font-weight: 400;
             display: block;
-            // margin-top: 12px;
+            margin-top: 24px;
 
             &:nth-of-type(1) {
                 margin-top: 0;
@@ -1770,11 +1332,6 @@
                 display: inline-block;
                 line-break: anywhere;
             }
-
-            span {
-                font-size: 18px;
-                line-height: 160%;
-            }
         }
     }
 
@@ -1784,26 +1341,6 @@
         .content {
             padding: 40px 0;
 
-            h3 {
-                font-size: 16px !important;
-                font-weight: 700;
-                letter-spacing: 2px;
-            }
-
-            h3,
-            p {
-                line-height: 160%
-            }
-
-            p {
-                font-weight: 400;
-                // margin-top: 24px;
-                font-size: 18px;
-                letter-spacing: 0px;
-                span {
-                    font-size: 18px;
-                }
-            }
         }
     }
 }
@@ -1815,9 +1352,6 @@
         padding: 80px 0;
     }
     .description {
-        font-size: 24px;
-        line-height: 36px;
-        letter-spacing: 1px;
         margin: 30px 0;
     }
 
@@ -1826,8 +1360,6 @@
 
         .description {
             margin: 80px 0;
-            font-size: 18px;
-            line-height: 160%;
             max-width: 800px;
         }
         .service-wrapper {
@@ -1860,7 +1392,6 @@
             p {
                 border-top: 2px solid;
                 padding-top: 30px;
-                font-size: 20px;
             }
         }
 

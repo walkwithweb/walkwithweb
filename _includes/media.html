@@ -4,7 +4,7 @@
   </div>
   <div class="accordions">
     <div class="accordion">
-      <button class="acc-header" data-target="video_accordion">
+      <button class="acc-header button" data-target="video_accordion">
         {% assign lang = page.lang %} {% assign title =
         site.data.media[lang].video.title %}
         <span class="label container"> {{title}} </span>
@@ -23,7 +23,7 @@
                   referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
               </div>
               <div class="footer">
-                <h3>{{video.title}}</h3>
+                <h3 class="button">{{video.title}}</h3>
                 <p>{{video.description}}, {{video.date}}</p>
               </div>
             </div>
@@ -33,7 +33,7 @@
       </div>
     </div>
     <div class="accordion">
-      <button class="acc-header" data-target="article_accordion">
+      <button class="acc-header button" data-target="article_accordion">
         {% assign lang = page.lang %} {% assign artic =
         site.data.media[lang].article %}
         <span class="label container"> {{artic.title}} </span>
@@ -46,15 +46,15 @@
             {% for article in articles %}
             <div class="article-card">
               <div class="content">
-                <h3>{{article.title}}</h3>
+                <h3 class="button">{{article.title}}</h3>
                 <p>{{article.location}}, {{article.date}}</p>
               </div>
               <div class="info">
                 <div>
-                  <h4>{{artic.author}}</h4>
+                  <h4 class="button">{{artic.author}}</h4>
                   <p>{{article.author}}</p>
                 </div>
-                <a href="{{article.link}}" target="_blank" class="readmore">{{artic.read}}</a>
+                <a href="{{article.link}}" target="_blank" class="readmore button">{{artic.read}}</a>
               </div>
             </div>
             {%endfor%}
@@ -63,7 +63,7 @@
       </div>
     </div>
     <div class="accordion">
-      <button class="acc-header" data-target="audio_accordion">
+      <button class="acc-header button" data-target="audio_accordion">
         {% assign lang = page.lang %} {% assign title =
         site.data.media[lang].audio.title %}
         <span class="label container"> {{title}} </span>
@@ -82,7 +82,7 @@
               </div>
               <div class="content">
                 <div class="info">
-                  <h3 class="play-name">{{play.name}}</h3>
+                  <h3 class="play-name button">{{play.name}}</h3>
                   <p class="play-credits">
                     {{play.album}}
                     <span class="play-credits">Credits: {{play.credits}}</span>

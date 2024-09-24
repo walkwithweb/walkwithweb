@@ -316,16 +316,14 @@ services:
       id: "workshop"
       points:
         - name: "With stakeholders e.g.
-                    With design professionals
-                    With planning professionals
-                    With policy makers
-                    With sound artists
-                    With general public"
-        - name: "Using 
-                    tangible design aids e.g. worksheets
-                    Using immersive / embodied methods e.g. VR simulation, soundwalks,"
-        - name: listening exercises 
-                    Using innovative approaches e.g. empathy-building exercises
+                    <br>With design professionals
+                    <br>With planning professionals
+                    <br>With policy makers
+                    <br>With sound artists
+                    <br>With general public"
+        - name: "Using tangible design aids e.g. worksheets"
+        - name: "Using immersive / embodied methods e.g. VR simulation, soundwalks,listening exercises"
+        - name: "Using innovative approaches e.g. empathy-building exercises"
     - name: "Knowledge mobilization"
       id: "knowledge"
       points:
@@ -383,15 +381,11 @@ contact:
   contact:
     title: "Noise Regulation Database"
     links:
-      - name: "To contribute to the noise regulation database, please send your documentation to"
-      - name: "catherine.guastavino@mcgill.ca"
-        url: "#"
+      - name: 'To contribute to the noise regulation database, please send your documentation to<br> <a href="mailto:catherine.guastavino@mcgill.ca">catherine.guastavino@mcgill.ca</a>'
   address:
     title: "MAILING ADDRESS"
     location:
-      - name: "School of Information Studies McGill University"
-      - name: "3661 Peel Street,"
-      - name: "Montreal, QC (Canada) H3A 1X1"
+      - name: "School of Information Studies McGill University<br>3661 Peel Street,<br>Montreal, QC (Canada) H3A 1X1"
 
 footer: 
   location:
