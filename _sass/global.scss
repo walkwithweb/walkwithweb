@@ -6,6 +6,7 @@ $body-color: #fff;
 $font-family: "Lato", sans-serif;
 $font-size: 18px;
 $font-weight: 400;
+$font-style: normal;
 $line-height: 160%;
 // Headline 
 $heading-font-size: 115px;
@@ -59,6 +60,7 @@ body {
   font-family: $font-family;
   font-size: $font-size;
   font-weight: $font-weight;
+  font-style: $font-style;
   line-height: $line-height;
   color: $black;
   background-color: $body-color;
@@ -74,6 +76,7 @@ body {
   font-size: 44px;
   line-height: 46px;
   text-transform: uppercase;
+  font-style: $font-style;
 }
 
 .button {
@@ -81,7 +84,12 @@ body {
   line-height: $button-line-height;
   letter-spacing: $button-letter-spacing;
   font-weight: $button-font-weight;
+  font-style: $font-style;
   text-transform: uppercase;
+
+  span {
+    font-family: $font-family;
+  }
 }
 
 @media(min-width: $mobile_screen) {
