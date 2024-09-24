@@ -93,7 +93,7 @@ body {
 }
 
 @media(max-width: $small_max_screen){
-  .acc-header.button {
+  .acc-header.button, .slider-hdr.button {
     font-size: 14px;
   }
 }
@@ -124,10 +124,6 @@ body {
   font-size: 16px;
   letter-spacing: 2px;
   line-height: 24px;
-}
-
-.tab {
-  text-indent: 50px;
 }
 
 #nav {
