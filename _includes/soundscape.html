@@ -12,7 +12,7 @@
           <div class="card-content">
             <img src="{{ card.img_src }}" alt="{{ card.subtitle }}">
             <div class="card-divider"></div>
-            <div class="card-title">{{ card.subtitle }}</div>
+            <div class="card-title button">{{ card.subtitle }}</div>
             <div class="card-text">{{ card.description }}</div>
           </div>
         </div>
@@ -25,7 +25,7 @@
           <div class="card-content">
             <img src="{{ card.img_src }}" alt="{{ card.subtitle }}">
             <div class="card-divider"></div>
-            <div class="card-title">{{ card.subtitle }}</div>
+            <div class="card-title button">{{ card.subtitle }}</div>
             <div class="card-text">{{ card.description }}</div>
           </div>
         </div>
@@ -47,7 +47,7 @@
         </div>
         <div class="content">
           <div class="info">
-            <h3 class="play-name">{{play.name}}</h3>
+            <h3 class="play-name button">{{play.name}}</h3>
             <p class="play-credits">
               {{play.album}}
               <i class="play-credits">Credits: {{play.credits}}</i>
@@ -68,30 +68,12 @@
       <div class="steps-wrapper">
         {% for step in t.steps %}
         <div class="step">
-          <h3 class="title">{{step.id}}</h3>
+          <h3 class="title heading">{{step.id}}</h3>
           <p class="info">
             {{step.title}}
           </p>
         </div>
         {% endfor %}
-        <!-- <div class="step">
-          <h3 class="title">2</h3>
-          <p class="info">
-            Noise is the second worst environmental risk factor (after air pollution).
-          </p>
-        </div>
-        <div class="step">
-          <h3 class="title">3</h3>
-          <p class="info">
-            Quality sound environments can help relieve stress.
-          </p>
-        </div>
-        <div class="step">
-          <h3 class="title">4</h3>
-          <p class="info">
-            Sound can animate public space.
-          </p>
-        </div> -->
       </div>
     </div>
   </div>

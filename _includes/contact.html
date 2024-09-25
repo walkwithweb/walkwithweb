@@ -3,7 +3,7 @@
     <h1 class="heading title">{{t.title}}</h1>
     <div class="content">
       {% assign team = t.team%}
-      <h3>{{team.title}}</h3>
+      <h3 class="button">{{team.title}}</h3>
       <div class="row">
         {% for member in team.members %}
         <div class="col">
@@ -22,7 +22,7 @@
     </div>
     <div class="content">
       {% assign contact = t.contact%}
-      <h3>{{contact.title}}</h3>
+      <h3 class="button">{{contact.title}}</h3>
       {% for link in contact.links %}
       <p>
         {% if link.url %}
@@ -34,7 +34,7 @@
     </div>
     <div class="content">
       {% assign address = t.address%}
-      <h3>{{address.title}}</h3>
+      <h3 class="button">{{address.title}}</h3>
       {% for location in address.location %}
       <p>{{ location.name }}</p>
       {%endfor%}

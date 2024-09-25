@@ -52,7 +52,6 @@ document.addEventListener("DOMContentLoaded", function () {
   /* SCROLL TO TOP */
   const scrollToTopButton = document.getElementById('scroll-top');
   if(scrollToTopButton){
-    console.log("Found it");
     
     window.addEventListener('scroll', function () {
       if (window.scrollY > window.innerHeight/2) {

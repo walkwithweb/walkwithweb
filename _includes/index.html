@@ -4,20 +4,23 @@
   </div>
   <div class="slider">
     <div class="slider1" id="slider1">
-      {% for slide in t.slides %}
-      <div class="slide">
-        <a href="{{slide.url}}">
-          <img src="{{slide.image}}" alt="{{slide.title}}" />
-        </a>
-        <div class="slide-content">
-          <a class="slider-links" href="{{slide.url}}">
-            <h2>{{slide.title}}</h2>
-            <p>{{slide.description}}</p>
+      {% assign lang = page.lang %}
+      {% assign random_projects = site.data.projects[lang] | sort: 'end-date' | reverse | slice: 0,5 %}
+      {% for slide in random_projects %}
+        <div class="slide">
+          <a href="projects/{{slide.url}}">
+            <img src="{{slide.image}}" alt="{{slide.title}}" />
           </a>
+          <div class="slide-content">
+            <a class="slider-links" href="projects/{{slide.url}}">
+              <h2 class="slider-hdr button">{{slide.title}}</h2>
+              <p>{{slide.description}}</p>
+            </a>
+          </div>
         </div>
-      </div>
-      {%endfor%}
+      {% endfor %}
     </div>
+
     <div class="slick-prev">
       <img
         src="/assets/images/icons/arrow-left-black.svg"
@@ -51,7 +54,7 @@
         {{ t.cities }} <br />
         {{ t.sound }}
       </h1>
-      <h4>{{t.notbad}}</h4>
+      <h4 class="button">{{t.notbad}}</h4>
       <p>{{t.description}}</p>
     </div>
   </div>
@@ -59,7 +62,7 @@
 <div class="accordions">
   {% for item in t.accordions %}
   <div class="accordion">
-    <button class="acc-header" data-target="{{ item.id }}">
+    <button class="acc-header button" data-target="{{ item.id }}">
       <span class="label container">{{ item.title }}</span>
       <span class="icon"></span>
     </button>
@@ -80,7 +83,7 @@
       <a href="./about.html">
       <div class="overlay">
         <img src="/assets//images/icons/eye.svg" alt="" class="icon" />
-        <p>{{t.discover}}</p>
+        <p class="button">{{t.discover}}</p>
       </div>
       </a>
       <!-- Assuming 6 images, 3 in each row for card1 -->
@@ -89,7 +92,7 @@
     </div>
     
     <div class="card-footer border-t border-l">
-      <h3>{{t.who}}</h3>
+      <h3 class="button">{{t.who}}</h3>
       <p>{{t.meet}}</p>
     </div>
   </div>
@@ -98,13 +101,13 @@
       <a href="./projects/">
       <div class="overlay">
         <img src="/assets/images/icons/eye.svg" alt="" class="icon" />
-        <p>{{t.view}}</p>
+        <p class="button">{{t.view}}</p>
       </div>
       </a>
       <img src="/assets/images/findings.png" alt="" />
     </div>
     <div class="card-footer border-b border-r">
-      <h3>{{t.funding}}</h3>
+      <h3 class="button">{{t.funding}}</h3>
     </div>
   </div>
 </div>

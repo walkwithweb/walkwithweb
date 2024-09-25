@@ -10,14 +10,14 @@
   collaborators: "City of Montreal (Arrondissement Plateau-Mont-Royal)"
   name: "TERRASSES ROY"
   tags:
-    - name: pedestrianization
-      id: 'pedestrianizationTAGS'
-    - name: soundscape evaluation
-      id: 'soundscape_evaluation'
-    - name: City of Montreal
-      id: 'city_of_montreal'
-    - name: public space
+    - name: 'public space'
       id: 'public_space'
+    - name: 'pedestrianization'
+      id: 'pedestrianization'
+    - name: 'soundscape evaluation'
+      id: 'soundscape_evaluation'
+    - name: 'City of Montreal'
+      id: 'city_of_montreal'
   before:
     - image: '/assets/images/projects/Roy/Roy1.jpg'
       credits: 'Maryse Lavoie'
@@ -54,21 +54,21 @@
   collaborators: "Thomas Dupont (ETS), Johanne Brochu and F. Hubert (ULaval)"
   name: "Noise policy guidelines: Valeurs Guides"
   tags:
-    - name: noise policy   
-      id: 'noise_policy'
-    - name: environmental noise
-      id: 'env_noise'
-    - name: policy and planning
+    - name: 'policy and planning'
       id: 'policy_and_planning'
-    - name: policy review
+    - name: 'noise policy'   
+      id: 'noise_policy'
+    - name: 'environmental noise'
+      id: 'env_noise'
+    - name: 'policy review'
       id: 'policy_review'
-    - name: best practices
+    - name: 'best practices'
       id: 'best_prac'
-    - name: noise limit
+    - name: 'noise limit'
       id: 'noise_limit'
-    - name: urban design
+    - name: 'urban design'
       id: 'urban_design'
-    - name: urban planning 
+    - name: 'urban planning' 
       id: 'urban_planning'
   before:
     - image: '/assets/images/projects/ValeursGuide/VG1.png'
@@ -113,16 +113,16 @@
   collaborators: "City of Montreal (Arrondissement Plateau-Mont-Royal) "
   name: "The (water) misters of Fleurs de Macadam"
   tags:
-    - name: public space
+    - name: 'public space'
       id: 'public_space'
-    - name: water feature
+    - name: 'water feature'
       id: 'water_feature'
-    - name: City of Montreal
+    - name: 'City of Montreal'
       id: 'city_of_montreal'
-    - name: pocket park
+    - name: 'pocket park'
       id: 'pocket_park'
   before:
-    - image: '/assets/images/projects/Fleurs_De_Macadam_misters/mister_locations.jpeg'
+    - image: '/assets/images/projects/Fleurs_de_Macadam_misters/mister_locations.jpeg'
       credits: 'Castor et Pollux'
       alt: ""
   after:
@@ -153,13 +153,15 @@
   collaborators: "Société des arts technologiques, ARUP"
   name: "Co-designing soundscapes of public spaces"
   tags:
-    - name: workshop
+    - name: 'simulation'
+      id: 'simulation'
+    - name: 'workshop'
       id: 'workshop'
-    - name: participatory design
+    - name: 'participatory design'
       id: 'participatory_design'
-    - name: sound planning tools
+    - name: 'sound planning tools'
       id: 'sound_planning_tools'
-    - name: professionals of the built environment
+    - name: 'professionals of the built environment'
       id: 'professionals_of_the_built_env'
   before:
     - image: ''
@@ -187,20 +189,22 @@
   location: ""
   date: "2015 – 2023"
   start-date: "2015"
-  end-date: "ongoing"
+  end-date: "2023"
   image: "/assets/images/projects/translation/TranslationCCommons.jpeg"
   url: "project5"
   fundings: "SSHRC-PDG grant"
   collaborators: "City of Montreal (Arrondissement Plateau-Mont-Royal)"
   name: "TRANSLATING SOUNDSCAPE SCALES"
   tags:
-    - name: research instrument
+    - name: 'policy and planning'
+      id: 'policy_and_planning'
+    - name: 'research instrument'
       id: 'research_instrument'
-    - name: best practices
+    - name: 'best practices'
       id: 'best_practices'
-    - name: translation
+    - name: 'translation'
       id: 'translation'
-    - name: soundscape scale
+    - name: 'soundscape scale'
       id: 'soundscape_scale'
   before:
     - image: '/assets/images/projects/translation/translation.jpg'
@@ -243,14 +247,16 @@
   collaborators: 'Institut du Tourisme et d’Hôtellerie du Québec (ITHQ), Saint-Gobain Research'
   name: WHAT SHOULD A RESTAURANT SOUND LIKE?
   tags:
-    - name: indoor soundscape
-      id: indoor_soundscape
-    - name: soundscape evaluation
-      id: soundscape_evaluation
-    - name: acoustic treatment
-      id: acoustic_treatment
-    - name: ITHQ
-      id: ithq
+    - name: 'indoor space'
+      id: 'indoor_space'
+    - name: 'indoor soundscape'
+      id: 'indoor_soundscape'
+    - name: 'soundscape evaluation'
+      id: 'soundscape_evaluation'
+    - name: 'acoustic treatment'
+      id: 'acoustic_treatment'
+    - name: 'ITHQ'
+      id: 'ithq'
   before:
     - image: '/assets/images/projects/restaurant/restaurant-ithq-sherbrooke-montreal-13.jpg'
       credits: 'ITHQ'
@@ -291,18 +297,20 @@
   collaborators: 'CIRMMT, Ville de Montréal'
   name: 'PROTOTYPING A CODESIGN SOUND SKETCHPAD'
   tags:
+    - name: 'simulation'
+      id: 'simulation'
     - name: 'soundscape design'
-      id: soundscape_design
+      id: 'soundscape_design'
     - name: 'urban practice'
-      id: urban_practice
+      id: 'urban_practice'
     - name: 'professionals of the built environment'
-      id: professionals_of_the_built_env
+      id: 'professionals_of_the_built_env'
     - name: 'soundscape simulator'
-      id: soundscape_simulator
+      id: 'soundscape_simulator'
     - name: 'co-design'
-      id: co_design
+      id: 'co_design'
     - name: 'prototype'
-      id: prototype 
+      id: 'prototype' 
   before:
     - image: "/assets/images/projects/Codesign_sketch_pad/SOUNDSCAPESIMULATOR.png"
       credits: 'Grégoire Blanc'
@@ -341,9 +349,11 @@
   collaborators: "Quartier des spectacles"
   name: "COVID-19 AND SOUND"
   tags:
-    - name: COVID-19
+    - name: 'policy and planning'
+      id: 'policy_and_planning' 
+    - name: 'COVID-19'
       id: 'covid_19'
-    - name: quiet
+    - name: 'quiet'
       id: 'quiet'
     - name: 'Quartier des Spectacles'
       id: 'quartier_des_spectacles'
@@ -413,11 +423,11 @@
   collaborators: "City of Montreal (Arrondissement Plateau-Mont-Royal)"
   name: "Context matters"
   tags:
-    - name: public space
+    - name: 'public space'
       id: 'public_space'
-    - name: soundscape evaluation
+    - name: 'soundscape evaluation'
       id: 'soundscape_evaluation'
-    - name: context
+    - name: 'context'
       id: 'context'
   before:
     - image: '/assets/images/projects/context_matters/P1060338_CreditCatherineGuastavino.JPG'
@@ -463,19 +473,19 @@
   collaborators: "Università Iuav di Venezia"
   name: "Sonic inquiry in Urban Research"
   tags:
-    - name: urban atmosphere
+    - name: 'urban atmosphere'
       id: 'urban_atmosphere'
-    - name: policy analysis
+    - name: 'policy analysis'
       id: 'policy_analysis'
-    - name: policy and planning
+    - name: 'policy and planning'
       id: 'policy_and_planning'
-    - name: participatory design
+    - name: 'participatory design'
       id: 'participatory_design'
-    - name: sound art
+    - name: 'sound art'
       id: 'sound_art'
-    - name: public space
+    - name: 'public space'
       id: 'public_space'
-    - name: Venice
+    - name: 'Venice'
       id: 'venice'
   before:
     - image: '/assets/images/projects/soninurb/Soninurb.jpg'
@@ -512,19 +522,21 @@
   collaborators: "The City of Montreal (Service of Economic Development) and Montreal’s Public Health Agency (DRSP) "
   name: "Recreation vs. Residence: Sonic Cohabitation in downtown Montreal (ListenUpMTL / ÉcoutezMTL)"
   tags:
-    - name: ListenUpMTL
+    - name: 'public space'
+      id: 'public_space'
+    - name: 'ListenUpMTL'
       id: 'listenupmtl'
-    - name: sonic cohabitation
+    - name: 'sonic cohabitation'
       id: 'sonic_cohabitation'
-    - name: pedestrianization
-      id: 'pedestrianizationTAGS'
-    - name: entertainment district
+    - name: 'pedestrianization'
+      id: 'pedestrianization'
+    - name: 'entertainment district'
       id: 'entertainment_district'
-    - name: Quartier des Spectacles
+    - name: 'Quartier des Spectacles'
       id: 'quartier_des_spectacles'
-    - name: City of Montreal
+    - name: 'City of Montreal'
       id: 'city_of_montreal'
-    - name: DRSP
+    - name: 'DRSP'
       id: 'drsp'
   before:
     - image: '/assets/images/projects/recreation_v_residence/ListenUp.jpg'
@@ -563,21 +575,21 @@
   collaborators: "The City of Montreal (Service of Economic Development), Montreal’s Public Health Agency (DRSP), Observatoire des Milieux de Vie urbains (OMV-UQAM), Montreal Port authority, other collaborators"
   name: ""
   tags:
-    - name: residents
-      id: 'residents'
-    - name: soundwalks
-      id: 'soundwalks'
-    - name: noise pollution
-      id: 'noise_pollution'
-    - name: public policy
-      id: 'public_policy'
-    - name: policy and planning
+    - name: 'policy and planning'
       id: 'policy_and_planning'
-    - name: sonic cohabitation
+    - name: 'residents'
+      id: 'residents'
+    - name: 'soundwalks'
+      id: 'soundwalks'
+    - name: 'noise pollution'
+      id: 'noise_pollution'
+    - name: 'public policy'
+      id: 'public_policy'
+    - name: 'sonic cohabitation'
       id: 'sonic_cohabitation'
-    - name: City of Montreal
+    - name: 'City of Montreal'
       id: 'city_of_montreal'
-    - name: DRSP
+    - name: 'DRSP'
       id: 'drsp'
   before:
     - image: '/assets/images/projects/industry_v_residence/Port-port.jpeg'
@@ -617,6 +629,8 @@
   collaborators: "The City of Montreal (Service of Economic Development), Montreal’s Public Health Agency (DRSP), École de Technologie Superieure, Quartier des Spectacles Partnership, other collaborators"
   name: "What’s next for nightlife and night noise in Montreal?"
   tags:
+    - name: 'policy and planning'
+      id: 'policy_and_planning'
     - name: 'nightlife'
       id: 'nightlife'
     - name: 'stakeholder'
@@ -672,19 +686,21 @@
   collaborators: "Quartier des Spectacles Partnership"
   name: "THE SOUNDS OF QUARTIER DES SPECTACLES"
   tags:
-    - name: entertainment district
+    - name: 'public space'
+      id: 'public_space'
+    - name: 'entertainment district'
       id: 'entertainment_district'
-    - name: resident
+    - name: 'resident'
       id: 'resident'
-    - name: festival
+    - name: 'festival'
       id: 'festival'
-    - name: recreational noise
+    - name: 'recreational noise'
       id: 'recreational_noise'
-    - name: sonic cohabitation
+    - name: 'sonic cohabitation'
       id: 'sonic_cohabitation'
-    - name: Quartier des Spectacles
+    - name: 'Quartier des Spectacles'
       id: 'quartier_des_spectacles'
-    - name: aging
+    - name: 'aging'
       id: 'aging'
   before:
     - image: '/assets/images/projects/Quartier_des_Spectacles/Place_des_arts_08.jpg'
@@ -724,15 +740,15 @@
   collaborators: "Institut de Recherche et Coordination Acoustique/Musique (IRCAM), Nadine Schütz, (((echora))), Nicolas Misdariis, Coralie Vincent, Marcelo Wanderley, City of Paris, Bruitparif, CIRMMT"
   name: "SOUND ART IN PUBLIC SPACES: NICHES ACOUSTIQUES"
   tags:
-    - name: public space
+    - name: 'public space'
       id: 'public_space'
-    - name: sound installation
+    - name: 'sound installation'
       id: 'sound_installation'
-    - name: sound art
+    - name: 'sound art'
       id: 'sound_art'
-    - name: soundscape simulation
+    - name: 'soundscape simulation'
       id: 'soundscape_simulation'
-    - name: Paris
+    - name: 'Paris'
       id: 'paris'
   before:
     - image: '/assets/images/projects/Niches_acoustiques/XP1_panorama.jpg'
@@ -773,17 +789,17 @@
   collaborators: "Institut de Recherche et Coordination Acoustique/Musique (IRCAM), Paysages studio, Charles Montambault, Marcelo Wanderley, CIRMMT"
   name: "SOUND ART IN PUBLIC SPACES: LES MADELINÉENNES"
   tags:
-    - name: public space
+    - name: 'public space'
       id: 'public_space'
-    - name: sound installation
+    - name: 'sound installation'
       id: 'sound_installation'
-    - name: sound art
+    - name: 'sound art'
       id: 'sound_art'
-    - name: soundscape simulation
+    - name: 'soundscape simulation'
       id: 'soundscape_simulation'
-    - name: Montreal
+    - name: 'Montreal'
       id: 'montreal'
-    - name: cultural heritage
+    - name: 'cultural heritage'
       id: 'cultural_heritage'
   before:
     - image: '/assets/images/projects/les_madelinennes/230711_Parc-Madelinots_006.jpg'
@@ -822,19 +838,19 @@
   collaborators: "Parish of Saint-Pierre-Apôtre, St. Peter and St. Paul Russian Orthodox Cathedral (Centre Sud), Parishes of Très-Saint-Nom-de-Jésus and La Nativité-de-la-Sainte-Vierge d’Hochelaga, diocesan officials for the church of Très-Saint-Rédempteur (Hochelaga-Maisonneuve)"
   name: "CHURCHES AS PLACES OF RESTORATION"
   tags:
-    - name: Indoor spaces
-      id: 'indoor_spaces'
-    - name: sensory experience
+    - name: 'indoor space'
+      id: 'indoor_space'
+    - name: 'sensory experience'
       id: 'sensory_experience'
-    - name: sound experience
+    - name: 'sound experience'
       id: 'sound_experience'
-    - name: restorative environment
+    - name: 'restorative environment'
       id: 'restorative_environment'
-    - name: indoor soundscape
+    - name: 'indoor soundscape'
       id: 'indoor_soundscape'
-    - name: church soundscape
+    - name: 'church soundscape'
       id: 'church_soundscape'
-    - name: Montréal
+    - name: 'Montréal'
       id: 'montreal'
   before:
     - image: '/assets/images/projects/Church_Restoration/ChurchRestor_MAIN_SPA_IMG_1920.JPG'
@@ -877,11 +893,11 @@
   collaborators: "Romain Dumoulin, Jeremie Voix"
   name: "MUSIKIOSK"
   tags:
-    - name: public space
+    - name: 'public space'
       id: 'public_space'
-    - name: pocket park
+    - name: 'pocket park'
       id: 'pocket_park'
-    - name: sound installation
+    - name: 'sound installation'
       id: 'sound_installation'
   before:
     - image: '/assets/images/projects/Musikiosk/Musikiosk_PduPortugal.jpg'
@@ -930,13 +946,13 @@
   collaborators: "Audiotopie, City of Montreal (Arrondissement Plateau Mont-Royal)"
   name: "Fleurs-de-Macadam"
   tags:
-    - name: public space
+    - name: 'public space'
       id: 'public_space'
-    - name: sound installation
+    - name: 'sound installation'
       id: 'sound_installation'
-    - name: sound art
+    - name: 'sound art'
       id: 'sound_art'
-    - name: pocket park
+    - name: 'pocket park'
       id: 'pocket_park'
   before:
     - image: '/assets/images/projects/Fleurs_de_Macadam_sound_art/Place_Fleurs_des_Macadam_8.jpg'
@@ -984,28 +1000,28 @@
   collaborators: "University of Amsterdam, City of Montreal, Goethe Institute, CIRMMT, Coeur des Sciences, Trames Sonores"
   name: "Soundwalks"
   tags:
-    - name: public outreach
+    - name: 'public outreach'
       id: 'public_outreach'
-    - name: public space
+    - name: 'public space'
       id: 'public_space'
-    - name: soundwalk
+    - name: 'soundwalk'
       id: 'soundwalk'
-    - name: education
+    - name: 'education'
       id: 'education'
-    - name: knowledge mobilization
+    - name: 'knowledge mobilization'
       id: 'knowledge_mobilization'
-    - name: Boston
+    - name: 'Boston'
       id: 'boston'
-    - name: Montreal
+    - name: 'Montreal'
       id: 'montreal'
-    - name: Amsterdam
+    - name: 'Amsterdam'
       id: 'amsterdam'
   before:
-    - image: '/assets/images/projects/soundwalks/soundwalks2018_CTa.jpeg'
+    - image: '/assets/images/projects/Soundwalks/soundwalks2018_CTa.jpeg'
       credits: 'Cynthia Tarlao'
       alt: "Participants during a soundwalk before the project started"
   after:
-    - image: '/assets/images/projects/soundwalks/DSC_0142.jpg'
+    - image: '/assets/images/projects/Soundwalks/DSC_0142.jpg'
       credits: 'Cynthia Tarlao'
       alt: "Participants during a soundwalk after the project implementation"
   brief: "Immersive strategies like soundwalks encourage sound awareness and show how many distinct and diverse environments there are in the city.<br><br>Soundwalks can take many forms and can be excellent educational tools for professionals and the broader community alike."
@@ -1041,15 +1057,15 @@
   collaborators: "University of Amsterdam, City of Montreal, Goethe Institute, CIRMMT, Trames Audio, Audiotopie"
   name: "Engaging Sound"
   tags:
-    - name: public outreach
+    - name: 'public outreach'
       id: 'public_outreach'
-    - name: public space
+    - name: 'public space'
       id: 'public_space'
-    - name: soundwalk
+    - name: 'soundwalk'
       id: 'soundwalk'
-    - name: workshop
+    - name: 'workshop'
       id: 'workshop'
-    - name: knowledge mobilization
+    - name: 'knowledge mobilization'
       id: 'knowledge_mobilization'
   before:
     - image: '/assets/images/projects/Engaging_professionals/IMG_8504.JPG'
@@ -1095,11 +1111,13 @@
   collaborators: "Direction régionale de la santé publique de Montréal"
   name: "Sonic Injustice"
   tags:
-    - name: noise
+    - name: 'policy and planning'
+      id: 'policy_and_planning'
+    - name: 'noise'
       id: 'noise'
-    - name: sound
+    - name: 'sound'
       id: 'sound'
-    - name: equity
+    - name: 'equity'
       id: 'equity'
   before:
     - image: '/assets/images/projects/sonic_injustice/Railyards.jpg'
@@ -1135,19 +1153,19 @@
   collaborators: "Ying-Ying Zhang and Gianluca Grazioli (McGill Sound Recording PhD candidates); Darcy Tyler (Cognitive Sciences undergraduate research assistant)"
   name: "Richard Yanaky"
   tags:
-    - name: "Simulation"
+    - name: "simulation"
       id: "simulation"
-    - name: "Sound Awareness"
+    - name: "sound awareness"
       id: "sound_awareness"
-    - name: "Human-Computer Interaction"
+    - name: "human-computer interaction"
       id: "hci"
-    - name: "User-Centered Design"
+    - name: "user-centered design"
       id: "user_centered_design"
-    - name: "Professionals of the Built Environment"
+    - name: "professionals of the built environment"
       id: "pbe"
-    - name: "Rapid Prototyping"
+    - name: "rapid prototyping"
       id: "rapid_prototyping"
-    - name: "Emerging Technologies"
+    - name: "emerging technologies"
       id: "emerging_technologies"
   before:
     - image: '/assets/images/projects/City_Ditty/CityDitty-Cafe.png'
@@ -1208,13 +1226,15 @@
   collaborators: "Olivier Robin, Tamara Krpic, Madeleine Guastavino, Marina León"
   name: "Catherine Guastavino"
   tags:
-    - name: "Knowledge Mobilization"
+    - name: 'public outreach'
+      id: 'public_outreach'
+    - name: "knowledge mobilization"
       id: "knowledge_mobilization"
     - name: "Montreal"
       id: "montreal"
-    - name: "Comics"
+    - name: "comics"
       id: "comics"
-    - name: "Education"
+    - name: "education"
       id: "education"
   before:
     - image: '/assets/images/projects/illustrating_soundscape/IMG_1367.jpeg'
@@ -1268,6 +1288,8 @@
   collaborators: ""
   name: ""
   tags: 
+    - name: 'policy and planning' 
+      id: 'policy_and_planning'
     - name: "soundscape"
       id: "soundscape"
     - name: "walkability"
@@ -1318,6 +1340,8 @@
   collaborators: "Richard Yanaky, Catherine Guastavino"
   name: ""
   tags: 
+    - name: "simulation"
+      id: 'simulation'
     - name: "sound-related evaluation"
       id: "sound_related_evaluation"
     - name: "psychological outcomes"

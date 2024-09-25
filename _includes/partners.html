@@ -3,7 +3,7 @@
     <h1 class="heading title">{{t.title}}</h1>
     <div class="content">
         {% assign city = t.city%}
-        <h3>{{city.title}}</h3>
+        <h3 class="button">{{city.title}}</h3>
         {% for link in city.links %}
         <p>
             {% if link.url %}
@@ -16,7 +16,7 @@
     </div>
     <div class="content">
         {% assign organization = t.organization%}
-        <h3>{{organization.title}}</h3>
+        <h3 class="button">{{organization.title}}</h3>
         {% for link in organization.links %}
         <p>
             {% if link.url %}
@@ -29,7 +29,7 @@
     </div>
     <div class="content">
         {% assign funding = t.funding%}
-        <h3>{{funding.title}}</h3>
+        <h3 class="button">{{funding.title}}</h3>
         {% for link in funding.links %}
         <p>
             {% if link.url %}

@@ -23,31 +23,6 @@ index:
       id: "home-accordion-3"
       description: "Ville Sonore se sert de Montréal comme d’un laboratoire vivant pour la recherche sur les ambiances sonors en collaboration avec une diversité de parties prenantes des secteurs public et privé ainsi que du grand public. Dans l’élan des chantiers réglementaires au Québec et au Canada, nous avons mis en place un partenariat intersectoriel pour contribuer à une fabrique de la ville plus équitable, favorable à la santé, et sensible au sonore."
       image: "/assets/images/accordions/home/1.png"
-  slides:
-    - title: "Des balades sonores pour intéresser les professionnel·les et le grand public aux questions sonores"
-      description: "Utiliser les balades sonores immersives pour sensibiliser au sonore et cultiver l'empathie parmi les professionnel·les et le grand public"
-      image: "/assets/images/projects/Soundwalks/DSC_0142.jpg"
-      url: "projects/project20"
-    - title: "Intéresser les professionnel·les en urbanisme et le grand public au sonore"
-      description: "Des stratégies pour mobiliser les connaissances liées au sonore dans la pratique et le discours public"
-      image: "/assets/images/projects/Engaging_professionals/IMG_8504.JPG"
-      url: "projects/project21"
-    - title: "De votre domicile à votre espace vert local ; Ce que vous entendez entre les deux ?"
-      description: "Ambiance sonore des espaces verts accessibles à pied, une approche cartographique participative"
-      image: "/assets/images/projects/GreenSpaceWalkingAccess/GreenSpaceNoiseNeighbourhood.jpeg"
-      url: "projects/project25"
-    - title: "L’art sonore dans les espaces publics : Les Madelinéennes"
-      description: "Son et patrimoine culturel dans l'espace public : évaluation d'une installation sonore avec la communauté locale"
-      image: "/assets/images/projects/les_madelinennes/230711_Parc-Madelinots_006.jpg"
-      url: "projects/project16"
-    - title: "Activités industrielles vs résidentielles : Cohabitation sonore dans Assomption Sud-Longue Pointe"
-      description: "Étudier la cohabitation sonore autour du port de Montréal"
-      image: "/assets/images/projects/industry_v_residence/Port-port.jpeg"
-      url: "projects/project12"
-    - title: "L'art sonore dans les espaces publics : Niches Acoustiques"
-      description: "Informer la conception de l'art sonore dans un espace public parisien grâce à des simulations d’ambiances sonores"
-      image: "/assets/images/projects/Niches_acoustiques/XP1_panorama.jpg"
-      url: "projects/project15"
 
 about:
   title: "À propos de nous"
@@ -244,9 +219,9 @@ blogs:
  
 
 events:
-  title: "EVENTS ARCHIVES"
+  title: "ARCHIVES DES ÉVÉNEMENTS"
   placeholder: "Recherche"
-  description: "This archive has French and English content and may not be available in both languages."
+  description: "Ceci est une archive des événements précédents de Sounds in the City."
   time: 'TIME'
   location: 'LOCATION'
   language: 'LANGUAGE'
@@ -296,16 +271,14 @@ services:
       id: "atelier"
       points:
         - name: "Avec les parties prenantes, par exemple :
-                    Avec les professionnels du design
-                    Avec les professionnels de l'urbanisme
-                    Avec les décideurs politiques
-                    Avec les artistes sonores
-                    Avec le grand public"
-        - name: "En utilisant 
-                    des outils de conception tangibles, par exemple, des fiches de travail
-                    des méthodes immersives/incarnées, par exemple, des simulations VR, des soundwalks"
-        - name: "Exercices d'écoute 
-                    En utilisant des approches innovantes, par exemple, des exercices de développement de l'empathie"
+                    <br>Avec les professionnels du design
+                    <br>Avec les professionnels de l'urbanisme
+                    <br>Avec les décideurs politiques
+                    <br>Avec les artistes sonores
+                    <br>Avec le grand public"
+        - name: "En utilisant des outils de conception tangibles, par exemple, des fiches de travail"
+        - name: "En utilisant des méthodes immersives/incarnées, par exemple, des simulations VR, des soundwalks, exercices d'écoute"
+        - name: "En utilisant des approches innovantes, par exemple, des exercices de développement de l'empathie"
     - name: "Mobilisation des connaissances"
       id: "connaissance"
       points:
@@ -405,15 +378,11 @@ contact:
   contact:
     title: "Base de données sur la réglementation du bruit"
     links:
-      - name: "Pour contribuer à la base de données sur la réglementation du bruit, veuillez envoyer votre documentation à"
-      - name: "catherine.guastavino@mcgill.ca"
-        url: "#"
+      - name: 'Pour contribuer à la base de données sur la réglementation du bruit, veuillez envoyer votre documentation à<br><a href="mailto:catherine.guastavino@mcgill.ca">catherine.guastavino@mcgill.ca</a>'
   address:
     title: "ADRESSE POSTALE"
     location:
-      - name: "École d'études en information Université McGill"
-      - name: "3661 rue Peel,"
-      - name: "Montréal, QC (Canada) H3A 1X1"
+      - name: "École d'études en information Université McGill<br>3661 rue Peel,<br>Montréal, QC (Canada) H3A 1X1"
 
 footer: 
   location:

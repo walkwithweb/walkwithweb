@@ -2,18 +2,33 @@
 
 $body-bg: #2ea9be;
 $body-color: #fff;
+// Body 
 $font-family: "Lato", sans-serif;
 $font-size: 18px;
-$font-weight: normal;
+$font-weight: 400;
+$font-style: normal;
 $line-height: 160%;
+// Headline 
+$heading-font-size: 115px;
+$heading-font-weight: 500;
+$heading-line-height:100%;
+// Button
+$button-font-size: 16px;
+$button-letter-spacing: 2px;
+$button-font-weight: 700;
+$button-line-height: 160%;
+
 $primary: #FFCC48;
 $dark: #2C2929;
 $grey: #A5A5A5;
+$overlay_grey: #f1f1f1;
 $light_grey: #A5A5A5;
 $black: #000;
 $white: #fff;
 $mobile_screen : 992px;
 $mobile_max_screen : 991px;
+$small_screen : 768px;
+$small_max_screen : 767.98px;
 
 h1,
 h2,
@@ -45,6 +60,7 @@ body {
   font-family: $font-family;
   font-size: $font-size;
   font-weight: $font-weight;
+  font-style: $font-style;
   line-height: $line-height;
   color: $black;
   background-color: $body-color;
@@ -54,19 +70,39 @@ body {
   flex-direction: column;
 }
 
-
+// Font - classes 
 .heading {
-  font-weight: 500;
+  font-weight: $heading-font-weight;
   font-size: 44px;
   line-height: 46px;
   text-transform: uppercase;
+  font-style: $font-style;
+}
+
+.button {
+  font-size: $button-font-size;
+  line-height: $button-line-height;
+  letter-spacing: $button-letter-spacing;
+  font-weight: $button-font-weight;
+  font-style: $font-style;
+  text-transform: uppercase;
+
+  span {
+    font-family: $font-family;
+  }
 }
 
 @media(min-width: $mobile_screen) {
   .heading {
-    font-weight: 500;
-    font-size: 116px;
-    line-height: 120px;
+    font-weight: $heading-font-weight;
+    font-size: $heading-font-size;
+    line-height: $heading-line-height;
+  }
+}
+
+@media(max-width: $small_max_screen){
+  .acc-header.button, .slider-hdr.button {
+    font-size: 14px;
   }
 }
 
@@ -84,31 +120,11 @@ body {
   line-height: 36px;
 }
 
-.text {
-  font-weight: 400;
-  font-size: 14px;
-  letter-spacing: 4%;
-  line-height: 22px;
-}
-
 .text-btn {
   font-weight: 700;
   font-size: 16px;
   letter-spacing: 16%;
   line-height: 16px;
-}
-
-.text-link {
-  font-size: 18px;
-  line-height: 28px;
-  font-weight: 400;
-}
-
-@media(min-width: $mobile_screen) {
-  .text-link {
-    font-size: 20px;
-    line-height: 32px;
-  }
 }
 
 .language {
@@ -417,13 +433,10 @@ body {
       flex-direction: column;
 
       h4 {
-        font-weight: 700;
-        font-size: 14px;
         display: block;
         text-align: center;
         color: $white;
         width: 154px;
-        letter-spacing: 2px;
         margin-bottom: 12px;
       }
 
@@ -527,13 +540,9 @@ body {
       padding: 0;
       width: 100%;
       border: none;
-      height: 80px;
+      min-height: 80px;
       text-align: left;
       outline: none;
-      font-size: 16px;
-      font-weight: 700;
-      line-height: 18px;
-      letter-spacing: 2px;
       align-items: center;
       display: flex;
       justify-content: space-between;
@@ -541,12 +550,6 @@ body {
       border-bottom: 2px solid $black;
       border-bottom: 0;
       position: relative;
-
-      @media (min-width: $mobile_screen) {
-        font-size: 16px;
-        line-height: 40px;
-
-      }
 
       &:hover {
         .icon {
@@ -578,9 +581,12 @@ body {
 
       .label {
         padding: 0 30px;
-        text-transform: uppercase;
-        @media (max-width:768px){
-          max-width:250px;
+        @media (max-width:$small_max_screen){
+          max-width:270px;
+          margin-left:0;
+        }
+        @media (min-width:$small_screen) and (max-width: $mobile_max_screen){
+          max-width:80%;
           margin-left:0;
         }
       }
@@ -637,22 +643,10 @@ body {
       display: flex;
       gap: 6px;
       align-items: baseline;
-
-      p {
-        line-height: 24px;
-        font-size: 16px;
-      }
     }
 
     @media (min-width: $mobile_screen) {
       flex-wrap: nowrap;
-
-      .location,
-      .copy-right {
-        p {
-          font-size: 20px;
-        }
-      }
 
       .location {
         text-align: left;
@@ -665,9 +659,6 @@ body {
 
       .copy-right p {
         text-align: right;
-        font-size: 16px;
-        text-transform: uppercase;
-        font-weight: 700;
       }
     }
   }
@@ -728,23 +719,9 @@ body {
         flex-direction: column;
       }
 
-      h3 {
-        font-size: 14px;
-        line-height: 26px;
-        font-weight: 700;
-        font-family: $font-family;
-        letter-spacing: 2px;
-        text-transform: uppercase;
-        color: $black;
-      }
-
       p,
       i {
         display: block;
-        font-size: 16px;
-        line-height: 26px;
-        font-weight: 400;
-        font-family: $font-family;
         letter-spacing: 2px;
       }
 
@@ -765,15 +742,9 @@ body {
         display: flex;
         justify-content: space-between;
 
-        h3 {
-          font-size: 16px;
-        }
-
         p,
         i {
           display: inline-block;
-          font-size: 20px;
-          line-height: 32px;
         }
       }
 
@@ -989,7 +960,6 @@ body {
     padding: 36px;
     position: relative;
     z-index: 0;
-    background-color: $white;
   }
 
   .overlay {
@@ -999,7 +969,7 @@ body {
     top: 0;
     opacity: 0;
     transition: 0.3s all ease;
-    background-color: $white;
+    background-color: $overlay_grey;
     height: calc(100% - 100px);
     text-overflow: ellipsis;
     width: 100%;
@@ -1008,46 +978,19 @@ body {
     flex-direction: column;
     justify-content: space-between;
     overflow-y: scroll;
-    max-height: 360px;
     @media (min-width: $mobile_screen) {
       max-height: 390px;
     }
   }
 
-  h3 {
-    font-size: 24px;
-    font-weight: 700;
-    line-height: 32px;
-    letter-spacing: 1px;
-  }
-
-  i {
-    font-size: 12px;
-    line-height: 18px;
-  }
-
   p {
-    font-size: 16px;
-    line-height: 24px;
     margin-bottom: 24px;
   }
 
-  @media (min-width: $mobile_screen) {
-    h3 {
-      font-size: 20px;
-      line-height: 40px;
-    }
+}
 
-    i {
-      font-size: 14px;
-      line-height: 24px;
-    }
-
-    p {
-      font-size: 20px;
-      line-height: 32px;
-    }
-  }
+.team-card:hover {
+  background-color: $overlay_grey;
 }
 
 /* TEAM CARD STYLES END'S HERE */

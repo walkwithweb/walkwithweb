@@ -42,7 +42,7 @@
       {% for event in events %}
       <div class="list-item" data-tags="" data-title="{{event.title}}">
         <div class="accordion no-border">
-          <button class="acc-header" data-target="{{event.id}}">
+          <button class="acc-header button" data-target="{{event.id}}">
             <span class="label container"> {{event.title}} </span>
             <span class="icon"></span>
           </button>
@@ -52,19 +52,19 @@
                 <div class="info-wrapper">
                   <div class="col">
                     <div class="content">
-                      <h3>{{ t.time }}</h3>
+                      <h3 class="button">{{ t.time }}</h3>
                       <p>{{ event.date }}</p>
                     </div>
                   </div>
                   <div class="col">
                     <div class="content">
-                      <h3>{{ t.location }}</h3>
+                      <h3 class="button">{{ t.location }}</h3>
                       <p>{{ event.location }}</p>
                     </div>
                   </div>
                   <div class="col">
                     <div class="content">
-                      <h3>{{ t.language }}</h3>
+                      <h3 class="button">{{ t.language }}</h3>
                       <p>{{ event.language }}</p>
                     </div>
                   </div>

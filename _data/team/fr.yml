@@ -15,7 +15,7 @@ staff:
       info: "Nicola Di Croce est chercheur et artiste sonore. Il est titulaire d'un doctorat en Aménagement du territoire et politiques publiques de l'Université Iuav de Venise et a été boursier Marie Sklodowska-Curie à l'Iuav et à l'Université McGill. Sa recherche porte sur la relation entre les études urbaines et les études sonores; il s'intéresse aux approches collaboratives et participatives de l'analyse et de la conception des politiques urbaines. Il considère la pratique artistique sonore relationnelle et les méthodologies axées sur le son comme des outils significatifs pour soutenir l'investigation des transformations urbaines et culturelles, ainsi que pour améliorer la convivialité et l'inclusivité de l'espace public et promouvoir le changement social."
     - name: "Cynthia Tarlao"
       role: "Chercheuse"
-      image: "/assets/images/team/Rectangular/Cynthia_small.jpg"
+      image: "/assets/images/team/Rectangular/Cynthia_Tarlao-RC3red.jpg"
       info: "Cynthia Tarlao est chercheuse travaillant sur l'intégration du son dans la pratique de l'urbanisme. Ses travaux portent sur l'évaluation de la manière dont les professionnels de l'environnement urbain prennent en compte le son dans la planification et la conception de la ville, et sur le développement d'outils pour les aider à aller au-delà des exigences réglementaires. Actuellement, elle travaille sur des sujets de politique publique et de densification urbaine autour de la question du bruit et du son, avec pour objectif de rassembler une multitude de perspectives en faveur de l'équité et de la durabilité dans la planification urbaine. Elle est également la principale traductrice anglais/français pour Sounds in the City."
     - name: "Edda Bild"
       role: "Chercheuse"
@@ -31,7 +31,7 @@ staff:
       info: "Richard Yanaky aide les professionnels en dirigeant la recherche et le développement d'un nouvel outil de planification sonore immersif, City Ditty. City Ditty vise à introduire une nouvelle génération de professionnels à la conception de paysages sonores en les aidant à prendre conscience du son, à leur enseigner les principes de conception de paysages sonores, et à les soutenir dans la création de leurs propres paysages sonores dans un environnement 3D entièrement navigable et immersif via la réalité virtuelle ou un PC de bureau. Il espère qu'en permettant à davantage de personnes d'utiliser une technologie simple, davantage de personnes pourront contribuer à la création de villes plus saines et agréables. Les paysages sonores urbains sont complexes, mais en parler ne devrait pas l'être ! Ce travail est soutenu par la formation variée de Richard en études de l'information, informatique, psycholinguistique, et de nombreuses années comme instructeur au collège et à l'université."
     - name: "Ezra J. Teboul"
       role: "Chercheur"
-      image: "/assets/images/team/Rectangular/ezra2.jpg"
+      image: "/assets/images/team/Rectangular/Ezra.jpg"
       info: "Ezra J. Teboul est un artiste et chercheur séfarade. Leur projet actuel se concentre sur la manière dont les violoncellistes perçoivent des techniques de performance inhabituelles pour violoncelle dans l'œuvre de Helmut Lachenman, un compositeur contemporain. Leurs projets personnels se concentrent actuellement sur l'ingénierie inverse, la réimplémentation de systèmes techniques artistiques, et l'histoire de l'électricité et de l'électronique, notamment dans la manière dont les ingénieurs et les mathématiciens ont participé à l'essor de la fabrication de masse et de la forme de marchandise. Au cours de la dernière décennie, ils ont été ethnographes d'instruments de musique électroniques DIY et de communautés artistiques."
     - name: "Daniel Steele"
       role: "Chercheur"
@@ -54,7 +54,7 @@ alumni:
   members:
     - name: "Ulysse Lefeuvre"
       role: "Chercheur en paysages sonores"
-      image: "/assets/images/team/1.webp"
+      image: "/assets/images/team/Rectangular/Ulysse.jpg"
       info: "Ulysse Lefeuvre est étudiant à l'Université Sorbonne à Paris et à l'IRCAM. Il effectue un stage à l'Université McGill avec la professeure Catherine Guastavino sur la perception du mouvement auditif."
 collaborators:
   title: "COLLABORATEURS"

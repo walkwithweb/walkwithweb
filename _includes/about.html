@@ -9,7 +9,7 @@
       {% assign lang = page.lang %} {% assign staff = site.data.team[lang].staff
       %}
       <div class="accordion">
-        <button class="acc-header active bordered" data-target="staff">
+        <button class="acc-header active bordered button" data-target="staff">
           <span class="label"> {{staff.title}} </span>
           <span class="icon"></span>
         </button>
@@ -19,16 +19,12 @@
             <div class="team-card">
               <div class="overlay">
                 <p class="info">{{member.info}}</p>
-                <!-- <div>
-                        <h3>{{member.name}}</h3>
-                        <i>{{member.role}}</i>
-                    </div> -->
               </div>
               <div class="media">
                 <img src="{{member.image}}" alt="{{member.name}}" />
               </div>
               <div class="content">
-                <h3>{{member.name}}</h3>
+                <h3 class="button">{{member.name}}</h3>
                 <i>{{member.role}}</i>
               </div>
             </div>
@@ -39,7 +35,7 @@
       {% assign lang = page.lang %} {% assign staff =
       site.data.team[lang].alumni %}
       <div class="accordion">
-        <button class="acc-header bordered" data-target="alumni">
+        <button class="acc-header bordered button" data-target="alumni">
           <span class="label"> {{staff.title}} </span>
           <span class="icon"></span>
         </button>
@@ -49,16 +45,12 @@
             <div class="team-card">
               <div class="overlay">
                 <p class="info">{{member.info}}</p>
-                <!-- <div>
-                        <h3>{{member.name}}</h3>
-                        <i>{{member.role}}</i>
-                    </div> -->
               </div>
               <div class="media">
                 <img src="{{member.image}}" alt="{{member.name}}" />
               </div>
               <div class="content">
-                <h3>{{member.name}}</h3>
+                <h3 class="button">{{member.name}}</h3>
                 <i>{{member.role}}</i>
               </div>
             </div>
@@ -69,7 +61,7 @@
       {% assign lang = page.lang %} {% assign collaborators =
       site.data.team[lang].collaborators %}
       <div class="accordion">
-        <button class="acc-header" data-target="collaborators">
+        <button class="acc-header button" data-target="collaborators">
           <span class="label"> {{collaborators.title}} </span>
           <span class="icon"></span>
         </button>
@@ -79,9 +71,9 @@
                 {% assign members = collaborators.members %}
                 {% for member in members %}
                   {% if member.url %}
-                    <a href="{{ member.url }}" class="member" target="_blank">{{ member.name }}</a>
+                    <a href="{{ member.url }}" class="member button" target="_blank">{{ member.name }}</a>
                   {% else %}
-                    <p class="member">{{ member.name }}</p>
+                    <p class="member button">{{ member.name }}</p>
                   {% endif %}
                 {% endfor %}
               </div>

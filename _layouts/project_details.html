@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
     <link rel="stylesheet" href="{{ 'assets/css/style.css' | relative_url }}" />
     <title>{{ page.title }}</title>
@@ -23,21 +23,21 @@
                         <div class="info-content">
                             <div class="col">
                                 <div class="content">
-                                    <h3>{{ content.where }}</h3>
+                                    <h3 class="button">{{ content.where }}</h3>
                                     <p>{{ page.location }}</p>
                                 </div>
                                 <div class="content">
-                                    <h3>{{ content.year }}</h3>
+                                    <h3 class="button">{{ content.year }}</h3>
                                     <p>{{ page.date }}</p>
                                 </div>
                             </div>
                             <div class="col">
                                 <div class="content">
-                                    <h3>{{ content.fundings }}</h3>
+                                    <h3 class="button">{{ content.fundings }}</h3>
                                     <p>{{ page.fundings }}</p>
                                 </div>
                                 <div class="content">
-                                    <h3>{{ content.collaborators }}</h3>
+                                    <h3 class="button">{{ content.collaborators }}</h3>
                                     <p>{{ page.collaborators }}</p>
                                 </div>
                             </div>
@@ -45,7 +45,7 @@
                         <div class="info-content">
                             <div class="tags col">
                                 <div class="content">
-                                    <h3>{{ content.tags }}</h3>
+                                    <h3 class="button">{{ content.tags }}</h3>
                                     <p>
                                         {% for tag in page.tags %}
                                         <span>{{ tag.name }}</span><br>
@@ -64,7 +64,7 @@
                             </div>
                             <div class="footer">
                                 {% if bimg.alt != "" %}
-                                    <h3>{{ bimg.alt }}</h3>
+                                    <h3 class="button">{{ bimg.alt }}</h3>
                                 {% endif %}
                                 <p>{{ content.credits }}: {{ bimg.credits }}</p>
                             </div>
@@ -83,7 +83,7 @@
                                 <img src="{{ aimg.image }}" alt="{{ aimg.alt | default: aimg.credits }}" />
                             </div>
                             <div class="footer">
-                                <h3>{{ aimg.alt }}</h3>
+                                <h3 class="button">{{ aimg.alt }}</h3>
                                 <p>{{ content.credits }}: {{ aimg.credits }}</p>
                             </div>
                         </div>

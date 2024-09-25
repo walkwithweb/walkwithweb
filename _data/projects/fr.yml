@@ -1,5 +1,3 @@
-# need to update this to french text
-
 - title: "Terrasses Roy: Créer un nouvel espace public"
   description: "Une piétonnisation au cœur du Plateau-Mont-Royal"
   location: "Plateau-Mont-Royal, Montréal, QC"
@@ -12,22 +10,22 @@
   collaborators: "Ville de Montréal (Arrondissement Plateau-Mont-Royal)"
   name: "TERRASSES ROY"
   tags:
-    - name: espace public
-      id: 'public_space'
-    - name: piétonnisation
-      id: 'pedestrianizationTAGS'
-    - name: évaluation du paysage sonore
-      id: 'soundscape_evaluation'
-    - name: Ville de Montréal
-      id: 'city_of_montreal'
+    - name: 'espace public'
+      id: 'espace_public'
+    - name: 'piétonnisation'
+      id: 'piétonnisation'
+    - name: 'évaluation du paysage sonore'
+      id: 'évaluation_du_paysage_sonore'
+    - name: 'Ville de Montréal'
+      id: 'ville_de_Montréal'
   before:
    - image: '/assets/images/projects/Roy/Roy1.jpg'
      credits: 'Maryse Lavoie'
-     alt: "Terrasses Roy - avant - à gauche"
+     alt: "Terrasses Roy - avant"
   after:
    - image: '/assets/images/projects/Roy/Roy2.jpg'
      credits: 'Christine Kerrigan'
-     alt: "et après - à droite"
+     alt: "Terrases Roy - après"
   brief: "Le projet a permis d'éliminer le bruit de la circulation et de créer une nouvelle voie piétonne et un espace de détente dans un lieu où il n'y avait auparavant qu'une rue.<br><br>Il a également permis la formation d’un nouvel espace de rencontre dans le quartier, souvent utilisé à la fois par les résidents et par les visiteurs, qui en apprécient la verdure, le sentiment accru de sécurité dû à l'absence de voitures et le paysage sonore plus « calme » avec la circulation audible uniquement au loin."
   about: "En collaboration avec la Ville de Montréal, notre équipe a mené un projet de recherche sur l’environnement sonore de la rue Roy, au cœur de l'arrondissement du Plateau-Mont-Royal, lors de sa piétonnisation. Durant l’été 2017, la Ville a fermé à la circulation une section de la rue et mandaté la firme de design Castor et Pollux pour concevoir et installer un aménagement temporaire. Quatre secteurs différents et colorés invitaient les visiteurs à se détendre et à interagir, avec un mobilier urbain coloré, des jardins communautaires et une aire de jeux. Ce projet pilote a très bien été accueilli par la communauté et a été prolongé pendant l'automne et l'hiver 2017. L'espace a maintenant été converti en un espace de rencontre extérieur permanent autour de l'agriculture urbaine."
   participation: "Nous avons participé à des consultations publiques et effectué des mesures acoustiques et des enregistrements audio avant et après la piétonnisation. Nous avons également distribué des questionnaires aux passants afin d'évaluer leur expérience de cette nouvelle voie piétonne, en mettant l'accent sur l’ambiance sonore et les attentes sonores. Nous avons ensuite formulé des recommandations pour la municipalité sur les manières de renforcer la vocation de ce nouvel espace par le biais du son."
@@ -59,20 +57,22 @@
   collaborators: "Thomas Dupont (ETS), Johanne Brochu et F. Hubert (ULaval)"
   name: "Lignes directrices sur la politique du bruit : Valeurs Guides"
   tags:
-    - name: politique du bruit   
-      id: 'pedestrianizationTAGS'
-    - name: bruit environnemental
-      id: 'env_noise'
-    - name: Politique et planification
-      id: 'policy_and_planning'
-    - name: bonnes pratiques
-      id: 'best_prac'
-    - name: limite de bruit
-      id: 'noise_limit'
-    - name: conception urbaine
-      id: 'urban_design'
-    - name: planification urbaine
-      id: 'urban_planning'
+    - name: 'Politique et planification'
+      id: 'politique_et_planification'
+    - name: 'politique du bruit'  
+      id: 'politique_du_bruit'
+    - name: 'bruit environnemental'
+      id: 'bruit_environnemental'
+    - name: 'examens des politiques'
+      id: 'examens_des_politiques' 
+    - name: 'bonnes pratiques'
+      id: 'bonnes_pratiques'
+    - name: 'limite de bruit'
+      id: 'limite_de_bruit'
+    - name: 'conception urbaine'
+      id: 'conception_urbaine'
+    - name: 'planification urbaine'
+      id: 'planification_urbaine'
   before:
    - image: '/assets/images/projects/ValeursGuide/VG1.png'
      credits: 'Christopher Trudeau '
@@ -118,16 +118,16 @@
   collaborators: "Ville de Montréal (Arrondissement Plateau-Mont-Royal)"
   name: "Les brumisateurs des Fleurs de Macadam"
   tags:
-    - name: espace public
-      id: 'public_space'
-    - name: structure d’eau
-      id: 'water_feature'
-    - name: parc de poche
-      id: 'pocket_park'
-    - name: Ville de Montréal
-      id: 'city_of_montreal'
+    - name: 'espace public'
+      id: 'espace public'
+    - name: "structure d’eau"
+      id: 'structure_d_eau'
+    - name: 'parc de poche'
+      id: 'parc_de_poche'
+    - name: 'Ville de Montréal'
+      id: 'ville_de_montreal'
   before:
-   - image: '/assets/images/projects/Fleurs_De_Macadam_misters/mister_locations.jpeg'
+   - image: '/assets/images/projects/Fleurs_de_Macadam_misters/mister_locations.jpeg'
      credits: 'Castor et Pollux'
      alt: ""
   after:
@@ -148,7 +148,7 @@
 
 
 - title: "Co-conception des ambiances sonores des espaces publics"
-  description: "Organiser des ateliers pour aider à déterminer les besoins des professionnel·les en matière de technologies"
+  description: "Organiser des ateliers pour aider à déterminer les besoins des professionnelles en matière de technologies"
   location: ""
   date: "Été 2019"
   start-date: '2019'
@@ -159,13 +159,15 @@
   collaborators: "Société des arts technologiques, ARUP"
   name: ""
   tags:
-    - name: atelier
+    - name: 'simulation'
+      id: 'simulation'
+    - name: 'atelier'
       id: 'atelier'
-    - name: design participatif
+    - name: 'design participatif'
       id: 'design_participatif'
-    - name: outils de conception sonore
+    - name: 'outils de conception sonore'
       id: 'outils_conception_sonore'
-    - name: professionnel·les en urbanisme
+    - name: 'professionnelles en urbanisme'
       id: 'professionnels_urbanisme'
   before:
    - image: '/assets/images/projects/project1_before.png'
@@ -175,8 +177,8 @@
    - image: '/assets/images/projects/project1.png'
      credits: 'Catherine Guastavino.'
      alt: "Atelier dans la salle multimédia (CIRMMT)."
-  brief: "Des professionnel·les en urbanisme ont été invité·es à participer à un atelier avec l'équipe de la Ville Sonore.<br><br> Les activités comprenaient un « terrain de jeu immersif » de différentes technologies, une activité de conception collaborative dans des installations de pointe et des groupes de discussion, qui ont alimenté la conception de nouveaux outils de planification sonore."
-  about: "La planification des ambiances sonores demeure une approche peu courante, tout comme les outils qui facilitent une telle planification proactive. Au cours de l'été 2019, nous avons organisé un atelier avec des professionnel·les en urbanisme (notamment des urbanistes et des designers) afin de déterminer les technologies qui pourraient être ajoutées à leur boîte à outils de planification urbaine. <br><br> Pendant l'atelier, nous avons présenté les principes de base de l'approche d’ambiance sonore, ainsi que différentes technologies qui pourraient aider à la planification future d’ambiances sonores, à travers trois activités principales :  <br> 1) un « terrain de jeu immersif » : expérimentation de technologies telles que des outils de réalité virtuelle (HTC Vive Pro, Oculus Go et kits VR pour smartphones) et d'autres simulations sur ordinateur. <br> 2) une séance de conception participative d'ambiances sonores dans la salle multimédia ultramoderne du Centre de recherche interdisciplinaire en musique, médias et technologies (CIRMMT). <br> 3) des groupes de discussion sur les défis actuels des professionnels et leurs potentiels besoins s'ils devaient s'engager dans la conception d’ambiances sonores par eux-mêmes."
+  brief: "Des professionnelles en urbanisme ont été invité·es à participer à un atelier avec l'équipe de la Ville Sonore.<br><br> Les activités comprenaient un « terrain de jeu immersif » de différentes technologies, une activité de conception collaborative dans des installations de pointe et des groupes de discussion, qui ont alimenté la conception de nouveaux outils de planification sonore."
+  about: "La planification des ambiances sonores demeure une approche peu courante, tout comme les outils qui facilitent une telle planification proactive. Au cours de l'été 2019, nous avons organisé un atelier avec des professionnelles en urbanisme (notamment des urbanistes et des designers) afin de déterminer les technologies qui pourraient être ajoutées à leur boîte à outils de planification urbaine. <br><br> Pendant l'atelier, nous avons présenté les principes de base de l'approche d’ambiance sonore, ainsi que différentes technologies qui pourraient aider à la planification future d’ambiances sonores, à travers trois activités principales :  <br> 1) un « terrain de jeu immersif » : expérimentation de technologies telles que des outils de réalité virtuelle (HTC Vive Pro, Oculus Go et kits VR pour smartphones) et d'autres simulations sur ordinateur. <br> 2) une séance de conception participative d'ambiances sonores dans la salle multimédia ultramoderne du Centre de recherche interdisciplinaire en musique, médias et technologies (CIRMMT). <br> 3) des groupes de discussion sur les défis actuels des professionnels et leurs potentiels besoins s'ils devaient s'engager dans la conception d’ambiances sonores par eux-mêmes."
   participation: "Nous avons intégré les résultats de ces activités dans la conception d'un prototype d'outil de réalité virtuelle. Le développement est en cours et des essais sont prévus dans les mois à venir."
   contact_info: "Pour plus de détails, veuillez contacter : Daniel Steele, Catherine Guastavino"
   links:
@@ -198,22 +200,24 @@
 - title: "Traduire les échelles d'évaluation des ambiances sonores"
   description: "Projets locaux et mondiaux visant à améliorer la façon dont nous évaluons les ambiances sonores dans différentes langues"
   location: ""
-  date: "2015 – En cours"
+  date: "2015 – 2023"
   start-date: '2015'
-  end-date: 'En cours'
+  end-date: '2023'
   image: "/assets/images/projects/translation/TranslationCCommons.jpeg"
   url: "project5"
   fundings: "SSHRC-PDG grant"
   collaborators: "City of Montreal (Arrondissement Plateau-Mont-Royal)"
   name: ""
   tags:
-    - name: instrument de recherche
+    - name: 'politique et planification'
+      id: 'politique_et_planification'
+    - name: 'instrument de recherche'
       id: 'instrument_de_recherche'
-    - name: bonnes pratiques
+    - name: 'bonnes pratiques'
       id: 'bonnes_pratiques'
-    - name: traduction
+    - name: 'traduction'
       id: 'traduction'
-    - name: échelles d'évaluation des ambiances sonores
+    - name: "échelles d'évaluation des ambiances sonores"
       id: 'echelles_evaluation_ambiances_sonores'
   before:
    - image: '/assets/images/projects/translation/translation.jpg'
@@ -257,13 +261,15 @@
   collaborators: "Institut de tourisme et d’hôtellerie du Québec (ITHQ), Saint-Gobain Research"
   name: ""
   tags:
-    - name: ambiance sonore intérieure
+    - name: 'espace intérieur'
+      id: 'espace_intérieur'
+    - name: 'ambiance sonore intérieure'
       id: 'ambiance_sonore_intérieure'
-    - name: évaluation de l'ambiance sonore
+    - name: "évaluation de l'ambiance sonore"
       id: 'evaluation_ambiance_sonore'
-    - name: traitement acoustique
+    - name: 'traitement acoustique'
       id: 'traitement_acoustique'
-    - name: ITHQ
+    - name: 'ITHQ'
       id: 'ITHQ'
   before:
    - image: '/assets/images/projects/restaurant/restaurant-ithq-sherbrooke-montreal-13.jpg'
@@ -288,7 +294,7 @@
 
 
 - title: "Prototypage d'un espace de travail pour la co-création sonore"
-  description: "Développer des technologies avec, et pour, les professionnel·les en urbanisme"
+  description: "Développer des technologies avec, et pour, les professionnelles en urbanisme"
   location: ""
   date: "Printemps 2019 – Été 2019"
   start-date: '2019'
@@ -299,17 +305,19 @@
   collaborators: "CIRMMT, Ville de Montréal"
   name: ""
   tags:
-    - name: conception d’ambiances sonores
+    - name: 'simulation' 
+      id: 'simulation'
+    - name: "conception d’ambiances sonores"
       id: 'conception_ambiances_sonores'
-    - name: pratique urbaine
+    - name: "pratique urbaine"
       id: 'pratique_urbaine'
-    - name: professionnel·les en urbanisme
+    - name: "professionnelles en urbanisme"
       id: 'professionnels_urbanisme'
-    - name: simulateur d’ambiances sonores
+    - name: "simulateur d’ambiances sonores"
       id: 'simulateur_ambiances_sonores'
-    - name: co-conception
+    - name: "co-conception"
       id: 'co_conception'
-    - name: prototype
+    - name: "prototype"
       id: 'prototype'
   before:
    - image: "/assets/images/projects/Codesign_sketch_pad/SOUNDSCAPESIMULATOR.png"
@@ -319,9 +327,9 @@
    - image: "/assets/images/projects/Codesign_sketch_pad/DSC_1272.jpeg"
      credits: 'Valérian Fraisse'
      alt: ""
-  brief: "L'aspect visuel domine dans la planification urbaine. Nous développons donc de nouveaux outils pour aider les professionnel·les en urbanisme à comprendre également les conséquences sonores de leurs choix de planification.<br><br> La simulation de l'environnement sonore en 3D plonge les professionnel·les en urbanisme dans l'expérience urbaine qu'ils sont en train de créer."
-  about: "Chaque projet de développement urbain soulève des questions esthétiques, fonctionnelles et sociodémographiques en fonction du contexte local. Cependant, ses sonorités sont prises en compte dans les phases ultérieures de la conception ou restent simplement une réflexion après coup. Pour sensibiliser les professionnel·les en urbanisme aux impacts sonores de leurs projets et faciliter les processus de concertation, de création et de communication, notre équipe a développé un « espace de travail pour la co-création sonore » interactif et immersif.<br><br> Ce simulateur d’ambiances sonores permet non seulement de reproduire des enregistrements de l’espace dans une salle d'écoute, mais aussi d'ajouter, de positionner et de déplacer des sources individuelles dans l'espace. Ce logiciel permet de (re)produire simplement et efficacement les environnements sonores d’espaces qui n'existent pas encore."
-  participation: "Un premier prototype public de cet outil a été dévoilé lors d'un événement d'une journée, organisé par le CIRMMT et proposé par l'équipe de Ville Sonore, en juillet 2019. L'événement s'articulait autour de l'intégration de nouvelles technologies dans le processus de co-conception des ambiances sonores des espaces publics. Dans une salle de concert équipée de 48 haut-parleurs, un public composé principalement de professionnel·les en urbanisme a utilisé le simulateur pour discuter, concevoir et écouter à quoi pourrait ressembler l’ambiance sonore d'un espace public spécifique dans différentes circonstances, tout en tenant compte des contraintes de localisation : Quel serait l'impact d'un ralentissement de la circulation sur l'avenue principale ? Serait-il pertinent d'installer une fontaine au centre de la place ? Le simulateur a permis aux participants d'écouter un rendu sonore de leurs suggestions en temps réel et de comprendre les conséquences des décisions d'aménagement sur l'environnement sonore."
+  brief: "L'aspect visuel domine dans la planification urbaine. Nous développons donc de nouveaux outils pour aider les professionnelles en urbanisme à comprendre également les conséquences sonores de leurs choix de planification.<br><br> La simulation de l'environnement sonore en 3D plonge les professionnelles en urbanisme dans l'expérience urbaine qu'ils sont en train de créer."
+  about: "Chaque projet de développement urbain soulève des questions esthétiques, fonctionnelles et sociodémographiques en fonction du contexte local. Cependant, ses sonorités sont prises en compte dans les phases ultérieures de la conception ou restent simplement une réflexion après coup. Pour sensibiliser les professionnelles en urbanisme aux impacts sonores de leurs projets et faciliter les processus de concertation, de création et de communication, notre équipe a développé un « espace de travail pour la co-création sonore » interactif et immersif.<br><br> Ce simulateur d’ambiances sonores permet non seulement de reproduire des enregistrements de l’espace dans une salle d'écoute, mais aussi d'ajouter, de positionner et de déplacer des sources individuelles dans l'espace. Ce logiciel permet de (re)produire simplement et efficacement les environnements sonores d’espaces qui n'existent pas encore."
+  participation: "Un premier prototype public de cet outil a été dévoilé lors d'un événement d'une journée, organisé par le CIRMMT et proposé par l'équipe de Ville Sonore, en juillet 2019. L'événement s'articulait autour de l'intégration de nouvelles technologies dans le processus de co-conception des ambiances sonores des espaces publics. Dans une salle de concert équipée de 48 haut-parleurs, un public composé principalement de professionnelles en urbanisme a utilisé le simulateur pour discuter, concevoir et écouter à quoi pourrait ressembler l’ambiance sonore d'un espace public spécifique dans différentes circonstances, tout en tenant compte des contraintes de localisation : Quel serait l'impact d'un ralentissement de la circulation sur l'avenue principale ? Serait-il pertinent d'installer une fontaine au centre de la place ? Le simulateur a permis aux participants d'écouter un rendu sonore de leurs suggestions en temps réel et de comprendre les conséquences des décisions d'aménagement sur l'environnement sonore."
   contact_info: "Pour plus de détails, contactez : Cynthia Tarlao, Catherine Guastavino"
   links:
     - url: 'https://www.youtube.com/watch?v=i4fLhBGuAi8'
@@ -347,11 +355,13 @@
   collaborators: "Quartier des spectacles"
   name: ""
   tags:
-    - name: COVID-19
+    - name : "Politique et planification"
+      id: "politique_et_planification"
+    - name: "COVID-19"
       id: 'covid19'
-    - name: silence
+    - name: "silence"
       id: 'silence'
-    - name: Quartier des Spectacles
+    - name: "Quartier des Spectacles"
       id: 'quartier_des_spectacles'
   before:
    - image: "/assets/images/projects/COVID19/QDSlockdown.jpg"
@@ -406,12 +416,12 @@
   collaborators: ""
   name: ""
   tags:
-    - name: soundscape evaluation
-      id: 'soundscape_evaluation'
-    - name: public space
-      id: 'public_space'
-    - name: context
-      id: 'context'
+    - name: "évaluation de l'ambiance sonore"
+      id: 'evaluation_de_l_ambiance_sonore'
+    - name: 'espace_public'
+      id: 'espace_public'
+    - name: "contexte"
+      id: 'contexte'
   before:
    - image: '/assets/images/projects/context_matters/P1060338_CreditCatherineGuastavino.JPG'
      credits: 'Catherine Guastavino'
@@ -457,20 +467,20 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   collaborators: "City of Montreal (Arrondissement Plateau-Mont-Royal), Università Iuav di Venezia"
   name: ""
   tags:
-    - name: urban atmospheres
-      id: 'urban_atmospheres'
-    - name: policy analysis
-      id: 'policy_analysis'
-    - name: participatory design
-      id: 'participatory_design'
-    - name: Art sonore
-      id: 'sound_art'
-    - name: public space
-      id: 'public_space'
-    - name: Venice
-      id: 'venice'
-    - name: Politique et planification
-      id: 'policy_and_planning'
+    - name: "Politique et planification"
+      id: 'politique_et_planification'
+    - name: "ambiances urbaines"
+      id: 'ambiances_urbaines'
+    - name: "analyse de politiques"
+      id: 'analyse_de_politiques'
+    - name: "design participatif"
+      id: 'design_participatif'
+    - name: "art sonore"
+      id: 'art_sonore'
+    - name: "espace public"
+      id: 'espace_public'
+    - name: "Venise"
+      id: 'venise'
   before:
    - image: '/assets/images/projects/soninurb/Soninurb.jpg'
      credits: 'Nicola Di Croce'
@@ -507,18 +517,20 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   collaborators: "Ville de Montréal (Service du développement économique) et la Direction régionale de santé publique de Montréal (DRSP)"
   name: ""
   tags:
-    - name: ListenUpMTL
-      id: 'listenupmtl'
-    - name: ÉcoutezMTL
+    - name: "espace public"
+      id: "espace_public"
+    - name: "ÉcoutezMTL"
       id: 'ecoutezmtl'
-    - name: sonic cohabitation
-      id: 'sonic_cohabitation'
-    - name: pedestrianization
-      id: 'pedestrianization'
-    - name: Quartier des spectacles
+    - name: "cohabitation sonore"
+      id: 'cohabitation_sonore'
+    - name: "piétonisation"
+      id: 'piétonisation'
+    - name: "Quartier des spectacles"
       id: 'quartier_des_spectacles'
-    - name: Ville de Montréal
+    - name: "Ville de Montréal"
       id: 'ville_de_montreal'
+    - name: "DRSP"
+      id: 'drsp'
   before:
    - image: '/assets/images/projects/recreation_v_residence/ListenUp.jpg'
      credits: ' Ville de Montréal'
@@ -557,20 +569,22 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   collaborators: "Ville de Montréal (Service du développement économique), l'Agence de santé publique de Montréal (DRSP), l'Observatoire des Milieux de Vie urbains (OMV-UQAM), l'Autorité portuaire de Montréal"
   name: ""
   tags:
-    - name: Résidents
+    - name: "Politique et planification"
+      id: 'politique_et_planification'
+    - name: "Résidents"
       id: 'residents'
-    - name: promenades sonores
+    - name: "promenades sonores"
       id: 'promenades_sonores'
-    - name: pollution sonore
+    - name: "pollution sonore"
       id: 'pollution_sonore'
-    - name: politiques publiques
+    - name: "politiques publiques"
       id: 'politiques_publiques'
-    - name: sonic cohabitation
+    - name: "sonic cohabitation"
       id: 'sonic_cohabitation'
-    - name: Ville de Montréal
+    - name: "Ville de Montréal"
       id: 'ville_de_montreal'
-    - name: Politique et planification
-      id: 'policy_and_planning'
+    - name: "DRSP"
+      id: 'drsp'
   before:
    - image: '/assets/images/projects/industry_v_residence/Port-port.jpeg'
      credits: 'Google Maps'
@@ -588,7 +602,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   contact_info: "Pour plus de détails, contactez: Edda Bild, Catherine Guastavino"
   links:
     - url: ''
-      name: '"Le bruit environnemental dans nos actions de planification" (6 octobre 2022) atelier, destiné aux professionnel·les en urbanisme de Montréal. Organisé par la Ville de Montréal et  l Agence de santé publique de Montréal.'
+      name: '"Le bruit environnemental dans nos actions de planification" (6 octobre 2022) atelier, destiné aux professionnelles en urbanisme de Montréal. Organisé par la Ville de Montréal et  l Agence de santé publique de Montréal.'
   publications:
     - url: 'http://doi.org/10.3138/cpp.2021-009'
       name: 'Laplace, J., Bild, E., Trudeau, C., Perna, M., Dupont, T. & Guastavino C. (2022). Encadrement du bruit environnemental au Canada<i>. Canadian Public Policy / Analyse de politiques publiques Canadienne</i>, 48(1), 49-65.'
@@ -612,26 +626,26 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   collaborators: "Ville de Montréal (Service du développement économique), Direction régionale de santé publique de Montréal (DRSP), École de technologie supérieure, Partenariat du Quartier des Spectacles, autres collaborateurs"
   name: ""
   tags:
-    - name: vie nocturne
+    - name: "politique et planification"
+      id: 'politique_et_planification'
+    - name: "vie nocturne"
       id: 'vie_nocturne'
-    - name: intervenants
+    - name: "intervenants"
       id: 'intervenants'
-    - name: pollution sonore
+    - name: "pollution sonore"
       id: 'pollution_sonore'
-    - name: bruit nocturne
+    - name: "bruit nocturne"
       id: 'bruit_nocturne'
-    - name: politique publique
+    - name: "politique publique"
       id: 'politique_publique'
-    - name: cohabitation sonore
+    - name: "cohabitation sonore"
       id: 'cohabitation_sonore'
-    - name: Quartier des Spectacles
+    - name: "Quartier des Spectacles"
       id: 'Quartier_des_Spectacles'
-    - name: Ville de Montréal
+    - name: "Ville de Montréal"
       id: 'Ville_de_Montréal'
-    - name: DRSP
+    - name: "DRSP"
       id: 'DRSP'
-    - name: Politique et planification
-      id: 'policy_and_planning'
   before:
    - image: '/assets/images/projects/nightlife/before.jpg'
      credits: 'Wikimedia Commons'
@@ -672,18 +686,20 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   collaborators: "Partenariat du Quartier des spectacles"
   name: "LES SONS DU QUARTIER DES SPECTACLES"
   tags:
-    - name: résident
-      id: 'resident'
-    - name: festival
+    - name: "espace public"
+      id: "espace_public"
+    - name: "résidente"
+      id: 'residente'
+    - name: "festival"
       id: 'festival'
-    - name: bruit récréatif
-      id: 'recreational_noise'
-    - name: cohabitation sonore
-      id: 'sonic_cohabitation'
-    - name: Quartier des spectacles
+    - name: "bruit récréatif"
+      id: 'bruit_récréatif'
+    - name: "cohabitation sonore"
+      id: 'cohabitation_sonore'
+    - name: "Quartier des spectacles"
       id: 'quartier_des_spectacles'
-    - name: vieillissement
-      id: 'aging'
+    - name: "vieillissement"
+      id: 'vieillissement'
   before:
    - image: '/assets/images/projects/Quartier_des_Spectacles/Place_des_arts_08.jpg'
      credits: 'Jeangagnon at Wikimedia Commons'
@@ -722,15 +738,17 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   collaborators: "Institut de Recherche et Coordination Acoustique/Musique (IRCAM), Nadine Schütz, (((echora))), Nicolas Misdariis, Coralie Vincent, Marcelo Wanderley, Ville de Paris, Bruitparif, CIRMMT"
   name: "L'ART SONORE DANS LES ESPACES PUBLICS: NICHES ACOUSTIQUES"
   tags:
-    - name: espace public
-      id: 'public_space'
-    - name: installation sonore
-      id: 'sound_installation'
-    - name: art sonore
-      id: 'sound_art'
-    - name: simulation de paysage sonore
-      id: 'soundscape_simulation'
-    - name: Paris
+    - name: "espace public"
+      id: 'espace_public'
+    - name: "installation sonore"
+      id: 'installation_sonore'
+    - name: "art sonore"
+      id: 'art_sonore'
+    - name: "simulation d’ambiances sonores"
+      id: 'simulation_sonores'
+    - name: "collaboration recherche-création"
+      id: 'collaboration_recherche-création'
+    - name: "Paris"
       id: 'paris'
   before:
    - image: '/assets/images/projects/Niches_acoustiques/XP1_panorama.jpg'
@@ -763,7 +781,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
 - title: "L’art sonore dans les espaces publics : Les Madelinéennes"
   description: "Son et patrimoine culturel dans l'espace public : évaluation d'une installation sonore avec la communauté locale"
   location: "Montreal, QC"
-  date: "2023-en cours"
+  date: "2023- En cours"
   start-date: '2023'
   end-date: '2025'
   image: "/assets/images/projects/les_madelinennes/230711_Parc-Madelinots_006.jpg"
@@ -772,19 +790,19 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   collaborators: "Institut de Recherche et Coordination Acoustique/Musique (IRCAM), Paysages studio, Charles Montambault, Marcelo Wanderley, CIRMMT"
   name: "L’art sonore dans les espaces publics : Les Madelinéennes"
   tags:
-    - name: espace public
+    - name: "espace public"
       id: 'espace_public'
-    - name: installation sonore
+    - name: "installation sonore"
       id: 'installation_sonore'
-    - name: art sonore
+    - name: "art sonore"
       id: 'art_sonore'
-    - name: simulation de paysage sonore
+    - name: "simulation de paysage sonore"
       id: 'simulation_paysage_sonore'
-    - name: collaboration recherche-création
+    - name: "collaboration recherche-création"
       id: 'collaboration_recherche_creation'
-    - name: Montréal
+    - name: "Montréal"
       id: 'montreal'
-    - name: patrimoine culturel
+    - name: "patrimoine culturel"
       id: 'patrimoine_culturel'
   before:
    - image: '/assets/images/projects/les_madelinennes/230711_Parc-Madelinots_006.jpg'
@@ -823,19 +841,19 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   collaborators: "Paroisse de Saint-Pierre-Apôtre, St. Peter et St. Paul Russian Orthodox Cathedral (Centre Sud). Parishes du Très-Saint-Nom-de-Jésus et La Nativité-de-la-Sainte-Vierge d’Hochelaga, et les responsables diocésains de l'église de Très-Saint-Rédempteur (Hochelaga-Maisonneuve)."
   name: "LES ÉGLISES, LIEUX DE RESTAURATION"
   tags:
-    - name: expérience sensorielle
+    - name: "espace intérieur"
+      id: 'espace_interieur'
+    - name: "expérience sensorielle"
       id: 'experience_sensorielle'
-    - name: expérience sonore
+    - name: "expérience sonore"
       id: 'experience_sonore'
-    - name: espaces intérieurs
-      id: 'espaces_interieurs'
-    - name: environnement réparateur
+    - name: "environnement réparateur"
       id: 'environnement_reparateur'
-    - name: paysage sonore intérieur
-      id: 'paysage_sonore_interieur'
-    - name: paysage sonore d'église
-      id: 'paysage_sonore_eglise'
-    - name: Montréal
+    - name: "ambiance sonore intérieure"
+      id: 'ambiance_sonore_interieure'
+    - name: "ambiance sonore d'église"
+      id: 'ambiance_sonore_eglise'
+    - name: "Montréal"
       id: 'montreal'
   before:
    - image: '/assets/images/projects/Church_Restoration/ChurchRestor_MAIN_SPA_IMG_1920.JPG'
@@ -878,12 +896,12 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   collaborators: "Romain Dumoulin, Jérémie Voix, McGill University, ÉTS, Plateau Mont-Royal borough"
   name: "MUSIKIOSK"
   tags:
-    - name: espace public
-      id: 'public_space'
-    - name: parc poche
-      id: 'pocket_park'
-    - name: installation sonore
-      id: 'sound_installation'
+    - name: "espace public"
+      id: 'espace_public'
+    - name: "parc poche"
+      id: 'parc_poche'
+    - name: "installation sonore"
+      id: 'installation_sonore'
   before:
    - image: '/assets/images/projects/Musikiosk/Musikiosk_PduPortugal.jpg'
      credits: 'Cynthia Tarlao'
@@ -896,7 +914,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
      credits: 'Milyausha Gabdrakhmanova'
      alt: "Logo Musikiosk"
   brief: "Un système de haut-parleurs semi-permanent (Musikiosk) a été installé dans le belvédère d'un parc public (Parc du Portugal). Les utilisateur·rices pouvaient s'y connecter et diffuser le contenu de leur choix.<br><br>Musikiosk a amélioré la perception du caractère agréable de l'environnement sonore du parc ainsi que l'humeur des visiteur·rices du parc, qu'iels soient ou non en contact direct avec Musikiosk.<br><br>Musikiosk a ajouté de nouvelles activités musicales dans le parc sans déplacer les usages existants."
-  about: "En 2015, des chercheur·euses de l'Université McGill et de l'ÉTS ont collaboré avec l'arrondissement du Plateau Mont-Royal pour installer Musikiosk dans le belvédère du Parc du Portugal, un petit parc public de Montréal. Musikiosk est un système de haut-parleurs grâce auquel les usager·ères du parc peuvent, à l'aide d'une prise audio, connecter leurs appareils personnels à un petit ensemble de haut-parleurs installés gratuitement dans le belvédère, et ainsi partager leur propre musique avec les autres. <br><br>Les utilisateur·rices du Musikiosk, qui ont fait part de leur expérience lors d'entretiens et d'enquêtes, se sont montré·es enthousiastes à l'idée de se réapproprier leur espace public de façon innovante, sur le plan acoustique et en intéragissant avec d’autres usager·ères du parc. Grâce à des efforts de sensibilisation de la communauté et à une planification approfondie, l'équipe de Musikiosk a minimisé le déplacement des usager·ères  existant·es du parc et a géré les attentes et la gêne du voisinage."
+  about: "En 2015, des chercheur·euses de l'Université McGill et de l'ÉTS ont collaboré avec l'arrondissement du Plateau Mont-Royal pour installer Musikiosk dans le belvédère du Parc du Portugal, un petit parc public de Montréal. Musikiosk est un système de haut-parleurs grâce auquel les usagerères du parc peuvent, à l'aide d'une prise audio, connecter leurs appareils personnels à un petit ensemble de haut-parleurs installés gratuitement dans le belvédère, et ainsi partager leur propre musique avec les autres. <br><br>Les utilisateur·rices du Musikiosk, qui ont fait part de leur expérience lors d'entretiens et d'enquêtes, se sont montré·es enthousiastes à l'idée de se réapproprier leur espace public de façon innovante, sur le plan acoustique et en intéragissant avec d’autres usagerères du parc. Grâce à des efforts de sensibilisation de la communauté et à une planification approfondie, l'équipe de Musikiosk a minimisé le déplacement des usagerères  existant·es du parc et a géré les attentes et la gêne du voisinage."
   participation: "Cette étude a donné le coup d'envoi d'une longue série de projets en collaboration avec les autorités de la ville de Montréal et d'autres parties prenantes."
   contact_info: "Pour plus de détails, contactez : Daniel Steele, Catherine Guastavino"
   links:
@@ -932,14 +950,14 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   collaborators: "Audiotopie, Ville de Montreal (Arrondissement Plateau Mont-Royal)"
   name: "Fleurs-de-Macadam"
   tags:
-    - name: espace public
-      id: 'public_space'
-    - name: installation sonore
-      id: 'sound_installation'
-    - name: art sonore
-      id: 'sound_art'
-    - name: parc de poche
-      id: 'pocket_park'
+    - name: "espace public"
+      id: 'espace_public'
+    - name: "installation sonore"
+      id: 'installation_sonore'
+    - name: "art sonore"
+      id: 'art_sonore'
+    - name: "parc de poche"
+      id: 'parc_de_poche'
   before:
    - image: '/assets/images/projects/Fleurs_de_Macadam_sound_art/Place_Fleurs_des_Macadam_8.jpg'
      credits: 'Ville de Montréal'
@@ -955,8 +973,8 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
       credits: 'Ville de Montréal'
       alt: Friche précédant l’inauguration de la place des Fleurs-de-Macadam""
   brief: "Le projet vise à expérimenter une nouvelle collaboration interdisciplinaire entre chercheur·euses, artistes sonores et ville <br><br>La présence d'installations sonores améliore l'expérience de l'espace public et renforce les objectifs de conception spatiale."
-  about: "L'arrondissement du Plateau-Mont-Royal a adopté une approche différente pour déterminer à quoi un nouvel espace public – les Fleurs-de-Macadam – et son ambiance sonore pourrait ressembler. Dans une première étape, au cours de l'été 2018, l'arrondissement a installé 3 prototypes d’aménagement distincts et a permis au public d'évaluer chaque site. Nos partenaires du collectif d'artistes Audiotopie ont développé et déployé 3 installations sonores dans ces aménagements temporaires. Ville Sonore a évalué les ambiances sonores de chaque prototype et a aidé l'arrondissement à façonner le futur espace pour les usager·ères, ainsi qu'à informer la composition d'une quatrième installation sonore, déployée durant l'été 2019."
-  participation: "Grâce à un processus itératif de conception, de déploiement et d'évaluation, nous avons documenté l'impact des différentes installations sonores pendant deux ans sur une nouvelle place publique. À l'aide de questionnaires donnés aux passant·es et de mesures du niveau sonore, nous avons identifié les schémas d'utilisation et les principales activités menées sur la place. Ces résultats ont guidé le processus de composition d'installations sonores qui 'résonnent' avec les ambiances souhaitées tout au long de la journée. L'analyse des questionnaires a indiqué que les expériences des usager·ères de l'espace public étaient améliorées en présence des quatre installations sonores, avec des effets positifs sur le caractère agréable, le calme et la capacité à faire une pause. Ces résultats soulignent le potentiel de la conception sonore intentionnelle dans un contexte d'espace public ainsi que le rôle spécifique des collaborations de recherche-création pour façonner les ambiances sonores urbaines. <br><br>Questionnaires, mesures du niveau sonore, engagement communautaire."
+  about: "L'arrondissement du Plateau-Mont-Royal a adopté une approche différente pour déterminer à quoi un nouvel espace public – les Fleurs-de-Macadam – et son ambiance sonore pourrait ressembler. Dans une première étape, au cours de l'été 2018, l'arrondissement a installé 3 prototypes d’aménagement distincts et a permis au public d'évaluer chaque site. Nos partenaires du collectif d'artistes Audiotopie ont développé et déployé 3 installations sonores dans ces aménagements temporaires. Ville Sonore a évalué les ambiances sonores de chaque prototype et a aidé l'arrondissement à façonner le futur espace pour les usagerères, ainsi qu'à informer la composition d'une quatrième installation sonore, déployée durant l'été 2019."
+  participation: "Grâce à un processus itératif de conception, de déploiement et d'évaluation, nous avons documenté l'impact des différentes installations sonores pendant deux ans sur une nouvelle place publique. À l'aide de questionnaires donnés aux passant·es et de mesures du niveau sonore, nous avons identifié les schémas d'utilisation et les principales activités menées sur la place. Ces résultats ont guidé le processus de composition d'installations sonores qui 'résonnent' avec les ambiances souhaitées tout au long de la journée. L'analyse des questionnaires a indiqué que les expériences des usagerères de l'espace public étaient améliorées en présence des quatre installations sonores, avec des effets positifs sur le caractère agréable, le calme et la capacité à faire une pause. Ces résultats soulignent le potentiel de la conception sonore intentionnelle dans un contexte d'espace public ainsi que le rôle spécifique des collaborations de recherche-création pour façonner les ambiances sonores urbaines. <br><br>Questionnaires, mesures du niveau sonore, engagement communautaire."
   contact_info: "Pour plus de détails, contactez: Valérian Fraisse, Cynthia Tarlao, Catherine Guastavino"
   links:
     - url: ''
@@ -975,8 +993,8 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   next_url: 'project20'
 
 
-- title: "Des balades sonores pour intéresser les professionnel·les et le grand public aux questions sonores"
-  description: "Utiliser les balades sonores immersives pour sensibiliser au sonore et cultiver l'empathie parmi les professionnel·les et le grand public"
+- title: "Des balades sonores pour intéresser les professionnelles et le grand public aux questions sonores"
+  description: "Utiliser les balades sonores immersives pour sensibiliser au sonore et cultiver l'empathie parmi les professionnelles et le grand public"
   location: "Boston, Montréal, Amsterdam"
   date: "2013 – En cours"
   start-date: '2013'
@@ -987,30 +1005,32 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   collaborators: "University of Amsterdam, City of Montreal, Goethe Institute, CIRMMT, Coeur des Sciences, Trames Sonores"
   name: "Soundwalks"
   tags:
-    - name: espace public
-      id: 'public_space'
-    - name: soundwalk
-      id: 'soundwalk'
-    - name: éducation
+    - name: "Sensibilisation du public"
+      id: 'sensibilisation_du_public'
+    - name: "espace public"
+      id: 'espace_public'
+    - name: "balade sonore"
+      id: 'balade_sonore'
+    - name: "éducation"
       id: 'education'
-    - name: mobilisation des connaissances
-      id: 'knowledge_mobilization'
-    - name: Boston
+    - name: "mobilisation des connaissances"
+      id: 'mobilisation_des_connaissances'
+    - name: "Boston"
       id: 'boston'
-    - name: Montréal
+    - name: "Montréal"
       id: 'montreal'
-    - name: Amsterdam
+    - name: "Amsterdam"
       id: 'amsterdam'
   before:
-   - image: '/assets/images/projects/soundwalks/soundwalks2018_CTa.jpeg'
+   - image: '/assets/images/projects/Soundwalks/soundwalks2018_CTa.jpeg'
      credits: 'Cynthia Tarlao'
      alt: "Participants lors d'une promenade sonore avant le début du projet"
   after:
-   - image: '/assets/images/projects/soundwalks/DSC_0142.jpg'
+   - image: '/assets/images/projects/Soundwalks/DSC_0142.jpg'
      credits: 'Cynthia Tarlao'
      alt: "Participants lors d'une promenade sonore après la mise en œuvre du projet"
-  brief: "Les stratégies immersives telles que les balades sonores encouragent la sensibilisation au sonore et révèlent la diversité d'environnements dans la ville.<br><br>Les balades sonores peuvent prendre de nombreuses formes et constituer d'excellents outils pédagogiques pour les professionnel·les et la communauté."
-  about: "Une balade sonore est, comme son nom l'indique, une balade destinée à vous aider à écouter et à réfléchir sur les environnements sonores dans lesquels vous vous trouvez. Les balades sonores sont très spécifiques à un site et peuvent prendre de multiples formes : elles peuvent être autoguidées (pensez à une balade avec une carte) ou guidées ; elles peuvent également être axées sur l'observation (rester silencieux tout en écoutant) ou elles peuvent être interactives (par exemple, taper dans ses mains pour ressentir l'espace). Enfin, les balades sonores peuvent contribuer à un large éventail d'objectifs, la plupart éducatifs, qu'il s'agisse d'enseigner aux enfants les sonorités de leur quartier ou de souligner aux professionnel·les en urbanisme le rôle du sonore dans la planification et la conception urbaine.<br><br>Notre propre offre de balades sonores est variée. Notre balade sonore la plus réussie, destinée à un large public de professionnel·les en urbanisme et au grand public, vous guidera à travers une variété d’ambiances sonores urbains. Nous soulignons certaines des stratégies d'urbanisme et de conception qui les ont façonnées et nous partageons certaines des recherches qui pourraient contribuer à mieux répondre aux besoins et aux attentes de leurs usager·ères. Nous avons proposé des versions de cette promenade sonore à des professionnel·les en urbanisme dans trois villes (Montréal, Amsterdam et Boston). Si vous vous trouvez dans l'une de ces villes et que vous souhaitez vous joindre à nous pour une balade sonore, veuillez nous contacter. Les balades durent de 2 à 3 heures, mais peuvent être raccourcies si nécessaire.  "
+  brief: "Les stratégies immersives telles que les balades sonores encouragent la sensibilisation au sonore et révèlent la diversité d'environnements dans la ville.<br><br>Les balades sonores peuvent prendre de nombreuses formes et constituer d'excellents outils pédagogiques pour les professionnelles et la communauté."
+  about: "Une balade sonore est, comme son nom l'indique, une balade destinée à vous aider à écouter et à réfléchir sur les environnements sonores dans lesquels vous vous trouvez. Les balades sonores sont très spécifiques à un site et peuvent prendre de multiples formes : elles peuvent être autoguidées (pensez à une balade avec une carte) ou guidées ; elles peuvent également être axées sur l'observation (rester silencieux tout en écoutant) ou elles peuvent être interactives (par exemple, taper dans ses mains pour ressentir l'espace). Enfin, les balades sonores peuvent contribuer à un large éventail d'objectifs, la plupart éducatifs, qu'il s'agisse d'enseigner aux enfants les sonorités de leur quartier ou de souligner aux professionnelles en urbanisme le rôle du sonore dans la planification et la conception urbaine.<br><br>Notre propre offre de balades sonores est variée. Notre balade sonore la plus réussie, destinée à un large public de professionnelles en urbanisme et au grand public, vous guidera à travers une variété d’ambiances sonores urbains. Nous soulignons certaines des stratégies d'urbanisme et de conception qui les ont façonnées et nous partageons certaines des recherches qui pourraient contribuer à mieux répondre aux besoins et aux attentes de leurs usagerères. Nous avons proposé des versions de cette promenade sonore à des professionnelles en urbanisme dans trois villes (Montréal, Amsterdam et Boston). Si vous vous trouvez dans l'une de ces villes et que vous souhaitez vous joindre à nous pour une balade sonore, veuillez nous contacter. Les balades durent de 2 à 3 heures, mais peuvent être raccourcies si nécessaire.  "
   participation: "Promenades sonores, ateliers, engagement communautaire"
   contact_info: "De plus, nous sommes développons régulièrement de nouvelles balades ! Vous voulez apprendre aux enfants à être attentif·ves au sonore de manière ludique ? Ou montrer aux adolescent·es comment interagir avec leurs environnements sonores à l'aide de leurs appareils intelligents ? N'hésitez pas à nous contacter ! Nous sommes prêt·es à travailler ensemble pour développer de nouveaux outils spécifiques à vos besoins.<br><br>Pour plus de détails, contactez: Daniel Steele, Edda Bild, Catherine Guastavino"
   links:
@@ -1030,7 +1050,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
 
 
 
-- title: "Intéresser les professionnel·les en urbanisme et le grand public au sonore "
+- title: "Intéresser les professionnelles en urbanisme et le grand public au sonore "
   description: "Des stratégies pour mobiliser les connaissances liées au sonore dans la pratique et le discours public "
   location: ""
   date: "2013 - en cours"
@@ -1042,14 +1062,16 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   collaborators: "Université d'Amsterdam, Ville de Montréal, Goethe Institute, CIRMMT, Trames Audio, Audiotopie"
   name: "Engaging Sound"
   tags:
-    - name: espace public
-      id: 'public_space'
-    - name: balade sonore
-      id: 'soundwalk'
-    - name: atelier
-      id: 'workshop'
-    - name: mobilisation des connaissances
-      id: 'knowledge_mobilization'
+    - name: "Sensibilisation du public"
+      id: 'sensibilisation_du_public'
+    - name: "espace public"
+      id: 'espace_public'
+    - name: "balade sonore"
+      id: 'balade_sonore'
+    - name: "atelier"
+      id: 'atelier'
+    - name: "mobilisation des connaissances"
+      id: 'mobilisation_des_connaissances'
   before:
    - image: '/assets/images/projects/Engaging_professionals/IMG_8504.JPG'
      credits: 'Christine Kerrigan'
@@ -1058,8 +1080,8 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
    - image: '/assets/images/projects/Engaging_professionals/DSC_0204_.jpg'
      credits: 'Cynthia Tarlao'
      alt: "Des professionnels en urbanisme discutent de considérations sonores lors de notre atelier de 2019"
-  brief: "Nous utilisons un éventail de stratégies interactives pour mobiliser les connaissances sonores des professionnel·les en urbanisme et du grand public.<br><br>Des stratégies différentes sensibilisent au sonore de différentes manières à différents degrés de participation et d’immersion"
-  about: "Notre équipe organise des ateliers, des balades sonores, des présentations (dans des écoles, festivals, centres communautaires, activités de rayonnement public) et participe à diverses activités de consultation publique. Nous développons également des outils de simulation des ambiances sonores pour différent·es utilisateur·rices (grand public et professionnel·les)."
+  brief: "Nous utilisons un éventail de stratégies interactives pour mobiliser les connaissances sonores des professionnelles en urbanisme et du grand public.<br><br>Des stratégies différentes sensibilisent au sonore de différentes manières à différents degrés de participation et d’immersion"
+  about: "Notre équipe organise des ateliers, des balades sonores, des présentations (dans des écoles, festivals, centres communautaires, activités de rayonnement public) et participe à diverses activités de consultation publique. Nous développons également des outils de simulation des ambiances sonores pour différent·es utilisateur·rices (grand public et professionnelles)."
   participation: "Ateliers, balades sonores, démonstrations, consultations publiques, formation professionnelle, diffusion médiatique"
   contact_info: "Pour plus de détails, contactez: Daniel Steele, Richard Yanaky, Catherine Guastavino"
   links:
@@ -1093,12 +1115,14 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   collaborators: "Direction régionale de la santé publique de Montréal"
   name: "Sonic Injustice"
   tags:
-    - name: bruit
-      id: 'noise'
-    - name: sonore
-      id: 'sound'
-    - name: équité
-      id: 'equity'
+    - name: "politique et planification"
+      id: 'politique_et_planification'
+    - name: "bruit"
+      id: 'bruit'
+    - name: "sonore"
+      id: 'sonore'
+    - name: "équité"
+      id: 'équité'
   before:
    - image: '/assets/images/projects/sonic_injustice/Railyards.jpg'
      credits: 'Christopher Trudeau'
@@ -1127,7 +1151,7 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
 
 
 - title: "City Ditty : Un simulateur d'ambiances sonores en réalité virtuelle"
-  description: "un projet visant à créer des outils de planification sonore accessibles qui tiennent compte de l'expérience auditive au sens large des usager·ères de la ville"
+  description: "un projet visant à créer des outils de planification sonore accessibles qui tiennent compte de l'expérience auditive au sens large des usagerères de la ville"
   location: ""
   date: "2018 - en cours"
   start-date: '2018'
@@ -1144,20 +1168,20 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
     premier cycle en sciences cognitives)"
   name: "Richard Yanaky"
   tags:
-    - name: Simulation
+    - name: "simulation"
       id: 'simulation'
-    - name: Sensibilisation au sonore
-      id: 'sound_awareness'
-    - name: Interaction Homme-Machine
+    - name: "sensibilisation au sonore"
+      id: 'sensibilisation_au_sonore'
+    - name: "interaction homme-machine"
       id: 'hci'
-    - name: Design centré sur l'usager·ères
-      id: 'user_centered_design'
-    - name: Professionnels de l'environnement bâti
-      id: 'pbe'
-    - name: Prototypage rapide
-      id: 'rapid_prototyping'
-    - name: Technologies émergentes
-      id: 'emerging_technologies'
+    - name: "design centré sur l'utilisateurrice"
+      id: 'design_centré_sur_l_utilisateurrice'
+    - name: "professionnelles en urbanisme"
+      id: 'professionnelles_en_urbanisme'
+    - name: "prototypage rapide"
+      id: 'prototypage_rapide'
+    - name: "technologies émergentess"
+      id: 'technologies_émergentes'
   before:
    - image: '/assets/images/projects/City_Ditty/CityDitty-Cafe.png'
      credits: 'Richard Yanaky'
@@ -1182,8 +1206,8 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
 <br><br>Facilite l'utilisation pour les non-spécialistes du sonore 
 <br><br>Inclut des méthodes de collecte de données intégrées, y compris des questionnaires, des historiques des actions des utilisateur·rices (que ce soit leurs interactions ou leur parcours).  
 "
-  about: "Les simulateurs d'ambiances sonores permettent d'itérer rapidement à travers de nombreuses possibilités différentes afin de sensibiliser au sonore, de permettre le design exploratoire et d'aider les non-spécialistes du sonore à prendre des décisions informées. De plus, comme il s'agit de créer des expériences auditives positives pour les parties prenantes, il convient de mettre l'accent sur des expériences exploratoires rapides, informatives et amusantes afin d'encourager une participation active et effective qui maintienne l'intérêt au fil du temps.<br><br>Dans sa phase initiale, le projet a examiné comment les professionnel·les en urbanisme (par exemple, les urbanistes, les concepteur·rices et les décideur·euses politiques) aimeraient interagir avec le sonore. Comme ils n'interagissaient pas beaucoup, voire pas du tout, un processus de design centré sur l'utilisateur·rice a été mis en place, avec une évaluation des besoins des professionnel·les en urbanisme lors d'un atelier qui comprenait des groupes de discussion, des démonstrations techniques et un exercice collaboratif de conception d'ambiances sonores. Même si les professionnel·les en urbanisme ne pouvaient pas dire directement ce dont iels avaient besoin, cette étude a permis d'identifier le type de fonctionnalités qu'un tel outil devrait offrir et la manière dont iels pourraient interagir avec les ambiances sonores virtuelles, en tant que non-spécialistes. Ces résultats ont contribué au développement de City Ditty, un simulateur sonore immersif qui permet le prototypage audio-visuel rapide d’ambiances sonores urbaines. Sa première étude d'utilisation a révélé que les gens pouvaient découvrir le concept d’ambiances sonores et prototyper leurs propres designs simples avec City Ditty, tout cela en moins d'une heure."
-  participation: "Au cours de sa réalisation, le projet a exploré comment ces technologies émergentes pouvaient être utilisées pour aider un plus grand nombre de personnes à prendre en compte l'expérience auditive, de nouvelles façons utiles de représenter la nature dynamique des personnes dans une ville, et comment de tels outils pourraient s'intégrer au flux de travail existant des professionnel·les en urbanisme. Aujourd'hui, le projet est utilisé en collaboration avec la ville de Montréal pour aider à auraliser les problèmes liés au sonore et à simuler de potentielles interventions sonores. Il est également utilisé par d'autres doctorants pour la conception et la collecte des données pour leurs propres expériences, avec de futurs projets et de travaux en cours de développement.
+  about: "Les simulateurs d'ambiances sonores permettent d'itérer rapidement à travers de nombreuses possibilités différentes afin de sensibiliser au sonore, de permettre le design exploratoire et d'aider les non-spécialistes du sonore à prendre des décisions informées. De plus, comme il s'agit de créer des expériences auditives positives pour les parties prenantes, il convient de mettre l'accent sur des expériences exploratoires rapides, informatives et amusantes afin d'encourager une participation active et effective qui maintienne l'intérêt au fil du temps.<br><br>Dans sa phase initiale, le projet a examiné comment les professionnelles en urbanisme (par exemple, les urbanistes, les concepteur·rices et les décideur·euses politiques) aimeraient interagir avec le sonore. Comme ils n'interagissaient pas beaucoup, voire pas du tout, un processus de design centré sur l'utilisateur·rice a été mis en place, avec une évaluation des besoins des professionnelles en urbanisme lors d'un atelier qui comprenait des groupes de discussion, des démonstrations techniques et un exercice collaboratif de conception d'ambiances sonores. Même si les professionnelles en urbanisme ne pouvaient pas dire directement ce dont iels avaient besoin, cette étude a permis d'identifier le type de fonctionnalités qu'un tel outil devrait offrir et la manière dont iels pourraient interagir avec les ambiances sonores virtuelles, en tant que non-spécialistes. Ces résultats ont contribué au développement de City Ditty, un simulateur sonore immersif qui permet le prototypage audio-visuel rapide d’ambiances sonores urbaines. Sa première étude d'utilisation a révélé que les gens pouvaient découvrir le concept d’ambiances sonores et prototyper leurs propres designs simples avec City Ditty, tout cela en moins d'une heure."
+  participation: "Au cours de sa réalisation, le projet a exploré comment ces technologies émergentes pouvaient être utilisées pour aider un plus grand nombre de personnes à prendre en compte l'expérience auditive, de nouvelles façons utiles de représenter la nature dynamique des personnes dans une ville, et comment de tels outils pourraient s'intégrer au flux de travail existant des professionnelles en urbanisme. Aujourd'hui, le projet est utilisé en collaboration avec la ville de Montréal pour aider à auraliser les problèmes liés au sonore et à simuler de potentielles interventions sonores. Il est également utilisé par d'autres doctorants pour la conception et la collecte des données pour leurs propres expériences, avec de futurs projets et de travaux en cours de développement.
 <br><br>Souhaitez-vous utiliser City Ditty pour un projet urbain ? Pour un projet de recherche ? N'hésitez pas à nous contacter directement (coordonnées ci-dessous)."
   contact_info: Richard Yanaky ou Catherine Guastavino
   links:
@@ -1225,12 +1249,14 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
   collaborators: "Olivier Robin, Tamara Krpic, Madeleine Guastavino, Marina León"
   name: "Catherine Guastavino"
   tags:
-    - name: "Mobilisation des connaissances"
-      id: "knowledge_mobilization"
+    - name: "Sensibilisation du public"
+      id: "sensibilisation_du_public"
+    - name: "mobilisation des connaissances"
+      id: "mobilisation_des_connaissances"
     - name: "Montréal"
       id: "montreal"
     - name: "Bandes dessinées"
-      id: "comics"
+      id: "bandes_dessinées"
     - name: "Éducation"
       id: "education"
   before:
@@ -1269,10 +1295,6 @@ Bonne lecture !"
       name: 'C. Trudeau on the radio (https://ici.radio-canada.ca/ohdio/premiere/emissions/moteur-de-recherche/episodes/704917/rattrapage-mercredi-17-mai-2023)'
     - url: 'https://www.fbdm-mcaf.ca/en/comic-arts-festival/find-them/exhibitors/#universite-de-sherbrooke'
       name: 'Montreal Comic Arts Festival 2024 (https://www.fbdm-mcaf.ca/en/comic-arts-festival/find-them/exhibitors/#universite-de-sherbrooke)'
-    # - url: '[PUT LOWER RES IMAGES] Download PDF here [LINK]'
-    #   name: 'Un bruit de fond qui en dit long : Tales of sonic inequalities – art de Marina León'
-    # - url: '[PUT LOWER RES IMAGES] Download PDF here [LINK]'
-    #   name: 'Et si nous reconsidérions nos villes à travers la sonorité ? Dessiner un environnement sonore – art de Madeleine Guastavino'
   publications:
     - url: 'https://pubs.aip.org/asa/jasa/article/155/3_Supplement/A194/3301000/Fantastic-acoustics-A-magazine-describing-the'
       name: 'Robin, O., Krpic, T., Carrion, A., Proulx, F., Demuynck, M., Gallerand, L., Fraisse, V., Trudeau, C., Tarlao, C., Perrier de la Bathie, C., Bernier-Breton, C., Dupont, T., Doutres, O., Voix, J., Cauchy, P., St-Onge, G., & Guastavino, C. (2024). Fantastic acoustics: A magazine describing the importance and the scope of acoustics research in Québec. The Journal of the Acoustical Society of America, 155(3_Supplement), A194.'
@@ -1292,20 +1314,23 @@ Bonne lecture !"
   start-date: '2023'
   end-date: '2027'
   tags: 
-    - name: "paysage sonore"
-      id: "paysage_sonore"
+    - name: "politique et planification"
+      id: "politique_et_planification"
+    - name: "ambiance sonore"
+      id: "ambiance_sonore"
     - name: "marchabilité"
       id: "marchabilite"
     - name: "espaces verts"
       id: "espaces_verts"
     - name: "espaces publics"
       id: "espaces_publics"
+    - name: "Sensibilisation du public"
+      id: 'sensibilisation_du_public'
     - name: "planification participative"
       id: "planification_participative"
     - name: "cartographie"
       id: "cartographie"
-    - name: Sensibilisation du public
-      id: 'public_awareness'
+
   brief: "Quelles sont les relations entre l'existence de chemins piétonniers menant aux espaces verts et les ambiances sonores quotidiennes des résident·es ?
 <br><br>La possibilité de se promener autour des espaces verts a-t-elle un impact sur les ambiances sonores quotidiennes des résident·es ?
 <br><br>Le fait d'avoir un environnement sonore plus positif dans le quartier favorise-t-il la marchabilité dans les espaces verts ? "
@@ -1344,12 +1369,14 @@ Bonne lecture !"
   collaborators: "Richard Yanaky, Catherine Guastavino"
   name: ""
   tags:
-    - name: évaluation liée au sonore
-      id: "sound_related_evaluation"
-    - name: résultats psychologiques
-      id: "psychological_outcomes"
-    - name: cartes de comportement
-      id: "behavior_maps"
+    - name: "simulation"
+      id: "simulation"
+    - name: "évaluation liée au sonore"
+      id: "évaluation_liée_au_sonore"
+    - name: "résultats psychologiques"
+      id: "résultats_psychologiques"
+    - name: "cartes de comportement"
+      id: "cartes_de_comportement"
   before:
     - image: '/assets/images/projects/Street_Performances/ChangCityDittyScreenshot1.png'
       credits: 'Chang Miao'
@@ -1363,7 +1390,7 @@ Bonne lecture !"
       alt: ""
   brief: "Quelles sont les relations entre la présence de spectacles de rue et la qualité des espaces publics urbains ?
 <br><br>Les spectacles de rue ont-ils un impact sur la perception de l'espace urbain ?
-<br><br>Comment les spectacles de rues influencent-ils l'utilisation de l'espace et les comportements des usager·ères ?
+<br><br>Comment les spectacles de rues influencent-ils l'utilisation de l'espace et les comportements des usagerères ?
 "
   about: "Les spectacles de rue, ou busking, englobent divers actes de divertissement qui se déroulent dans les espaces publics urbains. Ces spectacles ajoutent une valeur culturelle et artistique importante aux espaces publics, en offrant un divertissement gratuit qui capte l'attention des passants. Cette étude examine comment les spectacles de rue influencent la perception et le comportement des personnes dans l'espace public urbain en utilisant la technologie de la réalité virtuelle.
 <br><br>La recherche vise à comprendre si et comment les spectacles de rue modifient les évaluations liées au sonore dans un environnement urbain virtuel, en comparant différents contextes tels que la rue et un parc. Les résultats psychologiques des spectacles de musique de rue, y compris leur potentiel à fournir des expériences ressourçantes ou à changer l’humeur. De plus, l'étude examine comment les spectacles affectent la façon dont les gens utilisent ces espaces, en particulier leurs lieux qui les intéressent et où ils s’attardent ou s’arrêtent.
