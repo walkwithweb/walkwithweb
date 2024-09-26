@@ -500,13 +500,13 @@
   participation: "The project addresses these aims by fieldwork in two different geographical locations: Montreal (Canada) – as part of Sounds in the City, and Venice (Italy) – as part of Iuav University of Venice."
   contact_info: "For details, please contact: Nicola Di Croce"
   links:
-    - url: 'https://www.youtube.com/watch?app=desktop&v=ZYmpKyCrsOs'
+    - url: "https://www.youtube.com/watch?app=desktop&v=ZYmpKyCrsOs"
       name: "Containing multitude"
-    - url: 'https://nicoladicroce.cargo.site/soninurb'
+    - url: "https://nicoladicroce.cargo.site/soninurb"
       name: "Nicole Di Croce website"
   publications:
-    - url: 'https://cordis.europa.eu/project/id/881822'
-      name: 'Sonic inquiry in urban research'
+    - url: "https://cordis.europa.eu/project/id/881822"
+      name: "Sonic inquiry in urban research"
   prev_url: "project9"
   next_url: 'project11'
 

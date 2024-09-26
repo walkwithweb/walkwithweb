@@ -105,27 +105,28 @@
                 <h4 class="about-title">{{ content.links }}</h4>
                 <div class="about">
                     <div class="col">
+                        {{ content.media_coverage }}:
+                        <br /><br />
+                        {% for link in page.links %}
                         <p class="text">
-                            {{ content.media_coverage }}:
-                            <br /><br />
-                            {% for link in page.links %}
                             <a class="list-links" href="{{ link.url }}" target="_blank">{{ link.name }}</a>
-                            {% endfor %}
                         </p>
+                        
+                        {% endfor %}
                     </div>
                     <div class="col">
-                        <p class="text">
-                            {{ content.academic_output }}:
-                            <br />
-                            <br />
-                            {% for link in page.publications %}
+                        {{ content.academic_output }}:
+                        <br />
+                        <br />
+                        {% for link in page.publications %}
+                            <p class="text">
                                 {% if link.url == "" %}
-                                    <span>{{ link.name }}</span>
+                                    <span>{{ link.name }}</span><br>
                                 {% else %}
                                     <a class="list-links" href="{{ link.url }}" target="_blank">{{ link.name }}</a>
                                 {% endif %}
-                            {% endfor %}
-                        </p>
+                            </p>
+                        {% endfor %}
                     </div>
                 </div>
             </div>
