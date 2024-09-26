@@ -437,7 +437,7 @@
     - image: '/assets/images/projects/context_matters/P8020249_CreditLouisGuastavino.JPG'
       credits: 'Louis Guastavino'
       alt: ""
-    - image: '/assets/images/projects/context_matters/962-Mont-Royal-intervention.JPG'
+    - image: '/assets/images/projects/context_matters/962-Mont-Royal-intervention.jpg'
       credits: 'Louis Guastavino'
       alt: ""
   brief: "Our experience of urban environments is shaped by many factors, from expectations to personality to the specifics of the situation<br><br>The model of contextual influences we have started to build is a first step towards helping urban planners and policy makers create more inclusive urban spaces"
@@ -703,7 +703,7 @@
     - name: 'aging'
       id: 'aging'
   before:
-    - image: '/assets/images/projects/Quartier_des_Spectacles/Place_des_arts_08.jpg'
+    - image: '/assets/images/projects/Quartier_des_Spectacles/Place_des_arts_08.JPG'
       credits: 'Jeangagnon at Wikimedia Commons'
       alt: "Quartier des Spectacles"
   after:

@@ -423,13 +423,16 @@
     - name: "contexte"
       id: 'contexte'
   before:
-   - image: '/assets/images/projects/context_matters/P1060338_CreditCatherineGuastavino.JPG'
-     credits: 'Catherine Guastavino'
-     alt: ""
+    - image: '/assets/images/projects/context_matters/P1060338_CreditCatherineGuastavino.JPG'
+      credits: 'Catherine Guastavino'
+      alt: ""
   after:
-   - image: '/assets/images/projects/context_matters/P8020249_CreditLouisGuastavino.JPG'
-     credits: 'Louis Guastavino'
-     alt: ""
+    - image: '/assets/images/projects/context_matters/P8020249_CreditLouisGuastavino.JPG'
+      credits: 'Louis Guastavino'
+      alt: ""
+    - image: '/assets/images/projects/context_matters/962-Mont-Royal-intervention.jpg'
+        credits: 'Louis Guastavino'
+        alt: ""
   brief: "Notre expérience des environnements urbains est façonnée par de nombreux facteurs, de nos attentes à notre personnalité, en passant par les spécificités de la situation.<br><br> Le modèle des influences contextuelles que nous avons commencé à construire est un premier pas pour aider les urbanistes et les décideur·euses politiques à créer des espaces urbains plus inclusifs."
   about: "Nous savons tous que le contexte est important : l'endroit où nous nous trouvons et qui nous sommes comptent tout autant que ce que nous faisons à un moment donné. Dans une série d'études, y compris la modélisation des facteurs du terrain et diverses expériences en laboratoire, l’équipe de la Ville Sonore a examiné les nombreuses façons dont le contexte compte, en particulier pour les évaluations de l’ambiance sonore.<br><br>Lors d'expériences en laboratoire, nous avons montré que ce que nous appelons les « facteurs situationnels », tels que le lieu, le jour, et l'heure d'utilisation, influencent nos perceptions de l'environnement sonore, quelles que soient les attentes que nous pouvions avoir avant d'utiliser un espace. Par exemple, un endroit du lieu plus calme est jugé plus agréable et moins animé qu'un endroit plus bruyant et les après-midis sont généralement jugées moins calmes et plus animés que les soirées, tandis que les fins de semaine sont plus animées que les jours de semaine.<br><br>D'autre part, des études de terrain ont mis en évidence d'autres facteurs qui ne sont pas directement liés aux niveaux sonores, tels que l'interaction sociale — c'est-à-dire le fait qu'une personne soit seule ou accompagnée — et des « facteurs personnels » tels que l'extraversion, le genre, l'âge et la sensibilité au bruit. Les personnes en groupe trouvent leur environnement sonore plus agréable et moins animé que les personnes seules, peut-être parce qu'elles portent attention aux personnes qui les accompagnent. Les femmes et les jeunes trouvent leur environnement sonore plus agréable et moins animé, du fait qu'iels sortent plus souvent en groupe que les hommes et les personnes plus âgées, respectivement. ."
   participation: "Les personnes plus extraverties évaluent leur environnement sonore comme moins animé et les personnes plus sensibles au bruit (comme les femmes et les personnes plus âgées) ont tendance à évaluer leur environnement sonore comme moins agréable.   
@@ -701,13 +704,13 @@ Bien que nous ne fassions qu'effleurer la complexité des facteurs qui influence
     - name: "vieillissement"
       id: 'vieillissement'
   before:
-   - image: '/assets/images/projects/Quartier_des_Spectacles/Place_des_arts_08.jpg'
+   - image: '/assets/images/projects/Quartier_des_Spectacles/Place_des_arts_08.JPG'
      credits: 'Jeangagnon at Wikimedia Commons'
      alt: "Quartier des spectacles"
   after:
    - image: ''
      credits: ''
-     alt: "Quartier des spectacles"
+     alt: ""
   brief: "Le Quartier des spectacles de Montréal est confronté à des défis uniques pour équilibrer qualité de vie et vitalité en raison de la multitude d'événements et de festivals qui s'y déroulent tout au long de l'année<br><br>Les sons des festivals ne sont pas la principale source de nuisance, mais plutôt les bruits de la vie nocturne (pré-COVID-19) <br><br>Les résident·es plus âgé·es apprécient les festivals et les événements et y participent, ce qui remet en question les idées reçues sur la retraite et le vieillissement en ville"
   participation: "Ville sonore s'est associée au Partenariat du Quartier des spectacles (l'organisation responsable de la gestion du QDS) afin de mener une recherche sur le terrain visant à mieux comprendre les attentes des différentes parties prenantes (résident·es, festivalier·ères, promoteur·rices de festivals) et à identifier des lignes directrices pour définir un futur plan proactif de gestion sonore. Nous avons constaté qu'avant la pandémie de COVID-19, les sons des festivals n'étaient pas la source principale de gêne, mais plutôt une source d'inspiration pour les résident·es qui souhaitaient s’approprier leurs espaces et leur quartier. Il est intéressant de noter que les résident·es plus âgé·es ont choisi de s'installer dans le QDS en raison de son accessibilité, mais aussi en raison des festivals et des événements, ce qui remet en question les idées reçues sur les personnes à qui s'adressent les festivals et les événements."
   about: "Le Quartier des spectacles (QDS) est un pôle multiculturel de musique, d’art, de design et de gastronomie, connu pour sa population diversifiée et son flair pour les événements publics (y compris les festivals à grande échelle). La population résidentielle qu’elle abrite provient de milieux socio-économiques variés, et est en croissance constante en raison du développement de nouveaux projets de tours d'habitation. Le secteur doit préserver un équilibre entre sa réputation de vitalité et son intérêt pour le maintien d'un environnement habitable pour ses résidents actuels et potentiels."
