@@ -61,10 +61,21 @@
           const lastItemRect = lastListItem.getBoundingClientRect();
           const lastItemVisible = lastItemRect.bottom <= window.innerHeight;
 
-          if (window.scrollY > window.innerHeight/2) {
+          if (window.scrollY > window.innerHeight / 2) {
             scrollToTopButton.classList.add('visible');
           } else {
             scrollToTopButton.classList.remove('visible');
+          }
+
+          const scrollBottom = document.documentElement.scrollHeight - window.innerHeight - window.scrollY;
+          if (window.innerWidth >= 768) {
+            if (scrollBottom < 198) {
+              scrollToTopButton.style.marginBottom = `${198 - scrollBottom}px`;
+            } else {
+              scrollToTopButton.style.marginBottom = '0';
+            }
+          } else {
+            scrollToTopButton.style.marginBottom = '0';
           }
         });
 
@@ -75,7 +86,7 @@
           });
         });
       });
-
-    </script>
+</script>
+  
   </div>
 </div>
