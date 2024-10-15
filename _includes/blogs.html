@@ -2,34 +2,14 @@
   <div class="container">
     <div class="projects-header">
       <h2 class="title heading">{{ t.title }}</h2>
-      <p class="text-link" >{{t.description}}</p>
+      <p class="text-link">{{t.description}}</p>
     </div>
     <form class="searchbar" id="searchForm">
-      <input type="text" id="searchInput" placeholder="{{t.placeholder}}"/>
-      <div class="icon" id="searchIcon" >
-        <svg
-          width="54"
-          height="62"
-          viewBox="0 0 54 62"
-          fill="none"
-          xmlns="http://www.w3.org/2000/svg"
-        >
-          <circle
-            cx="31"
-            cy="23"
-            r="22"
-            fill="translate"
-            stroke="currentColor"
-            stroke-width="2"
-          />
-          <line
-            x1="17.7619"
-            y1="40.6476"
-            x2="0.76194"
-            y2="60.6476"
-            stroke="currentColor"
-            stroke-width="2"
-          />
+      <input type="text" id="searchInput" placeholder="{{t.placeholder}}" />
+      <div class="icon" id="searchIcon">
+        <svg width="54" height="62" viewBox="0 0 54 62" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <circle cx="31" cy="23" r="22" fill="translate" stroke="currentColor" stroke-width="2" />
+          <line x1="17.7619" y1="40.6476" x2="0.76194" y2="60.6476" stroke="currentColor" stroke-width="2" />
         </svg>
       </div>
     </form>
@@ -41,7 +21,8 @@
     {% assign lang = page.lang %} {% assign blogs =
     site.data.blogs[lang] %} {% for blog in blogs %}
     {% assign tag_names = blog.tags | map: 'name' %}
-    <a class="list-item" data-tags="{{ tag_names | join: ',' | downcase }}" data-title="{{blog.title}}"  href="/{{ lang | append:'/blogs/' | append: blog.url}}" >
+    <a class="list-item" data-tags="{{ tag_names | join: ',' | downcase }}" data-title="{{blog.title}}"
+      href="/{{ lang | append:'/blogs/' | append: blog.url}}">
       <div class="container">
         <div class="card">
           <div class="media">
@@ -76,10 +57,21 @@
           const lastItemRect = lastListItem.getBoundingClientRect();
           const lastItemVisible = lastItemRect.bottom <= window.innerHeight;
 
-          if (window.scrollY > window.innerHeight/2) {
+          if (window.scrollY > window.innerHeight / 2) {
             scrollToTopButton.classList.add('visible');
           } else {
             scrollToTopButton.classList.remove('visible');
+          }
+
+          const scrollBottom = document.documentElement.scrollHeight - window.innerHeight - window.scrollY;
+          if (window.innerWidth >= 768) {
+            if (scrollBottom < 198) {
+              scrollToTopButton.style.marginBottom = `${198 - scrollBottom}px`;
+            } else {
+              scrollToTopButton.style.marginBottom = '0';
+            }
+          } else {
+            scrollToTopButton.style.marginBottom = '0';
           }
         });
 
@@ -90,7 +82,6 @@
           });
         });
       });
-
     </script>
   </div>
 </div>
