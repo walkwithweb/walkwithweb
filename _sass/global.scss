@@ -2,13 +2,13 @@
 
 $body-bg: #2ea9be;
 $body-color: #fff;
-// Body 
+// Body
 $font-family: "Lato", sans-serif;
 $font-size: 18px;
 $font-weight: 400;
 $font-style: normal;
 $line-height: 160%;
-// Headline 
+// Headline
 $heading-font-size: 115px;
 $heading-font-weight: 500;
 $heading-line-height:100%;
@@ -70,7 +70,7 @@ body {
   flex-direction: column;
 }
 
-// Font - classes 
+// Font - classes
 .heading {
   font-weight: $heading-font-weight;
   font-size: 44px;
@@ -302,10 +302,10 @@ body {
           display: none;
         }
       }
-      
+
       text-decoration: none;
       color: $black;
-      
+
     }
 
     li.menu-item {
@@ -543,7 +543,7 @@ body {
       cursor: pointer;
       padding: 0;
       width: 100%;
-      border: none;
+      border-right: none;
       min-height: 80px;
       text-align: left;
       outline: none;
@@ -918,6 +918,10 @@ body {
   flex-wrap: wrap;
 }
 
+#alumni .teams-cards {
+    border-right: 2px solid #000; /* Adjust the width and color as needed */
+}
+
 .team-card {
   position: relative;
   overflow: hidden;
@@ -933,6 +937,9 @@ body {
     &:nth-of-type(2n+1) {
       border-right: 0;
     }
+     &:only-of-type {
+       border-right: 2px solid $black;
+     }
   }
 
   &:hover {
