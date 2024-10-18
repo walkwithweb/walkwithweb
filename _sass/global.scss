@@ -918,10 +918,6 @@ body {
   flex-wrap: wrap;
 }
 
-#alumni .teams-cards {
-    border-right: 2px solid #000; /* Adjust the width and color as needed */
-}
-
 .team-card {
   position: relative;
   overflow: hidden;
@@ -939,7 +935,15 @@ body {
     }
      &:only-of-type {
        border-right: 2px solid $black;
+       border-top: 0;
      }
+  }
+
+  @media (max-width: $mobile_screen) {
+    &:only-of-type {
+      border-right: 2px solid $black;
+      border-top: 0;
+    }
   }
 
   &:hover {
