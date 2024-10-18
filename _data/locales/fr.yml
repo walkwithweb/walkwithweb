@@ -13,16 +13,19 @@ index:
       id: "home-accordion-1"
       description: "Ville Sonore est un partenariat mené par Pr. Guastavino qui réunit chercheur·ses, artistes, professionel·les qui façonnent nos villes, et citoyen·nes pour discuter du sonore comme ressource et nourrir des solutions créatives visant à rendre nos villes plus agréables à vivre."
       image: "/assets/images/accordions/home/1.png"
+      caption: "Crédits Image: Christine Kerrigan"
 
     - title: AMBIANCES SONORES
       id: "home-accordion-2"
       description: <a href="./soundscape.html">Le concept d’ambiance sonore</a> (aussi connu sous le nom de paysage sonore) est une approche novatrice, centrée sur le ressenti, qui redéfinit le sonore comme ressource en lien avec les autres dimensions de l’aménagement urbain, des premiers stades de la conception aux usages dans la durée. Au cœur de cette approche se trouve l’idée que les sonorités du quotidien ne sont pas toutes (et toujours) indésirables. Cependant, malgré de grandes avancées dans le domaine de la recherche, le paysage sonore peine à être mis en œuvre dans la pratique. En somme, tout·e citoyen·ne a le droit de vivre, travailler et se relaxer dans des ambiances sonores qu’iel juge appropriées. Pour y arriver, il faut prendre en compte les perspectives citoyennes, notamment les activités menées et les contextes dans lesquels sont vécus les expériences sonores – tout cela, dans le but de mieux planifier et aménager nos espaces urbains. À terme, nous pouvons améliorer la qualité de vie des résidents et des visiteurs de nos villes par le biais d’une meilleure gestion urbaine sensible au sonore.
       image: "/assets/images/accordions/home/2.png"
+      caption: "Crédits Image: Christine Kerrigan"
 
     - title: MONTRÉAL COMME LABORATOIRE VIVANT
       id: "home-accordion-3"
       description: "Ville Sonore se sert de Montréal comme d’un laboratoire vivant pour la recherche sur les ambiances sonors en collaboration avec une diversité de parties prenantes des secteurs public et privé ainsi que du grand public. Dans l’élan des chantiers réglementaires au Québec et au Canada, nous avons mis en place un partenariat intersectoriel pour contribuer à une fabrique de la ville plus équitable, favorable à la santé, et sensible au sonore."
       image: "/assets/images/accordions/home/3.png"
+      caption: "Crédits Image: Valerian Fraisse"
 
 about:
   title: "À propos de nous"

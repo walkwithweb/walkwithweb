@@ -8,10 +8,20 @@
     flex-wrap: wrap;
     gap: 20px;
 
+    figure {
+        display: flex;
+        flex-direction: column;
+        align-items: left; /* Aligns items centrally */
+        margin: 0; /* Removes default margin */
+    }
+    figcaption {
+        
+        font-size: 1rem; /* Adjust the size as needed */
+        font-style: italic;
+      }
     img {
-        max-width: 100%;
         width: 100%;
-        height: 350px;
+        height: auto;
     }
 
     p {
@@ -25,6 +35,10 @@
 
         p {
             padding: 0 36px;
+        }
+        img {
+            width: auto;
+            height: auto;
         }
     }
 }
@@ -398,7 +412,7 @@
         flex-wrap: wrap;
         gap: $card-margin;
         margin-top: 50px;
-        width:100%; 
+        width:100%;
         @media(min-width: $mobile_screen){
             margin-top: 100px;
             width: 50%;
@@ -823,10 +837,10 @@
             .tags {
             max-width: 300px;
             }
-                
+
         }
     }
-    
+
 
     .card {
         border: 2px solid $black;
@@ -1371,7 +1385,7 @@
         }
     }
 
-    
+
 
     .services {
         display: flex;
@@ -1397,8 +1411,8 @@
                 padding-top: 30px;
             }
         }
-                                                                
-    
+
+
         @media (min-width:$mobile_screen) {
             gap: 80px;
 
