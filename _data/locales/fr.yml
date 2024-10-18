@@ -17,12 +17,12 @@ index:
     - title: AMBIANCES SONORES
       id: "home-accordion-2"
       description: <a href="./soundscape.html">Le concept d’ambiance sonore</a> (aussi connu sous le nom de paysage sonore) est une approche novatrice, centrée sur le ressenti, qui redéfinit le sonore comme ressource en lien avec les autres dimensions de l’aménagement urbain, des premiers stades de la conception aux usages dans la durée. Au cœur de cette approche se trouve l’idée que les sonorités du quotidien ne sont pas toutes (et toujours) indésirables. Cependant, malgré de grandes avancées dans le domaine de la recherche, le paysage sonore peine à être mis en œuvre dans la pratique. En somme, tout·e citoyen·ne a le droit de vivre, travailler et se relaxer dans des ambiances sonores qu’iel juge appropriées. Pour y arriver, il faut prendre en compte les perspectives citoyennes, notamment les activités menées et les contextes dans lesquels sont vécus les expériences sonores – tout cela, dans le but de mieux planifier et aménager nos espaces urbains. À terme, nous pouvons améliorer la qualité de vie des résidents et des visiteurs de nos villes par le biais d’une meilleure gestion urbaine sensible au sonore.
-      image: "/assets/images/accordions/home/P6_Figure_2._Mont_Royal_pedestrianization.jpg"
+      image: "/assets/images/accordions/home/2.png"
 
     - title: MONTRÉAL COMME LABORATOIRE VIVANT
       id: "home-accordion-3"
       description: "Ville Sonore se sert de Montréal comme d’un laboratoire vivant pour la recherche sur les ambiances sonors en collaboration avec une diversité de parties prenantes des secteurs public et privé ainsi que du grand public. Dans l’élan des chantiers réglementaires au Québec et au Canada, nous avons mis en place un partenariat intersectoriel pour contribuer à une fabrique de la ville plus équitable, favorable à la santé, et sensible au sonore."
-      image: "/assets/images/accordions/home/Sitc_FdM_Fraisse.jpg                 "
+      image: "/assets/images/accordions/home/3.png"
 
 about:
   title: "À propos de nous"
@@ -161,7 +161,7 @@ soundscape:
     title: 'Une ambiance sonore de qualité peut réduire le stress.'
   - id: 4
     title: 'Le sonore peut animer l’espace public.'
-    
+
 projects:
   title: "LISTE DE PROJETS"
   placeholder: "Recherche"
@@ -216,7 +216,7 @@ blogs:
   discover_blog: "DÉCOUVREZ LE BLOGUE"
   when: 'WHEN'
   for_details: "For more information (French only)"
- 
+
 
 events:
   title: "ARCHIVES DES ÉVÉNEMENTS"
@@ -234,23 +234,23 @@ services:
     - info: "Exprimer vos besoins et attentes liés au son et les intégrer dans un plan plus large pour vos produits, services et espaces"
       image: "/assets/images/icons/files-contained.svg"
       alt: "service-1"
-      
+
     - info: "Identifier et stratégiquement transformer les éléments liés au son"
       image: "/assets/images/icons/eye-contained.svg"
       alt: "service-2"
-      
+
     - info: "Faciliter la communication entre les professionnels de l'ingénierie et du design pour formuler des solutions et des interventions"
       image: "/assets/images/icons/chat-contained.svg"
       alt: "service-3"
-      
+
     - info: "Identifier et préserver les environnements sonores de « haute qualité »"
       image: "/assets/images/icons/star-contained.svg"
       alt: "service-4"
-      
+
     - info: "Améliorer la qualité de l'expérience à travers le son"
       image: "/assets/images/icons/sound-contained.svg"
       alt: "service-5"
-      
+
     - info: "Renforcer l'identité sonore des lieux patrimoniaux"
       image: "/assets/images/icons/building-contained.svg"
       alt: "service-6"
@@ -382,13 +382,13 @@ contact:
   address:
     title: "ADRESSE POSTALE"
     location:
-      - name: "École d'études en information Université McGill<br>3661 rue Peel,<br>Montréal, QC (Canada) H3A 1X1"
+      - name: "École des sciences de l’information <br>Université McGill, 3661 rue Peel,<br>Montréal, QC, Canada<br>H3A 1X1"
 
-footer: 
+footer:
   location:
-    - name: "École d'études en information"
+    - name: "École des sciences de l’information"
     - name: "Université McGill, 3661 rue Peel,"
-    - name: "Montréal, QC (Canada)"
+    - name: "Montréal, QC, Canada"
     - name: "H3A 1X1"
 
 links:
