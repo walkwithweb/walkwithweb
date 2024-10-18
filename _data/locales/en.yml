@@ -247,6 +247,13 @@ partners:
       - name: "Le Plateau-Mont-Royal borough Urban Planning"
         language: "(in French only)"
         url: "#"
+      - name: "Service du développement économique"
+        language: ""
+        url: "https://montreal.ca/unites/service-du-developpement-economique#:~:text=Le%20Service%20du%20d%C3%A9veloppement%20%C3%A9conomique,'innovation%20et%20d'inclusivit%C3%A9."
+      - name: "Mercier-Hochelaga-Maisonneuve borough"
+        language: ""
+        url: "https://montreal.ca/mercier-hochelaga-maisonneuve"
+
   organization:
     title: "Organizations"
     links:
@@ -263,18 +270,26 @@ partners:
         url: "#"
       - name: "McGill Innovation Week"
         url: "#"
+      - name: "Port de Québec"
+        url: "https://www.portquebec.ca/"
+      - name: "Montréal Public Health Agency"
+        url: "https://ciusss-centresudmtl.gouv.qc.ca/propos/qui-sommes-nous/direction-regionale-de-sante-publique-drsp-de-montreal"
   funding:
-    title: "Funding"
+    title: "Funding Agencies"
     links:
       - name: "Social Sciences and Humanities Research Council (SSHRC) grants to C. Guastavino (2016-2018, 2018-2021)"
       - name: "MITACS"
-        url: "#"
+        url: "https://www.mitacs.ca/"
       - name: "Ministère de l'Environnement et de la Lutte aux changements climatiques"
         language: "(French only)"
         url: "#"
       - name: "Ministère de la Santé et des Services sociaux"
         language: "(French only)"
         url: "#"
+      - name: "Social Sciences and Humanities Research Council"
+        url: "https://www.sshrc-crsh.gc.ca/home-accueil-eng.aspx"
+      - name: "Fonds de Recherche du Québec"
+        url: "https://frq.gouv.qc.ca/"
 services:
   title: "Services"
   description: "Let us transform your sound-related questions into evidence-based action plans! We have experience in collaborative research projects with different funding agencies, but also industry contracts and we’re open to consulting opportunities.<br><br><strong>We have a history of turning ideas into a concrete process with viable outcomes</strong>. So, whether you are a planning or design firm, an academic or health institution, a municipality, a non-governmental entity or a corporate setting, we can help you:"

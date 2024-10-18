@@ -337,6 +337,12 @@ partners:
       - name: "Arrondissement Le Plateau-Mont-Royal, Urbanisme"
         language: "(en français seulement)"
         url: "#"
+      - name: "Service du développement économique"
+        language: ""
+        url: "https://montreal.ca/unites/service-du-developpement-economique#:~:text=Le%20Service%20du%20d%C3%A9veloppement%20%C3%A9conomique,'innovation%20et%20d'inclusivit%C3%A9."
+      - name: "arrondissement Mercier-Hochelaga-Maisonneuve"
+        language: ""
+        url: "https://montreal.ca/mercier-hochelaga-maisonneuve"
   organization:
     title: "Organisations"
     links:
@@ -353,8 +359,12 @@ partners:
         url: "#"
       - name: "Semaine de l'Innovation de McGill"
         url: "#"
+      - name: "Port de Québec"
+        url: "https://www.portquebec.ca/"
+      - name: "Direction Régionale de la Santé Publique de Montréal"
+        url: "https://ciusss-centresudmtl.gouv.qc.ca/propos/qui-sommes-nous/direction-regionale-de-sante-publique-drsp-de-montreal"
   funding:
-    title: "Financement"
+    title: "Agences de Financement"
     links:
       - name: "Subventions du Conseil de recherches en sciences humaines (CRSH) à C. Guastavino (2016-2018, 2018-2021)"
       - name: "MITACS"
@@ -365,6 +375,10 @@ partners:
       - name: "Ministère de la Santé et des Services sociaux"
         language: "(en français seulement)"
         url: "#"
+      - name: "Conseil de recherches en sciences humaines"
+        url: "https://www.sshrc-crsh.gc.ca/home-accueil-eng.aspx"
+      - name: "Fonds de Recherche du Québec"
+        url: "https://frq.gouv.qc.ca/"
 contact:
   title: "Contact"
   telephone: "Téléphone"
