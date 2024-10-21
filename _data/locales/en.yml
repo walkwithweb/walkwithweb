@@ -13,6 +13,7 @@ index:
   meet: "Meet the team & collaborators"
   view: "LEARN ABOUT OUR PROJECTS"
   funding: "PROJECTS"
+  logo: "/assets/images/logos/SC_Logo_EN.png"
   accordions:
     - title: SOUNDS IN CITIES
       id: "home-accordion-1"
