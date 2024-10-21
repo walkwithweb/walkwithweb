@@ -8,7 +8,7 @@ index:
   meet: "Rencontrez l'équipe et les collaborateurs"
   view: "DÉCOUVREZ NOS PROJECTS"
   funding: "PROJETS"
-  logo: "/assets/images/logos/SC_Logo_FR.png"
+  logo: "/assets/images/logos/SC_logo_FR.png"
   accordions:
     - title: VILLE SONORE
       id: "home-accordion-1"
